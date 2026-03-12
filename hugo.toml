@@ -1,0 +1,15 @@
+baseURL = 'https://Flare-Sky.github.io/'
+languageCode = 'zh-cn'
+title = '寄居者的日记'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto" # 自动跟随系统切换深色/浅色模式
+  ShowReadingTime = true # 显示阅读时间
+  ShowShareButtons = false # 保持日记的私密感，关闭分享按钮
+  
+  # 首页个人简介
+  [params.profileMode]
+    enabled = true
+    title = "寄居者的日记"
+    subtitle = "欢迎来到这里。这是我记录生活、反思与沉淀的地方。"
