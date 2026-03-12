@@ -1,15 +1,32 @@
-baseURL = 'https://Flare-Sky.github.io/'
+baseURL = 'https://flare-sky.github.io/'
 languageCode = 'zh-cn'
 title = '寄居者的日记'
 theme = 'PaperMod'
 
 [params]
-  defaultTheme = "auto" # 自动跟随系统切换深色/浅色模式
-  ShowReadingTime = true # 显示阅读时间
-  ShowShareButtons = false # 保持日记的私密感，关闭分享按钮
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
   
-  # 首页个人简介
+  # 主页个人简介设置
   [params.profileMode]
     enabled = true
     title = "寄居者的日记"
-    subtitle = "欢迎来到这里。这是我记录生活、反思与沉淀的地方。"
+    subtitle = "亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)"
+
+# 设置网页顶部的导航菜单
+[[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 10
+[[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 20
+[[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 30
