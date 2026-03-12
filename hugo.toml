@@ -3,25 +3,37 @@ languageCode = 'zh-cn'
 title = '寄居者的日记'
 theme = 'PaperMod'
 hasCJKLanguage = true
+# 开启 JSON 输出，以便生成搜索索引
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
 
 [params]
-  defaultTheme = "auto"
-  ShowReadingTime = true      # 显示阅读时间
-  ShowWordCount = true        # 显示字数统计
-  ShowPostNavLinks = true     # 显示文章底部的“上一篇/下一篇”导航
-  ShowShareButtons = false    # 隐藏转发按钮
+    defaultTheme = "auto"
+    ShowReadingTime = true      # 显示阅读时间
+    ShowWordCount = true        # 显示字数统计
+    ShowPostNavLinks = true     # 显示文章底部的“上一篇/下一篇”导航
+    ShowShareButtons = false    # 隐藏转发按钮
   
-  # 主页个人简介设置
-  [params.profileMode]
-    enabled = true
-    title = "寄居者的日记"
-    subtitle = "亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)"
-  [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon-16x16.png"
-    favicon32x32 = "/favicon-32x32.png"
-    apple_touch_icon = "/apple-touch-icon.png"
-    safari_pinned_tab = "/favicon.ico"
+    # 主页个人简介设置
+    [params.profileMode]
+        enabled = true
+        title = "寄居者的日记"
+        subtitle = "亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)"
+    [params.assets]
+        favicon = "/favicon.ico"
+        favicon16x16 = "/favicon-16x16.png"
+        favicon32x32 = "/favicon-32x32.png"
+        apple_touch_icon = "/apple-touch-icon.png"
+        safari_pinned_tab = "/favicon.ico"
+    # 搜索优化
+    [params.fuseOpts]
+        isCaseSensitive = false
+        shouldSort = true
+        location = 0
+        distance = 1000
+        threshold = 0.4
+        minMatchCharLength = 2
+        keys = ["title", "permalink", "summary", "content"]
 
 # 设置网页顶部的导航菜单
 [[menu.main]]
@@ -39,3 +51,8 @@ hasCJKLanguage = true
     name = "标签"
     url = "/tags/"
     weight = 30
+[[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 40
