@@ -8,11 +8,11 @@
 
 ## 🛠️ 技术栈（Tech Stack）
 
-* **框架: ** [Hugo](https://gohugo.io/) (v0.146.0+ Extended)
-* **主题: ** [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-* **部署: ** GitHub Actions & GitHub Pages
-* **统计: ** 不蒜子 (Busuanzi) 阅读量统计
-* **语言: ** Markdown + TOML (支持 CJK 汉字统计)
+* 框架: [Hugo](https://gohugo.io/) (v0.146.0+ Extended)
+* 主题: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+* 部署: GitHub Actions & GitHub Pages
+* 统计: 不蒜子 (Busuanzi) 阅读量统计
+* 语言: Markdown + TOML (支持 CJK 汉字统计)
 
 ## 📂 目录结构 (Project Structure)
 
