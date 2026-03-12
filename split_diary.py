@@ -4,7 +4,7 @@ import os
 # --- 配置区 ---
 input_file = "all_diaries.txt"   # 你的原始日记文件名
 output_dir = "content/posts"     # 输出到 Hugo 的文章目录
-year = "2025"                    # 设置日记年份
+year = "2026"                    # 设置日记年份
 # --------------
 
 if not os.path.exists(output_dir):
@@ -31,7 +31,7 @@ title = "寄居者的日记-{index}"
 date = {date_str}T12:00:00-05:00
 draft = false
 categories = ["寄居者的日记"]
-tags = ["杭州"]
+tags = ["朗维尤"]
 +++
 
 {text.strip()}
