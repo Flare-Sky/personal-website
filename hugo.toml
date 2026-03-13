@@ -13,6 +13,7 @@ hasCJKLanguage = true
     ShowWordCount = true        # 显示字数统计
     ShowPostNavLinks = true     # 显示文章底部的“上一篇/下一篇”导航
     ShowShareButtons = false    # 隐藏转发按钮
+    enable = true               # 阅读量统计（不蒜子）的总开关
   
     # 主页个人简介设置
     [params.profileMode]
@@ -56,3 +57,6 @@ hasCJKLanguage = true
     name = "搜索"
     url = "/search/"
     weight = 40
+
+[markup.goldmark.renderer]
+    unsafe = true  # 允许在 Markdown 中直接使用 HTML 标签

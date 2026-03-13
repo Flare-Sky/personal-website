@@ -2,129 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>杭州 on 寄居者的日记</title>
-    <link>https://flare-sky.github.io/tags/%E6%9D%AD%E5%B7%9E/</link>
+    <link>http://localhost:1313/tags/%E6%9D%AD%E5%B7%9E/</link>
     <description>Recent content in 杭州 on 寄居者的日记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Jan 2025 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://flare-sky.github.io/tags/%E6%9D%AD%E5%B7%9E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%9D%AD%E5%B7%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>寄居者的日记-101</title>
+      <link>http://localhost:1313/posts/diary-101/</link>
+      <pubDate>Wed, 02 Jul 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-101/</guid>
+      <description>&lt;p&gt;……等等今天是几号？（写完的时间是7.9）&lt;/p&gt;
+&lt;p&gt;“开始的开始 九月相约教室
+“最后的最后 七月分别彼此
+“曾经的曾经 历历在目的日子
+“遗憾的遗憾 不能回到往日……”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>寄居者的日记-100</title>
+      <link>http://localhost:1313/posts/diary-100/</link>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-100/</guid>
+      <description>&lt;p&gt;晚安，《无聊的笔记》。&lt;/p&gt;
+&lt;p&gt;其实已经有好长一段时间没有在纸上写过东西了，纸质作品的读者毕竟局限，保存也是个问题。在临行收拾行李时，无意看到了这些本子，遂读之&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>寄居者的日记-99</title>
+      <link>http://localhost:1313/posts/diary-099/</link>
+      <pubDate>Mon, 23 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-099/</guid>
+      <description>&lt;p&gt;坐过了北京和上海的地铁，觉得果然还是杭州的最好最舒服&lt;/p&gt;
+&lt;p&gt;北京因为首都的身份，地铁时间跨度极大，所以你能看到许多所谓“同站换乘”实际上就是把新老地铁站缝合在了一起，地铁本体的品质也就像开盲盒一样，新老混杂&lt;/p&gt;</description>
+    </item>
     <item>
       <title>寄居者的日记-31</title>
-      <link>https://flare-sky.github.io/posts/diary-031/</link>
+      <link>http://localhost:1313/posts/diary-031/</link>
       <pubDate>Sun, 12 Jan 2025 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-031/</guid>
+      <guid>http://localhost:1313/posts/diary-031/</guid>
       <description>&lt;p&gt;今天终于是真正意义上的毕业啦！&lt;/p&gt;
 &lt;p&gt;不必感叹时光的飞逝，也不必惋惜过去的失败。在此，请允许我简述那个怀着不纯的动机进入高中，却最终被恩典所改变的，青年的故事（以下内容为毕业演讲初稿，有改动）&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-30</title>
-      <link>https://flare-sky.github.io/posts/diary-030/</link>
+      <link>http://localhost:1313/posts/diary-030/</link>
       <pubDate>Sat, 11 Jan 2025 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-030/</guid>
+      <guid>http://localhost:1313/posts/diary-030/</guid>
       <description>&lt;p&gt;忙忙碌碌的一天。&lt;/p&gt;
 &lt;p&gt;早上终于难得早起了一回，然后就忙着收拾起了行李。仿佛研究立方体最密堆积一般把东西全塞进了托运的行李箱，并成功控制重量在20公斤以内，这也是一门技术。&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-24</title>
-      <link>https://flare-sky.github.io/posts/diary-024/</link>
+      <link>http://localhost:1313/posts/diary-024/</link>
       <pubDate>Wed, 01 Jan 2025 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-024/</guid>
+      <guid>http://localhost:1313/posts/diary-024/</guid>
       <description>&lt;p&gt;我的鸽子本性最终还是让我错过了在2024写完第24篇的机会，好在25肯定是发在2025了&lt;/p&gt;
-&lt;p&gt;关于昨天（艰难发出来的）的流水账，有些人会一下子觉得陌生。对此我只能说，我妈她也这样（划）一年前的我也看不懂这些。写出来的大多是一年的变化与心得，而从前的子天仍然没有变！谢谢理解&lt;/p&gt;</description>
+&lt;p&gt;关于昨天（艰难发出来的）的流水账，有些人会一下子觉得陌生。对此我只能说，我妈她也这样（划）一年前的我也看不懂这些。写出来的大多是一年的变化与心得，而从前的天曜仍然没有变！谢谢理解&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-23</title>
-      <link>https://flare-sky.github.io/posts/diary-023/</link>
+      <link>http://localhost:1313/posts/diary-023/</link>
       <pubDate>Tue, 31 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-023/</guid>
+      <guid>http://localhost:1313/posts/diary-023/</guid>
       <description>&lt;p&gt;……好吧居然有这么多人会看我的碎碎念，一下子就有写下去的动力了。&lt;/p&gt;
 &lt;p&gt;转眼又到了一年的结尾，上次跨年的时刻还历历在目（好吧没啥印象）。在此辞旧迎新之际，我祝愿各位……拿错词了&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-22</title>
-      <link>https://flare-sky.github.io/posts/diary-022/</link>
+      <link>http://localhost:1313/posts/diary-022/</link>
       <pubDate>Mon, 30 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-022/</guid>
+      <guid>http://localhost:1313/posts/diary-022/</guid>
       <description>&lt;p&gt;开始前的碎碎念：其实昨天的文是想发成“仅自己可见”，等过几天再公开的，手一滑发出去了想想就这样算了，反正没几个人会看（&lt;/p&gt;
 &lt;p&gt;在踢完球后去到了Figo老师家吃饭，路上聊了许多关于未来的话题，有关于学校的、工作的、时间安排的。于是我终于是开始了思考：在将来的可能相对空闲的一年，我该如何度过？&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-21</title>
-      <link>https://flare-sky.github.io/posts/diary-021/</link>
+      <link>http://localhost:1313/posts/diary-021/</link>
       <pubDate>Sun, 29 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-021/</guid>
+      <guid>http://localhost:1313/posts/diary-021/</guid>
       <description>&lt;p&gt;成长是一个不断留下遗憾的过程。&lt;/p&gt;
 &lt;p&gt;最近的烦心事可谓越来越多：昨天睡太晚导致早起失败，聚会迟到打瞌睡；平时手机用太多导致流量欠费，恰逢手机停机无法充值；回承德的前半程航班取消，一交流才发现买的不是直飞要付退票手续费；看到公交车到站着急上车后发现方向反了，一下车发现公交卡又欠费；赶到余杭区才得知今天排练，结果只能临时更换角色代替上场；队友做题都已经推出了经纬度，结果因为Google Map定位不准成功带着一大群人兜个了大圈；下地铁刚好错过最后一班公交车，骑小红车回到家门口发现换车点彻底停满只能绕远……应该没有人愿意听我发牢骚啦，但是这么一列出来发现自己还挺倒霉的（&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-20</title>
-      <link>https://flare-sky.github.io/posts/diary-020/</link>
+      <link>http://localhost:1313/posts/diary-020/</link>
       <pubDate>Sun, 22 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-020/</guid>
+      <guid>http://localhost:1313/posts/diary-020/</guid>
       <description>&lt;p&gt;我保留了一部分咕咕咕，这样你才知道看的是诸葛天曜（因为是23号补的）&lt;/p&gt;
 &lt;p&gt;浙江大学给我的第一印象就是大，然后就是“一应俱全”。对比之前拜访过的大学，我在浙大里是用骑单车代替走路的（不然根本逛不完）“本地人”向我介绍各种建筑作用时一瞬间产生了“这么多还只是一个校区？”的感叹。果然大学与大学之间不能一概而论&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-19</title>
-      <link>https://flare-sky.github.io/posts/diary-019/</link>
+      <link>http://localhost:1313/posts/diary-019/</link>
       <pubDate>Fri, 20 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-019/</guid>
+      <guid>http://localhost:1313/posts/diary-019/</guid>
       <description>&lt;p&gt;高中三年，其实并非没有想过要回去看看。但往往会在附近徘徊良久，最终悻悻离去（好吧并没有，毕竟进城的次数本就不多）相比那些经常回学校看看的同学们，我疑似有些不知感恩&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-18</title>
-      <link>https://flare-sky.github.io/posts/diary-018/</link>
+      <link>http://localhost:1313/posts/diary-018/</link>
       <pubDate>Thu, 19 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-018/</guid>
+      <guid>http://localhost:1313/posts/diary-018/</guid>
       <description>&lt;p&gt;有时候我会问自己：我回杭州到底是为了什么？&lt;/p&gt;
 &lt;p&gt;最近几天忙忙碌碌，地铁公交坐着坐着居然市民卡里的50块都花完了（写到一半意识到这件事赶紧换了张地铁卡，好险不然欠款了）感觉每天都会或者因为见同学或者因为当助教而成功达成运动目标哈哈&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-16</title>
-      <link>https://flare-sky.github.io/posts/diary-016/</link>
+      <link>http://localhost:1313/posts/diary-016/</link>
       <pubDate>Sun, 15 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-016/</guid>
+      <guid>http://localhost:1313/posts/diary-016/</guid>
       <description>&lt;p&gt;昨天（实际上应该是前天啦）刚到杭州，都没有时间收拾自己的行李。今天在球场见到了社区的许多弟兄姐妹，还有幸抓拍到了互帮互助的瞬间。被问最多的问题分别是“现在多高啦？”和“你爸妈呢？”&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-17</title>
-      <link>https://flare-sky.github.io/posts/diary-017/</link>
+      <link>http://localhost:1313/posts/diary-017/</link>
       <pubDate>Sun, 15 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-017/</guid>
+      <guid>http://localhost:1313/posts/diary-017/</guid>
       <description>&lt;p&gt;今日主日，下午挤地铁到了湖滨in77。一下子，“人山人海”这个词在眼前具象了——人，真的好多啊啊啊&lt;/p&gt;
 &lt;p&gt;（以下内容来自23:59）&lt;/p&gt;
 &lt;p&gt;有种截稿ddl前赶稿的急迫感&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-4</title>
-      <link>https://flare-sky.github.io/posts/diary-004/</link>
+      <link>http://localhost:1313/posts/diary-004/</link>
       <pubDate>Sun, 02 Apr 2023 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-004/</guid>
+      <guid>http://localhost:1313/posts/diary-004/</guid>
       <description>&lt;p&gt;应该有人好奇过为什么要取这样一个名字，其实有许多原因。一方面是我们家的房子已经租出去了，我现在还在同学家借宿；另一方面也是我们将来出国学习的写照。更重要的是在《彼得前书》中所言。我们是在地上做客旅和寄居的。我希望这个系列能够持续下去，尽管之后可能并不是在朋友圈上发。我会去把前几篇文段转抄到笔记本上，就当做是日记来写吧！&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-3</title>
-      <link>https://flare-sky.github.io/posts/diary-003/</link>
+      <link>http://localhost:1313/posts/diary-003/</link>
       <pubDate>Sat, 01 Apr 2023 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-003/</guid>
+      <guid>http://localhost:1313/posts/diary-003/</guid>
       <description>&lt;p&gt;这一天本来的文章因为提到了一些涉及安全的内容被删掉了（朋友圈被删）。由于完全没有备份，那就在这个地方写一写自己的反思吧！&lt;/p&gt;
 &lt;p&gt;首先，我的确在说话前不会去审慎地思考，总是觉得“这样说应该没关系”。其实这是不对的。曾经我写下过一个原则，我觉得也是今天我所要遵守的，那就是“三思而后说”。&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-2</title>
-      <link>https://flare-sky.github.io/posts/diary-002/</link>
+      <link>http://localhost:1313/posts/diary-002/</link>
       <pubDate>Fri, 31 Mar 2023 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-002/</guid>
+      <guid>http://localhost:1313/posts/diary-002/</guid>
       <description>&lt;p&gt;本来想要日更的，结果今天晚上在Figo老师家玩嗨了，抓住3月31号的尾巴，写一篇日记。&lt;/p&gt;
 &lt;p&gt;今天一天基本都是在家里收拾打包带走的东西，随手拍了一下租客家里的喵喵。&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-1</title>
-      <link>https://flare-sky.github.io/posts/diary-001/</link>
+      <link>http://localhost:1313/posts/diary-001/</link>
       <pubDate>Thu, 30 Mar 2023 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-001/</guid>
+      <guid>http://localhost:1313/posts/diary-001/</guid>
       <description>&lt;p&gt;今天早上在绿皮火车的轰鸣声中回到了杭州，忙碌了一整天，晚上突发奇想写个日记记录一下。&lt;/p&gt;
-&lt;p&gt;由于家里的房子已经租出去了，只好在同学家过夜了。中午的面是自己做的，味道还行；下午去踢了足球，悲哀地发现在江西没有好好训练导致现在被小朋友们吊着打；晚上就一直在写稿子，是关于这一年半我都做了些什么的。到时候应该会发在我母亲的公众号上面留个档，所以在这里顺手做个宣传：关注恩典时光！了解我的黑历史（不&lt;/p&gt;</description>
+&lt;p&gt;由于家里的房子已经租出去了，只好在同学家过夜了。中午的面是自己做的，味道还行；下午去踢了足球，悲哀地发现在江西没有好好训练导致现在被小朋友们吊着打；晚上就一直在写稿子，是关于这一年半我都做了些什么的。到时候应该会发在我母亲的公众号上面留个档，所以在这里顺手做个宣传：关注恩典时光(现已更名为“恩典时光之路”)！了解我的黑历史（不&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

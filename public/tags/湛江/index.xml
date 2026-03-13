@@ -2,17 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>湛江 on 寄居者的日记</title>
-    <link>https://flare-sky.github.io/tags/%E6%B9%9B%E6%B1%9F/</link>
+    <link>http://localhost:1313/tags/%E6%B9%9B%E6%B1%9F/</link>
     <description>Recent content in 湛江 on 寄居者的日记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 07 Apr 2023 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://flare-sky.github.io/tags/%E6%B9%9B%E6%B1%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%B9%9B%E6%B1%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>寄居者的日记-96</title>
+      <link>http://localhost:1313/posts/diary-096/</link>
+      <pubDate>Sat, 21 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-096/</guid>
+      <description>&lt;p&gt;今天写了一篇涉及超级多人和事的回顾文，结果触碰到朋友圈这个古神的底层规则了（字数超2000发不出去呜呜呜），待我稍作修改，在《寄》满百期的时候发！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>寄居者的日记-95</title>
+      <link>http://localhost:1313/posts/diary-095/</link>
+      <pubDate>Fri, 20 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-095/</guid>
+      <description>&lt;p&gt;起因是我想买一个装Logsheet的容器用于Geocaching，然后一眼相中了耐压管：密封、耐腐蚀、易保存的特性正合我意。然而我忽略了口径……&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>寄居者的日记-94</title>
+      <link>http://localhost:1313/posts/diary-094/</link>
+      <pubDate>Sun, 15 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-094/</guid>
+      <description>&lt;p&gt;收拾完成了……暂时&lt;/p&gt;
+&lt;p&gt;说实话，拆箱拆到一半我人就麻了，对着一堆又一堆行李一整个无从下手。我从小就喜欢收拾东西，喜欢对着那些老物件回想生命中的一个个故事，但最终的结果就是留了一大堆没用的玩意；长大之后更是染上了囤谷的毛病（貌似也没有那么严重啦……），嘶难道我真是二次元？&lt;/p&gt;</description>
+    </item>
     <item>
       <title>寄居者的日记-5</title>
-      <link>https://flare-sky.github.io/posts/diary-005/</link>
+      <link>http://localhost:1313/posts/diary-005/</link>
       <pubDate>Fri, 07 Apr 2023 12:00:00 -0500</pubDate>
-      <guid>https://flare-sky.github.io/posts/diary-005/</guid>
+      <guid>http://localhost:1313/posts/diary-005/</guid>
       <description>&lt;p&gt;有好些时间没有写日记了，今天还是要好好复盘一下的。&lt;/p&gt;
 &lt;p&gt;回到湛江，生活节奏突然就慢下来了。一下子任务不再催逼我前进，我便失去了动力。现在想来，自己往往缺少从内而外的驱动力，在假期里常常荒废了时间。不过，既然意识到了问题的存在，就一定要做出改变。&lt;/p&gt;</description>
     </item>
