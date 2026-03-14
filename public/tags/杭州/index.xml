@@ -14,10 +14,19 @@
       <pubDate>Wed, 02 Jul 2025 12:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/diary-101/</guid>
       <description>&lt;p&gt;……等等今天是几号？（写完的时间是7.9）&lt;/p&gt;
-&lt;p&gt;“开始的开始 九月相约教室
-“最后的最后 七月分别彼此
-“曾经的曾经 历历在目的日子
-“遗憾的遗憾 不能回到往日……”&lt;/p&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;“开始的开始 九月相约教室&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“最后的最后 七月分别彼此&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“曾经的曾经 历历在目的日子&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“遗憾的遗憾 不能回到往日……”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;转眼之间，距离初中毕业已经过去了四年。四年间，我辗转奔波国内国外，因此错过了好几次同学们组织的回校探望；但我也是幸运的，许多朋友仍然和我保持着联系。在他们纷纷进入大学后，还能老友重逢聚一聚；在我发出一起回校看老师的邀请后，也能欣然赴会（尽管某人因为个人安排没能见到，但相信我，在见面时也带上了你的那份，聊天时不自主都会提到xxy，你们有什么头绪吗）&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-100</title>
@@ -107,13 +116,6 @@
 &lt;p&gt;最近几天忙忙碌碌，地铁公交坐着坐着居然市民卡里的50块都花完了（写到一半意识到这件事赶紧换了张地铁卡，好险不然欠款了）感觉每天都会或者因为见同学或者因为当助教而成功达成运动目标哈哈&lt;/p&gt;</description>
     </item>
     <item>
-      <title>寄居者的日记-16</title>
-      <link>http://localhost:1313/posts/diary-016/</link>
-      <pubDate>Sun, 15 Dec 2024 12:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/diary-016/</guid>
-      <description>&lt;p&gt;昨天（实际上应该是前天啦）刚到杭州，都没有时间收拾自己的行李。今天在球场见到了社区的许多弟兄姐妹，还有幸抓拍到了互帮互助的瞬间。被问最多的问题分别是“现在多高啦？”和“你爸妈呢？”&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>寄居者的日记-17</title>
       <link>http://localhost:1313/posts/diary-017/</link>
       <pubDate>Sun, 15 Dec 2024 12:00:00 -0500</pubDate>
@@ -121,6 +123,13 @@
       <description>&lt;p&gt;今日主日，下午挤地铁到了湖滨in77。一下子，“人山人海”这个词在眼前具象了——人，真的好多啊啊啊&lt;/p&gt;
 &lt;p&gt;（以下内容来自23:59）&lt;/p&gt;
 &lt;p&gt;有种截稿ddl前赶稿的急迫感&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>寄居者的日记-16</title>
+      <link>http://localhost:1313/posts/diary-016/</link>
+      <pubDate>Sat, 14 Dec 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/diary-016/</guid>
+      <description>&lt;p&gt;昨天（实际上应该是前天啦）刚到杭州，都没有时间收拾自己的行李。今天在球场见到了社区的许多弟兄姐妹，还有幸抓拍到了互帮互助的瞬间。被问最多的问题分别是“现在多高啦？”和“你爸妈呢？”&lt;/p&gt;</description>
     </item>
     <item>
       <title>寄居者的日记-4</title>

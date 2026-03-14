@@ -1,0 +1,87 @@
+{{- define "main" }}
+
+{{- /* ========================================== */ -}}
+{{- /* 模块 1：恢复原版主页（个人信息 / 欢迎语）*/ -}}
+{{- /* ========================================== */ -}}
+{{- if (and site.Params.profileMode.enabled .IsHome) }}
+    {{- partial "index_profile.html" . }}
+{{- else -}}
+    {{- if not .IsHome | and .Title }}
+        <header class="page-header">
+            <h1>{{ .Title }}</h1>
+        </header>
+    {{- end -}}
+    {{- if .IsHome }}
+        {{- partial "home_info.html" . }}
+    {{- end -}}
+    {{- if .Content }}
+        <div class="post-content">
+            {{ .Content }}
+        </div>
+    {{- end }}
+{{- end }}
+
+{{- /* 分割线提示（向下滑动） */ -}}
+<div style="text-align: center; margin: 60px 0 20px 0; color: var(--tertiary); font-size: 0.9rem; letter-spacing: 2px;">
+    ↓ 最新日记 ↓
+</div>
+
+{{- /* ========================================== */ -}}
+{{- /* 模块 2：抓取并渲染最新一篇文章的全文      */ -}}
+{{- /* ========================================== */ -}}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $latest := first 1 $pages }}
+
+{{- range $latest }}
+<article class="post-single" style="margin-bottom: 60px; border-bottom: 2px dashed var(--tertiary); padding-bottom: 40px;">
+    <header class="post-header">
+        <h1 class="post-title" style="font-size: 2rem; margin-bottom: 15px;">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h1>
+        <div class="post-meta">
+            {{ partial "post_meta.html" . }}
+        </div>
+    </header>
+    
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+</article>
+{{- end }}
+
+{{- /* ========================================== */ -}}
+{{- /* 模块 3：下方显示剩余往期日记的列表摘要    */ -}}
+{{- /* ========================================== */ -}}
+{{- $list_pages := $pages | complement $latest }}
+{{- $paginator := .Paginate $list_pages }}
+
+{{- range $paginator.Pages }}
+<article class="post-entry">
+    <header class="entry-header">
+        <h2>{{ .Title }}</h2>
+    </header>
+    <div class="entry-content">
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    <footer class="entry-footer">
+        {{ partial "post_meta.html" . }}
+    </footer>
+    <a class="entry-link" aria-label="post link to {{ .Title }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{- /* 底部翻页组件 */ -}}
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+    <nav class="pagination">
+        {{- if $paginator.HasPrev }}
+        <a class="prev" href="{{ $paginator.Prev.URL }}">« 上一页</a>
+        {{- end }}
+        {{- if $paginator.HasNext }}
+        <a class="next" href="{{ $paginator.Next.URL }}">下一页 »</a>
+        {{- end }}
+    </nav>
+</footer>
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
