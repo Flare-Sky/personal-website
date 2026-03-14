@@ -129,7 +129,83 @@
         </ul>
     </nav>
 </header>
-<main class="main"><div class="profile">
+<main class="main">
+
+<style>
+     
+    .header {
+        position: sticky !important;
+        top: 0;
+        z-index: 100;
+        background: var(--theme);
+        border-bottom: 1px solid var(--tertiary);
+    }
+
+     
+     
+    .hero-container {
+        height: 100vh; 
+        position: relative;
+        z-index: 1;
+    }
+
+     
+    .hero-layer {
+        position: sticky;
+        top: 15vh;  
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    @keyframes bounce-breathe {
+        0%, 100% { 
+            transform: translateY(0); 
+            opacity: 0.3; 
+        }
+        50% { 
+            transform: translateY(10px); 
+            opacity: 0.8; 
+        }
+    }
+
+     
+    .scroll-indicator {
+        margin-top: 0vh;  
+        color: var(--tertiary);
+        font-size: 0.9rem;
+        letter-spacing: 2px;
+        animation: bounce-breathe 2.5s infinite ease-in-out;
+    }
+
+     
+    .content-layer {
+        position: relative;
+        z-index: 2;
+        background: var(--theme);
+        
+         
+        margin: 0 20px 60px 20px; 
+        padding: 60px 40px;
+        border-radius: 40px;  
+        
+        box-shadow: 0 0 60px rgba(0,0,0,0.06); 
+        border: 1px solid var(--tertiary);
+         
+        scroll-margin-top: 80px;
+    }
+
+     
+    @media (max-width: 768px) {
+        .content-layer {
+            margin: 0 10px 40px 10px;
+            padding: 40px 20px;
+            border-radius: 30px;
+        }
+    }
+</style><div class="hero-container">
+    <div class="hero-layer"><div class="profile">
     <div class="profile_inner">
         <h1>寄居者的日记</h1>
         <span>亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)</span><div class="social-icons" >
@@ -137,21 +213,23 @@
 
     </div>
 </div>
-<div style="text-align: center; margin: 60px 0 20px 0; color: var(--tertiary); font-size: 0.9rem; letter-spacing: 2px;">
-    ↓ 最新日记 ↓
-</div>
-<article class="post-single" style="margin-bottom: 60px; border-bottom: 2px dashed var(--tertiary); padding-bottom: 40px;">
-    <header class="post-header">
-        <h1 class="post-title" style="font-size: 2rem; margin-bottom: 15px;">
-            <a href="http://localhost:1313/posts/diary-129/">寄居者的日记-129</a>
-        </h1>
-        <div class="post-meta">
-            <span title='2026-03-12 12:00:00 -0500 CDT'>March 12, 2026</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>2794 words</span>
+<div class="scroll-indicator">
+            ↓ 滑动阅读最新日记 ↓
         </div>
-    </header>
-    
-    <div class="post-content">
-        <p>你想活出怎样的人生？</p>
+    </div>
+</div><div class="content-layer" id="diary-feed">
+    <article class="post-single" style="margin-bottom: 60px; border-bottom: 2px dashed var(--tertiary); padding-bottom: 40px;">
+        <header class="post-header">
+            <h1 class="post-title" style="font-size: 2rem; margin-bottom: 15px;">
+                <a href="http://localhost:1313/posts/diary-129/">寄居者的日记-129</a>
+            </h1>
+            <div class="post-meta">
+                <span title='2026-03-12 12:00:00 -0500 CDT'>March 12, 2026</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>2794 words</span>
+            </div>
+        </header>
+        
+        <div class="post-content">
+            <p>你想活出怎样的人生？</p>
 <p>每当我们这一代人谈起未来，总是免不了叹气。在昨天今天或短或长的聊天里，我就不知道叹了多少回气。虽然我实际非常不喜欢这种不能解决任何实际问题的，类似抱怨的做法，但还是不能自己。在和老友的聊天里，我称之为一种“什么都想抓住的感觉”。</p>
 <p>我相信这应该不是我的杞人忧天，而是这一代人所共有的焦虑：在现今这一个科技飞速发展的大环境下，各行各业都被AI之类逐渐颠覆的大背景下，不论国内国外就业环境实在不容乐观的大前提下，我们该往何处去？</p>
 <p>昨天，作为同样学习CS的人，朋友问我：你为什么要转专业呢？我觉得现在计算机越来越能被AI代替啦，反而你之前选的机器人工程更像是未来方向嘛。他没说的内容我也能猜到大概，现在国内的人形机器人如火如荼，各种diy的环境框架也被搭建得新手友好。嘉立创pcb的价格已经不能用“亲民”来形容了，3d打印的耗材我前几周甚至买到了1千克20出头的优质材料；网上浩如烟海的各类教程给爱好者铺好了平坦大道，而AI提供的帮助更是将最繁重的部分都省下来了。就像我之前公众号粉丝破千那时的灵机一动一样，一个项目从有想法到拿到成果甚至都不需要一天。</p>
@@ -172,152 +250,154 @@
 <p>问了许多问题，但这些归根结底都不是现在的我能够去回答的。毕竟，我只是一个展望半生，归来还是喜欢打游戏刷视频的普通学生。不管嘴上说得多么冠冕堂皇，回到没人监管的情况下还是会来一把紧张刺激的（略）的普通人罢了。那问这些还有什么用呢？总不能是因为有个人要求我今天晚上必须交稿吧？</p>
 <p>那么这些问题，就留给未来的我吧。</p>
 
-    </div>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-38</h2>
-    </header>
-    <div class="entry-content">
-        <p>今天收到了LeTourneau的offer（我终于也是不用被家人问“别人都有offer你的呢”了），还没捂热乎（电子文稿真能热乎吗）就跟着同学去了远一点地方的图书馆——抢位置！
+        </div>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-38</h2>
+        </header>
+        <div class="entry-content">
+            <p>今天收到了LeTourneau的offer（我终于也是不用被家人问“别人都有offer你的呢”了），还没捂热乎（电子文稿真能热乎吗）就跟着同学去了远一点地方的图书馆——抢位置！
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-02-19 12:00:00 -0500 -0500'>February 19, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>619 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-38" href="http://localhost:1313/posts/diary-038/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-37</h2>
-    </header>
-    <div class="entry-content">
-        <p>今天是充满恩典的一天！
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-02-19 12:00:00 -0500 -0500'>February 19, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>619 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-38" href="http://localhost:1313/posts/diary-038/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-37</h2>
+        </header>
+        <div class="entry-content">
+            <p>今天是充满恩典的一天！
 早起跑了个9公里，配速居然是递增的。北京的冬天还是冷啊……
 去了趟国图，办了张卡。不得不感叹人的确多，偌大的图书馆连个位置都难找到，更别提带插座的了。打算明天早点去蹲点看看情况。
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-02-18 12:00:00 -0500 -0500'>February 18, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>405 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-37" href="http://localhost:1313/posts/diary-037/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-36</h2>
-    </header>
-    <div class="entry-content">
-        <p>昨天的文章的确带了一点负面的情绪，如果导致了误解非常抱歉……但我并不会删稿，一方面我修改了内容不用担心会有被监视的风险，另一方面是想到，将来回看时应该能重新感受到这种初来乍到吧！这也是我写这些的目的不是吗？
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-02-18 12:00:00 -0500 -0500'>February 18, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>405 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-37" href="http://localhost:1313/posts/diary-037/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-36</h2>
+        </header>
+        <div class="entry-content">
+            <p>昨天的文章的确带了一点负面的情绪，如果导致了误解非常抱歉……但我并不会删稿，一方面我修改了内容不用担心会有被监视的风险，另一方面是想到，将来回看时应该能重新感受到这种初来乍到吧！这也是我写这些的目的不是吗？
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-02-17 12:00:00 -0500 -0500'>February 17, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>660 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-36" href="http://localhost:1313/posts/diary-036/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-35</h2>
-    </header>
-    <div class="entry-content">
-        <p>早上和弟兄姐妹碰面，彼此认识，本该是很高兴的；中午有朋友请客吃饭，还打包了一些留作晚饭，本该是很满足的；晚上去朋友家拿快递，回来搭了他的车，本该是很感恩的……但为什么呢？
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-02-17 12:00:00 -0500 -0500'>February 17, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>660 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-36" href="http://localhost:1313/posts/diary-036/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-35</h2>
+        </header>
+        <div class="entry-content">
+            <p>早上和弟兄姐妹碰面，彼此认识，本该是很高兴的；中午有朋友请客吃饭，还打包了一些留作晚饭，本该是很满足的；晚上去朋友家拿快递，回来搭了他的车，本该是很感恩的……但为什么呢？
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-02-16 12:00:00 -0500 -0500'>February 16, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>339 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-35" href="http://localhost:1313/posts/diary-035/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-34</h2>
-    </header>
-    <div class="entry-content">
-        <p>初来乍到之时，略有体会到何为“北漂”。
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-02-16 12:00:00 -0500 -0500'>February 16, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>339 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-35" href="http://localhost:1313/posts/diary-035/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-34</h2>
+        </header>
+        <div class="entry-content">
+            <p>初来乍到之时，略有体会到何为“北漂”。
 机场是宏伟的，而同样壮观的还有那纷繁复杂的地铁线路图。从立水桥下车，步入五环外的“郊区”，首都的繁华褪去，显出了苍白的天空与生活。“北京最大小区”天通苑边缘的一个小小的区域是我们的宿舍，配置属于最低端的那种：两幢居民楼一个大门，不仔细看你甚至会认为这小区没有保安。树影投下了班驳的阳光，将大地绘上花纹；在摇摇晃晃的秋千旁边的长椅旁，我躺下等待起了班长的到来。恍惚间，我看到了无数个北上寻找机遇的青年，在此挥洒汗水与泪水，最终却往往不能如愿。我会成为他们中的一员吗？
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-02-15 12:00:00 -0500 -0500'>February 15, 2025</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>1243 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-34" href="http://localhost:1313/posts/diary-034/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-33</h2>
-    </header>
-    <div class="entry-content">
-        <p>遇到了一位特别有故事的司机，练了一路英语。从马来西亚聊到世界各地从学习工作聊到未来格局，从AI技术聊到普遍道德（感觉比上一节英语课管用嘿嘿）
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-02-15 12:00:00 -0500 -0500'>February 15, 2025</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>1243 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-34" href="http://localhost:1313/posts/diary-034/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-33</h2>
+        </header>
+        <div class="entry-content">
+            <p>遇到了一位特别有故事的司机，练了一路英语。从马来西亚聊到世界各地从学习工作聊到未来格局，从AI技术聊到普遍道德（感觉比上一节英语课管用嘿嘿）
 他在国际环保组织（？反正和wild life有关）工作，因此去过世界各个地方，而我的阅历就相形见绌了……我们一致认可“真正好的工作应当是你所热爱的”。哦对了，他们家的三个孩子都是学艺术的，大哥现在正在做导演拍电影，二哥在新加坡当音乐老师，最小的妹妹则在做3D动画！他说自己平时出来基本上是做私家车司机，这次刚好去机场接个人顺手就捎上了我，双赢！
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-02-14 12:00:00 -0500 -0500'>February 14, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>451 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-33" href="http://localhost:1313/posts/diary-033/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-32</h2>
-    </header>
-    <div class="entry-content">
-        <p>终究是没有盼到期望的那场雪，不论是在承德还是杭州……
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-02-14 12:00:00 -0500 -0500'>February 14, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>451 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-33" href="http://localhost:1313/posts/diary-033/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-32</h2>
+        </header>
+        <div class="entry-content">
+            <p>终究是没有盼到期望的那场雪，不论是在承德还是杭州……
 </p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-01-15 12:00:00 -0500 -0500'>January 15, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>26 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-32" href="http://localhost:1313/posts/diary-032/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-31</h2>
-    </header>
-    <div class="entry-content">
-        <p>今天终于是真正意义上的毕业啦！
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-01-15 12:00:00 -0500 -0500'>January 15, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>26 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-32" href="http://localhost:1313/posts/diary-032/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-31</h2>
+        </header>
+        <div class="entry-content">
+            <p>今天终于是真正意义上的毕业啦！
 不必感叹时光的飞逝，也不必惋惜过去的失败。在此，请允许我简述那个怀着不纯的动机进入高中，却最终被恩典所改变的，青年的故事（以下内容为毕业演讲初稿，有改动）
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-01-12 12:00:00 -0500 -0500'>January 12, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>717 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-31" href="http://localhost:1313/posts/diary-031/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-30</h2>
-    </header>
-    <div class="entry-content">
-        <p>忙忙碌碌的一天。
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-01-12 12:00:00 -0500 -0500'>January 12, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>717 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-31" href="http://localhost:1313/posts/diary-031/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-30</h2>
+        </header>
+        <div class="entry-content">
+            <p>忙忙碌碌的一天。
 早上终于难得早起了一回，然后就忙着收拾起了行李。仿佛研究立方体最密堆积一般把东西全塞进了托运的行李箱，并成功控制重量在20公斤以内，这也是一门技术。
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-01-11 12:00:00 -0500 -0500'>January 11, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>413 words</span>
-    </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-30" href="http://localhost:1313/posts/diary-030/"></a>
-</article>
-<article class="post-entry">
-    <header class="entry-header">
-        <h2>寄居者的日记-29</h2>
-    </header>
-    <div class="entry-content">
-        <p>腊八该做啥？
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-01-11 12:00:00 -0500 -0500'>January 11, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>413 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-30" href="http://localhost:1313/posts/diary-030/"></a>
+    </article>
+    <article class="post-entry">
+        <header class="entry-header">
+            <h2>寄居者的日记-29</h2>
+        </header>
+        <div class="entry-content">
+            <p>腊八该做啥？
 今天吃了饺子，爬了山，泡了腊八蒜。
 山的名字是乾隆给取的，叫做“僧冠”。虽然远远望过去也看不出来是个帽子，但毕竟这个名字摆着，以此为前设就有几分看着像了。上山的路挺野的，好在有本地热心人指路，一路摸索也是上到了半山腰的消防通道（实际上也就是平一点能开车的土路啦）。一路上跟爷爷有一搭没一搭地聊着，跟弟弟有一搭没一搭地拌着嘴，这个过程中水居然一口没喝也真是神奇了。
 ...</p>
-    </div>
-    <footer class="entry-footer">
-        <span title='2025-01-07 12:00:00 -0500 -0500'>January 7, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>496 words</span>
+        </div>
+        <footer class="entry-footer">
+            <span title='2025-01-07 12:00:00 -0500 -0500'>January 7, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>496 words</span>
+        </footer>
+        <a class="entry-link" aria-label="post link to 寄居者的日记-29" href="http://localhost:1313/posts/diary-029/"></a>
+    </article>
+    <footer class="page-footer">
+        <nav class="pagination">
+            <a class="prev" href="/page/9/#diary-feed">« 上一页</a>
+            <a class="next" href="/page/11/#diary-feed">下一页 »</a>
+        </nav>
     </footer>
-    <a class="entry-link" aria-label="post link to 寄居者的日记-29" href="http://localhost:1313/posts/diary-029/"></a>
-</article>
-<footer class="page-footer">
-    <nav class="pagination">
-        <a class="prev" href="/page/9/">« 上一页</a>
-        <a class="next" href="/page/11/">下一页 »</a>
-    </nav>
-</footer>
+
+</div>
     </main>
     
 <footer class="footer">
