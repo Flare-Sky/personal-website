@@ -1,0 +1,188 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>
+    {{ .Title }}
+    {{- if (.Param "ShowRssButtonInSectionTermList") }}
+    {{- $rss := (.OutputFormats.Get "rss") }}
+    {{- if (eq .Kind `page`) }}
+    {{- $rss = (.Parent.OutputFormats.Get "rss") }}
+    {{- end }}
+    {{- with $rss }}
+    <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+    {{- end }}
+    {{- end }}
+  </h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+{{- /* --- 开始：文章发布频率柱状图 --- */ -}}
+
+{{- /* 1. HTML 容器 */ -}}
+<div class="archive-chart-container" style="width: 100%; height: 250px; margin: 40px 0;">
+    <canvas id="postChart"></canvas>
+</div>
+
+{{- /* 2. 引入 Chart.js 图表库 */ -}}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+{{- /* 3. Hugo 数据处理 (类似后端 API) */ -}}
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $grouped := $pages.GroupByDate "2006-01" }} {{- $labels := slice }}
+{{- $counts := slice }}
+
+{{- /* 遍历分组，因为默认是最新的在前面，我们需要反转一下让时间线从左到右正序排列 */ -}}
+{{- range $grouped.Reverse }}
+    {{- $labels = $labels | append .Key }}
+    {{- $counts = $counts | append (len .Pages) }}
+{{- end }}
+
+{{- /* 4. JS 渲染逻辑 */ -}}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const ctx = document.getElementById('postChart').getContext('2d');
+        
+        // 接收 Hugo 编译好的 JSON 数据
+        const chartLabels = {{ $labels | jsonify | safeJS }};
+        const chartData = {{ $counts | jsonify | safeJS }};
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: chartLabels,
+                datasets: [{
+                    label: '文章篇数',
+                    data: chartData,
+                    backgroundColor: 'rgba(153, 153, 255, 0.6)', // 护眼的蓝灰色
+                    borderColor: 'rgba(153, 153, 255, 1)',
+                    borderWidth: 1,
+                    borderRadius: 4 // 圆角柱子更好看
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                // --- 新增：点击事件与平滑滚动 ---
+                onClick: (event, elements) => {
+                    if (elements.length > 0) {
+                        const index = elements[0].index;
+                        const label = chartLabels[index]; // 获取点击的月份，例如 "2026-03"
+                        const targetElement = document.getElementById('archive-' + label);
+                        
+                        if (targetElement) {
+                            // 减去 80 像素的偏移量，防止导航栏遮挡标题
+                            const y = targetElement.getBoundingClientRect().top + window.scrollY - 80;
+                            window.scrollTo({top: y, behavior: 'smooth'});
+                        }
+                    }
+                },
+                // --- 新增：鼠标悬浮时变成点击手势 ---
+                onHover: (event, chartElement) => {
+                    event.native.target.style.cursor = chartElement[0] ? 'pointer' : 'default';
+                },
+                // ------------------------------
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1, // 确保 Y 轴是整数
+                            color: 'var(--secondary)'
+                        },
+                        grid: {
+                            color: 'var(--tertiary)' // 适配 PaperMod 的暗色/亮色模式网格
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: 'var(--secondary)'
+                        },
+                        grid: {
+                            display: false
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false // 隐藏顶部的图例，因为已经很直观了
+                    },
+                    tooltip: {
+                        displayColors: false,
+                        callbacks: {
+                            label: function(context) {
+                                return context.parsed.y + ' 篇日记';
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    });
+</script>
+{{- /* --- 结束：文章发布频率柱状图 --- */ -}}
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{- if site.Params.ShowAllPagesInArchive }}
+{{- $pages = site.RegularPages }}
+{{- end }}
+
+{{- range $pages.GroupByPublishDate "2006" }}
+{{- if ne .Key "0001" }}
+<div class="archive-year">
+  {{- $year := replace .Key "0001" "" }}
+  <h2 class="archive-year-header" id="{{ $year }}">
+    <a class="archive-header-link" href="#{{ $year }}">
+      {{- $year -}}
+    </a>
+    <sup class="archive-count">&nbsp;{{ len .Pages }}</sup>
+  </h2>
+  {{- range .Pages.GroupByDate "January" }}
+  <div class="archive-month">
+    {{- /* 用这个月份里的第一篇文章的日期，强行格式化出 2026-03 这样的 ID */ -}}
+    <h3 class="archive-month-header" id="archive-{{ (index .Pages 0).Date.Format "2006-01" }}">
+      <a class="archive-header-link" href="#{{ $year }}-{{ .Key }}">
+        {{- .Key -}}
+      </a>
+      <sup class="archive-count">&nbsp;{{ len .Pages }}</sup>
+    </h3>
+    <div class="archive-posts">
+      {{- range .Pages }}
+      {{- if eq .Kind "page" }}
+      <div class="archive-entry">
+        <h3 class="archive-entry-title entry-hint-parent">
+          {{- .Title | markdownify }}
+          {{- if .Draft }}
+          <span class="entry-hint" title="Draft">
+            <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">
+              <path
+                d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+            </svg>
+          </span>
+          {{- end }}
+        </h3>
+        <div class="archive-meta">
+          {{- partial "post_meta.html" . -}}
+        </div>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+</div>
+{{- end }}
+{{- end }}
+
+{{- end }}{{/* end main */}}
