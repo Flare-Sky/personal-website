@@ -74,8 +74,6 @@
     }
 
 </script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<link rel="stylesheet" href="http://localhost:1313/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=">
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -142,41 +140,44 @@
     }
 
      
-     
-    .hero-container {
-        height: 100vh; 
-        position: relative;
+    .hero-fixed {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
         z-index: 1;
-    }
-
-     
-    .hero-layer {
-        position: sticky;
-        top: 15vh;  
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        pointer-events: none;  
+    }
+    
+    .hero-fixed > * {
+        pointer-events: auto;  
     }
 
     @keyframes bounce-breathe {
-        0%, 100% { 
-            transform: translateY(0); 
-            opacity: 0.3; 
-        }
-        50% { 
-            transform: translateY(10px); 
-            opacity: 0.8; 
-        }
+        0%, 100% { transform: translateY(0); opacity: 0.3; }
+        50% { transform: translateY(10px); opacity: 0.8; }
     }
 
      
     .scroll-indicator {
-        margin-top: 0vh;  
+        position: absolute;
+        bottom: 10vh;
         color: var(--tertiary);
         font-size: 0.9rem;
         letter-spacing: 2px;
         animation: bounce-breathe 2.5s infinite ease-in-out;
+    }
+
+     
+    .spacer {
+        height: 100vh;
+        width: 100%;
+        pointer-events: none;
     }
 
      
@@ -186,26 +187,32 @@
         background: var(--theme);
         
          
-        margin: 0 20px 60px 20px; 
+        margin: 0 20px 0 20px; 
         padding: 60px 40px;
-        border-radius: 40px;  
+        border-radius: 40px;
         
-        box-shadow: 0 0 60px rgba(0,0,0,0.06); 
-        border: 1px solid var(--tertiary);
-         
-        scroll-margin-top: 80px;
+        box-shadow: 0 -20px 60px rgba(0,0,0,0.06); 
+        border-top: 1px solid var(--tertiary);
+        border-left: 1px solid var(--tertiary);
+        border-right: 1px solid var(--tertiary);
+        border-bottom: none;  
     }
 
      
     @media (max-width: 768px) {
         .content-layer {
-            margin: 0 10px 40px 10px;
+            margin: -60px 10px 0 10px;
             padding: 40px 20px;
-            border-radius: 30px;
+            border-radius: 30px 30px 0 0;
         }
     }
-</style><div class="hero-container">
-    <div class="hero-layer"><div class="profile">
+
+     
+    #post-list {
+        scroll-margin-top: 100px;  
+        padding-top: 20px;
+    }
+</style><div class="hero-fixed"><div class="profile">
     <div class="profile_inner">
         <h1>寄居者的日记</h1>
         <span>亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)</span><div class="social-icons" >
@@ -213,11 +220,12 @@
 
     </div>
 </div>
-<div class="scroll-indicator">
-            ↓ 滑动阅读最新日记 ↓
-        </div>
+
+    
+    <div class="scroll-indicator">
+        ↓ 滑动阅读最新日记 ↓
     </div>
-</div><div class="content-layer" id="diary-feed">
+</div><div class="spacer"></div><div class="content-layer">
     <article class="post-single" style="margin-bottom: 60px; border-bottom: 2px dashed var(--tertiary); padding-bottom: 40px;">
         <header class="post-header">
             <h1 class="post-title" style="font-size: 2rem; margin-bottom: 15px;">
@@ -227,7 +235,6 @@
                 <span title='2026-03-12 12:00:00 -0500 CDT'>March 12, 2026</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>2794 words</span>
             </div>
         </header>
-        
         <div class="post-content">
             <p>你想活出怎样的人生？</p>
 <p>每当我们这一代人谈起未来，总是免不了叹气。在昨天今天或短或长的聊天里，我就不知道叹了多少回气。虽然我实际非常不喜欢这种不能解决任何实际问题的，类似抱怨的做法，但还是不能自己。在和老友的聊天里，我称之为一种“什么都想抓住的感觉”。</p>
@@ -251,150 +258,152 @@
 <p>那么这些问题，就留给未来的我吧。</p>
 
         </div>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-58</h2>
-        </header>
-        <div class="entry-content">
-            <p>不行，诸葛天，你怎么能这么对待你的日记呢？啊？23点了？懒得写了。
+    </article><div id="post-list"><h3 style="margin-bottom: 40px; font-size: 1rem; color: var(--tertiary); text-align: center; letter-spacing: 2px;">
+            — 往期目录 —
+        </h3>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-58</h2>
+            </header>
+            <div class="entry-content">
+                <p>不行，诸葛天，你怎么能这么对待你的日记呢？啊？23点了？懒得写了。
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-15 12:00:00 -0500 CDT'>March 15, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>33 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-58" href="http://localhost:1313/posts/diary-058/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-57</h2>
-        </header>
-        <div class="entry-content">
-            <p>圆宵节快乐！
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-15 12:00:00 -0500 CDT'>March 15, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>33 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-58" href="http://localhost:1313/posts/diary-058/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-57</h2>
+            </header>
+            <div class="entry-content">
+                <p>圆宵节快乐！
 今天跑去拿了美签护照，再次体验了大使馆的排队感受，等到我了也就1分钟的事，文件一交一取，立即快马加鞭赶去打篮球。我是timing侠（
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-14 12:00:00 -0500 CDT'>March 14, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>118 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-57" href="http://localhost:1313/posts/diary-057/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-56</h2>
-        </header>
-        <div class="entry-content">
-            <p>跑了一趟科技馆，拍了很多照片，懒得写了。
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-14 12:00:00 -0500 CDT'>March 14, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>118 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-57" href="http://localhost:1313/posts/diary-057/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-56</h2>
+            </header>
+            <div class="entry-content">
+                <p>跑了一趟科技馆，拍了很多照片，懒得写了。
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-13 12:00:00 -0500 CDT'>March 13, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>20 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-56" href="http://localhost:1313/posts/diary-056/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-55</h2>
-        </header>
-        <div class="entry-content">
-            <p>今天上午帮同学完成了他的大学申请（实际上就是填了个表），忘了下午干了些啥，懒得写了。
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-13 12:00:00 -0500 CDT'>March 13, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>20 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-56" href="http://localhost:1313/posts/diary-056/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-55</h2>
+            </header>
+            <div class="entry-content">
+                <p>今天上午帮同学完成了他的大学申请（实际上就是填了个表），忘了下午干了些啥，懒得写了。
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-12 12:00:00 -0500 CDT'>March 12, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>42 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-55" href="http://localhost:1313/posts/diary-055/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-54</h2>
-        </header>
-        <div class="entry-content">
-            <p>早上我是被下铺的同学叫醒的，一看时间已经7点多了。我约的大使馆面签时间是9点！一下子困意全无，来不及想自己手表闹钟的失灵（现在也不知道为啥）究竟打破了多少人清晨的美梦，我急忙抓起文件往外赶。
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-12 12:00:00 -0500 CDT'>March 12, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>42 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-55" href="http://localhost:1313/posts/diary-055/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-54</h2>
+            </header>
+            <div class="entry-content">
+                <p>早上我是被下铺的同学叫醒的，一看时间已经7点多了。我约的大使馆面签时间是9点！一下子困意全无，来不及想自己手表闹钟的失灵（现在也不知道为啥）究竟打破了多少人清晨的美梦，我急忙抓起文件往外赶。
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-11 12:00:00 -0500 CDT'>March 11, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>627 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-54" href="http://localhost:1313/posts/diary-054/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-53</h2>
-        </header>
-        <div class="entry-content">
-            <p>早上2点爬起来解Hunt的Meta元谜题，然后做到6点半。期间用各种苦力无果，最后发现是开始的年份提取出了错（因为当时直接问AI了）。不得不感叹AI还是取代不了人类啊（
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-11 12:00:00 -0500 CDT'>March 11, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>627 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-54" href="http://localhost:1313/posts/diary-054/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-53</h2>
+            </header>
+            <div class="entry-content">
+                <p>早上2点爬起来解Hunt的Meta元谜题，然后做到6点半。期间用各种苦力无果，最后发现是开始的年份提取出了错（因为当时直接问AI了）。不得不感叹AI还是取代不了人类啊（
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-10 12:00:00 -0500 CDT'>March 10, 2025</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>1380 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-53" href="http://localhost:1313/posts/diary-053/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-52</h2>
-        </header>
-        <div class="entry-content">
-            <p>昨天和前天都熬夜打洋Hunt了，故断更。非常抱歉！以后再有类似情况会提前告知的！
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-10 12:00:00 -0500 CDT'>March 10, 2025</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>1380 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-53" href="http://localhost:1313/posts/diary-053/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-52</h2>
+            </header>
+            <div class="entry-content">
+                <p>昨天和前天都熬夜打洋Hunt了，故断更。非常抱歉！以后再有类似情况会提前告知的！
 但是你怎么知道我们队第12个完成了12道小题？明天凌晨2点放Meta，故今天必须早睡！就早发了（
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-09 12:00:00 -0500 CDT'>March 9, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>523 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-52" href="http://localhost:1313/posts/diary-052/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-51</h2>
-        </header>
-        <div class="entry-content">
-            <p>补写了一篇Write-up并发在了b站上！来看！
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-09 12:00:00 -0500 CDT'>March 9, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>523 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-52" href="http://localhost:1313/posts/diary-052/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-51</h2>
+            </header>
+            <div class="entry-content">
+                <p>补写了一篇Write-up并发在了b站上！来看！
 中午吃完羊排，突发奇想决定早点出发，到目的地附近寻寻宝。在地铁上一查，好家伙，这附近居然有一个公园里面有7个Cache！简直可以说是低配版奥森公园了！重点是这个所谓的“中关村公园”并不知名，属于“小众露营圣地”不仅可以直接在里面骑车，甚至停车都免费！
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-06 12:00:00 -0500 -0500'>March 6, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>325 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-51" href="http://localhost:1313/posts/diary-051/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-50</h2>
-        </header>
-        <div class="entry-content">
-            <p>你知道吗？在北京有一个叫做“杭州公园”的地方，而且只有一个出入口。
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-06 12:00:00 -0500 -0500'>March 6, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>325 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-51" href="http://localhost:1313/posts/diary-051/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-50</h2>
+            </header>
+            <div class="entry-content">
+                <p>你知道吗？在北京有一个叫做“杭州公园”的地方，而且只有一个出入口。
 打完篮球，我在Geocaching的指引下来到了这个公园。从你走进去的地方，你只能看见某某酒店的招牌。在提示要右拐的路口左拐，这个隐秘的小公园就出现在了你的面前。
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-05 12:00:00 -0500 -0500'>March 5, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>239 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-50" href="http://localhost:1313/posts/diary-050/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-49</h2>
-        </header>
-        <div class="entry-content">
-            <p>昨晚一回家，发现家门钥匙找不到了。想着干脆把昨天走过的地方都找一圈，但早上直接在咖啡店失而复得了！突然的放松让我在咖啡馆又坐了一上午（
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-05 12:00:00 -0500 -0500'>March 5, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>239 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-50" href="http://localhost:1313/posts/diary-050/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-49</h2>
+            </header>
+            <div class="entry-content">
+                <p>昨晚一回家，发现家门钥匙找不到了。想着干脆把昨天走过的地方都找一圈，但早上直接在咖啡店失而复得了！突然的放松让我在咖啡馆又坐了一上午（
 所以今天其实没啥好写的，无非做做生物写写Write-up（反正写出来也没人看得懂，悲）。如果非要说些什么的话，就是今晚被单独拎出来做了展示，分享了一下使用AI的经验，像是怎么写Prompt之类的。这些技能如今想来应该是在Omnibus的翻译过程中练出来的，像是什么对AI礼貌些，把要求说清楚，上下文联想记忆的极限之类。朋友对我的作业有不错的评价，不过大概率是因为其他人都在吐槽难而我拿出了真东西的缘故（即使那是一篇有很多内容需要改进的草之又草的稿）
 ...</p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-04 12:00:00 -0500 -0500'>March 4, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>562 words</span>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-04 12:00:00 -0500 -0500'>March 4, 2025</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>562 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-49" href="http://localhost:1313/posts/diary-049/"></a>
+        </article>
+        <footer class="page-footer">
+            <nav class="pagination">
+                <a class="prev" href="/page/7/#post-list">« 上一页</a>
+                <a class="next" href="/page/9/#post-list">下一页 »</a>
+            </nav>
         </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-49" href="http://localhost:1313/posts/diary-049/"></a>
-    </article>
-    <footer class="page-footer">
-        <nav class="pagination">
-            <a class="prev" href="/page/7/#diary-feed">« 上一页</a>
-            <a class="next" href="/page/9/#diary-feed">下一页 »</a>
-        </nav>
-    </footer>
 
-</div>
+    </div></div>
     </main>
     
 <footer class="footer">
@@ -405,6 +414,8 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
+
+    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -471,6 +482,7 @@
         }
     })
 
-</script></body>
+</script>
+</body>
 
 </html>

@@ -74,8 +74,6 @@
     }
 
 </script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<link rel="stylesheet" href="http://localhost:1313/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=">
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -142,41 +140,44 @@
     }
 
      
-     
-    .hero-container {
-        height: 100vh; 
-        position: relative;
+    .hero-fixed {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
         z-index: 1;
-    }
-
-     
-    .hero-layer {
-        position: sticky;
-        top: 15vh;  
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        pointer-events: none;  
+    }
+    
+    .hero-fixed > * {
+        pointer-events: auto;  
     }
 
     @keyframes bounce-breathe {
-        0%, 100% { 
-            transform: translateY(0); 
-            opacity: 0.3; 
-        }
-        50% { 
-            transform: translateY(10px); 
-            opacity: 0.8; 
-        }
+        0%, 100% { transform: translateY(0); opacity: 0.3; }
+        50% { transform: translateY(10px); opacity: 0.8; }
     }
 
      
     .scroll-indicator {
-        margin-top: 0vh;  
+        position: absolute;
+        bottom: 10vh;
         color: var(--tertiary);
         font-size: 0.9rem;
         letter-spacing: 2px;
         animation: bounce-breathe 2.5s infinite ease-in-out;
+    }
+
+     
+    .spacer {
+        height: 100vh;
+        width: 100%;
+        pointer-events: none;
     }
 
      
@@ -186,26 +187,32 @@
         background: var(--theme);
         
          
-        margin: 0 20px 60px 20px; 
+        margin: 0 20px 0 20px; 
         padding: 60px 40px;
-        border-radius: 40px;  
+        border-radius: 40px;
         
-        box-shadow: 0 0 60px rgba(0,0,0,0.06); 
-        border: 1px solid var(--tertiary);
-         
-        scroll-margin-top: 80px;
+        box-shadow: 0 -20px 60px rgba(0,0,0,0.06); 
+        border-top: 1px solid var(--tertiary);
+        border-left: 1px solid var(--tertiary);
+        border-right: 1px solid var(--tertiary);
+        border-bottom: none;  
     }
 
      
     @media (max-width: 768px) {
         .content-layer {
-            margin: 0 10px 40px 10px;
+            margin: -60px 10px 0 10px;
             padding: 40px 20px;
-            border-radius: 30px;
+            border-radius: 30px 30px 0 0;
         }
     }
-</style><div class="hero-container">
-    <div class="hero-layer"><div class="profile">
+
+     
+    #post-list {
+        scroll-margin-top: 100px;  
+        padding-top: 20px;
+    }
+</style><div class="hero-fixed"><div class="profile">
     <div class="profile_inner">
         <h1>寄居者的日记</h1>
         <span>亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)</span><div class="social-icons" >
@@ -213,11 +220,12 @@
 
     </div>
 </div>
-<div class="scroll-indicator">
-            ↓ 滑动阅读最新日记 ↓
-        </div>
+
+    
+    <div class="scroll-indicator">
+        ↓ 滑动阅读最新日记 ↓
     </div>
-</div><div class="content-layer" id="diary-feed">
+</div><div class="spacer"></div><div class="content-layer">
     <article class="post-single" style="margin-bottom: 60px; border-bottom: 2px dashed var(--tertiary); padding-bottom: 40px;">
         <header class="post-header">
             <h1 class="post-title" style="font-size: 2rem; margin-bottom: 15px;">
@@ -227,7 +235,6 @@
                 <span title='2026-03-12 12:00:00 -0500 CDT'>March 12, 2026</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>2794 words</span>
             </div>
         </header>
-        
         <div class="post-content">
             <p>你想活出怎样的人生？</p>
 <p>每当我们这一代人谈起未来，总是免不了叹气。在昨天今天或短或长的聊天里，我就不知道叹了多少回气。虽然我实际非常不喜欢这种不能解决任何实际问题的，类似抱怨的做法，但还是不能自己。在和老友的聊天里，我称之为一种“什么都想抓住的感觉”。</p>
@@ -251,139 +258,141 @@
 <p>那么这些问题，就留给未来的我吧。</p>
 
         </div>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-78</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-1:00 打会MC，熄灯 1:00-8:00 洗漱，睡觉 8:00-9:00 起床，洗漱，泡咖啡，早读（约一5） 9:00-10:00 早读，看视频 10:00-11:00 看视频 11:00-12:00 打Hunt，穿牛肉串 12:00-13:00 烤牛肉，吃午饭，看视频 13:00-14:00 看视频，打Hunt 14:00-15:00 赶去上打篮球 15:00-16:00 打篮球 16:00-17:00 打篮球，听明朝分享 17:00-18:00 骑车回家，买晚饭，看视频 18:00-19:00 赶回家，吃晚饭，打会MC 19:00-20:00 打Hunt，打会MC 20:00-21:00 打Hunt，打会MC 21:00-22:00 打Hunt，解咚谜，打会MC 22:00-23:00 打Hunt，打会MC 23:00-24:00 打Hunt，打会MC </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-04-04 12:00:00 -0500 CDT'>April 4, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>182 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-78" href="http://localhost:1313/posts/diary-078/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-77</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 睡觉 8:00-9:00 起床，洗漱，泡咖啡 9:00-10:00 早读（约一4），打Hunt 10:00-11:00 看视频 11:00-12:00 看视频，打会MC 12:00-13:00 看视频，打会MC 13:00-14:00 烤牛肉 14:00-15:00 赶去上NT 15:00-16:00 上NT 16:00-17:00 上NT 17:00-18:00 和同学一起吃晚饭（吉野家），跑去寻宝 18:00-19:00 寻宝，赶地铁回家 19:00-20:00 打会MC 20:00-21:00 打会MC 21:00-22:00 打会MC 22:00-23:00 打会MC 23:00-24:00 打会MC </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-04-03 12:00:00 -0500 CDT'>April 3, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>120 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-77" href="http://localhost:1313/posts/diary-077/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-76</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-1:00 打Hunt 1:00-9:00 买肉，睡觉 9:00-10:00 起床，洗漱，泡咖啡，早读（约一3），打Hunt 11:00-12:00 打Hunt，解冻牛肉块，烤牛肉串 12:00-13:00 吃午饭，打包牛肉串，叫同学起床，赶去地铁站 13:00-14:00 赶去NT，听书，写日记 14:00-15:00 NT，讲自己故事 15:00-16:00 NT 16:00-17:00 NT 17:00-18:00 吃晚饭（吉野家），赶地铁回家 18:00-19:00 赶地铁回家，跟老妈聊天 19:00-20:00 跟老妈聊天，茶话会（雅2:8-13） 20:00-21:00 茶话会，演情景剧 21:00-22:00 茶话会，解咚谜，蹲坑 22:00-23:00 洗澡，熄灯，睡觉 23:00-24:00 睡觉 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-04-02 12:00:00 -0500 CDT'>April 2, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>178 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-76" href="http://localhost:1313/posts/diary-076/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-75</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 睡觉 8:00-9:00 起床，洗漱，泡咖啡，打Phigros愚人节曲 9:00-10:00 早读（约一2），赶去书店，做歌词 10:00-11:00 打Hunt，解Lilac谜 11:00-12:00 解Lilac谜，看视频 12:00-13:00 看视频 13:00-14:00 看视频，解谜 14:00-15:00 解FISH谜，修权重 15:00-16:00 修权重，解Lilac谜，传歌 16:00-17:00 解Lilac谜，回家拿充电线，赶地铁去金融街 17:00-18:00 赶地铁，读《波依斯》，听书，吃晚饭 18:00-19:00 吃晚饭（吃撑了www），Art History 19:00-20:00 Art History，解明谜 20:00-21:00 Art History（朋友给我们一人买了一杯星巴克哎），赶地铁回家 21:00-22:00 赶地铁回家，解谜 22:00-23:00 解纪谜，打Hunt 23:00-24:00 洗漱，熄灯，打Hunt </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-04-01 12:00:00 -0500 CDT'>April 1, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>240 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-75" href="http://localhost:1313/posts/diary-075/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-74</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 看视频，睡觉 8:00-9:00 起床，洗漱，泡咖啡 9:00-10:00 早读（约一1），打会MC 10:00-11:00 打会MC 11:00-12:00 打会MC 12:00-13:00 打会MC 13:00-14:00 吃午饭，跑去书店 14:00-15:00 整理电脑文件，看视频 15:00-16:00 看视频 16:00-17:00 看视频 17:00-18:00 看视频，和老妈聊天 18:00-19:00 赶去星巴克，看视频 19:00-20:00 看视频 20:00-21:00 看视频 21:00-22:00 赶回家，打Hunt，做歌词 22:00-23:00 解纪谜，做歌词，打会Cypher（学英语啊别误会） 23:00-24:00 洗漱，熄灯，买牛肉，睡觉 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-31 12:00:00 -0500 CDT'>March 31, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>154 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-74" href="http://localhost:1313/posts/diary-074/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-73</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 打Hunt，睡觉 8:00-9:00 起床，洗漱，泡咖啡 9:00-10:00 开会 10:00-11:00 开会，小组讨论 11:00-12:00 小组讨论，送糖 12:00-13:00 回家烤肉，打Hunt 13:00-14:00 吃午饭，打会MC 14:00-15:00 打会MC 15:00-16:00 打会MC 16:00-17:00 打会MC 17:00-18:00 打会MC 18:00-19:00 打会MC 19:00-20:00 打会MC，吃剩下的午饭 20:00-21:00 去星巴克，看加布，取快递，回家 21:00-22:00 打Hunt，准备寄快递 22:00-23:00 解纪谜，打会MC 23:00-24:00 洗漱，看视频 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-30 12:00:00 -0500 CDT'>March 30, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>139 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-73" href="http://localhost:1313/posts/diary-073/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-72</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-7:00 睡觉，起床，洗漱，喝咖啡 7:00-8:00 打Hunt（启动！） 8:00-9:00 打Hunt 9:00-10:00 打Hunt 10:00-11:00 打Hunt 11:00-12:00 打Hunt，吃午饭 12:00-13:00 吃午饭，看空我 13:00-14:00 打Hunt，给大卫买蛋糕 14:00-15:00 Art History 15:00-16:00 Art History 16:00-17:00 Art History，打Hunt 17:00-18:00 Art History，表演魔术（然后意外就发生了），分蛋糕 18:00-19:00 出门买鸡，回家，吃晚饭 19:00-20:00 吃晚饭，打Hunt 20:00-21:00 打Hunt 21:00-22:00 打Hunt 22:00-23:00 解纪谜，打Hunt，洗漱 23:00-24:00 打Hunt（怎么是cryptic啊！），看空我 魔术是有意思，但当你表演的时候出现意外就没有意思了（悲） 今日Hunt进度10/50，同志仍需努力
+    </article><div id="post-list"><h3 style="margin-bottom: 40px; font-size: 1rem; color: var(--tertiary); text-align: center; letter-spacing: 2px;">
+            — 往期目录 —
+        </h3>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-78</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-1:00 打会MC，熄灯 1:00-8:00 洗漱，睡觉 8:00-9:00 起床，洗漱，泡咖啡，早读（约一5） 9:00-10:00 早读，看视频 10:00-11:00 看视频 11:00-12:00 打Hunt，穿牛肉串 12:00-13:00 烤牛肉，吃午饭，看视频 13:00-14:00 看视频，打Hunt 14:00-15:00 赶去上打篮球 15:00-16:00 打篮球 16:00-17:00 打篮球，听明朝分享 17:00-18:00 骑车回家，买晚饭，看视频 18:00-19:00 赶回家，吃晚饭，打会MC 19:00-20:00 打Hunt，打会MC 20:00-21:00 打Hunt，打会MC 21:00-22:00 打Hunt，解咚谜，打会MC 22:00-23:00 打Hunt，打会MC 23:00-24:00 打Hunt，打会MC </p>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-04-04 12:00:00 -0500 CDT'>April 4, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>182 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-78" href="http://localhost:1313/posts/diary-078/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-77</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 睡觉 8:00-9:00 起床，洗漱，泡咖啡 9:00-10:00 早读（约一4），打Hunt 10:00-11:00 看视频 11:00-12:00 看视频，打会MC 12:00-13:00 看视频，打会MC 13:00-14:00 烤牛肉 14:00-15:00 赶去上NT 15:00-16:00 上NT 16:00-17:00 上NT 17:00-18:00 和同学一起吃晚饭（吉野家），跑去寻宝 18:00-19:00 寻宝，赶地铁回家 19:00-20:00 打会MC 20:00-21:00 打会MC 21:00-22:00 打会MC 22:00-23:00 打会MC 23:00-24:00 打会MC </p>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-04-03 12:00:00 -0500 CDT'>April 3, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>120 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-77" href="http://localhost:1313/posts/diary-077/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-76</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-1:00 打Hunt 1:00-9:00 买肉，睡觉 9:00-10:00 起床，洗漱，泡咖啡，早读（约一3），打Hunt 11:00-12:00 打Hunt，解冻牛肉块，烤牛肉串 12:00-13:00 吃午饭，打包牛肉串，叫同学起床，赶去地铁站 13:00-14:00 赶去NT，听书，写日记 14:00-15:00 NT，讲自己故事 15:00-16:00 NT 16:00-17:00 NT 17:00-18:00 吃晚饭（吉野家），赶地铁回家 18:00-19:00 赶地铁回家，跟老妈聊天 19:00-20:00 跟老妈聊天，茶话会（雅2:8-13） 20:00-21:00 茶话会，演情景剧 21:00-22:00 茶话会，解咚谜，蹲坑 22:00-23:00 洗澡，熄灯，睡觉 23:00-24:00 睡觉 </p>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-04-02 12:00:00 -0500 CDT'>April 2, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>178 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-76" href="http://localhost:1313/posts/diary-076/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-75</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 睡觉 8:00-9:00 起床，洗漱，泡咖啡，打Phigros愚人节曲 9:00-10:00 早读（约一2），赶去书店，做歌词 10:00-11:00 打Hunt，解Lilac谜 11:00-12:00 解Lilac谜，看视频 12:00-13:00 看视频 13:00-14:00 看视频，解谜 14:00-15:00 解FISH谜，修权重 15:00-16:00 修权重，解Lilac谜，传歌 16:00-17:00 解Lilac谜，回家拿充电线，赶地铁去金融街 17:00-18:00 赶地铁，读《波依斯》，听书，吃晚饭 18:00-19:00 吃晚饭（吃撑了www），Art History 19:00-20:00 Art History，解明谜 20:00-21:00 Art History（朋友给我们一人买了一杯星巴克哎），赶地铁回家 21:00-22:00 赶地铁回家，解谜 22:00-23:00 解纪谜，打Hunt 23:00-24:00 洗漱，熄灯，打Hunt </p>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-04-01 12:00:00 -0500 CDT'>April 1, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>240 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-75" href="http://localhost:1313/posts/diary-075/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-74</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 看视频，睡觉 8:00-9:00 起床，洗漱，泡咖啡 9:00-10:00 早读（约一1），打会MC 10:00-11:00 打会MC 11:00-12:00 打会MC 12:00-13:00 打会MC 13:00-14:00 吃午饭，跑去书店 14:00-15:00 整理电脑文件，看视频 15:00-16:00 看视频 16:00-17:00 看视频 17:00-18:00 看视频，和老妈聊天 18:00-19:00 赶去星巴克，看视频 19:00-20:00 看视频 20:00-21:00 看视频 21:00-22:00 赶回家，打Hunt，做歌词 22:00-23:00 解纪谜，做歌词，打会Cypher（学英语啊别误会） 23:00-24:00 洗漱，熄灯，买牛肉，睡觉 </p>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-31 12:00:00 -0500 CDT'>March 31, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>154 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-74" href="http://localhost:1313/posts/diary-074/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-73</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 打Hunt，睡觉 8:00-9:00 起床，洗漱，泡咖啡 9:00-10:00 开会 10:00-11:00 开会，小组讨论 11:00-12:00 小组讨论，送糖 12:00-13:00 回家烤肉，打Hunt 13:00-14:00 吃午饭，打会MC 14:00-15:00 打会MC 15:00-16:00 打会MC 16:00-17:00 打会MC 17:00-18:00 打会MC 18:00-19:00 打会MC 19:00-20:00 打会MC，吃剩下的午饭 20:00-21:00 去星巴克，看加布，取快递，回家 21:00-22:00 打Hunt，准备寄快递 22:00-23:00 解纪谜，打会MC 23:00-24:00 洗漱，看视频 </p>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-30 12:00:00 -0500 CDT'>March 30, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>139 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-73" href="http://localhost:1313/posts/diary-073/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-72</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-7:00 睡觉，起床，洗漱，喝咖啡 7:00-8:00 打Hunt（启动！） 8:00-9:00 打Hunt 9:00-10:00 打Hunt 10:00-11:00 打Hunt 11:00-12:00 打Hunt，吃午饭 12:00-13:00 吃午饭，看空我 13:00-14:00 打Hunt，给大卫买蛋糕 14:00-15:00 Art History 15:00-16:00 Art History 16:00-17:00 Art History，打Hunt 17:00-18:00 Art History，表演魔术（然后意外就发生了），分蛋糕 18:00-19:00 出门买鸡，回家，吃晚饭 19:00-20:00 吃晚饭，打Hunt 20:00-21:00 打Hunt 21:00-22:00 打Hunt 22:00-23:00 解纪谜，打Hunt，洗漱 23:00-24:00 打Hunt（怎么是cryptic啊！），看空我 魔术是有意思，但当你表演的时候出现意外就没有意思了（悲） 今日Hunt进度10/50，同志仍需努力
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-29 12:00:00 -0500 CDT'>March 29, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>241 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-72" href="http://localhost:1313/posts/diary-072/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-71</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 睡觉 8:00-9:00 起床，洗漱，下载视频，泡咖啡，吃吐司，打电话叫同学 9:00-10:00 早读（彼后3），整理桌子，玩会MC 10:00-11:00 玩会MC 11:00-12:00 玩会MC 12:00-13:00 玩会MC（真的是一会吗喂！） 13:00-14:00 看空我，吃烧鸡 14:00-15:00 赶去上打篮球 15:00-16:00 打篮球 16:00-17:00 打篮球，庆祝同学生日 17:00-18:00 赶去北大听魔术讲座，写日记，听书 18:00-19:00 听魔术讲座 19:00-20:00 听魔术讲座 20:00-21:00 听魔术讲座，北大寻宝 21:00-22:00 北大寻宝，赶地铁回家 22:00-23:00 解纪谜（又是双首杀好耶！），洗漱，睡觉 23:00-24:00 睡觉 说实话魔术真有意思吧！而且这真的是我能免费看到的？
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-29 12:00:00 -0500 CDT'>March 29, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>241 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-72" href="http://localhost:1313/posts/diary-072/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-71</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 睡觉 8:00-9:00 起床，洗漱，下载视频，泡咖啡，吃吐司，打电话叫同学 9:00-10:00 早读（彼后3），整理桌子，玩会MC 10:00-11:00 玩会MC 11:00-12:00 玩会MC 12:00-13:00 玩会MC（真的是一会吗喂！） 13:00-14:00 看空我，吃烧鸡 14:00-15:00 赶去上打篮球 15:00-16:00 打篮球 16:00-17:00 打篮球，庆祝同学生日 17:00-18:00 赶去北大听魔术讲座，写日记，听书 18:00-19:00 听魔术讲座 19:00-20:00 听魔术讲座 20:00-21:00 听魔术讲座，北大寻宝 21:00-22:00 北大寻宝，赶地铁回家 22:00-23:00 解纪谜（又是双首杀好耶！），洗漱，睡觉 23:00-24:00 睡觉 说实话魔术真有意思吧！而且这真的是我能免费看到的？
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-28 12:00:00 -0500 CDT'>March 28, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>201 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-71" href="http://localhost:1313/posts/diary-071/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-70</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 看视频，买牛奶，睡觉 8:00-9:00 起床，洗漱，泡咖啡，网站签到，看PH资料，打电话叫同学 9:00-10:00 早读（彼后2），准备书包 10:00-11:00 玩会MC 11:00-12:00 玩会MC 12:00-13:00 玩会MC，拿快递，赶去书店 13:00-14:00 录书 14:00-15:00 录书，看视频，玩会MC 15:00-16:00 玩会MC，帮老爸联系机场找耳机 16:00-17:00 玩会MC，补录书 17:00-18:00 玩会MC，做晚饭 18:00-19:00 吃完饭，拿快递 19:00-20:00 赶去机场，听书，升级京东会员 20:00-21:00 赶去机场，听书，失物招领处拿耳机，解纪谜（又是双首杀好耶！） 21:00-22:00 赶回家，和老妈视频，写日记 22:00-23:00 玩会MC 23:00-24:00 玩会MC，洗漱，睡觉 收到消息后飞速赶往机场拿耳机，这可比解谜简单多了…… 不对，我谜也解出来了！
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-28 12:00:00 -0500 CDT'>March 28, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>201 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-71" href="http://localhost:1313/posts/diary-071/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-70</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 看视频，买牛奶，睡觉 8:00-9:00 起床，洗漱，泡咖啡，网站签到，看PH资料，打电话叫同学 9:00-10:00 早读（彼后2），准备书包 10:00-11:00 玩会MC 11:00-12:00 玩会MC 12:00-13:00 玩会MC，拿快递，赶去书店 13:00-14:00 录书 14:00-15:00 录书，看视频，玩会MC 15:00-16:00 玩会MC，帮老爸联系机场找耳机 16:00-17:00 玩会MC，补录书 17:00-18:00 玩会MC，做晚饭 18:00-19:00 吃完饭，拿快递 19:00-20:00 赶去机场，听书，升级京东会员 20:00-21:00 赶去机场，听书，失物招领处拿耳机，解纪谜（又是双首杀好耶！） 21:00-22:00 赶回家，和老妈视频，写日记 22:00-23:00 玩会MC 23:00-24:00 玩会MC，洗漱，睡觉 收到消息后飞速赶往机场拿耳机，这可比解谜简单多了…… 不对，我谜也解出来了！
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-27 12:00:00 -0500 CDT'>March 27, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>246 words</span>
-        </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-70" href="http://localhost:1313/posts/diary-070/"></a>
-    </article>
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>寄居者的日记-69</h2>
-        </header>
-        <div class="entry-content">
-            <p> 0:00-8:00 睡觉 8:00-9:00 起床，约北大入校，写日记，洗漱，泡咖啡，打电话叫同学 9:00-10:00 早读（彼后1），烤羊肉，准备书包 10:00-11:00 吃午饭，赶去书店，录书 11:00-12:00 录书 12:00-13:00 录书 13:00-14:00 休息，赶去打篮球 14:00-15:00 打篮球 15:00-16:00 打篮球 16:00-17:00 打篮球，听同学5min分享 17:00-18:00 赶回书店，买晚饭，买柠檬水，录书 18:00-19:00 录书 19:00-20:00 茶话会（雅2:1-9），吃水果，演情景剧，看同学喝豆汁 20:00-21:00 小组讨论（jh内的以貌待人？） 21:00-22:00 小组讨论（差别对待？），分享代祷事项 22:00-23:00 解纪谜，回家，洗漱，洗脚（今天打球磨出泡了啊啊啊），上床 23:00-24:00 熄灯，看视频（不是瓶子君忏悔电台怎么那么多神人啊） 录书累到怀疑人生……明明还有好多好多要做的事情但根本没时间……
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-27 12:00:00 -0500 CDT'>March 27, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>246 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-70" href="http://localhost:1313/posts/diary-070/"></a>
+        </article>
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>寄居者的日记-69</h2>
+            </header>
+            <div class="entry-content">
+                <p> 0:00-8:00 睡觉 8:00-9:00 起床，约北大入校，写日记，洗漱，泡咖啡，打电话叫同学 9:00-10:00 早读（彼后1），烤羊肉，准备书包 10:00-11:00 吃午饭，赶去书店，录书 11:00-12:00 录书 12:00-13:00 录书 13:00-14:00 休息，赶去打篮球 14:00-15:00 打篮球 15:00-16:00 打篮球 16:00-17:00 打篮球，听同学5min分享 17:00-18:00 赶回书店，买晚饭，买柠檬水，录书 18:00-19:00 录书 19:00-20:00 茶话会（雅2:1-9），吃水果，演情景剧，看同学喝豆汁 20:00-21:00 小组讨论（jh内的以貌待人？） 21:00-22:00 小组讨论（差别对待？），分享代祷事项 22:00-23:00 解纪谜，回家，洗漱，洗脚（今天打球磨出泡了啊啊啊），上床 23:00-24:00 熄灯，看视频（不是瓶子君忏悔电台怎么那么多神人啊） 录书累到怀疑人生……明明还有好多好多要做的事情但根本没时间……
 </p>
-        </div>
-        <footer class="entry-footer">
-            <span title='2025-03-26 12:00:00 -0500 CDT'>March 26, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>265 words</span>
+            </div>
+            <footer class="entry-footer">
+                <span title='2025-03-26 12:00:00 -0500 CDT'>March 26, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>265 words</span>
+            </footer>
+            <a class="entry-link" aria-label="post link to 寄居者的日记-69" href="http://localhost:1313/posts/diary-069/"></a>
+        </article>
+        <footer class="page-footer">
+            <nav class="pagination">
+                <a class="prev" href="/page/5/#post-list">« 上一页</a>
+                <a class="next" href="/page/7/#post-list">下一页 »</a>
+            </nav>
         </footer>
-        <a class="entry-link" aria-label="post link to 寄居者的日记-69" href="http://localhost:1313/posts/diary-069/"></a>
-    </article>
-    <footer class="page-footer">
-        <nav class="pagination">
-            <a class="prev" href="/page/5/#diary-feed">« 上一页</a>
-            <a class="next" href="/page/7/#diary-feed">下一页 »</a>
-        </nav>
-    </footer>
 
-</div>
+    </div></div>
     </main>
     
 <footer class="footer">
@@ -394,6 +403,8 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
+
+    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -460,6 +471,7 @@
         }
     })
 
-</script></body>
+</script>
+</body>
 
 </html>

@@ -1,7 +1,7 @@
 {{- define "main" }}
 
 <style>
-    /* 1. 冻结顶部导航栏 */
+    /* 1. 冻结导航栏 */
     .header {
         position: sticky !important;
         top: 0;
@@ -10,97 +10,107 @@
         border-bottom: 1px solid var(--tertiary);
     }
 
-    /* --- 新增：结界容器 --- */
-    /* 限制 sticky 的生效范围，滚过一屏高度后，底层就会自动跟着滚走，不会漏到底部 */
-    .hero-container {
-        height: 100vh; 
-        position: relative;
+    /* 2. 底层：真正固定，且撑满全屏，保证大标题不动、文字不失踪 */
+    .hero-fixed {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
         z-index: 1;
-    }
-
-    /* 2. 底层：个人介绍 */
-    .hero-layer {
-        position: sticky;
-        top: 15vh; /* 保持在屏幕偏上位置 */
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        pointer-events: none; /* 让鼠标穿透，不影响下方卡片点击 */
+    }
+    
+    .hero-fixed > * {
+        pointer-events: auto; /* 恢复内部元素的正常交互 */
     }
 
     @keyframes bounce-breathe {
-        0%, 100% { 
-            transform: translateY(0); 
-            opacity: 0.3; 
-        }
-        50% { 
-            transform: translateY(10px); 
-            opacity: 0.8; 
-        }
+        0%, 100% { transform: translateY(0); opacity: 0.3; }
+        50% { transform: translateY(10px); opacity: 0.8; }
     }
 
-    /* 恢复到最自然的文档流位置 */
+    /* 修复呼吸灯：绝对定位到屏幕最下方偏上一点，永远可见 */
     .scroll-indicator {
-        margin-top: 0vh; /* 距离上方介绍大约 0% 的屏幕高度，位置刚刚好 */
+        position: absolute;
+        bottom: 10vh;
         color: var(--tertiary);
         font-size: 0.9rem;
         letter-spacing: 2px;
         animation: bounce-breathe 2.5s infinite ease-in-out;
     }
 
-    /* 3. 顶层：日记卡片 */
+    /* 3. 透明空气墙：负责把下面的实体卡片推到第一屏以外 */
+    .spacer {
+        height: 100vh;
+        width: 100%;
+        pointer-events: none;
+    }
+
+    /* 4. 顶层悬浮卡片 */
     .content-layer {
         position: relative;
         z-index: 2;
         background: var(--theme);
         
-        /* 左右留白，底部留出 60px 以展示圆角 */
-        margin: 0 20px 60px 20px; 
+        /* 核心修改：移除底部的 margin 和圆角，让它顺滑地与页脚融合，完美防止走光 */
+        margin: 0 20px 0 20px; 
         padding: 60px 40px;
-        border-radius: 40px; /* 四角全圆 */
+        border-radius: 40px;
         
-        box-shadow: 0 0 60px rgba(0,0,0,0.06); 
-        border: 1px solid var(--tertiary);
-        /* 设置锚点跳转时的顶部预留空间，防止被冻结的导航栏遮挡！ */
-        scroll-margin-top: 80px;
+        box-shadow: 0 -20px 60px rgba(0,0,0,0.06); 
+        border-top: 1px solid var(--tertiary);
+        border-left: 1px solid var(--tertiary);
+        border-right: 1px solid var(--tertiary);
+        border-bottom: none; /* 去除底部边框 */
     }
 
     /* 移动端自适应 */
     @media (max-width: 768px) {
         .content-layer {
-            margin: 0 10px 40px 10px;
+            margin: -60px 10px 0 10px;
             padding: 40px 20px;
-            border-radius: 30px;
+            border-radius: 30px 30px 0 0;
         }
+    }
+
+    /* 5. 锚点偏移：精准对齐目录顶部 */
+    #post-list {
+        scroll-margin-top: 100px; /* 留出导航栏被遮挡的空间 */
+        padding-top: 20px;
     }
 </style>
 
 {{- /* ========================================== */ -}}
-{{- /* 渲染底层：主页介绍（套入新结界 container） */ -}}
+{{- /* 图层 1：绝对固定的全屏信息层 */ -}}
 {{- /* ========================================== */ -}}
-<div class="hero-container">
-    <div class="hero-layer">
-        {{- if (and site.Params.profileMode.enabled .IsHome) }}
-            {{- partial "index_profile.html" . }}
-        {{- else -}}
-            {{- if .IsHome }}
-                {{- partial "home_info.html" . }}
-            {{- end -}}
-        {{- end }}
-        
-        {{- /* 呼吸灯文字回到了正常顺延的位置 */ -}}
-        <div class="scroll-indicator">
-            ↓ 滑动阅读最新日记 ↓
-        </div>
+<div class="hero-fixed">
+    {{- if (and site.Params.profileMode.enabled .IsHome) }}
+        {{- partial "index_profile.html" . }}
+    {{- else -}}
+        {{- if .IsHome }}
+            {{- partial "home_info.html" . }}
+        {{- end -}}
+    {{- end }}
+    
+    <div class="scroll-indicator">
+        ↓ 滑动阅读最新日记 ↓
     </div>
 </div>
 
+{{- /* 图层 2：透明空气支撑墙 */ -}}
+<div class="spacer"></div>
+
 {{- /* ========================================== */ -}}
-{{- /* 渲染顶层：卡片式文章列表 */ -}}
-{{- /* （直接紧接在 container 后面） */ -}}
+{{- /* 图层 3：悬浮实体卡片 */ -}}
 {{- /* ========================================== */ -}}
-<div class="content-layer" id="diary-feed">
+<div class="content-layer">
     
+    {{- /* 渲染最新日记 */ -}}
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- $latest := first 1 $pages }}
 
@@ -114,44 +124,54 @@
                 {{ partial "post_meta.html" . }}
             </div>
         </header>
-        
         <div class="post-content">
             {{ .Content }}
         </div>
     </article>
     {{- end }}
 
-    {{- $list_pages := $pages | complement $latest }}
-    {{- $paginator := .Paginate $list_pages }}
+    {{- /* ====== 核心改动：往期目录与锚点 ====== */ -}}
+    <div id="post-list">
+        
+        {{- /* 加一个优雅的小标题，让跳转落地更明确 */ -}}
+        <h3 style="margin-bottom: 40px; font-size: 1rem; color: var(--tertiary); text-align: center; letter-spacing: 2px;">
+            — 往期目录 —
+        </h3>
 
-    {{- range $paginator.Pages }}
-    <article class="post-entry">
-        <header class="entry-header">
-            <h2>{{ .Title }}</h2>
-        </header>
-        <div class="entry-content">
-            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-        </div>
-        <footer class="entry-footer">
-            {{ partial "post_meta.html" . }}
+        {{- $list_pages := $pages | complement $latest }}
+        {{- $paginator := .Paginate $list_pages }}
+
+        {{- range $paginator.Pages }}
+        <article class="post-entry">
+            <header class="entry-header">
+                <h2>{{ .Title }}</h2>
+            </header>
+            <div class="entry-content">
+                <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+            </div>
+            <footer class="entry-footer">
+                {{ partial "post_meta.html" . }}
+            </footer>
+            <a class="entry-link" aria-label="post link to {{ .Title }}" href="{{ .Permalink }}"></a>
+        </article>
+        {{- end }}
+
+        {{- if gt $paginator.TotalPages 1 }}
+        <footer class="page-footer">
+            <nav class="pagination">
+                {{- /* 注意这里的锚点改成了 #post-list */ -}}
+                {{- if $paginator.HasPrev }}
+                <a class="prev" href="{{ $paginator.Prev.URL }}#post-list">« 上一页</a>
+                {{- end }}
+                {{- if $paginator.HasNext }}
+                <a class="next" href="{{ $paginator.Next.URL }}#post-list">下一页 »</a>
+                {{- end }}
+            </nav>
         </footer>
-        <a class="entry-link" aria-label="post link to {{ .Title }}" href="{{ .Permalink }}"></a>
-    </article>
-    {{- end }}
+        {{- end }}
 
-    {{- if gt $paginator.TotalPages 1 }}
-    <footer class="page-footer">
-        <nav class="pagination">
-            {{- if $paginator.HasPrev }}
-            <a class="prev" href="{{ $paginator.Prev.URL }}#diary-feed">« 上一页</a>
-            {{- end }}
-            {{- if $paginator.HasNext }}
-            <a class="next" href="{{ $paginator.Next.URL }}#diary-feed">下一页 »</a>
-            {{- end }}
-        </nav>
-    </footer>
-    {{- end }}
+    </div> {{- /* 结束 post-list 容器 */ -}}
 
-</div> {{- /* 结束卡片层 */ -}}
+</div> {{- /* 结束 content-layer 卡片层 */ -}}
 
 {{- end }}{{- /* end main */ -}}
