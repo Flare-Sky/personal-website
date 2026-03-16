@@ -139,6 +139,13 @@
         border-bottom: 1px solid var(--tertiary);
     }
 
+    .hero-wrapper {
+        height: 100vh;  
+        height: 100dvh;  
+        position: relative;
+        z-index: 1;
+    }
+
      
     .hero-fixed {
         position: fixed;
@@ -166,7 +173,7 @@
      
     .scroll-indicator {
         position: absolute;
-        bottom: 10vh;
+        bottom: 1vh;
         color: var(--tertiary);
         font-size: 0.9rem;
         letter-spacing: 2px;
@@ -380,7 +387,42 @@
             </nav>
         </footer>
 
-    </div></div>
+    </div></div><script>
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        
+        const hero = document.querySelector('.hero-fixed'); 
+        
+        if (!hero) {
+            console.error("CS排错：找不到 .hero-fixed 元素，请检查上面的 HTML 结构！");
+            return;
+        }
+
+        
+        window.addEventListener('scroll', function() {
+            
+            const scrollY = window.scrollY || document.documentElement.scrollTop;
+            
+            
+            let currentOpacity = 1 - (scrollY / 500);
+            
+            
+            if (currentOpacity < 0) {
+                currentOpacity = 0;
+            }
+            
+            
+            hero.style.opacity = currentOpacity;
+            
+            
+            if (currentOpacity === 0) {
+                hero.style.visibility = 'hidden';
+            } else {
+                hero.style.visibility = 'visible';
+            }
+        });
+    });
+</script>
     </main>
     
 <footer class="footer">

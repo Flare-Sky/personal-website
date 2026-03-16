@@ -10,6 +10,13 @@
         border-bottom: 1px solid var(--tertiary);
     }
 
+    .hero-wrapper {
+        height: 100vh; /* 旧浏览器兜底 */
+        height: 100dvh; /* 现代浏览器动态视口：完美解决手机地址栏伸缩导致的抖动 */
+        position: relative;
+        z-index: 1;
+    }
+
     /* 2. 底层：真正固定，且撑满全屏，保证大标题不动、文字不失踪 */
     .hero-fixed {
         position: fixed;
@@ -37,7 +44,7 @@
     /* 修复呼吸灯：绝对定位到屏幕最下方偏上一点，永远可见 */
     .scroll-indicator {
         position: absolute;
-        bottom: 10vh;
+        bottom: 1vh;
         color: var(--tertiary);
         font-size: 0.9rem;
         letter-spacing: 2px;
@@ -159,7 +166,6 @@
         {{- if gt $paginator.TotalPages 1 }}
         <footer class="page-footer">
             <nav class="pagination">
-                {{- /* 注意这里的锚点改成了 #post-list */ -}}
                 {{- if $paginator.HasPrev }}
                 <a class="prev" href="{{ $paginator.Prev.URL }}#post-list">« 上一页</a>
                 {{- end }}
@@ -173,5 +179,45 @@
     </div> {{- /* 结束 post-list 容器 */ -}}
 
 </div> {{- /* 结束 content-layer 卡片层 */ -}}
+
+{{- /* ========================================== */ -}}
+{{- /* 页面滚动特效：底层平滑渐隐 */ -}}
+{{- /* ========================================== */ -}}
+<script>
+    // 使用 DOMContentLoaded 确保网页所有的 HTML 都加载完毕后再执行抓取
+    document.addEventListener('DOMContentLoaded', function() {
+        // 直接使用 class 抓取，不需要再管 ID 加没加对
+        const hero = document.querySelector('.hero-fixed'); 
+        
+        if (!hero) {
+            console.error("CS排错：找不到 .hero-fixed 元素，请检查上面的 HTML 结构！");
+            return;
+        }
+
+        // 监听整个窗口的滚动事件
+        window.addEventListener('scroll', function() {
+            // 获取滚动的像素距离，兼容各种手机浏览器
+            const scrollY = window.scrollY || document.documentElement.scrollTop;
+            
+            // 计算透明度 (下滑 300px 内逐渐变成 0)
+            let currentOpacity = 1 - (scrollY / 500);
+            
+            // 防止透明度变成负数
+            if (currentOpacity < 0) {
+                currentOpacity = 0;
+            }
+            
+            // 应用透明度
+            hero.style.opacity = currentOpacity;
+            
+            // 双保险：一旦完全透明，立刻把这个图层在物理层面上“变没”，彻底防止手机端穿帮
+            if (currentOpacity === 0) {
+                hero.style.visibility = 'hidden';
+            } else {
+                hero.style.visibility = 'visible';
+            }
+        });
+    });
+</script>
 
 {{- end }}{{- /* end main */ -}}
