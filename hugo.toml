@@ -1,4 +1,4 @@
-baseURL = 'https://flare-sky.github.io/'
+baseURL = 'https://flaresky.me/'
 languageCode = 'zh-cn'
 title = '寄居者的日记'
 theme = 'PaperMod'
