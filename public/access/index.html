@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <title>Access</title>
+    <style>
+        body {
+            background: #020305;
+            color: #cfefff;
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+        input {
+            padding: 10px;
+            background: black;
+            border: 1px solid #88cde0;
+            color: #cfefff;
+            outline: none;  
+        }
+        button {
+            padding: 10px;
+            margin-left: 10px;
+            background: #0c141a;
+            color: #88cde0;
+            border: 1px solid #88cde0;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #1a2a35;  
+        }
+    </style>
+</head>
+<body>
+    <h1>Access</h1>
+    <p>请输入访问密钥：</p>
+    <input id="pwd" type="text" autocomplete="off">
+    <button onclick="check()">验证</button>
+    <p id="msg"></p>
+
+    <script>
+        
+        function hash(str) {
+            let h = 0;
+            for(let i=0; i<str.length; i++) {
+                h = (h<<5) - h + str.charCodeAt(i);
+                h |= 0;
+            }
+            return h;
+        }
+
+        const correct = 1449586178;
+
+        function check() {
+            let input = document.getElementById("pwd").value;
+            
+            
+            if (input.length !== 52) {
+                document.getElementById("msg").innerText = "Access Denied";
+                document.getElementById("msg").style.color = "red"; 
+                return;
+            }
+            
+            
+            if (hash(input) === correct) {
+                sessionStorage.setItem("access_granted", "true");
+                
+                window.location.href = "/hidden/"; 
+            } else {
+                document.getElementById("msg").innerText = "Access Denied";
+                document.getElementById("msg").style.color = "red";
+            }
+        }
+
+        
+        document.getElementById("pwd").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                check();
+            }
+        });
+    </script>
+</body>
+</html>

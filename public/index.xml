@@ -2150,5 +2150,19 @@
       <description>&lt;p&gt;今天早上在绿皮火车的轰鸣声中回到了杭州，忙碌了一整天，晚上突发奇想写个日记记录一下。&lt;/p&gt;
 &lt;p&gt;由于家里的房子已经租出去了，只好在同学家过夜了。中午的面是自己做的，味道还行；下午去踢了足球，悲哀地发现在江西没有好好训练导致现在被小朋友们吊着打；晚上就一直在写稿子，是关于这一年半我都做了些什么的。到时候应该会发在我母亲的公众号上面留个档，所以在这里顺手做个宣传：关注恩典时光(现已更名为“恩典时光之路”)！了解我的黑历史（不&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Restricted</title>
+      <link>http://localhost:1313/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hidden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Access</title>
+      <link>http://localhost:1313/access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/access/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Access</title>
+    <style>
+        body {
+            background: #020305;
+            color: #cfefff;
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+        input {
+            padding: 10px;
+            background: black;
+            border: 1px solid #88cde0;
+            color: #cfefff;
+            outline: none; /* 加上 outline: none 让点击时不会出现默认的白框，更精致 */
+        }
+        button {
+            padding: 10px;
+            margin-left: 10px;
+            background: #0c141a;
+            color: #88cde0;
+            border: 1px solid #88cde0;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #1a2a35; /* 微微加一点 hover 反馈 */
+        }
+    </style>
+</head>
+<body>
+    <h1>Access</h1>
+    <p>请输入访问密钥：</p>
+    <input id="pwd" type="text" autocomplete="off">
+    <button onclick="check()">验证</button>
+    <p id="msg"></p>
+
+    <script>
+        // 核心：致敬原版的脆弱线性哈希算法
+        function hash(str) {
+            let h = 0;
+            for(let i=0; i<str.length; i++) {
+                h = (h<<5) - h + str.charCodeAt(i);
+                h |= 0;
+            }
+            return h;
+        }
+
+        const correct = 1449586178;
+
+        function check() {
+            let input = document.getElementById("pwd").value;
+            
+            // 长度必须是 52 位
+            if (input.length !== 52) {
+                document.getElementById("msg").innerText = "Access Denied";
+                document.getElementById("msg").style.color = "red"; // 加点红色的视觉警告
+                return;
+            }
+            
+            // 验证通过
+            if (hash(input) === correct) {
+                sessionStorage.setItem("access_granted", "true");
+                // 适配 Hugo 的干净路由，跳转到 /hidden/ 目录
+                window.location.href = "/hidden/"; 
+            } else {
+                document.getElementById("msg").innerText = "Access Denied";
+                document.getElementById("msg").style.color = "red";
+            }
+        }
+
+        // 绑定回车键触发
+        document.getElementById("pwd").addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                check();
+            }
+        });
+    </script>
+</body>
+</html>

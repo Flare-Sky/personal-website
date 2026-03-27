@@ -1,0 +1,78 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+<div id="searchbox">
+    {{- /* ⚠️ 修复点 1：将 SVG 必须放在 input 的上方，保持 PaperMod 原有的 DOM 渲染顺序 */ -}}
+    <svg id="secret-magnifier" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+    
+    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s ↵" .Title) }}"
+        aria-label="search" type="search" autocomplete="off" maxlength="64">
+</div>
+
+<ul id="searchResults" aria-label="search results"></ul>
+
+{{- /* ========================================== */ -}}
+{{- /* 极客暗门：样式与逻辑分离 */ -}}
+{{- /* ========================================== */ -}}
+<style>
+    /* ⚠️ 修复点 2：用纯 CSS 处理动画和图层，绝不破坏原有排版 */
+    #secret-magnifier {
+        cursor: pointer;
+        transition: all 0.3s ease;
+        /* 强制覆盖主题的鼠标穿透属性，让图标准备好接收点击！ */
+        pointer-events: auto !important; 
+        z-index: 10;
+    }
+    
+    /* 悬浮微交互暗示 */
+    #secret-magnifier:hover {
+        stroke: var(--tertiary);
+        transform: scale(1.15) rotate(5deg);
+    }
+    
+    /* 断电转场特效 */
+    .blackout {
+        background-color: #000 !important;
+        transition: background-color 0.4s ease;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const magnifier = document.getElementById('secret-magnifier');
+        const searchInput = document.getElementById('searchInput');
+
+        if (magnifier) {
+            magnifier.addEventListener('click', function() {
+                // 1. 制造终端入侵视觉
+                if (searchInput) {
+                    searchInput.value = "/// CONNECTING TO SECURE TERMINAL ///";
+                    searchInput.style.color = "#00ff00";
+                    searchInput.style.fontFamily = "monospace";
+                    searchInput.disabled = true;
+                }
+
+                // 2. 模拟关灯特效
+                document.body.classList.add('blackout');
+                
+                // 3. 坠入暗网控制台
+                setTimeout(() => {
+                    window.location.href = "/access/";
+                }, 600);
+            });
+        }
+    });
+</script>
+
+{{- end }}
