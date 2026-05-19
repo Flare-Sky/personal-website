@@ -33,8 +33,8 @@
 1.  **克隆仓库及子模块:**
 
     ```bash
-    git clone --recurse-submodules [https://github.com/Flare-Sky/Flare-Sky.github.io](https://github.com/Flare-Sky/Flare-Sky.github.io)
-    cd Flare-Sky.github.io
+    git clone --recurse-submodules https://github.com/Flare-Sky/personal-website.git
+    cd personal-website
     ```
 
 2.  **启动 Hugo 本地服务器:**

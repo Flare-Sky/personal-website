@@ -33,8 +33,8 @@ To start the local development server and preview the project, follow these step
 1.  **Clone the repository and submodules:**
 
     ```bash
-    git clone --recurse-submodules [https://github.com/Flare-Sky/Flare-Sky.github.io](https://github.com/Flare-Sky/Flare-Sky.github.io)
-    cd Flare-Sky.github.io
+    git clone --recurse-submodules https://github.com/Flare-Sky/personal-website.git
+    cd personal-website
     ```
 
 2.  **Start the Hugo local server:**
