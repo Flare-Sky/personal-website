@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
+<html lang="zh" dir="auto" data-theme="auto">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +20,8 @@
 <link rel="mask-icon" href="http://localhost:1313/favicon.ico">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/diary-017/">
+<link rel="alternate" hreflang="zh" href="http://localhost:1313/posts/diary-017/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/en/posts/diary-017/">
 <noscript>
     <style>
         #theme-toggle,
@@ -72,7 +73,7 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</script>
 </head>
 <body id="top">
     <header class="header">
@@ -100,6 +101,12 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
+                    <ul class="lang-switch"><li>|</li>
+                        <li>
+                            <a href="http://localhost:1313/en/" title="En"
+                                aria-label="En">En</a>
+                        </li>
+                    </ul>
             </div>
         </div>
         <ul id="menu">
@@ -134,7 +141,12 @@
     <h1 class="post-title entry-hint-parent">
       寄居者的日记-17
     </h1>
-    <div class="post-meta"><span title='2024-12-15 12:00:00 -0500 -0500'>December 15, 2024</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>116 words</span>
+    <div class="post-meta"><span title='2024-12-15 12:00:00 -0500 -0500'>2024年12月15日</span>&nbsp;·&nbsp;<span>1 分钟</span>&nbsp;·&nbsp;<span>116 字</span>&nbsp;|&nbsp;<span>语言:</span>
+<ul class="i18n_list">
+    <li>
+        <a href="http://localhost:1313/en/posts/diary-017/">En</a>
+    </li>
+</ul>
 
 </div>
   </header> 
@@ -152,19 +164,23 @@
       <li><a href="http://localhost:1313/tags/%E6%9D%AD%E5%B7%9E/">杭州</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="http://localhost:1313/posts/diary-016/">
-    <span class="title">« Prev</span>
-    <br>
-    <span>寄居者的日记-16</span>
-  </a>
-  <a class="next" href="http://localhost:1313/posts/diary-018/">
-    <span class="title">Next »</span>
+  <a class="prev" href="http://localhost:1313/posts/diary-018/">
+    <span class="title">« 上一页</span>
     <br>
     <span>寄居者的日记-18</span>
   </a>
+  <a class="next" href="http://localhost:1313/posts/diary-016/">
+    <span class="title">下一页 »</span>
+    <br>
+    <span>寄居者的日记-16</span>
+  </a>
 </nav>
+
   </footer><div class="comments-container" style="margin-top: 50px; padding: 20px; background: var(--entry); border-radius: var(--radius); border: 1px solid var(--border);">
-    <h3 style="margin-bottom: 20px; border-bottom: 2px solid var(--tertiary); padding-bottom: 10px;">讨论与评论</h3>
+    
+    <h3 style="margin-bottom: 20px; border-bottom: 2px solid var(--tertiary); padding-bottom: 10px;">
+        讨论与评论
+    </h3>
     
     <script src="https://giscus.app/client.js"
         data-repo="Flare-Sky/personal-website"
@@ -181,7 +197,7 @@
         crossorigin="anonymous"
         async>
     </script>
-    </div>
+</div>
 </article>
     </main>
     
@@ -193,14 +209,67 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
-
-    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><style>
+body {
+    animation: langFadeIn 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes langFadeIn {
+    0% { opacity: 0; filter: blur(2px); transform: translateY(4px); }
+    100% { opacity: 1; filter: blur(0); transform: translateY(0); }
+}
+
+body.lang-switching {
+    animation: langFadeOut 0.25s ease-out forwards;
+}
+@keyframes langFadeOut {
+    0% { opacity: 1; transform: scale(1); filter: blur(0); }
+    100% { opacity: 0; transform: scale(0.99); filter: blur(2px); }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const langLinks = document.querySelectorAll('.lang-switch a');
+    
+    langLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            const currentPath = window.location.pathname;
+            
+            const currentLang = document.documentElement.lang;
+            
+            let targetUrl = "";
+            
+            if (currentLang.startsWith("zh")) {
+                if (currentPath === "/" || currentPath === "") {
+                    targetUrl = "/en/";
+                } else {
+                    targetUrl = "/en" + currentPath.replace(/\/$/, "") + "/";
+                }
+            } else {
+                targetUrl = currentPath.replace(/^\/en/, "");
+                if (targetUrl === "" || targetUrl === "/") {
+                    targetUrl = "/";
+                } else {
+                    targetUrl = targetUrl.replace(/\/$/, "") + "/";
+                }
+            }
+            
+            document.body.classList.add('lang-switching');
+            
+            setTimeout(() => {
+                window.location.href = targetUrl;
+            }, 250);
+        });
+    });
+});
+</script>
 
 <script>
     let menu = document.getElementById('menu');

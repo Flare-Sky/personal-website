@@ -1,7 +1,6 @@
 {{- define "main" }}
 
 <style>
-    /* 1. 冻结导航栏 */
     .header {
         position: sticky !important;
         top: 0;
@@ -11,13 +10,11 @@
     }
 
     .hero-wrapper {
-        height: 100vh; /* 旧浏览器兜底 */
-        height: 100dvh; /* 现代浏览器动态视口：完美解决手机地址栏伸缩导致的抖动 */
+        height: 100vh;
         position: relative;
         z-index: 1;
     }
 
-    /* 2. 底层：真正固定，且撑满全屏，保证大标题不动、文字不失踪 */
     .hero-fixed {
         position: fixed;
         top: 0;
@@ -29,11 +26,11 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        pointer-events: none; /* 让鼠标穿透，不影响下方卡片点击 */
+        pointer-events: none;
     }
     
     .hero-fixed > * {
-        pointer-events: auto; /* 恢复内部元素的正常交互 */
+        pointer-events: auto;
     }
 
     @keyframes bounce-breathe {
@@ -41,7 +38,6 @@
         50% { transform: translateY(10px); opacity: 0.8; }
     }
 
-    /* 修复呼吸灯：绝对定位到屏幕最下方偏上一点，永远可见 */
     .scroll-indicator {
         position: absolute;
         bottom: 1vh;
@@ -51,20 +47,17 @@
         animation: bounce-breathe 2.5s infinite ease-in-out;
     }
 
-    /* 3. 透明空气墙：负责把下面的实体卡片推到第一屏以外 */
     .spacer {
         height: 100vh;
         width: 100%;
         pointer-events: none;
     }
 
-    /* 4. 顶层悬浮卡片 */
     .content-layer {
         position: relative;
         z-index: 2;
         background: var(--theme);
         
-        /* 核心修改：移除底部的 margin 和圆角，让它顺滑地与页脚融合，完美防止走光 */
         margin: 0 20px 0 20px; 
         padding: 60px 40px;
         border-radius: 40px;
@@ -73,10 +66,9 @@
         border-top: 1px solid var(--tertiary);
         border-left: 1px solid var(--tertiary);
         border-right: 1px solid var(--tertiary);
-        border-bottom: none; /* 去除底部边框 */
+        border-bottom: none;
     }
 
-    /* 移动端自适应 */
     @media (max-width: 768px) {
         .content-layer {
             margin: -60px 10px 0 10px;
@@ -85,16 +77,12 @@
         }
     }
 
-    /* 5. 锚点偏移：精准对齐目录顶部 */
     #post-list {
-        scroll-margin-top: 100px; /* 留出导航栏被遮挡的空间 */
+        scroll-margin-top: 100px;
         padding-top: 20px;
     }
 </style>
 
-{{- /* ========================================== */ -}}
-{{- /* 图层 1：绝对固定的全屏信息层 */ -}}
-{{- /* ========================================== */ -}}
 <div class="hero-fixed">
     {{- if (and site.Params.profileMode.enabled .IsHome) }}
         {{- partial "index_profile.html" . }}
@@ -109,12 +97,8 @@
     </div>
 </div>
 
-{{- /* 图层 2：透明空气支撑墙 */ -}}
 <div class="spacer"></div>
 
-{{- /* ========================================== */ -}}
-{{- /* 图层 3：悬浮实体卡片 */ -}}
-{{- /* ========================================== */ -}}
 <div class="content-layer">
     
     {{- /* 渲染最新日记 */ -}}
@@ -137,10 +121,8 @@
     </article>
     {{- end }}
 
-    {{- /* ====== 核心改动：往期目录与锚点 ====== */ -}}
     <div id="post-list">
         
-        {{- /* 加一个优雅的小标题，让跳转落地更明确 */ -}}
         <h3 style="margin-bottom: 40px; font-size: 1rem; color: var(--tertiary); text-align: center; letter-spacing: 2px;">
             — 往期目录 —
         </h3>
@@ -176,17 +158,12 @@
         </footer>
         {{- end }}
 
-    </div> {{- /* 结束 post-list 容器 */ -}}
+    </div>
 
-</div> {{- /* 结束 content-layer 卡片层 */ -}}
+</div>
 
-{{- /* ========================================== */ -}}
-{{- /* 页面滚动特效：底层平滑渐隐 */ -}}
-{{- /* ========================================== */ -}}
 <script>
-    // 使用 DOMContentLoaded 确保网页所有的 HTML 都加载完毕后再执行抓取
     document.addEventListener('DOMContentLoaded', function() {
-        // 直接使用 class 抓取，不需要再管 ID 加没加对
         const hero = document.querySelector('.hero-fixed'); 
         
         if (!hero) {
@@ -194,23 +171,16 @@
             return;
         }
 
-        // 监听整个窗口的滚动事件
         window.addEventListener('scroll', function() {
-            // 获取滚动的像素距离，兼容各种手机浏览器
             const scrollY = window.scrollY || document.documentElement.scrollTop;
             
-            // 计算透明度 (下滑 300px 内逐渐变成 0)
             let currentOpacity = 1 - (scrollY / 500);
             
-            // 防止透明度变成负数
             if (currentOpacity < 0) {
                 currentOpacity = 0;
             }
             
-            // 应用透明度
             hero.style.opacity = currentOpacity;
-            
-            // 双保险：一旦完全透明，立刻把这个图层在物理层面上“变没”，彻底防止手机端穿帮
             if (currentOpacity === 0) {
                 hero.style.visibility = 'hidden';
             } else {

@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <title>Restricted</title>
 <script>
-// 核心防御机制：如果没有上一页签发的通行证，立刻踢回登录终端
 if(sessionStorage.getItem("access_granted") !== "true"){
     window.location.href = "/access/";
 }

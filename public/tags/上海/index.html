@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
+<html lang="zh" dir="auto" data-theme="auto">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,8 @@
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/%E4%B8%8A%E6%B5%B7/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/tags/%E4%B8%8A%E6%B5%B7/">
+<link rel="alternate" hreflang="zh" href="http://localhost:1313/tags/%E4%B8%8A%E6%B5%B7/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/en/tags/%E4%B8%8A%E6%B5%B7/">
 <noscript>
     <style>
         #theme-toggle,
@@ -71,7 +72,7 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</script>
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -99,6 +100,12 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
+                    <ul class="lang-switch"><li>|</li>
+                        <li>
+                            <a href="http://localhost:1313/en/" title="En"
+                                aria-label="En">En</a>
+                        </li>
+                    </ul>
             </div>
         </div>
         <ul id="menu">
@@ -143,7 +150,7 @@
 是的，我最终还是放弃了看那部超前点映的电影，而是与父亲曾经拜访过的弟兄姐妹聚集。早上出门，跟父母通话时瞥见隔壁房有个人背着包出来四下张望，然后手机上就收到q老师“我出来了”的信息。我直接自信走位：早上好，q老师！
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-06-22 12:00:00 -0500 CDT'>June 22, 2025</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>3045 words</span></footer>
+  <footer class="entry-footer"><span title='2025-06-22 12:00:00 -0500 CDT'>2025年6月22日</span>&nbsp;·&nbsp;<span>7 分钟</span>&nbsp;·&nbsp;<span>3045 字</span></footer>
   <a class="entry-link" aria-label="post link to 寄居者的日记-98" href="http://localhost:1313/posts/diary-098/"></a>
 </article>
 
@@ -157,7 +164,7 @@
 我曾经在想，是不是没有看到GMHS的信息就好了，这样它也就只是像CP31那样成为我心中的一个遗憾，而非伤心事。我明明知道正确的优先次序是什么的，我明明想到了周日来上海可能存在的冲突的，但为什么还是一口答应了q老师呢。
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-06-21 12:00:00 -0500 CDT'>June 21, 2025</span>&nbsp;·&nbsp;<span>1 min</span>&nbsp;·&nbsp;<span>426 words</span></footer>
+  <footer class="entry-footer"><span title='2025-06-21 12:00:00 -0500 CDT'>2025年6月21日</span>&nbsp;·&nbsp;<span>1 分钟</span>&nbsp;·&nbsp;<span>426 字</span></footer>
   <a class="entry-link" aria-label="post link to 寄居者的日记-97" href="http://localhost:1313/posts/diary-097/"></a>
 </article>
     </main>
@@ -170,14 +177,67 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
-
-    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><style>
+body {
+    animation: langFadeIn 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes langFadeIn {
+    0% { opacity: 0; filter: blur(2px); transform: translateY(4px); }
+    100% { opacity: 1; filter: blur(0); transform: translateY(0); }
+}
+
+body.lang-switching {
+    animation: langFadeOut 0.25s ease-out forwards;
+}
+@keyframes langFadeOut {
+    0% { opacity: 1; transform: scale(1); filter: blur(0); }
+    100% { opacity: 0; transform: scale(0.99); filter: blur(2px); }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const langLinks = document.querySelectorAll('.lang-switch a');
+    
+    langLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            const currentPath = window.location.pathname;
+            
+            const currentLang = document.documentElement.lang;
+            
+            let targetUrl = "";
+            
+            if (currentLang.startsWith("zh")) {
+                if (currentPath === "/" || currentPath === "") {
+                    targetUrl = "/en/";
+                } else {
+                    targetUrl = "/en" + currentPath.replace(/\/$/, "") + "/";
+                }
+            } else {
+                targetUrl = currentPath.replace(/^\/en/, "");
+                if (targetUrl === "" || targetUrl === "/") {
+                    targetUrl = "/";
+                } else {
+                    targetUrl = targetUrl.replace(/\/$/, "") + "/";
+                }
+            }
+            
+            document.body.classList.add('lang-switching');
+            
+            setTimeout(() => {
+                window.location.href = targetUrl;
+            }, 250);
+        });
+    });
+});
+</script>
 
 <script>
     let menu = document.getElementById('menu');

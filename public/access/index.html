@@ -16,7 +16,7 @@
             background: black;
             border: 1px solid #88cde0;
             color: #cfefff;
-            outline: none;  
+            outline: none;
         }
         button {
             padding: 10px;
@@ -27,7 +27,7 @@
             cursor: pointer;
         }
         button:hover {
-            background: #1a2a35;  
+            background: #1a2a35;
         }
     </style>
 </head>
@@ -39,7 +39,6 @@
     <p id="msg"></p>
 
     <script>
-        
         function hash(str) {
             let h = 0;
             for(let i=0; i<str.length; i++) {
@@ -54,17 +53,14 @@
         function check() {
             let input = document.getElementById("pwd").value;
             
-            
             if (input.length !== 52) {
                 document.getElementById("msg").innerText = "Access Denied";
-                document.getElementById("msg").style.color = "red"; 
+                document.getElementById("msg").style.color = "red";
                 return;
             }
             
-            
             if (hash(input) === correct) {
                 sessionStorage.setItem("access_granted", "true");
-                
                 window.location.href = "/hidden/"; 
             } else {
                 document.getElementById("msg").innerText = "Access Denied";
@@ -72,7 +68,6 @@
             }
         }
 
-        
         document.getElementById("pwd").addEventListener("keypress", function(event) {
             if (event.key === "Enter") {
                 event.preventDefault();

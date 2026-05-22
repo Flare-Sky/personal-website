@@ -27,33 +27,25 @@
   {{- end }}
 </header>
 
-{{- /* --- 开始：文章发布频率柱状图 --- */ -}}
-
-{{- /* 1. HTML 容器 */ -}}
 <div class="archive-chart-container" style="width: 100%; height: 250px; margin: 40px 0;">
     <canvas id="postChart"></canvas>
 </div>
 
-{{- /* 2. 引入 Chart.js 图表库 */ -}}
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-{{- /* 3. Hugo 数据处理 (类似后端 API) */ -}}
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $grouped := $pages.GroupByDate "2006-01" }} {{- $labels := slice }}
 {{- $counts := slice }}
 
-{{- /* 遍历分组，因为默认是最新的在前面，我们需要反转一下让时间线从左到右正序排列 */ -}}
 {{- range $grouped.Reverse }}
     {{- $labels = $labels | append .Key }}
     {{- $counts = $counts | append (len .Pages) }}
 {{- end }}
 
-{{- /* 4. JS 渲染逻辑 */ -}}
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         const ctx = document.getElementById('postChart').getContext('2d');
         
-        // 接收 Hugo 编译好的 JSON 数据
         const chartLabels = {{ $labels | jsonify | safeJS }};
         const chartData = {{ $counts | jsonify | safeJS }};
 
@@ -64,43 +56,39 @@
                 datasets: [{
                     label: '文章篇数',
                     data: chartData,
-                    backgroundColor: 'rgba(153, 153, 255, 0.6)', // 护眼的蓝灰色
+                    backgroundColor: 'rgba(153, 153, 255, 0.6)',
                     borderColor: 'rgba(153, 153, 255, 1)',
                     borderWidth: 1,
-                    borderRadius: 4 // 圆角柱子更好看
+                    borderRadius: 4
                 }]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-                // --- 新增：点击事件与平滑滚动 ---
                 onClick: (event, elements) => {
                     if (elements.length > 0) {
                         const index = elements[0].index;
-                        const label = chartLabels[index]; // 获取点击的月份，例如 "2026-03"
+                        const label = chartLabels[index];
                         const targetElement = document.getElementById('archive-' + label);
                         
                         if (targetElement) {
-                            // 减去 80 像素的偏移量，防止导航栏遮挡标题
                             const y = targetElement.getBoundingClientRect().top + window.scrollY - 80;
                             window.scrollTo({top: y, behavior: 'smooth'});
                         }
                     }
                 },
-                // --- 新增：鼠标悬浮时变成点击手势 ---
                 onHover: (event, chartElement) => {
                     event.native.target.style.cursor = chartElement[0] ? 'pointer' : 'default';
                 },
-                // ------------------------------
                 scales: {
                     y: {
                         beginAtZero: true,
                         ticks: {
-                            stepSize: 1, // 确保 Y 轴是整数
+                            stepSize: 1,
                             color: 'var(--secondary)'
                         },
                         grid: {
-                            color: 'var(--tertiary)' // 适配 PaperMod 的暗色/亮色模式网格
+                            color: 'var(--tertiary)'
                         }
                     },
                     x: {
@@ -114,7 +102,7 @@
                 },
                 plugins: {
                     legend: {
-                        display: false // 隐藏顶部的图例，因为已经很直观了
+                        display: false
                     },
                     tooltip: {
                         displayColors: false,
@@ -129,7 +117,6 @@
         });
     });
 </script>
-{{- /* --- 结束：文章发布频率柱状图 --- */ -}}
 
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 
@@ -149,7 +136,6 @@
   </h2>
   {{- range .Pages.GroupByDate "January" }}
   <div class="archive-month">
-    {{- /* 用这个月份里的第一篇文章的日期，强行格式化出 2026-03 这样的 ID */ -}}
     <h3 class="archive-month-header" id="archive-{{ (index .Pages 0).Date.Format "2006-01" }}">
       <a class="archive-header-link" href="#{{ $year }}-{{ .Key }}">
         {{- .Key -}}

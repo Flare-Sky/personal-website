@@ -1,12 +1,9 @@
 baseURL = 'https://flaresky.me/'
-languageCode = 'zh-cn'
-title = '寄居者的日记'
 theme = 'PaperMod'
+defaultContentLanguage = 'zh'
 hasCJKLanguage = true
-# 开启 JSON 输出，以便生成搜索索引
 [outputs]
     home = ["HTML", "RSS", "JSON"]
-
 [params]
     defaultTheme = "auto"
     ShowReadingTime = true      # 显示阅读时间
@@ -15,19 +12,14 @@ hasCJKLanguage = true
     ShowShareButtons = false    # 隐藏转发按钮
     enable = true               # 阅读量统计（不蒜子）的总开关
     comments = true             # 显示评论区
-  
-    # 主页个人简介设置
-    [params.profileMode]
-        enabled = true
-        title = "寄居者的日记"
-        subtitle = "亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)"
+ 
     [params.assets]
         favicon = "/favicon.ico"
         favicon16x16 = "/favicon-16x16.png"
         favicon32x32 = "/favicon-32x32.png"
         apple_touch_icon = "/apple-touch-icon.png"
         safari_pinned_tab = "/favicon.ico"
-    # 搜索优化
+
     [params.fuseOpts]
         isCaseSensitive = false
         shouldSort = true
@@ -37,27 +29,67 @@ hasCJKLanguage = true
         minMatchCharLength = 2
         keys = ["title", "permalink", "summary", "content"]
 
-# 设置网页顶部的导航菜单
-[[menu.main]]
-    identifier = "home"
-    name = "首页"
-    url = "/"
-    weight = 10
-[[menu.main]]
-    identifier = "archives"
-    name = "归档"
-    url = "/archives/"
-    weight = 20
-[[menu.main]]
-    identifier = "tags"
-    name = "标签"
-    url = "/tags/"
-    weight = 30
-[[menu.main]]
-    identifier = "search"
-    name = "搜索"
-    url = "/search/"
-    weight = 40
+[languages.zh]
+    languageCode = 'zh-cn'
+    title = '寄居者的日记'
+    weight = 1
+
+    [languages.zh.params.profileMode]
+        enabled = true
+        title = "寄居者的日记"
+        subtitle = "亲爱的弟兄啊，你们是客旅，是寄居的。(彼得前书 2:11a)"
+
+    [[languages.zh.menu.main]]
+        identifier = "home"
+        name = "首页"
+        url = "/"
+        weight = 10
+    [[languages.zh.menu.main]]
+        identifier = "archives"
+        name = "归档"
+        url = "/archives/"
+        weight = 20
+    [[languages.zh.menu.main]]
+        identifier = "tags"
+        name = "标签"
+        url = "/tags/"
+        weight = 30
+    [[languages.zh.menu.main]]
+        identifier = "search"
+        name = "搜索"
+        url = "/search/"
+        weight = 40
+
+[languages.en]
+    languageCode = 'en'
+    title = 'Journal of a Sojourner'
+    weight = 2
+
+    [languages.en.params.profileMode]
+        enabled = true
+        title = "Journal of a Sojourner"
+        subtitle = "Beloved, I urge you as sojourners and exiles... (1 Peter 2:11a)"
+
+    [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 10
+    [[languages.en.menu.main]]
+        identifier = "archives"
+        name = "Archives"
+        url = "/archives/"
+        weight = 20
+    [[languages.en.menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 30
+    [[languages.en.menu.main]]
+        identifier = "search"
+        name = "Search"
+        url = "/search/"
+        weight = 40
 
 [markup.goldmark.renderer]
-    unsafe = true  # 允许在 Markdown 中直接使用 HTML 标签
+    unsafe = true

@@ -1,5 +1,8 @@
 <div class="comments-container" style="margin-top: 50px; padding: 20px; background: var(--entry); border-radius: var(--radius); border: 1px solid var(--border);">
-    <h3 style="margin-bottom: 20px; border-bottom: 2px solid var(--tertiary); padding-bottom: 10px;">讨论与评论</h3>
+    
+    <h3 style="margin-bottom: 20px; border-bottom: 2px solid var(--tertiary); padding-bottom: 10px;">
+        {{ if eq .Lang "zh" }}讨论与评论{{ else }}Comments{{ end }}
+    </h3>
     
     <script src="https://giscus.app/client.js"
         data-repo="Flare-Sky/personal-website"
@@ -12,8 +15,8 @@
         data-emit-metadata="0"
         data-input-position="bottom"
         data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
+        data-lang="{{ if eq .Lang "zh" }}zh-CN{{ else }}en{{ end }}"
         crossorigin="anonymous"
         async>
     </script>
-    </div>
+</div>

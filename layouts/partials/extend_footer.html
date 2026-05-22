@@ -1,0 +1,56 @@
+<style>
+body {
+    animation: langFadeIn 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes langFadeIn {
+    0% { opacity: 0; filter: blur(2px); transform: translateY(4px); }
+    100% { opacity: 1; filter: blur(0); transform: translateY(0); }
+}
+
+body.lang-switching {
+    animation: langFadeOut 0.25s ease-out forwards;
+}
+@keyframes langFadeOut {
+    0% { opacity: 1; transform: scale(1); filter: blur(0); }
+    100% { opacity: 0; transform: scale(0.99); filter: blur(2px); }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const langLinks = document.querySelectorAll('.lang-switch a');
+    
+    langLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            const currentPath = window.location.pathname;
+            
+            const currentLang = document.documentElement.lang;
+            
+            let targetUrl = "";
+            
+            if (currentLang.startsWith("zh")) {
+                if (currentPath === "/" || currentPath === "") {
+                    targetUrl = "/en/";
+                } else {
+                    targetUrl = "/en" + currentPath.replace(/\/$/, "") + "/";
+                }
+            } else {
+                targetUrl = currentPath.replace(/^\/en/, "");
+                if (targetUrl === "" || targetUrl === "/") {
+                    targetUrl = "/";
+                } else {
+                    targetUrl = targetUrl.replace(/\/$/, "") + "/";
+                }
+            }
+            
+            document.body.classList.add('lang-switching');
+            
+            setTimeout(() => {
+                window.location.href = targetUrl;
+            }, 250);
+        });
+    });
+});
+</script>
