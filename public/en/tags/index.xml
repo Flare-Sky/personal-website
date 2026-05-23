@@ -78,5 +78,33 @@
       <guid>http://localhost:1313/en/tags/%E6%89%BF%E5%BE%B7/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Chengde</title>
+      <link>http://localhost:1313/en/tags/chengde/</link>
+      <pubDate>Thu, 22 Feb 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/chengde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kuala Lumpur</title>
+      <link>http://localhost:1313/en/tags/kuala-lumpur/</link>
+      <pubDate>Thu, 18 May 2023 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/kuala-lumpur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zhanjiang</title>
+      <link>http://localhost:1313/en/tags/zhanjiang/</link>
+      <pubDate>Fri, 07 Apr 2023 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/zhanjiang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hangzhou</title>
+      <link>http://localhost:1313/en/tags/hangzhou/</link>
+      <pubDate>Sun, 02 Apr 2023 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/hangzhou/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

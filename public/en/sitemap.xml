@@ -1757,6 +1757,12 @@
                 href="http://localhost:1313/en/posts/diary-013/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/tags/chengde/</loc>
+    <lastmod>2024-02-22T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/sojourners-diary/</loc>
+    <lastmod>2024-02-22T12:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/posts/diary-012/</loc>
     <lastmod>2024-02-22T12:00:00-05:00</lastmod>
     <xhtml:link
@@ -1822,6 +1828,9 @@
                 href="http://localhost:1313/en/posts/diary-008/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/tags/kuala-lumpur/</loc>
+    <lastmod>2023-05-18T12:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/posts/diary-007/</loc>
     <lastmod>2023-05-18T12:00:00-05:00</lastmod>
     <xhtml:link
@@ -1860,6 +1869,12 @@
                 hreflang="en"
                 href="http://localhost:1313/en/posts/diary-005/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/zhanjiang/</loc>
+    <lastmod>2023-04-07T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/hangzhou/</loc>
+    <lastmod>2023-04-02T12:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/diary-004/</loc>
     <lastmod>2023-04-02T12:00:00-05:00</lastmod>

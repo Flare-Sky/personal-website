@@ -1,18 +1,18 @@
 +++
-title = "寄居者的日记-5"
+title = "Sojourner's Diary-5"
 date = 2023-04-07T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["湛江"]
+categories = ["Sojourner's Diary"]
+tags = ["Zhanjiang"]
 +++
 
-有好些时间没有写日记了，今天还是要好好复盘一下的。
+It's been quite some time since I last wrote a diary entry, so I really need to do a proper review today.
 
-回到湛江，生活节奏突然就慢下来了。一下子任务不再催逼我前进，我便失去了动力。现在想来，自己往往缺少从内而外的驱动力，在假期里常常荒废了时间。不过，既然意识到了问题的存在，就一定要做出改变。
+Since returning to Zhanjiang, the pace of life has suddenly slowed down. Without tasks constantly pushing me forward, I've lost my motivation. Reflecting on it now, I often lack internal drive and frequently waste time during holidays. However, since I've recognized the problem, I must make a change.
 
-先列几个今天的任务吧：
-- 完成《我的故事》，发出公众号文章
-- 把寄到湛江的东西收拾好
-- 翻译学校邮件，发给老妈
+Let me list a few tasks for today:
+- Complete "My Story" and publish the WeChat Official Account article
+- Organize the items shipped to Zhanjiang
+- Translate the school emails and send them to my mom
 
-以上3个任务完成之后，才能有自由安排的时间！
+Only after these three tasks are completed will I have free time to arrange!

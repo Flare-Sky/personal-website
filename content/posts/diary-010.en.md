@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-10"
+title = "Sojourner's Diary-10"
 date = 2023-12-14T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-写了这么多，还没叙述过自己的近况呢（虽然会读的人大部分都了解就是了）。刚好今天有做编年史的兴趣hh…
+I've written so much, yet I haven't described my current situation (though most people who would read this probably already know). It just so happens that today I'm in the mood to do some chronicling, haha...
 
-总结一下就是，我现在处于出国留学之间的假期，预计1月底又要回马来西亚上学；教育体系是澳洲的VCE，可以上网问度娘；高考（可以这么说）时间是明年10月，也就意味着我曾经的同学们解放时我还在奋斗；学习情况么……一如既往吧。
+To summarize, I'm currently on break between studying abroad, and I expect to return to Malaysia for school at the end of January. The education system I'm in is the Australian VCE—you can look it up online. My "Gaokao" (college entrance exams, so to speak) will be in October next year, which means while my former classmates are liberated, I'll still be toiling away. As for my studies... same as always, I suppose.
 
-我是4月份出国的，大概就是我开始写这个系列的前几周才得知这个消息。主要的原因懂得都懂，不懂的这里也不能解释，否则就和找不到的“[日记-3](https://flare-sky.github.io/posts/diary-003/)”一个下场了。几天前，也是继续补上这个系列的时间刚刚回国，可惜没有安排上去杭州的行程……也许之后的小假期可以回去看看。
+I went abroad in April; I learned the news just a few weeks before I started writing this series. The main reasons are "those who know, know," and for those who don't, I can't explain them here—otherwise, this post would end up like the missing "[Diary-3](https://flare-sky.github.io/posts/diary-003/)". I returned to China just a few days ago, right when I resumed this series. Unfortunately, no trip to Hangzhou was arranged... perhaps I can go back and visit during a small holiday in the future.
 
-写到这里才发现基本上是谜语人，反正其实没有多少人看这个对吧……我开始写的时候其实没有想到，自己会把这些文字作为《无聊的笔记》（初中时闲的没事写写的玩意）精神上的延续但既然它能起到这个作用，那就不妨在广大的互联网一角，留下一个名为“诸葛天曜”存在的痕迹吧。
+Only now that I've written this far do I realize it's mostly riddles, but anyway, not many people are reading this, right? When I started writing, I didn't expect that I would treat these words as a spiritual successor to "Boring Notes" (some stuff I wrote back in junior high when I had nothing better to do). But since it can serve that purpose, why not leave a trace of someone named "Zhuge Tianyao" in this vast corner of the internet.

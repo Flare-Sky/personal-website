@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-4"
+title = "Sojourner's Diary-4"
 date = 2023-04-02T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-应该有人好奇过为什么要取这样一个名字，其实有许多原因。一方面是我们家的房子已经租出去了，我现在还在同学家借宿；另一方面也是我们将来出国学习的写照。更重要的是在《彼得前书》中所言。我们是在地上做客旅和寄居的。我希望这个系列能够持续下去，尽管之后可能并不是在朋友圈上发。我会去把前几篇文段转抄到笔记本上，就当做是日记来写吧！
+Some of you might have wondered why I chose such a name. There are actually many reasons. For one, my house has already been rented out, and I'm currently staying at a classmate's place. On another level, it's also a reflection of our future plans to study abroad. More importantly, it's about what is said in the Book of 1 Peter: we are strangers and sojourners on this earth. I hope this series can continue, even though I might not post it on WeChat Moments in the future. I'll transcribe the previous entries into a notebook and treat them as a diary!
 
-所以今天又是忙碌了一整天。几乎没有什么空闲拍点照片，所以只能纯文字了。不过更大的纯文字文本还在后面呢。
+So, today was another busy day. I barely had any free time to take photos, so it's text-only again. But even larger blocks of text are still to come.
 
-今天我把分享的任务完成了，接下来就是融合一下做成文章了。今天上午老妈的文被删了，也提醒我有些东西得谨慎点说……
+I finished my sharing task today, and the next step is to integrate everything into an article. My mom's post was deleted this morning, which also reminds me to be careful about what I say...
 
-明天就回老家去了，那么今晚可能就是今年最后一次在杭州过夜了。不熬夜，早睡。
+I'm heading back to my hometown tomorrow, so tonight might be the last night I spend in Hangzhou this year. No staying up late; going to bed early.

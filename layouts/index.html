@@ -93,7 +93,7 @@
     {{- end }}
     
     <div class="scroll-indicator">
-        ↓ 滑动阅读最新日记 ↓
+        {{ if eq .Lang "zh" }}↓ 滑动阅读最新日记 ↓{{ else }}↓ Scroll down for latest posts ↓{{ end }}
     </div>
 </div>
 
@@ -101,7 +101,6 @@
 
 <div class="content-layer">
     
-    {{- /* 渲染最新日记 */ -}}
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- $latest := first 1 $pages }}
 

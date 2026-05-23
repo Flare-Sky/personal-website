@@ -1,23 +1,23 @@
 +++
-title = "寄居者的日记-9"
+title = "Sojourner's Diary-9"
 date = 2023-12-13T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-虽然有北方的亲戚，但我骨子里还是个南方人；而南方人就意味着——对雪的执念。
+Although I have relatives from the North, I am a Southerner to my core; and being a Southerner means—having an obsession with snow.
 
-所以，当我看到外面下雪时，内心的激动仿佛与生俱来。
+So, when I saw it snowing outside, my heart leaped with an innate excitement.
 
-不论如何，出门还是要里三层外三层地裹好。奶奶顾及到我和弟弟两个基本上是要与雪来个亲密接触了，因此特别在我们的手套外再套了层一次性手套——后来证明这绝对是高明之策。
+Regardless, I still had to bundle up in layers upon layers before heading out. Grandma, considering that my brother and I would basically be having "intimate contact" with the snow, specially put a pair of disposable gloves over our regular gloves—this later proved to be a brilliant move.
 
-北方的雪，与杭州是不同的。正如杭州的冬天是湿冷，杭州的“雪”本质上就是冰：这一点体现在好捏雪球的特质上；而在北方的干冷之下，捏起雪球来就不容易了。换句话说，北方的雪感觉起来更像是气体而非固体。
+Snow in the North is different from snow in Hangzhou. Just as winter in Hangzhou is damp and cold, Hangzhou's "snow" is essentially ice: this is reflected in how easy it is to pack into snowballs. Under the dry cold of the North, packing a snowball is not as easy. In other words, Northern snow feels more like a gas than a solid.
 
-所以当我辛辛苦苦攒出个大雪球时，一时间不舍的丢出去砸人，干脆就地找了树枝做了个小雪人。在那之后，在雪天还能做什么呢？
+So when I painstakingly gathered enough to make a large snowball, I couldn't bring myself to throw it at anyone. Instead, I just found some twigs and made a little snowman right there. After that, what else is there to do on a snowy day?
 
-滑冰！好吧，这里并没有滑冰鞋。但这不妨碍我们可以上冰面去走走。江水早已结冻并铺上了厚厚的白地毯，上面隐隐可见前人留下的脚印。步入这片白色的海洋，心仿佛宁静了下来。
+Ice skating! Well, we didn't have ice skates. But that didn't stop us from walking onto the ice. The river had long since frozen over and was covered with a thick white carpet, with the faint footprints of those who came before. Stepping into this sea of white, my heart seemed to find peace.
 
-这是怎样的一片天地！雪花缓缓落下，在天空之中编织着恢宏的旋律。在这白色中捧起一捧雪花，向天挥洒，霎时间整个人仿佛被染白了。置身于其中，切身体会到了造物主的大能，这是世间最伟大的艺术杰作。
+What a world this is! Snowflakes fall slowly, weaving a grand melody in the sky. Gathering a handful of snow in this whiteness and tossing it into the air, I was instantly covered in white. Immersed in it, I personally experienced the power of the Creator; this is the world's greatest artistic masterpiece.
 
-惊叹之余，随手用雪捏出了一个简单的几何体。内心的真实想法就是：赶紧拍下来炫耀一下，顺便在南方朋友面前好好嘚瑟一番。不愧是我。
+Amidst the wonder, I casually shaped a simple geometric form out of the snow. My honest thought was: hurry up and take a picture to show off, and take the opportunity to gloat a bit in front of my Southern friends. Classic me.

@@ -1,13 +1,13 @@
 +++
-title = "寄居者的日记-1"
+title = "Sojourner's Diary-1"
 date = 2023-03-30T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-今天早上在绿皮火车的轰鸣声中回到了杭州，忙碌了一整天，晚上突发奇想写个日记记录一下。
+Returned to Hangzhou this morning amidst the roar of a green-skinned train. After a busy day, I suddenly had the impulse to write a diary entry to document it.
 
-由于家里的房子已经租出去了，只好在同学家过夜了。中午的面是自己做的，味道还行；下午去踢了足球，悲哀地发现在江西没有好好训练导致现在被小朋友们吊着打；晚上就一直在写稿子，是关于这一年半我都做了些什么的。到时候应该会发在我母亲的公众号上面留个档，所以在这里顺手做个宣传：关注恩典时光(现已更名为“恩典时光之路”)！了解我的黑历史（不
+Since my house back home has already been rented out, I had to stay overnight at a classmate's place. I made noodles for lunch myself, and they tasted alright. In the afternoon, I went to play soccer, only to discover sadly that due to a lack of proper training while in Jiangxi, I'm now being outperformed by the younger kids. This evening, I've been working on a manuscript about what I've been up to over the past year and a half. It will likely be posted on my mother's WeChat Official Account as a record, so I'll take this chance to do some promotion: follow "Graceful Time" (now renamed to "The Road of Graceful Time")! Learn about my embarrassing past (not really...
 
-咳咳，总之我这几天都会在晚上发些有的没的。不会咕咕咕……应该吧。
+Ahem, anyway, I'll be posting some random bits and pieces every evening for the next few days. I won't flake out... probably.

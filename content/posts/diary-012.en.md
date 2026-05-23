@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-12"
+title = "Sojourner's Diary-12"
 date = 2024-02-22T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-我真的是一个很容易受人影响的人。
+I am truly a person who is easily influenced by others.
 
-今天因为分享的经文不符合文意，被张老师借题发挥分享了一下。我当时就非常不开心，绞尽脑汁去查ESV、希伯来原文却发现自己好像真的错了。不想承认，于是去搜刮旁门佐证，无所不用其极以至于没听到同学们的分享（反正不是我记笔记）。
+Today, because the scripture I shared didn't fit the context, Teacher Zhang took the opportunity to share some thoughts on it. I was very unhappy at the time and racked my brains checking the ESV and the original Hebrew, only to discover that I might indeed be wrong. Unwilling to admit it, I went searching for any obscure evidence I could find, using every means possible to the point where I didn't even hear my classmates' sharing (I wasn't the one taking notes, anyway).
 
-后来又聊到了今天中文课上发生的事情，是有关填问卷的。听闻同学们提到郑老师（我们的中文老师）发了一封邮件，控诉同学们上课拒绝仇将恩报填问卷的行为。我自知自己已经完成问卷，但还是忍不住去看了看这封群发的邮件，开头几句就看到“I would like to express my appreciation to Zitian for assisting PG with the survey for Y12 Chinese First Language SAC 1.“一瞬间百感交集，主要是为此感动。
+Later, we talked about what happened in today's Chinese class regarding a survey. I heard classmates mention that Mr. Zheng (our Chinese teacher) sent an email complaining about students refusing to "repay evil with good" by filling out the survey. Knowing I had already completed the survey, I still couldn't resist checking the mass email. The first few lines read: "I would like to express my appreciation to Zitian for assisting PG with the survey for Y12 Chinese First Language SAC 1." At that moment, I was overwhelmed with mixed emotions, primarily moved by this.
 
-后来，张老师就此事训诫了同学们，他用的经文是路6:35:“你们倒要爱仇敌，也要善待他们，并要借给人不指望偿还，你们的赏赐就必大了，你们也必作至高者的儿子，因为他恩待那忘恩的和作恶的”。而我对他解释中的一句话印象尤为深刻：
+Later, Teacher Zhang admonished the students regarding this matter. The scripture he used was Luke 6:35: "But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be sons of the Most High, because he is kind to the ungrateful and wicked." One sentence from his explanation left a particularly deep impression on me:
 
-> “你们是至高者的儿子吗？如果不是，那你们就用双手养活自己，看看你们的能耐有多大。”
+> "Are you sons of the Most High? If not, then go ahead and support yourselves with your own two hands, and see just how far your own ability can take you."
 
-我曾经接受的教导始终是“将人生把握在自己手中”，被视为背叛的始终是不遵从自己的内心而行。然而，我们并不是靠自己活着，我们上面有人！若是靠着我们自己，是什么都做不了的；唯有借着从至高者降卑来到人间为我们成全的救恩，借着那住在我们心里的保惠师，方能成事。
+The teaching I had always received was to "keep your life in your own hands," and what was always considered betrayal was not following one's own heart. However, we do not live by ourselves; we have someone above us! If we rely on ourselves, we can do nothing; only through the salvation accomplished for us by the Most High who humbled Himself to come to earth, and through the Counselor who dwells in our hearts, can things be achieved.

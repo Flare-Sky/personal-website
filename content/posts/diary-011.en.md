@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-11"
+title = "Sojourner's Diary-11"
 date = 2023-12-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-今天写些什么呢？
+What should I write about today?
 
-每天我都会重复这个问题，因为在承德的每一天都有新的体验。那今天，不如就看看我最擅长的“吃”吧！
+I repeat this question every day because every day in Chengde brings new experiences. So today, why not take a look at what I'm best at: "eating"!
 
-主要的原因，是今天去了趟市中心，逛吃逛吃的结果就是晚饭的表现不尽如人意……但无疑，回到承德的这几天我的胃是一刻也没闲着的。
+The main reason is that I went downtown today, and the result of grazing all day was that my performance at dinner was less than ideal... but undoubtedly, my stomach hasn't been idle for a moment during these few days back in Chengde.
 
-奶奶的厨艺自孩提时代起就是我心目中的“第一”，这一地位至今为止不曾被撼动。想想我喜欢的，其实无非那几样：包子、饺子、馅饼（啊居然不读xiè）、炒面；当奶奶问起时我的回答大多时候也是四选一。考虑到我的童年很多时候都是在奶奶的陪伴下度过的，可能令我流连的不只是味道，更是心中对“家”的认同吧！
+My grandmother's cooking has been "number one" in my heart since childhood, a status that remains unshaken to this day. Thinking about what I like, it's really just those few things: steamed buns (baozi), dumplings (jiaozi), meat pies (xianbing), and fried noodles; whenever Grandma asks, my answer is usually one of those four. Considering that much of my childhood was spent in my grandmother's company, perhaps what makes me linger is not just the taste, but the sense of "home" in my heart!
 
-承德是一个小地方，但这里有我的家人。父亲知道我不吃山楂，特地带着我们去吃了山药冻做的冰糖葫芦（这完全不是冰糖葫芦了吧！）；大家走路走到“透心凉”了，母亲就把我们带去喝羊汤，热气从舌尖直沁到脚趾；弟弟会在吃甜品时喊着“哥哥我们换着吃”来让我尝尝西米露（但是他拿走了双皮奶哎）。在冰雪之中的温暖，可不仅仅来源于厚厚的衣服。
+Chengde is a small place, but my family is here. My father knows I don't eat hawthorn, so he specifically took us to have tanghulu made of candied yams (this isn't tanghulu at all anymore, is it?!); when everyone was chilled to the bone from walking, my mother took us for mutton soup, the warmth seeping from the tip of the tongue all the way down to the toes; my brother would shout "Brother, let's trade!" while eating dessert to let me taste his sago soup (but he took away my double-skin milk). The warmth amidst the ice and snow doesn't just come from thick clothes.
 
-吃饱喝足，一天结束。
+Full and satisfied, the day ends.

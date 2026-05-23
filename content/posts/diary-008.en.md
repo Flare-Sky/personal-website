@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-8"
+title = "Sojourner's Diary-8"
 date = 2023-12-12T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-别时四月暖，归时腊月寒。
+Warm was the April of my departure, cold is the December of my return.
 
-在生活中，从一些小细节就可以看出一个人的性格。
+In life, one's character can be glimpsed through small details.
 
-比如旅行时的穿着。
+For instance, what one wears while traveling.
 
-很显然，在常年夏季的马来西亚，日常出行短袖短裤足矣；但如果你的目的地是中国北方呢？
+Obviously, in Malaysia, where it is summer all year round, short sleeves and shorts are sufficient for daily outings; but what if your destination is Northern China?
 
-这也就是为什么在去马来西亚的时候要带一件棉袄。
+This is exactly why one should bring a padded jacket when going to Malaysia (for the return trip).
 
-同样很显然的，那些在机场只穿短裤短袖而在零下九度的气温中发抖的人不知道这个道理……
+Equally obviously, those shivering in minus nine-degree temperatures at the airport wearing only shorts and short sleeves do not understand this principle...
 
-很多时候，提前规划是能救人的，比如不会让你在经过人群中时获得高于八成的回头率，挽留一下本就脆弱的自尊。
+Often, planning ahead can be a lifesaver—for example, it keeps you from getting an over 80% head-turning rate when passing through a crowd, thus preserving a bit of your already fragile self-esteem.
 
-你也可以把这理解成一种“壮士一去兮不复还”。
+You could also interpret this as a sort of "a hero sets out, never to return."
 
-反正这是我注视着那些只穿短裤的勇士时冒出来的第一个想法。
+At least, that was the first thought that popped into my head as I watched those warriors clad only in shorts.

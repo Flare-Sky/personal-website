@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-2"
+title = "Sojourner's Diary-2"
 date = 2023-03-31T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-本来想要日更的，结果今天晚上在Figo老师家玩嗨了，抓住3月31号的尾巴，写一篇日记。
+I had intended to update daily, but I ended up having too much fun at Figo's place tonight. So, catching the very end of March 31st, here's a diary entry.
 
-今天一天基本都是在家里收拾打包带走的东西，随手拍了一下租客家里的喵喵。
+I spent most of today at home packing things to take with me. I took a quick photo of the cat at my tenant's place.
 
-晚上就是在Figo家聚餐了，非常开心！
+In the evening, we had a gathering at Figo's house. It was a lot of fun!
 
-颇有小学日记的风范，总之就是忙忙碌碌的一天。
+This really has the vibe of an elementary school diary entry. In short, it's been a busy day.

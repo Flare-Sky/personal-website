@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-6"
+title = "Sojourner's Diary-6"
 date = 2023-04-13T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["吉隆坡"]
+categories = ["Sojourner's Diary"]
+tags = ["Kuala Lumpur"]
 +++
 
-准确地说，这应该算是12号的日记。但我昨天是真的困……所以坐飞机时干脆手机也直接全程关机。
+To be precise, this should be considered the diary entry for the 12th. But I was truly exhausted yesterday... so during the flight, I just kept my phone completely turned off the whole time.
 
-昨天早上爬起来就开始赶火车，坐到深圳后在张京老师家吃了午饭，做了分享。下午就赶去了机场与“深圳小分队”汇合了，晚上9点，起飞！
+Yesterday morning, I crawled out of bed and started rushing for the train. After arriving in Shenzhen, I had lunch at Teacher Zhang Jing's house and shared some thoughts. In the afternoon, I hurried to the airport to meet up with the "Shenzhen team," and at 9 PM—takeoff!
 
-中国，再见～
+Goodbye, China~
 
-今天终于是到了吉隆坡，出关时被小卡了一下，工作人员示意旅游签需要返程机票，而我们表示学校立刻会为我们办学生签。最后还是通过小黑屋里的专业人士解决了问题，感谢主。
+Today we finally arrived in Kuala Lumpur. We ran into a small hiccup at immigration; the staff indicated that a tourist visa requires a return ticket, while we explained that the school would immediately process student visas for us. In the end, the issue was resolved by the professionals in the "little black room." Praise the Lord.
 
-现在我们已经在去宿舍的路上了。期待着明天的行程吧！
+Now we are on our way to the dormitory. Looking forward to tomorrow's itinerary!
