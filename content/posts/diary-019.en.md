@@ -1,19 +1,21 @@
 +++
-title = "寄居者的日记-19"
+title = "Sojourner's Diary-19"
 date = 2024-12-20T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-高中三年，其实并非没有想过要回去看看。但往往会在附近徘徊良久，最终悻悻离去（好吧并没有，毕竟进城的次数本就不多）相比那些经常回学校看看的同学们，我疑似有些不知感恩
+Over the three years of high school, I actually did think about going back to visit. But I often lingered nearby for a long time and eventually left disappointed (well, not really, as I didn't go into the city often anyway). Compared to those classmates who frequently visited the school, I seemed a bit ungrateful.
 
-——开玩笑的啦。时隔多年再次见到老师们，她们仍然一见面就叫出了我的名字。毕业生最喜欢做的，就是满校寻找自己留下的痕迹。我们自然没有找到，又或许这其实随处可见？
+—Just kidding. After many years, when I saw the teachers again, they still called out my name as soon as they saw me. What graduates love to do most is search the entire school for traces they left behind. We naturally didn't find any, or perhaps they are everywhere?
 
-我能确认的，就是论排球和篮球我都比不上这两位
+What I can confirm is that I'm no match for these two in either volleyball or basketball.
 
-其实我刚开始挺担心今天的见面，毕竟在人多加上见老师双重buff之下，有些话题确实不好提起。好在老师们都善解人意，愿意听我仓促地分享过去3年的时光
+Honestly, I was quite worried about today's meeting at first. After all, with a crowd and meeting teachers, it was difficult to bring up certain topics. Fortunately, the teachers were understanding and willing to listen to my hasty sharing of the past three years.
 
-此时的同学们都已经进入大学，开启人生的另一段旅程。而我也紧随其后
-以及：今天被老师们说说话越来越像张老师（我爸）了，不知道是好是坏
-最后是一个有意思的发现：今天的3位同学刚好是之前常常一起骑车回家的几位。与曾经不同，在这次前初中车队复健大会中，“我住得最远”
+At this time, my classmates have all entered university and begun another journey in life. And I am following closely behind.
+
+Also: today, the teachers said my way of speaking is becoming more and more like Teacher Zhang (my dad)'s. I wonder if that's a good thing or a bad thing.
+
+Finally, an interesting discovery: today's three classmates were exactly those who used to bike home together often. Unlike before, in this reunion of the former middle school cycling team, I now live the farthest.

@@ -1,23 +1,23 @@
 +++
-title = "寄居者的日记-14"
+title = "Sojourner's Diary-14"
 date = 2024-10-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["吉隆坡"]
+categories = ["Sojourner's Diary"]
+tags = ["Kuala Lumpur"]
 +++
 
-那就休去吧！刚写完《无笔》的我只感觉自己无比强大！作业是什么？不写了！
+Then let it go! Having just finished writing "Boring Note," I feel incredibly powerful! What's homework? Not writing it!
 
-（看看计划表……嗯还是就写个4、5分钟的吧）
+(Checking the schedule... Hmm, I'll just write for 4 or 5 minutes.)
 
-我终于明白了一件事：为什么有时明明有想写的东西却总是提不起笔。原来是因为有更加便捷的消费时间的方式。
+I finally understood one thing: why sometimes, even when I have something to write, I can never bring myself to pick up a pen. It turns out it's because there are more convenient ways to consume time.
 
-往往，一个手机，一个小时，本来要写的东西就会随着时间在沙地上被风慢慢吹散，再也不见。
+Often, with a phone, an hour, what I intended to write will slowly be blown away by the wind on the sand, never to be seen again.
 
-但现在不同，~~我手机被收了~~我要专注于学习了。而在这个时候，我的内心告诉我不应该再看视频摸鱼了。所以，在权衡再三后，我拿起了笔。
+But now it's different. ~~My phone was taken away~~ I need to focus on studying. And at this time, my inner voice tells me I shouldn't watch videos and slack off anymore. So, after much deliberation, I picked up my pen.
 
-苹果更新了备忘录后，我终于可以将之前的内容全数列好标题归档（然后折叠起来看着电脑肉眼可见地变卡）。现在，我注视着一串向下延伸的等差数列，写下这一段话。我想对未来能看到这句话的自己说：
+After Apple updated the Notes app, I can finally list all previous content with titles and archive them (then fold them up and watch the computer visibly slow down). Now, I'm looking at a series of arithmetic progressions extending downwards, writing this paragraph. I want to tell my future self who will see this:
 
-无论如何，不要放弃记录你的生活。哪怕是忙里偷闲，也应该拿起你的笔，去记录、去释放、去创造。
+No matter what, don't give up on documenting your life. Even if you steal a moment from your busy schedule, you should pick up your pen to record, to release, to create.
 
-5分钟到了。
+5 minutes are up.

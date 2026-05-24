@@ -6,14 +6,14 @@ categories = ["Sojourner's Diary"]
 tags = ["Chengde"]
 +++
 
-What should I write about today?
+What should I write today?
 
 I repeat this question every day because every day in Chengde brings new experiences. So today, why not take a look at what I'm best at: "eating"!
 
-The main reason is that I went downtown today, and the result of grazing all day was that my performance at dinner was less than ideal... but undoubtedly, my stomach hasn't been idle for a moment during these few days back in Chengde.
+The main reason is that I went to the city center today, and the result of "wandering and eating" was that my performance at dinner was less than ideal... But undoubtedly, my stomach hasn't been idle for a moment since I returned to Chengde these past few days.
 
-My grandmother's cooking has been "number one" in my heart since childhood, a status that remains unshaken to this day. Thinking about what I like, it's really just those few things: steamed buns (baozi), dumplings (jiaozi), meat pies (xianbing), and fried noodles; whenever Grandma asks, my answer is usually one of those four. Considering that much of my childhood was spent in my grandmother's company, perhaps what makes me linger is not just the taste, but the sense of "home" in my heart!
+My grandmother's cooking has been "number one" in my mind since childhood, and this position has never been shaken. Thinking about what I like, it's actually just those few things: steamed buns (Baozi), dumplings (Jiaozi), stuffed pancakes (Xianbing), and fried noodles; when Grandma asks, my answer is usually one of those four. Considering that much of my childhood was spent with my grandmother, maybe what makes me linger is not just the taste, but also the sense of "home" in my heart!
 
-Chengde is a small place, but my family is here. My father knows I don't eat hawthorn, so he specifically took us to have tanghulu made of candied yams (this isn't tanghulu at all anymore, is it?!); when everyone was chilled to the bone from walking, my mother took us for mutton soup, the warmth seeping from the tip of the tongue all the way down to the toes; my brother would shout "Brother, let's trade!" while eating dessert to let me taste his sago soup (but he took away my double-skin milk). The warmth amidst the ice and snow doesn't just come from thick clothes.
+Chengde is a small place, but my family is here. My father knows I don't eat hawthorns, so he specially took us to eat Tanghulu made of frozen Chinese yam (is this even Tanghulu anymore?!); when everyone walked until they were "chilled to the bone," my mother took us to drink lamb soup, the heat seeping from the tip of the tongue straight to the toes; my younger brother would shout "Brother, let's swap and eat" while eating dessert to let me taste the sago (but he took away the double-skin milk!). The warmth amidst the ice and snow doesn't just come from thick clothes.
 
 Full and satisfied, the day ends.

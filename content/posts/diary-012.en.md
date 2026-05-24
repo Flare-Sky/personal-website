@@ -3,17 +3,17 @@ title = "Sojourner's Diary-12"
 date = 2024-02-22T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Chengde"]
+tags = ["Kuala Lumpur"]
 +++
 
-I am truly a person who is easily influenced by others.
+I am really easily influenced by others.
 
-Today, because the scripture I shared didn't fit the context, Teacher Zhang took the opportunity to share some thoughts on it. I was very unhappy at the time and racked my brains checking the ESV and the original Hebrew, only to discover that I might indeed be wrong. Unwilling to admit it, I went searching for any obscure evidence I could find, using every means possible to the point where I didn't even hear my classmates' sharing (I wasn't the one taking notes, anyway).
+Today, because the scripture shared did not fit the context, Teacher Zhang took the opportunity to share a bit. I was very unhappy at the time, racking my brains to check ESV and the Hebrew original, only to find that I seemed to have really made a mistake. Unwilling to admit it, I went to search for unorthodox corroborating evidence, going to all lengths so much so that I didn't hear my classmates' sharing (anyway, I wasn't taking notes).
 
-Later, we talked about what happened in today's Chinese class regarding a survey. I heard classmates mention that Mr. Zheng (our Chinese teacher) sent an email complaining about students refusing to "repay evil with good" by filling out the survey. Knowing I had already completed the survey, I still couldn't resist checking the mass email. The first few lines read: "I would like to express my appreciation to Zitian for assisting PG with the survey for Y12 Chinese First Language SAC 1." At that moment, I was overwhelmed with mixed emotions, primarily moved by this.
+Later, we talked about what happened in Chinese class today, which was about filling out a questionnaire. I heard my classmates mention that Teacher Zheng (our Chinese teacher) sent an email accusing students of refusing to repay kindness by filling out the questionnaire. I knew I had completed the questionnaire, but I still couldn't help but look at this mass email. In the first few sentences, I saw: "I would like to express my appreciation to Zitian for assisting PG with the survey for Y12 Chinese First Language SAC 1." For a moment, a mix of emotions surged, mainly touched by this.
 
-Later, Teacher Zhang admonished the students regarding this matter. The scripture he used was Luke 6:35: "But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be sons of the Most High, because he is kind to the ungrateful and wicked." One sentence from his explanation left a particularly deep impression on me:
+Later, Teacher Zhang admonished the students about this matter. The scripture he used was Luke 6:35: "But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and wicked." And one sentence in his explanation particularly impressed me:
 
-> "Are you sons of the Most High? If not, then go ahead and support yourselves with your own two hands, and see just how far your own ability can take you."
+> "Are you children of the Most High? If not, then support yourselves with your own hands and see how capable you are."
 
-The teaching I had always received was to "keep your life in your own hands," and what was always considered betrayal was not following one's own heart. However, we do not live by ourselves; we have someone above us! If we rely on ourselves, we can do nothing; only through the salvation accomplished for us by the Most High who humbled Himself to come to earth, and through the Counselor who dwells in our hearts, can things be achieved.
+The teaching I once received was always to "take control of your life" and that betraying oneself was always considered not acting according to one's inner feelings. However, we do not live by ourselves; we have someone above us! If we relied on ourselves, we would not be able to do anything; only through the salvation accomplished for us by the Most High who humbled Himself and came to earth, and through the Comforter who dwells in our hearts, can things be done.

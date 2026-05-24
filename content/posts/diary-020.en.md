@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-20"
+title = "Sojourner's Diary-20"
 date = 2024-12-22T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-我保留了一部分咕咕咕，这样你才知道看的是诸葛天曜（因为是23号补的）
+I kept some of the "gugugu" (onomatopoeia for cooing/muttering) so you know you're reading Zhuge Tianyao (because it was filled on the 23rd).
 
-浙江大学给我的第一印象就是大，然后就是“一应俱全”。对比之前拜访过的大学，我在浙大里是用骑单车代替走路的（不然根本逛不完）“本地人”向我介绍各种建筑作用时一瞬间产生了“这么多还只是一个校区？”的感叹。果然大学与大学之间不能一概而论
+My first impression of Zhejiang University was its size, followed by its "all-encompassing" nature. Compared to other universities I had visited, I cycled instead of walked at Zhejiang University (otherwise, I wouldn't have been able to see everything). When a "local" explained the functions of various buildings to me, I instantly exclaimed, "All this is just one campus?" Indeed, not all universities are created equal.
 
-相比其他同学，与张以成分别的时间更显长了。虽说“士别三日”，但我其实感觉对方其实并没有太大变化——他还是那个爱捣鼓电路编程的“专家”，我也还是那个听他讲解而啧啧称奇的“萌新”。可以说，当我们时隔多年相遇之时，仿佛彼此都变回了曾经稚气未脱的样子
+Compared to other classmates, my separation from Zhang Yicheng felt longer. Although the saying goes, "a scholar who hasn't met for three days," I actually felt that he hadn't changed much—he was still the "expert" who loved to tinker with circuits and programming, and I was still the "newbie" who listened to his explanations with awe. It's safe to say that when we met again after many years, we both seemed to have reverted to our innocent, youthful selves.
 
-虽然当天是研究生考试，我还是在本校生的“特邀”下得到了入校资格哈哈（也许校内的参观人员可能一定程度上因为关闭线上预定渠道而减少吧）走马观花般匆匆逛完一圈，晚上也尝到了浙大的菜，体验这块是没落下什么了
+Although it was the graduate entrance exam day, I still got entry permission under the "special invitation" of a current student, haha (perhaps the number of visitors on campus was reduced to some extent because the online reservation channel was closed). After a quick tour, I also tasted the university's food in the evening, so I didn't miss out on the experience.
 
-这样，在杭州短暂的停留与走访就暂时画上了逗号。回顾过去忙碌的几天，尽管有些许遗憾，但还是充满了欢声笑语。感谢曾经的同学们愿意抽出时间与我这个“传奇蹭饭王”一起吃一顿。也期待之后的时间里，能分享更多自己过去的经历（所以果然要开始写作我们高中的班级史了吧）
+Thus, my brief stay and visits in Hangzhou have temporarily come to a comma. Looking back at the past few busy days, despite some regrets, they were filled with laughter and joy. I'm grateful to my former classmates who were willing to take time out to share a meal with me, the "legendary freeloading king." I also look forward to sharing more of my past experiences in the future (so I guess I really should start writing the history of our high school class).
 
-在宿舍图书馆一角，据说是“多发没人要的书”，但我还是在夹层里发现了笔记本和练习册……
+In a corner of the dormitory library, where supposedly "many unwanted books" are, I still found notebooks and exercise books in the interlayers...
 
-还有食堂的菜！好吃
+And the food in the cafeteria! Delicious.

@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-16"
+title = "Sojourner's Diary-16"
 date = 2024-12-14T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-昨天（实际上应该是前天啦）刚到杭州，都没有时间收拾自己的行李。今天在球场见到了社区的许多弟兄姐妹，还有幸抓拍到了互帮互助的瞬间。被问最多的问题分别是“现在多高啦？”和“你爸妈呢？”
+I just arrived in Hangzhou yesterday (actually, it should be the day before yesterday), and I didn\'t even have time to unpack my luggage. Today, I met many brothers and sisters from the community at the court and was fortunate enough to capture moments of mutual help. The most frequently asked questions were "How tall are you now?" and "Where are your parents?"
 
-感觉真好啊，虽然江边的路全部重建了，但人与人之间的连接却始终如此稳固。
+It feels really good. Although all the roads along the river have been rebuilt, the connections between people remain so stable.
 
-本来想象中的回杭州是一个人住在家里，主要自己做做饭偶尔去串个门，再发个“又要到饭啦家人们”，结果住处和饭都是“蹭到”的，令人忍俊不禁（
+Originally, I imagined returning to Hangzhou to live alone at home, mainly cooking for myself and occasionally visiting friends, and then posting "It\'s time for food again, folks." But it turns out both my accommodation and meals were "mooched," which is quite amusing (
 
-实际上昨天应该写一些东西的，结果刚开个头就撂爪忘了，只能说符合人设……
+Actually, I should have written something yesterday, but I just started and then forgot, which just goes to show my character...
 
-晚上去外婆家蹭了饭，闻者皆曰“好丰盛”。刚说需要一双靴子小姨就火速下单，然后外卖火速送达。脚不用挨冻啦哈哈！
+In the evening, I went to my grandma\'s house for dinner, and everyone who heard about it said, "How rich!" As soon as I said I needed a pair of boots, my aunt quickly placed an order, and the delivery arrived swiftly. My feet won\'t be cold anymore, haha!

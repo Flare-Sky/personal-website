@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-15"
+title = "Sojourner's Diary-15"
 date = 2024-10-28T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["吉隆坡"]
+categories = ["Sojourner's Diary"]
+tags = ["Kuala Lumpur"]
 +++
 
-在考试的前一天晚上，我第一次在马来西亚的夜空中看见了星星。
+The night before the exam, I saw stars in the Malaysian night sky for the first time.
 
-视星等约-4的它，在四周的点点星光映衬之下格外明亮。对照着星图，我认出了那是代表爱与美的Venus。
+With an apparent magnitude of about -4, it shone exceptionally brightly against the backdrop of scattered starlight. Referencing the star chart, I recognized it as Venus, representing love and beauty.
 
-说来有趣，三年前我们在2901宿舍的阳台上半夜扎堆时，通过望远镜看到的就是这颗启明星。记忆里的它也似这般，熠熠生辉。
+It's funny, three years ago when we huddled on the balcony of dormitory 2901 in the middle of the night, what we saw through the telescope was this very morning star. In my memory, it also sparkled just like this.
 
-三年的时间，太长太短。不论如何，明天总会到来。
+Three years is both too long and too short. No matter what, tomorrow will always come.
 
-> “诸天诉说神的荣耀，穹苍传扬他的手段。”
+> "The heavens declare the glory of God; the skies proclaim the work of His hands."
 
-即使我不迷信星座啊幸运啊之类云云，我还是愿意去相信这颗明星，连带着周边暗淡光点组成的星座一起，是一种给我的祝福。
+Even though I'm not superstitious about horoscopes or luck, I'm still willing to believe that this bright star, along with the constellations formed by the dimmer points of light around it, is a blessing to me.

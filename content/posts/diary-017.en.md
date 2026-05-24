@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-17"
+title = "Sojourner's Diary-17"
 date = 2024-12-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-今日主日，下午挤地铁到了湖滨in77。一下子，“人山人海”这个词在眼前具象了——人，真的好多啊啊啊
+Today is Sunday. In the afternoon, I took the subway to Hubin in77. Suddenly, the phrase "sea of people" materialized before my eyes—there were really so many people!
 
-（以下内容来自23:59）
+(The following content is from 23:59)
 
-有种截稿ddl前赶稿的急迫感
+I feel an urgency like rushing a manuscript before a deadline.
 
-去了西湖！看了湖滨88！消费并且吃得很好！收到了之前就想要的礼物！
+I went to West Lake! Saw Hubin 88! Spent money and ate very well! Received the gift I wanted earlier!
 
-哇真的好敷衍（
+Wow, that was really perfunctory (

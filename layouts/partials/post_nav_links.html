@@ -1,0 +1,22 @@
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if and (gt (len $pages) 1) (in $pages . ) }}
+<nav class="paginav">
+  
+  {{- with .PrevInSection }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ if eq .Lang "zh" }}上一篇{{ else }}Prev{{ end }}</span>
+    <br>
+    <span>{{- .Name | default .Title -}}</span>
+  </a>
+  {{- end }}
+  
+  {{- with .NextInSection }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ if eq .Lang "zh" }}下一篇{{ else }}Next{{ end }} »</span>
+    <br>
+    <span>{{- .Name | default .Title -}}</span>
+  </a>
+  {{- end }}
+  
+</nav>
+{{- end }}
