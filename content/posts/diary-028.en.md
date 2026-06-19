@@ -1,23 +1,23 @@
 +++
-title = "寄居者的日记-28"
+title = "Sojourner's Diary - 28"
 date = 2025-01-06T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-**《关于我写了一大段文字结果全选后误触到“粘贴”导致被覆盖掉这件事》**
+**《About me writing a long passage, then accidentally hitting "paste" after selecting all, causing it to be overwritten》**
 
-啊亏我写得那么辛苦！
+Ah, I wrote so hard!
 
-我想想……开头是“又是不干正事的一天，然后带个狗头”
+Let me think... the beginning was "Another day of not doing proper work, followed by a dog head emoji."
 
-然后结尾是“从今天开始早点睡”
+And the end was "Starting today, go to bed early."
 
-我是怎么把这俩联系起来的。
+How did I connect these two?
 
-……好像是说，晚睡本质上也是一种逃避。虽然有很多应该做的事，但是当“睡觉”成为“紧急而重要”的事件后就能直接略过其他事而闭上双眼了（安详）
+...It seems it was about how staying up late is essentially a form of escapism. Although there are many things that should be done, when "sleep" becomes an "urgent and important" event, one can directly skip other things and close their eyes (peacefully).
 
-啊我真记不起来了——
+Ah, I really can't remember—
 
-微信！给朋友圈加一个撤回功能吧！或者我以后果然还是应该在备忘录里写好粘贴上来。
+WeChat! Please add an undo function for moments! Or, I really should write things in my notes first and then paste them here.

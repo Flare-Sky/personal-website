@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-25"
+title = "Sojourner's Diary - 25"
 date = 2025-01-02T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-其实这并不是深夜档节目……但貌似之前都喜欢堆积到晚上才写，还是要改掉这个习惯健康作息。
+Actually, this isn't a late-night show... but it seems I used to like writing everything at night. I should really change this habit and have a healthy routine.
 
-今天到了承德，然后惊讶地发现这边还一场雪没下过。本来希望在这几天能有机会玩雪，但天气预报说接下来一周都是晴天……
+Today I arrived in Chengde, and to my surprise, it hasn't snowed here at all. I had hoped to have the chance to play in the snow these past few days, but the weather forecast says it will be sunny for the next week...
 
-接下来的几天，应该就有空闲时间去做未来的规划并践行我立下的flag了。这么一想，写这些东西好像还能起到一个督促的作用哈哈。
+In the next few days, I should have some free time to plan for the future and fulfill the resolutions I made. Thinking about it, writing these things actually serves as a good reminder too, haha.
 
-嗯，就先写这么多吧，今天早发其实还有另外的原因，那就是……
+Well, I'll just write this much for now. There's another reason why I'm posting early today, and that is...
 
-你知道的，我一直是Ave Mujica的粉丝，至于MyGO!!!!!，我祝它好运
+You know, I've always been a fan of Ave Mujica. As for MyGO!!!!!, I wish them good luck.

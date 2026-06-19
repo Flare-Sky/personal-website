@@ -1,55 +1,55 @@
 +++
-title = "寄居者的日记-23"
+title = "Sojourner's Diary - 23"
 date = 2024-12-31T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-……好吧居然有这么多人会看我的碎碎念，一下子就有写下去的动力了。
+...Alright, so many people actually read my ramblings. Suddenly I feel motivated to keep writing.
 
-转眼又到了一年的结尾，上次跨年的时刻还历历在目（好吧没啥印象）。在此辞旧迎新之际，我祝愿各位……拿错词了
+Another year has passed in the blink of an eye. The last New Year's Eve still feels vivid (okay, not really). On this occasion of bidding farewell to the old and welcoming the new, I wish everyone... oops, wrong words.
 
-2024是特别的一年，一年间我身边的人有的碌碌，有的无声走过。而我看似停滞不前（算来也的的确确落后了半年），却也是仍在跋涉。在学校之外，我学到了更多。
+2024 was a special year. Throughout the year, some people around me were busy, others passed silently. And I, seemingly stagnant (and indeed half a year behind schedule), am still striving. Outside of school, I learned more.
 
-这一年，我成年了，仿佛是被迫成熟一般，感受着生活的诸多变化而无所适从；这一年，我迷茫过，质疑自己学习的动力与目标，一遍一遍地尝试说服自己前进；这一年，我失落过，当身边的人事与虚构作品重合，也会期望既定的结局被改写；
+This year, I came of age, as if forced to mature, feeling helpless amidst many changes in life; this year, I was lost, questioning my motivation and goals for studying, trying again and again to convince myself to move forward; this year, I was disappointed, when the people and events around me overlapped with fictional works, I would wish for the predetermined ending to be rewritten;
 
-这一年，我也遗憾过，在某些夜深人静的晚上，我一个人躺着，会去在心里下定决心做出改变，但第二天还是会去刷b站（
+This year, I also had regrets. On some quiet nights, lying alone, I would resolve to make changes in my heart, but the next day I would still end up browsing Bilibili (laugh).
 
-说到这个，今年我居然有352天在刷b站（要不要屏蔽我妈……哎算了），相比去年的284天绝对是多了不少。
+Speaking of which, this year I actually spent 352 days on Bilibili (should I block my mom... oh well), which is definitely a lot more than last year's 284 days.
 
-今年我从一个拼塑料小人的变成了拼塑料机甲的，成功因为时间不够防止了冲动消费天幕但烂尾了天启（明年一定）。
+This year, I transformed from assembling plastic figurines to assembling plastic mechs. I successfully avoided impulsive purchases of the Tianmu due to lack of time, but left the Tianqi unfinished (definitely next year).
 
-今年我的rks从年初的14.15涨到了14.40，学会了交互与识谱但底力没跟上，接触了4k定轨然后发现都是外星人。
+This year, my rks increased from 14.15 at the beginning of the year to 14.40. I learned interaction and sheet music, but my fundamental skills didn't keep up. I tried 4k fixed track and found everyone else was an alien.
 
-今年我唯一玩过的二游《机动战姬：聚变》停服了，离去得悄无声息，我也因此不再尝试其他二游。
+This year, the only gacha game I played, "Mobile Suit Girls: Fusion," ceased operation. It departed silently, and I have since stopped trying other gacha games.
 
-今年我成功做到无攻略通关锈湖新作，为此在steam上留下了不少发电评测，下次打算下动物井里看看。
+This year, I successfully completed a Rust Lake new release without guides, leaving many enthusiastic reviews on Steam. Next, I plan to check out Animal Well.
 
-今年我踏入了解谜圈，在群友的大赛里抢了三次首杀，并在时间截止前，依靠朋友除帮助以外的所有支持第一次成功完赛了小型Puzzle Hunt。
+This year, I stepped into the puzzle-solving community, snatched three first kills in group challenges, and, with all my friends' support except for direct help, successfully completed a small Puzzle Hunt for the first time before the deadline.
 
-今年我与《空洞骑士》的最终BOSS辐光厮杀三百回合，达成了真结局“不再有梦”，现在在被梦魇格林强行拉着起舞。
+This year, I battled the final boss Radiance in "Hollow Knight" for three hundred rounds, achieving the true ending "Dream No More," and now I'm being forcefully dragged into a dance by Nightmare King Grimm.
 
-今年我仍然在看特摄，在布莱泽完结后特地写了一篇专栏去分析结局，希望着亚刻的结尾别崩，希望着加布能高开高走。
+This year, I continued to watch Tokusatsu. After Blazar concluded, I specifically wrote a column analyzing its ending, hoping that Ark's ending wouldn't collapse, and that Gatchard would start strong and maintain its momentum.
 
-今年我见证了五维介质小圈子的种种，惊讶于第628期中v周刊尘能独占前三，也敬佩同人创作者在官方装死的背景下不减的热情，在年底也为新运营支棱起来了而高兴。
+This year, I witnessed various aspects of the virtual idol community, surprised that Dust could monopolize the top three in the 628th V Weekly, and admired the undiminished enthusiasm of fan creators despite the official inactivity. At the end of the year, I was also happy that the new operations team stepped up.
 
-今年我发现了中v《妄想症》系列的宝藏，还全成就了同名剧情向游戏，然后它就被举报限流换源了，颇有种49年入国军的感觉。
+This year, I discovered the treasure of the Chinese virtual singer series "Delusion," and achieved all achievements in the eponymous story-driven game. Then it was reported, restricted, and its sources changed, giving me a feeling of joining the KMT in '49.
 
-今年尝试了Synth V AI编辑器，然后丢弃了古老的Vocaloid 4 FE，直呼还是抽卡式的无脑调校工作适合我。
+This year, I tried the Synth V AI editor and then abandoned the ancient Vocaloid 4 FE, exclaiming that gacha-style mindless tuning was more suitable for me.
 
-今年我全成就通关了《泰拉瑞亚》，并且完成了知名附属模组“灾厄”的全流程，一想到刚开始时，我还嫌弃在旁边联机的同学就忍不住笑。
+This year, I completed "Terraria" with all achievements and finished the entire process of the famous associated mod "Calamity." I can't help but laugh when I think of how I disliked playing with my friend who was online next to me at the beginning.
 
-今年打破了一项吉尼斯：“规模最大的鼓乐课”，虽然听着寒碜但以后简历上可以加上“曾参与打破吉尼斯世界纪录”。
+This year, I broke a Guinness World Record: "The Largest Drum Lesson." Although it sounds humble, I can now add "Participated in breaking a Guinness World Record" to my resume.
 
-今年因为一个人在家学会了跟着菜谱做饭，虽然有过把牛肉煲仔饭变成牛肉干的惨剧但仍然坚信自己水平还行。
+This year, because I was home alone, I learned to cook by following recipes. Although there was a tragic incident where I turned beef claypot rice into beef jerky, I still firmly believe my cooking skills are decent.
 
-今年偶尔会去跑步，偶尔会去骑车，常常踢球但技术并没有进步，也许团队意识强了些？
+This year, I occasionally ran, occasionally cycled, and often played soccer, but my skills didn't improve. Maybe my team awareness got a bit stronger?
 
-今年从高中毕业，准备走向更广阔的天地。
+This year, I graduated from high school and am ready to embrace a broader world.
 
-还想写多一些，但时间已经不允许啦。看到这里的朋友，不论是直接拉下来的还是一字一句看完的，感谢你对这篇流水账的耐心。我也只能说这篇要发出来还是需要勇气的（笑）
+I wanted to write more, but time doesn't allow it anymore. To friends who read this, whether you scrolled directly to the end or read every word, thank you for your patience with this rambling account. I can only say that publishing this requires courage (chuckle).
 
-总而言之言而总之，2024的一切都已经是过去时了，重要的仍然是现在与未来的一切。
+All in all, everything in 2024 is already in the past. What matters is still everything in the present and the future.
 
-*附：留一道没有参考答案的问题：你能发现我更新这个系列的时间有什么规律吗？不过要回答这个问题，可能需要在各种层面上足够了解我吧*
+*Appendix: Here's a question without an answer key: Can you find a pattern in when I update this series? However, to answer this question, you might need to understand me well enough on various levels*

@@ -1,35 +1,35 @@
 +++
-title = "寄居者的日记-24"
+title = "Sojourner's Diary - 24"
 date = 2025-01-01T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-我的鸽子本性最终还是让我错过了在2024写完第24篇的机会，好在25肯定是发在2025了
+My procrastinating nature ultimately made me miss the chance to finish the 24th entry in 2024. Fortunately, the 25th entry will definitely be posted in 2025.
 
-关于昨天（艰难发出来的）的流水账，有些人会一下子觉得陌生。对此我只能说，我妈她也这样（划）一年前的我也看不懂这些。写出来的大多是一年的变化与心得，而从前的天曜仍然没有变！谢谢理解
+Regarding yesterday's (hard-earned) rambling account, some people might find it suddenly unfamiliar. To this, I can only say that my mom is the same (scribble) and a year ago, I wouldn't have understood any of this either. Most of what I wrote are the changes and insights of the year, and the former Tianyao remains unchanged! Thanks for understanding.
 
-想到昨天其实还有一些漏下的内容——新年果然还是少不了New Year's Resolution啊！在此，我希望新的一年……
+Thinking about it, I actually missed some content yesterday—New Year's Resolutions are indispensable for the New Year! Here, I hope in the new year...
 
-- 能把寄居者的日记转成文字记录下来（就写在Jenny姐姐送我的本子上）
+- To transcribe the Sojourner's Diary (write it in the notebook Jenny sister gave me)
 
-- 能把想剪完的视频剪了（好像已经拖了不知道几年了哈哈）
+- To finish editing the videos I want to edit (I think they've been dragging on for who knows how many years, haha)
 
-- 能有份兼职做做（好随便啊喂）
+- To find a part-time job (how casual, hey)
 
-- 能与家人保持主动的联系（这真的需要作为目标吗）
+- To maintain active contact with family (does this really need to be a goal?)
 
-- 能记录更多的生活，让更多人看到
+- To record more of life and let more people see it
 
-- 能与她一起戒掉不好的习惯
+- To quit bad habits with her
 
-- 能每天记得读祂的话语
+- To remember to read His word every day
 
-- 最后，能考上心仪的大学！
+- Finally, to get into my dream university!
 
-就先这些吧。之后，在每次日记的结尾都要加上：“愿我口中的言语、心里的意念在你面前蒙悦纳。”
+That's it for now. Afterwards, at the end of each diary entry, I will add: "May the words of my mouth and the meditation of my heart be acceptable in Your sight."
 
-迎！接！2025！
+Welcome! To! 2025!
 
-*PS：抓住1月1日的尾巴祝昭白生日快乐！感谢他带我尝试开了卡丁车、看了柯南电影；也感谢提前送我礼物的各位*
+*PS: Catching the tail end of January 1st to wish Zhaobai a happy birthday! Thanks to him for taking me karting and watching a Conan movie; also thanks to everyone who gave me gifts in advance*

@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-22"
+title = "Sojourner's Diary - 22"
 date = 2024-12-30T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-开始前的碎碎念：其实昨天的文是想发成“仅自己可见”，等过几天再公开的，手一滑发出去了想想就这样算了，反正没几个人会看（
+Some rambling before starting: Actually, yesterday's post was meant to be "private," to be made public in a few days, but I accidentally posted it and thought, "Oh well, few people will see it anyway" (
 
-在踢完球后去到了Figo老师家吃饭，路上聊了许多关于未来的话题，有关于学校的、工作的、时间安排的。于是我终于是开始了思考：在将来的可能相对空闲的一年，我该如何度过？
+After playing soccer, I went to Teacher Figo's house for dinner. On the way, we talked a lot about the future, about school, work, and time management. So, I finally started to think: How should I spend the possibly relatively free year ahead?
 
-不准确地说，曾经的我是安于顺服他人给予的安排的。而当这样的日常被打破后，比如在国外最终考试前的几周，学校停课时间可以自由安排时，我便会变得不知所措。就是如今在杭州也是如此——当看似忙碌的生活出现缝隙，我虽明知应该做些什么，心里却总是拖延。有些时候，我会觉得自己其实是在逃避，或者用忙碌自我麻痹，使得自己几乎没有时间思考（也许你会想到曾经的一条朋友圈）。
+Inaccurately speaking, I used to be content with following others' arrangements. But when such a routine was broken, for example, in the weeks before the final exams abroad, when school was suspended and I could arrange my time freely, I would become at a loss. It's the same now in Hangzhou—when there are gaps in my seemingly busy life, although I know I should do something, I always procrastinate. Sometimes, I feel like I am actually escaping, or numbing myself with busyness, leaving myself almost no time to think (you might remember a moment from my past social media posts).
 
-直到今天我才认识到，将来的一年可能比考试前的一年还要关键。最重要的其实不在乎学历或是赚钱，而是个人的经历。在Figo老师的启发下，我得知了许多可能的服侍方向，而在这些“远近高低各不同”的道路背后，有着一个一致的内核，那就是都要自己去安排。
+It wasn't until today that I realized the coming year might be even more crucial than the year before exams. The most important thing is not about academic qualifications or making money, but personal experience. Inspired by Teacher Figo, I learned about many possible directions for service, and behind these "different in distance, height, and perspective" paths, there is a consistent core: they all require self-arrangement.
 
-而我也许仍然对此感到抗拒。
+And I might still be resistant to this.

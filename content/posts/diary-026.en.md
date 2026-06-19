@@ -1,23 +1,23 @@
 +++
-title = "寄居者的日记-26"
+title = "Sojourner's Diary - 26"
 date = 2025-01-03T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-曾经我的家人告诉我，19岁的生日是有特殊意义的
+My family once told me that my 19th birthday held special significance.
 
-——因为今天的公历生日和农历生日会在同一天
+—Because today, my Gregorian and lunar birthdays would fall on the same day.
 
-好吧，就是这么朴实无华的理由。这一天仿佛也没什么特别的，重要的是我又晚睡了……
+Well, that's the simple reason. This day didn't feel particularly special; the important thing is I stayed up late again...
 
-今天早上去吃了北方的羊汤；跟着爷爷去爬了周围的群山，走了一条人迹罕至的野路；吃了奶奶包的大包子与外面现做的蛋糕，开心了一晚上；参加了一次处于我知识盲区的培训，蒙了的我决定放平心态去学。但好像，这一天也就这样？
+This morning, I had Northern-style lamb soup; followed Grandpa to climb the surrounding mountains, taking a rarely-trodden wild path; ate Grandma's big steamed buns and a freshly made cake from outside, happy all evening; attended a training session that was completely outside my knowledge base, feeling bewildered, I decided to take it easy and learn. But it seems, that was all for the day?
 
-说实话，我曾经想过去举办一个派对：想着能留在杭州，住家里的大房子，自己做一些菜，再邀请上许多同学朋友，还能借此传福音呢！紧接着，这些想法就一个接一个地被推翻了。最后，也不知道是不是想逃避，我在退掉2日的机票之后仍然选择了同一天，哪怕4日的价格其实便宜了10块。
+To be honest, I once thought of holding a party: imagining staying in Hangzhou, in the big house at home, cooking some dishes myself, and inviting many classmates and friends, even spreading the gospel through it! Then, these ideas were overthrown one by one. In the end, I don't know if I wanted to escape, but after canceling my flight for the 2nd, I still chose the same day, even though the price for the 4th was actually 10 yuan cheaper.
 
-从什么时候开始的呢？我不再相信自己真的能够把事做好，也不再去乐观地看待生活中的小事。果然是我对自己的认知太高了吧，19岁之后，要面对的事情可不仅仅是曾经的那般轻易了。
+When did it start? I no longer believed I could really do things well, nor did I optimistically view the small things in life. It must be that I had too high an opinion of myself. After 19, the things I have to face are no longer as easy as before.
 
-那就这样吧，告别18岁的自己，把“他”用时间掩埋
+So be it. Bid farewell to my 18-year-old self, and bury "him" with time.
 
-话说我手机上好像没多少软件会祝我生日快乐哎。嗯……微信算一个
+By the way, I don't seem to have many apps on my phone that wish me a happy birthday. Hmm... WeChat is one.

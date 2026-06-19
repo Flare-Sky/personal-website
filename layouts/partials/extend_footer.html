@@ -60,3 +60,71 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
+
+<style>
+.archive-sort-btn {
+    margin-top: 15px;
+    padding: 6px 16px;
+    background-color: var(--tertiary);
+    color: var(--primary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-size: 0.9em;
+    font-family: inherit;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+.archive-sort-btn:hover {
+    background-color: var(--theme);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transform: translateY(-1px);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const archiveExists = document.querySelector('.archive-year');
+    if (!archiveExists) return;
+
+    const isZh = document.documentElement.lang.startsWith("zh");
+    let isDesc = true;
+
+    const btn = document.createElement('button');
+    btn.className = 'archive-sort-btn';
+    btn.innerHTML = isZh ? '⏳ 切换为正序 (最旧在前)' : '⏳ Sort Oldest First';
+
+    const header = document.querySelector('.page-header');
+    if (header) {
+        header.appendChild(btn);
+    }
+
+    btn.addEventListener('click', () => {
+        isDesc = !isDesc;
+        
+        btn.innerHTML = isDesc
+            ? (isZh ? '⏳ 切换为正序 (最旧在前)' : '⏳ Sort Oldest First')
+            : (isZh ? '⌛ 切换为倒序 (最新在前)' : '⌛ Sort Newest First');
+
+        const main = document.querySelector('.main');
+        const years = Array.from(main.querySelectorAll('.archive-year'));
+        years.reverse().forEach(year => main.appendChild(year));
+
+        years.forEach(year => {
+            const months = Array.from(year.querySelectorAll('.archive-month'));
+            months.reverse().forEach(month => year.appendChild(month));
+        });
+
+        const monthNodes = document.querySelectorAll('.archive-month');
+        monthNodes.forEach(month => {
+            const postsContainer = month.querySelector('.archive-posts');
+            if (postsContainer) {
+                const posts = Array.from(postsContainer.querySelectorAll('.archive-entry'));
+                posts.reverse().forEach(post => postsContainer.appendChild(post));
+            }
+        });
+    });
+});
+</script>

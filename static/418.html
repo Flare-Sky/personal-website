@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>418 I'm a teapot</title>
+    <style>
+        body {
+            background-color: #1a1b26;
+            color: #a9b1d6;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        .error-code {
+            font-size: 3rem;
+            color: #f7768e;
+            margin-bottom: 10px;
+            text-shadow: 0 0 10px rgba(247, 118, 142, 0.5);
+        }
+        .teapot-art {
+            font-size: 24px;
+            white-space: pre;
+            color: #7aa2f7;
+            line-height: 1.1;
+            margin: 20px 0;
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        .message {
+            font-size: 1.2rem;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .en-text { font-weight: bold; }
+        .zh-text { font-size: 0.9em; color: #565f89; margin-top: 10px; }
+        
+        .btn-home {
+            color: #9ece6a;
+            text-decoration: none;
+            border: 2px solid #9ece6a;
+            padding: 12px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+            transition: all 0.3s;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .btn-home:hover {
+            background-color: #9ece6a;
+            color: #1a1b26;
+            box-shadow: 0 0 15px rgba(158, 206, 106, 0.6);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="error-code">HTTP 418</div>
+    
+    <div class="teapot-art">
+             ;,'
+     _o_    ;:;'
+ ,-.'---`.__ ;
+((j`=====',-'
+ `-\     /
+    `-=-'     
+    </div>
+
+    <div class="message">
+        <div class="en-text">The server refuses the attempt to brew coffee with a teapot.</div>
+        <div class="zh-text">服务器拒绝使用茶壶冲泡咖啡的请求。</div>
+    </div>
+
+    <a href="/" class="btn-home">Return to Base / 返回主页</a>
+
+</body>
+</html>

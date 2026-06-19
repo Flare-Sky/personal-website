@@ -3,7 +3,7 @@ title = "Sojourner's Diary-15"
 date = 2024-10-28T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Kuala Lumpur"]
+tags = ["Kuala Lumpur","Stargazing"]
 +++
 
 The night before the exam, I saw stars in the Malaysian night sky for the first time.

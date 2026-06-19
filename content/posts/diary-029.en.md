@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-29"
+title = "Sojourner's Diary - 29"
 date = 2025-01-07T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-腊八该做啥？
+What to do on Laba?
 
-今天吃了饺子，爬了山，泡了腊八蒜。
+Today, I ate dumplings, climbed a mountain, and pickled Laba garlic.
 
-山的名字是乾隆给取的，叫做“僧冠”。虽然远远望过去也看不出来是个帽子，但毕竟这个名字摆着，以此为前设就有几分看着像了。上山的路挺野的，好在有本地热心人指路，一路摸索也是上到了半山腰的消防通道（实际上也就是平一点能开车的土路啦）。一路上跟爷爷有一搭没一搭地聊着，跟弟弟有一搭没一搭地拌着嘴，这个过程中水居然一口没喝也真是神奇了。
+The mountain was named "Sengguan" (Monk's Cap) by Emperor Qianlong. Although it doesn't look like a cap from afar, with the name in mind, it somewhat resembles one. The path up the mountain was quite wild, but fortunately, there were enthusiastic locals to guide us. We fumbled our way up to a fire access road halfway up the mountain (which was essentially just a flatter dirt road that cars could drive on). Along the way, I chatted with my grandpa on and off, and bickered with my younger brother on and off. It's truly amazing that I didn't drink a single sip of water during this process.
 
-饺子是奶奶给包的，韭菜馅。腊八吃饺子是北方的习俗吧，不过这么一说北方好像什么时候都能吃饺子，也无怪乎“包饺砸”的结尾套路会流传甚广了（有关系吗喂）。昨天帮忙打下手时尝试包了几个，结果发现这样下去面皮疑似不够，于是还是得奶奶上手……说到这个，奶奶包饺子的手法从我幼时记忆中的精细变成了效率为重，虽然想着吃进嘴里也没区别，但总感觉哪不一样了。
+The dumplings were made by Grandma, filled with chives. Eating dumplings on Laba is a Northern custom, I suppose, but then again, it seems Northerners can eat dumplings at any time, which might explain why the "wrapping dumplings" trope is so widespread (is there a connection?). Yesterday, when I was helping out, I tried wrapping a few, but it seemed like there wouldn't be enough dough, so Grandma had to take over... Speaking of which, Grandma's dumpling-wrapping technique has changed from the meticulousness I remember from my childhood to prioritizing efficiency. Although I thought it wouldn't make a difference once eaten, it just feels different somehow.
 
-腊八蒜是和奶奶弟弟一起泡的。虽然我不吃蒜也不喝醋，但剥起蒜来还是乐在其中。一边剥着，我们一边玩着“飞花令”，还是熟悉的弟弟出字，我和奶奶轮流背诗。恍惚会回到那个我和他们睡上下铺的时候，那时的“风华正茂，书生意气，挥斥方遒”呵。
+We pickled Laba garlic with Grandma and my younger brother. Although I don't eat garlic or drink vinegar, I still enjoyed peeling the garlic. While peeling, we played "Feihualing," with my brother giving out words as usual, and Grandma and I taking turns reciting poems. It almost felt like we were back to the time when I slept on the top bunk and they slept on the bottom, that "flourishing prime, scholarly spirit, and boundless ambition" then.
 
-“过了腊八就是年”，未来的一切都仍未知，但新年总会到来。
+"After Laba, it's New Year." Everything in the future remains unknown, but the New Year will always arrive.

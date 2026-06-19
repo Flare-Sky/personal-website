@@ -3,7 +3,7 @@ title = "Sojourner's Diary-7"
 date = 2023-05-18T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Kuala Lumpur"]
+tags = ["Kuala Lumpur","Study"]
 +++
 
 I can't say that I planned to flake out, but a month has truly passed. The week's studies aren't over yet, but since I remembered this last night, it's necessary to write a bit about myself.

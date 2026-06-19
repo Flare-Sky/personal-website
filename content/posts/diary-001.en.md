@@ -3,7 +3,7 @@ title = "Sojourner's Diary-1"
 date = 2023-03-30T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Hangzhou"]
+tags = ["Hangzhou","Sport"]
 +++
 
 Returned to Hangzhou this morning amidst the roar of a green-skinned train. After a busy day, I suddenly had the impulse to write a diary entry to document it.

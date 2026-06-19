@@ -3,7 +3,7 @@ title = "Sojourner's Diary-10"
 date = 2023-12-14T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Chengde"]
+tags = ["Chengde","Study"]
 +++
 
 I've written so much, yet I haven't described my current situation (though most people who would read this probably already know). It just so happens that today I'm in the mood to do some chronicling, haha...

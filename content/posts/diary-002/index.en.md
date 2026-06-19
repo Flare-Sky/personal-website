@@ -10,6 +10,8 @@ I had intended to update daily, but I ended up having too much fun at Figo's pla
 
 I spent most of today at home packing things to take with me. I took a quick photo of the cat at my tenant's place.
 
+![Cat!](2-0.webp)
+
 In the evening, we had a gathering at Figo's house. It was a lot of fun!
 
 This really has the vibe of an elementary school diary entry. In short, it's been a busy day.

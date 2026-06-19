@@ -21,3 +21,5 @@ Ice skating! Well, we didn't have ice skates. But that didn't stop us from walki
 What a world this is! Snowflakes fall slowly, weaving a grand melody in the sky. Gathering a handful of snow in this whiteness and tossing it into the air, I was instantly covered in white. Immersed in it, I personally experienced the power of the Creator; this is the world's greatest artistic masterpiece.
 
 Amidst the wonder, I casually shaped a simple geometric form out of the snow. My honest thought was: hurry up and take a picture to show off, and take the opportunity to gloat a bit in front of my Southern friends. Classic me.
+
+![Star Tetrahedron](9-0.webp)

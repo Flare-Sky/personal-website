@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-27"
+title = "Sojourner's Diary - 27"
 date = 2025-01-04T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["承德"]
+categories = ["Sojourner's Diary"]
+tags = ["Chengde"]
 +++
 
-题外话：注意到截止昨天《寄居者的日记》刚好发了26篇，可以用a1z26提取……（解密爱好者对26の迷之执着）
+Sidebar: It just so happens that by yesterday, "Sojourner's Diary" had exactly 26 entries, which can be extracted using a1z26... (The mysterious obsession with 26 for decryption enthusiasts)
 
-今天好好收拾了承德这边的堆积，翻出来一堆衣服和鞋。之后可以每天换着穿不重样了！虽然我从来对于新衣服是不感冒的，一到冬天就换上我那经典蓝色皮肤（但我真的很爱那件喂）
+Today I tidied up the accumulated items here in Chengde, finding a pile of clothes and shoes. Now I can wear something different every day! Although I've never been keen on new clothes, in winter I always switch to my classic blue skin (but I really love that one, come on).
 
-相比我平时的晚睡晚起，我的爷爷每天5点准时上床的能力令我敬佩，这也使出门散步的时间如果是晚上那人数必然是3。一路上嚷嚷着要上冰面玩玩最后也没成功，真希望能下一场大雪啊！沿着江边的路途总能让我想起去年的经历，然后意识到这日记写了也有1年了呀（然而还不到30篇果然我真能鸽）
+Compared to my usual late nights and late mornings, my grandpa's ability to go to bed promptly at 5 AM impresses me. This means that if we go for a walk in the evening, there will definitely be three of us. Along the way, I kept nagging about wanting to play on the ice, but it never happened. I really hope for a heavy snowfall! The path along the river always reminds me of last year's experiences, and then I realize this diary has been going for a year now (yet it's still less than 30 entries, I guess I really can procrastinate).
 
-总而言之（好生硬的转折），果然还是要多帮帮爷爷奶奶干活；也要从他们这里多学几手，争取将来出国当御厨啊（
+All in all (what an abrupt transition), I really should help my grandparents more with chores; and also learn a few tricks from them, striving to become a royal chef when I go abroad (chuckle).
