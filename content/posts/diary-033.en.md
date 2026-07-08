@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-33"
+title = "Sojourner's Diary - 33"
 date = 2025-02-14T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["吉隆坡"]
+categories = ["Sojourner's Diary"]
+tags = ["Kuala Lumpur"]
 +++
 
-遇到了一位特别有故事的司机，练了一路英语。从马来西亚聊到世界各地从学习工作聊到未来格局，从AI技术聊到普遍道德（感觉比上一节英语课管用嘿嘿）
+Met a driver with an exceptionally interesting story, and practiced my English with him the entire way. We chatted about everything from Malaysia to the rest of the world, from study and work to the future global landscape, and from AI technology to general morality (felt way more useful than an English class, hehe).
 
-他在国际环保组织（？反正和wild life有关）工作，因此去过世界各个地方，而我的阅历就相形见绌了……我们一致认可“真正好的工作应当是你所热爱的”。哦对了，他们家的三个孩子都是学艺术的，大哥现在正在做导演拍电影，二哥在新加坡当音乐老师，最小的妹妹则在做3D动画！他说自己平时出来基本上是做私家车司机，这次刚好去机场接个人顺手就捎上了我，双赢！
+He works in an international environmental organization (or at least something related to wildlife), which has taken him to various corners of the world, making my own life experiences pale in comparison... We both agreed that "a truly good job should be something you love." Oh, by the way, all three of his children are studying art: the eldest brother is currently a director making movies, the second brother is a music teacher in Singapore, and the youngest sister is working on 3D animation! He said he usually goes out as a private car driver, and this time he just happened to be heading to the airport to pick someone up and picked me up on the way—a win-win!
 
-他让我猜他的年纪，我猜50，但没想到他已经60有余了！真的完全看不出来！他还说，自己正在为了拍电视节目收集素材，其中一个方式就是和不同的人交流。原来不经意之间我也成了素材。
+He asked me to guess his age. I guessed 50, but to my surprise, he was already over 60! You really couldn't tell at all! He also mentioned that he is currently collecting material for a TV show he is producing, and one of his methods is chatting with different people. Turns out I inadvertently became part of his material.
 
-跟他聊了很久也不觉得累，期间偶有词穷掏出谷歌翻译他也表示理解。哎，之后果然要多找人交流（练习英语口语）呀！
+Even after chatting with him for so long, I didn't feel tired at all. Though I occasionally ran out of words and had to pull out Google Translate, he was very understanding. Ah, I really should interact with more people (to practice my spoken English) in the future!
 
-*PS：另有一趣事，在机场吃麦发现不仅没有板烧，脆汁鸡还只有辣的了……由于众所周知的原因，我跑去找店员要水，结果给续了一杯雪碧！令人暖嘴又暖心。*
+*PS: On another funny note, when having McDonald's at the airport, I found that not only was there no Grilled Chicken Burger, but the McCrispy Chicken was only available in spicy... For reasons well known to all, I went to ask the staff for water, but they ended up refilling my cup with Sprite! Both mouth-warming and heart-warming.*

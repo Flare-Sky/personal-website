@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-39"
+title = "Sojourner's Diary - 39"
 date = 2025-02-20T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-漂泊星尘，终于尘降。
+Drifting stardust has finally settled.
 
-在寒冷的冬天起床是一个挑战，但最为艰难的还当属从出门跑步到身体热开的那段时间。迎面刺骨的凉风袭向并不厚重的衣服（不会有人穿着羽绒服跑步的……吧？）你还要强逼自己不蜷缩起来而维持正确的跑姿。但当真的进入了运动的状态，这一切都是值得的。
+Getting out of bed in the freezing winter is a challenge, but the most difficult part is undoubtedly the period from heading out for a run until the body finally warms up. The biting wind hits your not-so-thick clothes (surely nobody runs wearing a down jacket... right?), and you still have to force yourself not to curl up but rather maintain a correct running posture. But once you actually get into the zone, it is all completely worth it.
 
-当然，在低温中迅速掉电的耳机和手表显然没有进入状态（
+Of course, my earphones and watch, which drained their battery rapidly in the low temperature, clearly didn't get into the zone (
 
-其余的时间都在图书馆高效地补完了生物学的基础知识，并沿用从初中在科学老师手下历练出的笔记技巧成功写完了n张纸。哎，只能说出来混迟早要还的，当初VCE没选生物的回旋镖最终还是砸了我个正着。好在队友是高中公立教育受“益”者，我也尝试着用“拜托他教我”的方式同时巩固双方的知识，不过效果就见仁见智啦。
+The rest of the time was spent in the library efficiently catching up on the basic knowledge of biology, and using the note-taking skills forged under my middle school science teacher, I successfully filled up quite a few sheets of paper. Ah, what goes around comes around; the boomerang of not choosing biology in VCE eventually hit me right on target. Fortunately, my teammate is a "beneficiary" of high school public education, and I also tried to reinforce the knowledge for both of us by "asking him to teach me"—though the effectiveness remains to be seen.
 
-不过至少在我看来，今晚的presentation是成功的。
+But at least in my view, tonight's presentation was a success.

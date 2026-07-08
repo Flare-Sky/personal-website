@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-35"
+title = "Sojourner's Diary - 35"
 date = 2025-02-16T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-早上和弟兄姐妹碰面，彼此认识，本该是很高兴的；中午有朋友请客吃饭，还打包了一些留作晚饭，本该是很满足的；晚上去朋友家拿快递，回来搭了他的车，本该是很感恩的……但为什么呢？
+Meeting up and getting to know the brothers and sisters in the morning was supposed to be very joyful; having a friend treat us to lunch, with some leftovers packed for dinner, was supposed to be very satisfying; visiting a friend's place in the evening to pick up some packages and getting a ride back was supposed to make me very grateful... But why?
 
-在反映住宿条件之后，能得到改善的可能性如今看来微存。ta到底说了什么，能让“我和上面一致认为你们不能住合租房，至少也应该是酒店式公寓，再不行你来我家住几天。”变成“我实在不是管你们住宿方面事项的，你们可以直接和ta反馈。”
+After raising concerns about our living conditions, the possibility of getting any improvement now seems virtually nonexistent. What on earth did *they* say to make "Both my superior and I agree that you shouldn't be staying in a shared rental, it should at least be a serviced apartment, or you could even stay at my place for a few days" turn into "I'm really not the one in charge of your accommodation matters, you can give feedback directly to *them*"?
 
-……被点燃了星火又熄灭的木柴恐怕很难支持接下来继续的燃烧了。
+...Wood that has had its spark ignited and then snuffed out probably struggles to support any further burning.
 
-在我散步遇到因为施工封死的断头路时，我会尝试沿着墙多走几步，希冀着能有一个缺口容许我通过；哪怕走到四下漆黑，也能借着仰望星群打趣。但是谁又能知道，循着光芒踏上的土地会是一片坟地？
+When I encounter a dead-end road blocked by construction during my walks, I try to walk a few more steps along the wall, hoping there might be an opening to let me through; even when walking into pitch darkness, I can still make a joke of it by looking up at the stars. But who could have known that the ground one steps onto by following the light would turn out to be a cemetery?
 
-不过，这只是我散步遇到的小小插曲罢了，不要多想。
+Still, this was just a tiny episode during my walk, nothing more. Don't read too much into it.

@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-32"
+title = "Sojourner's Diary - 32"
 date = 2025-01-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["吉隆坡"]
+categories = ["Sojourner's Diary"]
+tags = ["Kuala Lumpur"]
 +++
 
-终究是没有盼到期望的那场雪，不论是在承德还是杭州……
+After all, the snow I had been hoping for never did come, neither in Chengde nor in Hangzhou...

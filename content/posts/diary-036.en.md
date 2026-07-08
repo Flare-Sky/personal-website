@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-36"
+title = "Sojourner's Diary - 36"
 date = 2025-02-17T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-昨天的文章的确带了一点负面的情绪，如果导致了误解非常抱歉……但我并不会删稿，一方面我修改了内容不用担心会有被监视的风险，另一方面是想到，将来回看时应该能重新感受到这种初来乍到吧！这也是我写这些的目的不是吗？
+Yesterday's post did carry a bit of negative emotion, and I am very sorry if it caused any misunderstandings... However, I will not delete the post. On one hand, I have edited the content, so there is no need to worry about any risk of being monitored; on the other hand, I thought that looking back in the future, I should be able to re-experience this raw feeling of just arriving! Isn't that the whole point of why I write these diaries?
 
-言归正传，今晚应该会是睡得非常舒服的一晚了。一方面就近在闲鱼上收了个“仅自提”的乳胶床垫，得到了本地京爷（其实是姐姐啦）的指点；另一方面和ta交涉后购入了一张上下铺，之后也不用打地铺喽！
+Anyway, tonight should be a very comfortable night's sleep. On one hand, I bought a "local pickup only" latex mattress on Xianyu nearby and received some great advice from a local "Beijing master" (actually an older sister); on the other hand, after negotiating with *them*, a bunk bed was purchased, so I won't have to sleep on the floor anymore!
 
-今天一天并没有太多固定的安排（不如说完全没有），因此跑去了附近同学推荐的图书馆里泡了半天。去的时候里面已经坐满了人，还是刚好有人起身离开我才占到位置。
+There weren't many fixed arrangements today (or rather, none at all), so I ran to a nearby library recommended by a classmate and spent half the day there. When I arrived, it was already packed with people, and I only managed to snag a seat because someone happened to get up and leave.
 
-虽然铺了一桌学习用品，但它们大多只担当了气氛组的角色。一天下来还是做了许多事的，但总是有种空虚感。
+Although I spread a whole table of study supplies, most of them only served as "atmospheric set dressing." I did get quite a few things done throughout the day, but there was still a lingering sense of emptiness.
 
-晚上找了同学“诉苦”，边听他打抱不平边狂炫五花肉（好肥啊），结果就是吃多了需要出去消消食。而我也是难得地主动（？）找了爸妈聊天，算是正式谈起了在这里的生活。
+In the evening, I went to a classmate to "pour my heart out." While listening to him venting on my behalf, I stuffed myself with pork belly (so fatty!), and as a result, I ate too much and had to go out for a walk to digest. It was also a rare occasion where I proactively (?) chatted with my parents, formally talking about my life here.
 
-对齐颗粒度后才发现，我们好像都有许多的误会。但是朋友的劝诫仍不无道理，有则改之无则加勉嘛！明天打算和ta好好沟通一下我们时间安排方面的问题，不知道我现在在ta心里是怎样的形象……会不会是个特别事多的人呢？哎，晚上和本地朋友一聊才知道折叠床是他购入的二手货，这么看来我早上直接买新床的行为的确欠缺考虑。也许我还是需要这方面更多的历练，才能有所成长吧。
+Only after aligning our perspectives did I realize that we all seemed to have many misunderstandings. But my friend's advice still makes a lot of sense: "correct mistakes if you have made them and guard against them if you have not!" Tomorrow, I plan to have a good talk with *them* about our scheduling issues. I wonder what kind of image I have in *their* mind now... Will I be seen as an exceptionally troublesome person? Ah, chatting with a local friend in the evening made me realize that the folding bed was a second-hand item he bought. Looking at it this way, my behavior of directly buying a brand-new bed this morning was indeed a bit thoughtless. Perhaps I still need more experience in these matters to grow.
 
-所以，我希望能够把一切说清，也希望能够把一切安排好。不知道对我来说这是否会是一种奢求，毕竟我对自己的自律水平还是有清晰的认知的……但是，就像朋友临走前说的那样，把结果交托给神。
+Therefore, I hope to make everything clear, and I also hope to get everything well-arranged. I wonder if this is a luxury for me, since I still have a very clear understanding of my own level of self-discipline... But, just as my friend said before leaving: hand the results over to God.

@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-38"
+title = "Sojourner's Diary - 38"
 date = 2025-02-19T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-今天收到了LeTourneau的offer（我终于也是不用被家人问“别人都有offer你的呢”了），还没捂热乎（电子文稿真能热乎吗）就跟着同学去了远一点地方的图书馆——抢位置！
+Today, I received an offer from LeTourneau (finally, I don't have to face my family asking, "others all have offers, where is yours?"). Before it could even warm up in my hands (can electronic files even get warm?), I followed a classmate to a library slightly further away to—snag seats!
 
-如果要在图书馆学习，抢位置是不得不品的一环。早上9点开门的图书馆门口必然排了长长的一队人，然后便是“率军冲锋不畏刀枪所阻”的环节。而像我们这种晚到了的，只能祈祷刚好有人有事起身留下空位，不然就只能沦为在可疑座位旁随机刷新的NPC了（悲）
+If you want to study in a library, seat-snagging is an essential experience. In front of the library doors before they open at 9 AM, there will inevitably be a long line of people waiting, followed by the "leading the charge, fearless of blocking blades and spears" rushing phase. For latecomers like us, we could only pray that someone happened to leave their seat due to some business; otherwise, we'd be reduced to NPC characters randomly spawning next to suspicious-looking empty seats (sad).
 
-和同学约好时间，他坐地铁我骑车，结果是地铁以微弱优势胜出（然后我回家就坐地铁了）。在我为抢到普通位置沾沾自喜时，同学早已坐上了至尊VIP席——带插座的位置。在眼看着我的mac电量降到20之后，我不得不从2楼搬了个椅子上4楼找同学蹭插座用。
+I made an agreement on the time with my classmate. He took the subway while I cycled there, and the subway won by a narrow margin (which convinced me to take the subway on my way back). While I was quietly proud of snagging a regular seat, my classmate had already taken a supreme VIP seat—one with a power outlet. Watching my Mac's battery drop to 20%, I eventually had to carry a chair up from the 2nd floor to the 4th floor to share the outlet with him.
 
-在图书馆学习有一个好处，就是氛围感特别强（看了看身边打游戏的人）……大概？哎果然真正重要的是自控力啊。
+Studying in a library has one advantage: the academic atmosphere is exceptionally strong (looking at the person playing games right next to me)... probably? Ah, indeed, what truly matters is self-control.
 
-说到时间管理的话题，今晚小组一问代祷事项才发现大家都面临同样的挑战。朋友给了我们一些建议，我觉得特别有道理：每小时记录下做的事情，两周后看看自己都干了些啥。我在此基础上加上了判定标准：哪些事情是你敢于跟师长直接说的，就是合理的（但也不一定必要的说）
+Speaking of time management, when our small group asked about prayer requests tonight, I realized we are all facing the same challenge. A friend gave us some advice, which I found extremely practical: record what you do every hour, and check what you've actually accomplished after two weeks. I added a evaluation standard of my own on top of this: whatever activities you would feel bold enough to share directly with your mentors are the reasonable ones (though not necessarily essential).
 
-那么我今天干了什么事？嗯……做了从考完试一直没时间做的lrc歌词，在评论区恰逢考古人士点赞；把买来的双层床装好了，之后终于不用打地铺啦（虽然木板会发出令人恐惧的声音就是了）；当然，主要还是在补习生物的知识，希望明天的检查作业不会被为难吧。
+So, what did I do today? Well... I made some .lrc lyric files that I hadn't had time to do since finishing my exams, and happened to receive some likes from "archeological" diggers in the comment section; I assembled the purchased bunk bed, so I finally don't have to sleep on the floor anymore (though the wooden boards make some terrifying creaking sounds); and of course, I spent most of the time brushing up on biology, hoping tomorrow's homework check won't be too difficult for me.

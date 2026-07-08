@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-37"
+title = "Sojourner's Diary - 37"
 date = 2025-02-18T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-今天是充满恩典的一天！
+Today is a day filled with grace!
 
-早起跑了个9公里，配速居然是递增的。北京的冬天还是冷啊……
+Woke up early and ran 9 kilometers, and surprisingly, my pace kept increasing. Winter in Beijing is still freezing cold, though...
 
-去了趟国图，办了张卡。不得不感叹人的确多，偌大的图书馆连个位置都难找到，更别提带插座的了。打算明天早点去蹲点看看情况。
+Paid a visit to the National Library and registered for a card. I have to say, there are indeed a lot of people; even finding a seat in such a massive library was difficult, let alone one with a power outlet. I plan to go earlier tomorrow to check out the situation.
 
-晚上在朋友的帮助下完成了数学竞赛，之后便急忙离开了（朋友帮忙叫了辆车，感恩）。途中经过一个收费站，我往车窗外一看就看到了“华北电力大学”几个大字。嗯，有点熟悉。
+In the evening, with the help of a friend, I completed the math competition, and then hurriedly left (so grateful to my friend for helping me call a cab). On the way, we passed a toll station, and looking out the car window, I saw the big characters reading "North China Electric Power University." Hmm, feels a bit familiar.
 
-晚上的讲座在很大程度上颠覆了我的认知，果然听专业博士来讲这些课题就是不一样啊！当然，同时作为弟兄也带给了我许多新的认知。也许，生物也挺有意思的？（如果好奇可以问我要笔记，这里就不贴上来了）
+The lecture tonight turned out to be quite eye-opening and challenged many of my preconceptions. Indeed, listening to a professional PhD discuss these topics is entirely different! Of course, him speaking also as a brother brought me many new insights. Maybe biology is actually quite fascinating? (If you are curious, feel free to ask me for my notes, I won't post them here).
 
-回家路上和班长一聊，发现居然同为特摄厨！也是在辗转多地后在北京找到同志了（感动）。对于“都多大了还看这种东西”的质疑，我们一致认可“对特摄的喜爱是不分年龄的”！
+On the way home, I had a chat with the class monitor and discovered we are both Tokusatsu fans! After wandering through so many places, I've finally found a fellow fan in Beijing (so touching). Regarding the skeptical question of "how old are you to still be watching this kind of stuff?", we both strongly agreed that "the love for Tokusatsu knows no age limit!"
 
-嗯，还有就是为什么发这么晚，因为我们结束了才吃晚饭hhh……不行再写下去就明天了，那流水账就记到这里吧！
+Well, as for why this post is published so late, it's because we only had dinner after everything finished, hahaha... I should stop writing now or it will be tomorrow, so let's end this daily log here!

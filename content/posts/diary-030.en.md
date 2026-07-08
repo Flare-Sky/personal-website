@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-30"
+title = "Sojourner's Diary - 30"
 date = 2025-01-11T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-忙忙碌碌的一天。
+A busy, bustling day.
 
-早上终于难得早起了一回，然后就忙着收拾起了行李。仿佛研究立方体最密堆积一般把东西全塞进了托运的行李箱，并成功控制重量在20公斤以内，这也是一门技术。
+This morning, I finally managed to wake up early for once, and then spent the time packing my luggage. Squeezing everything into the checked suitcase felt like studying close packing of spheres—and successfully keeping the weight under 20 kg is truly an art in itself.
 
-吃完午饭就忙着赶车，赶飞机了。感觉一天大半的时间都花在了这上面。飞机上又没有网络，于是就用这个时间简单写点——明天的演讲稿！哎不愧是我吧，ddl前效率往往是最高的！
+After lunch, I was busy rushing to catch the train and then the flight. It felt like most of the day was spent on transit. Since there was no Wi-Fi on the plane, I used this time to quickly draft something—tomorrow's speech draft! Ah, as expected of me, efficiency is always at its peak right before the deadline!
 
-下飞机忙着打车，然后发现顺风车包车的价格居然是直接打车的一半，那谁还直接打车啊是吧老妈。忙着赶回家后又忙着去收拾东西换地方住（天飘零半生……）。一收拾发现咋还有这么多东西呢，去马来又只能带7公斤，放这又没地方，还不知道送不送得出去……
+After landing, I was busy trying to hail a cab, only to discover that booking a chartered carpool (Shunfengche) was actually half the price of a direct taxi. Well, who would take a direct taxi then, right, Mom? After rushing back home, I was busy packing up again to move to another place to stay (drifting through life...). Upon sorting things out, I realized why on earth do I still have so many things? I can only bring 7 kg to Malaysia, there is no space to leave them here, and I don't even know if I can give them away...
 
-写了这么多感觉都是抱怨，但总有些刹那之美让我觉得这些忙碌都是值得的。不管是奶奶蒸的大包子、云层之上的夕阳（虽然只能从别人的手机屏幕里看到啦）还是Jenny姐姐家丰盛的晚餐，都让我有种熟悉又陌生的错觉。
+Writing so much feels like nothing but complaining, but there are always moments of fleeting beauty that make all this busyness feel worthwhile. Whether it was the big steamed buns made by Grandma, the sunset above the clouds (even though I could only see it through someone else's phone screen), or the sumptuous dinner at Sister Jenny's place, they all gave me a familiar yet foreign illusion.
 
-希望这能延续下去，但很快我就又要启程啦。在那之前，先做个总结吧。
+I hope this can continue, but soon I'll be setting off again. Before that, let's do a wrap-up first.

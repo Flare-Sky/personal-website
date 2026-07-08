@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-40"
+title = "Sojourner's Diary - 40"
 date = 2025-02-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-除了学习，我们当然也是有体育的。
+Aside from studying, of course we also have sports.
 
-下午急急忙忙地拿完快递出门，果断抢下了小区里唯一的共享单车，最后也是成功的在2点准时赶到公园。途中脱下的大衣不知怎么处理，放在框里也会掉出来，故此用水杯套+脖套+手套三套合一勉强是绑了进去（这是否也是一种engineering）
+In the afternoon, I hurriedly picked up my package and left the house, decisively snagging the only shared bike in the neighborhood. In the end, I successfully arrived at the park right on time at 2:00. I didn't know what to do with the heavy coat I took off along the way since it would fall out if I just put it in the basket. So, I managed to tie it in using a water bottle holder, neck gaiter, and gloves all combined (is this also a form of engineering?).
 
-在场的孩子大多都是homeschool的。看到我时，他们果不其然的第一反应是：你多高（）这里他们主要练的是篮球，因此我需要从头开始（“教练，我想学……”），教练对我赞赏有加，但听这里上了很久课的孩子说这属于新手保护期，几次之后见得多了就正常了。虽然我的篮球技术大概是依托，但身高优势还是让我在框下“抬”进了几个球。后续硬加的足球环节就并不是很专业了（那毕竟是篮球场），你甚至可以看到和四周的墙打二过一，对，没有界外球门球角球，整个就是一个无规则大乱斗。对此，一向直性子的大卫表示：脸都不要了（并不
+Most of the kids present were homeschooled. When they saw me, their first reaction, as expected, was: "How tall are you?" () They mainly practice basketball here, so I had to start from scratch ("Coach, I want to learn..."). The coach praised me highly, but according to the kids who had been taking classes here for a long time, this was just the "novice protection period"—after a few more sessions, once they get used to me, things will return to normal. Although my basketball skills are pretty terrible, my height advantage still allowed me to "scrappy-scoop" in a few shots under the basket. The subsequent soccer part, which was forced in, was not very professional (it was a basketball court after all); you could even see players passing off the surrounding walls for a one-two combo. Yes, there were no out-of-bounds, goal kicks, or corner kicks—it was just a chaotic free-for-all with no rules. Regarding this, the always-straightforward David remarked: "They have no shame!" (Not really).
 
-我这个人呢，对自己有较为清晰的认知，所以我一直知道我的体能仍然需要训练。刚好有这样的机会那自然是要珍惜，而且对大家的第一印象还是不错的。不过这里的孩子们名字是真难记啊，颂恩、恩言、沐恩……嗯，确实是“恩典满溢”的一天。
+As for me, I have a pretty clear understanding of myself, so I've always known that my physical fitness still needs training. Since there is such an opportunity, I should naturally cherish it, and my first impression of everyone was quite good. However, the names of the kids here are really hard to remember: Song'en, Enyan, Mu'en... Well, it was indeed a day "overflowing with grace."
 
-晚上去了朋友家参加了“英语角”，和外教至少能做到流畅的交流让我好像看到了“你充满了决心”的提示。有这样学习的机会还是很难得的，特别是在中国，这种很少有只能说英语的情况下（虽然外教的中文也挺好啦）。所以我是真的替因为对自己英语没信心而没来的朋友觉得可惜啊！
+In the evening, I went to a friend's house to join an "English Corner." Being able to communicate smoothly with the foreign teacher at least made me feel like I saw a prompt saying, "You are filled with determination." Such learning opportunities are rare, especially in China, where situations where you can only speak English are scarce (though the foreign teacher's Chinese was actually quite good too). So I really feel sorry for the friends who didn't come because they lacked confidence in their English!
 
-明天就没有任何安排啦，打算开始把北京的博物馆逛一圈！
+There are no plans for tomorrow at all, so I plan to start touring the museums in Beijing!

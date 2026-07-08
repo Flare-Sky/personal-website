@@ -1,41 +1,41 @@
 +++
-title = "寄居者的日记-34"
+title = "Sojourner's Diary - 34"
 date = 2025-02-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-初来乍到之时，略有体会到何为“北漂”。
+When I first arrived here, I caught a slight glimpse of what it means to be a "Beijing Drifter" (Beipiao).
 
-机场是宏伟的，而同样壮观的还有那纷繁复杂的地铁线路图。从立水桥下车，步入五环外的“郊区”，首都的繁华褪去，显出了苍白的天空与生活。“北京最大小区”天通苑边缘的一个小小的区域是我们的宿舍，配置属于最低端的那种：两幢居民楼一个大门，不仔细看你甚至会认为这小区没有保安。树影投下了班驳的阳光，将大地绘上花纹；在摇摇晃晃的秋千旁边的长椅旁，我躺下等待起了班长的到来。恍惚间，我看到了无数个北上寻找机遇的青年，在此挥洒汗水与泪水，最终却往往不能如愿。我会成为他们中的一员吗？
+The airport is grand, and equally spectacular is the complex, web-like subway map. Getting off at Lishuiqiao and stepping into the "suburbs" outside the Fifth Ring Road, the prosperity of the capital faded away, revealing a pale sky and a raw depiction of life. A tiny area on the edge of Tiantongyuan—"the largest residential community in Beijing"—served as our dormitory, with a configuration that belongs to the lowest tier: two residential buildings sharing one gate, and if you didn't look closely, you would even think this community had no security guards. Tree shadows cast mottled sunlight, drawing patterns on the ground; next to a bench beside a swaying swing, I lay down and waited for the class monitor to arrive. In a daze, I envisioned countless young people coming to Beijing in search of opportunities, shedding sweat and tears here, yet often failing to get what they wished for in the end. Will I become one of them?
 
-朋友将我从梦中叫醒，班长带着我们的行李已然站在了单元门口。那个房间说是“宿舍”，实际上也就是一个合租公寓。里面的环境只能说符合我对合租的刻板印象，到处贴着“私人”的便签无声地喧嚣着，将我们赶进那不足10平的狭间。而三位学生将在此暂居一个半月（顺便，在我写作这篇文章的同时，这边还到9点准时断电了）……
+My friend woke me from my dream, and the monitor, carrying our luggage, was already standing at the entrance of the building. Calling that room a "dormitory" was a stretch; in reality, it was just a shared apartment. The environment inside could only be described as perfectly fitting my stereotype of shared rentals—sticky notes marked "private" were posted everywhere, silently clamoring and pushing us into that cramped room of less than 10 square meters. And three students will reside here temporarily for a month and a half (by the way, as I write this article, the power here has been cut off right on time at 9 PM)...
 
-我从未比此刻更体会到“寄居者”一词的分量。
+I have never felt the weight of the word "sojourner" more than at this very moment.
 
-房间里只有一张床，班长本来安排我和朋友二人挤挤将就睡了，而另一位同学则睡在简易的行军床上。我自然是不愿将就的，将棉被在地上铺开便成了地铺，而大床就留给需要的人吧。虽然从没见过上一位租客，但我们在床角发现了他留下的遗产……然后便将它扔进了垃圾桶。匆匆收拾好行李，便要出门觅食了。
+There was only one bed in the room. The monitor originally planned for my friend and me to squeeze together on it, while the other classmate would sleep on a simple camp cot. Naturally, I didn't want to compromise, so I spread a quilt on the floor to make a bed, leaving the big bed to those who needed it. Though we had never met the previous tenant, we found a "legacy" they left behind at the corner of the bed... and promptly threw it into the trash. After quickly unpacking our luggage, it was time to head out to find some food.
 
-交通方式自然是原始的步行，兜兜转转绕过几个街区来到商场，繁华的景象让我知道自己仍然身处首都。而紧接着，美食广场的物价就第二次提醒了我这一事实。好在常年啥都吃的经历培养了我强大的耐受力，硬是把同学嫌过咸不好吃的面光盘了，代价是吃完饭不得不在外游荡——吃撑了（
+The mode of transportation was naturally the primitive way of walking. We wandered around for a few blocks to reach a shopping mall, where the bustling scene reminded me that I was still in the capital. And immediately after, the prices in the food court reminded me of this fact for the second time. Fortunately, years of eating practically anything have cultivated a strong tolerance in me. I managed to clean the plate of noodles that my classmate had rejected for being too salty and unpalatable. The price was that I had to wander around outside after the meal—simply because I was too stuffed (
 
-在华北萧瑟的冷风中，我莫名想起了一首词：
+In the bleak, cold wind of North China, a classic poem inexplicably came to mind:
 
-> 少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。
+> In my youth, not knowing the taste of sorrow, I loved ascending the high towers. I loved ascending the high towers, writing new poems and forcing myself to speak of sorrow.
+> 
+> Now, having fully tasted the flavor of sorrow, I wish to speak but hesitate. I wish to speak but hesitate, only saying: "What a fine, cool autumn day!"
 
-> 而今识尽愁滋味，欲说还休。欲说还休，却道天凉好个秋。
+I still have quite a poetic touch, I thought to myself, taking solace in this.
 
-我还是挺有诗兴的，我这么想着，聊以自慰。
+Impulsively, I opened Geocaching on my phone (my data package is limited, so I cannot browse Bilibili, please be advised), and discovered that an introductory cache was actually hidden nearby! Since I couldn't return to the dormitory anyway, I immediately decided to take this opportunity to walk around. Along the way, I received two phone calls. One was from Grandma responding to my request, saying she could mail a woolen quilt that was lying unused at home. The other was from a friend informing me of tomorrow's meeting location and offering to lend me a spare suit of his. The winding streets of Beijing caused me to hit a dead end a few times, forcing me to retrace my steps and detour from another side. Strangely, though, there were fewer and fewer pedestrians on the street, until not a single person was in sight.
 
-鬼使神差打开了手机上的Geocaching（流量有限，故无法刷b，望周知），发现附近居然藏了一个基础的寻宝！反正左右也回不了宿舍，我当即决定借这个机会四处走走。路上收到了两次电话，一次是奶奶回应了我的诉求，表示可以把家里用不到的羊毛被寄来；另一次是朋友告知明天见面的地点，并且愿意把他家里多余的西装借给我。北京弯弯绕绕的路径让我几度碰壁，最后只得原路返回从另一边绕道。但奇怪的是，路上的行人却越来越少，直到目光所及之处不见一人。
+I pulled out my phone to confirm I wasn't lost; this was indeed the way to "Aobei Forest Park." When detouring into a small park path near a construction site, I hopelessly thought this area had been closed. But the stubbornness of "since I'm already here" and the allure of an unknown treasure kept me moving forward.
 
-我拿出手机确定自己没有走错，这的确是前往“奥北森林公园”的路。在从一处施工地点绕进公园的小路时，我绝望地认为此处已经封闭。但“来都来了”的倔强和未知寻宝的吸引力仍然让我向前走去。
+Gradually, I began to see people in twos and threes, either running or walking. Then I saw a map of the park with this paragraph written on it:
 
-慢慢的，我看到了三三两两的人影，或跑或走。然后我看到了这里的地图，上面写着这样一段话：
+> The park has built a 7-kilometer "Fitness Ring for All"... Running three laps around this "Fitness Ring for All" is equivalent to completing a "half marathon"!
 
-> 公园建设了7公里的“全民健身环”……绕着“全民健身环”跑上三圈，相当于完成了一次“半马”啦！
+It seems... like an ideal place for a morning run?
 
-好像……是个理想的晨跑地点？
+Even if, after some searching, I concluded: "What? Are the coordinates fake?", I believe I have found a far more important treasure at this moment.
 
-即使在一番搜索之后得出了“纳尼？坐标是假的？”的结论，我相信此刻我已经找到了更重要的宝藏。
-
-那是一种对待生活的态度。
+And that is an attitude toward life.
