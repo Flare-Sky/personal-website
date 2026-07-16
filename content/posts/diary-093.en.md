@@ -1,24 +1,24 @@
 +++
-title = "寄居者的日记-93"
+title = "Sojourner's Diary - 93"
 date = 2025-05-17T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["威海"]
+categories = ["Sojourner's Diary"]
+tags = ["Weihai","Geocaching"]
 +++
 
-生命中每次平凡的相遇，都是奇迹。
+Every ordinary encounter in life is a miracle.
 
-结束了在威海主要的任务，二刷完Drive的我迫不及待地出门疾驰，当然骑的是自行车。
+With my main business in Weihai finished and my second run through *Drive* complete, I could not wait to race outside—on a bicycle, naturally.
 
-一路下坡的路程有惊无险（去市区的路咋能没有自行车道的呢），到达第一天看日出时的熟悉位置后，我便沿着海岸线开始骑行。在海边骑车和散步从根本上是两种不同的体验，比如你在观赏风景的同时还得注意避开熙攘的人群。不过这些都不是这篇日记的重点。
+The downhill journey delivered plenty of scares but no disaster. (How can the road downtown have no bike lane?) Once I reached the familiar place where I watched the sunrise on my first day, I turned and followed the coast. Cycling beside the sea is fundamentally different from walking: for one thing, you must admire the view while avoiding the crowds. None of that is the point of this entry, though.
 
-之前应该介绍过Geocaching这项游戏，哦微信这边没发吗那很好了。Geocaching起源于2000年的美国，是一项遍布全球的“地理寻宝”。藏宝者将容器和签到纸藏在某个点位并发布GPS坐标到网上，再由寻宝者借着各种线索找到容器并签到，如果容器里有物品可以用等价值的东西交换，之后就是等待下一个人找到。
+I should have introduced geocaching before. Oh, I never posted that entry on WeChat? Excellent. Geocaching began in the United States in 2000 and has spread across the world. A hider places a container and logsheet at a location, then publishes its GPS coordinates online. Seekers follow the coordinates and clues, find the container, and sign the log. If it contains trade items, they may exchange one for something of equal value. Then the cache waits for the next person.
 
-自然，威海这边也是有宝的（我们称作Cache），但一看发现这4个宝都出自同一个人，也感叹像北京那样的盛况果真稀有。在距海边很近的地方就有着一个点位，之前和同学一起来过但兜兜转转一无所获。在抱着试试看的心理问了发布者之后，居然很快就收到了对方热情的回复——不仅给出了进一步的提示，还邀请我看看他收集的纪念章。我欣然接受，于是今天就约了见面（主要是我二刷这个点然后还是没找到容器）
-他抱着两本很厚的册子就过来了，接过这两册分量沉重的收集册，我们坐到路边的长椅开始细细端详。虽然我少说也是玩过半年的Geocaching了，但对这样的收集文化却是一无所知。对方非常耐心地介绍了这些纪念章背后的故事：有的是国外活动的参加凭证（哇居然还有线下活动的哦），有的代表不同类型的Cache（嗯我之前介绍的只是最基础的玩法），也有的展示了寻宝者和藏宝者数量的里程碑（然后就发现自己还有很长的一段路要走）。花样之多让我惊叹，心中也决定将来至少要得到一个属于自己的纪念章。
+Naturally, Weihai has caches too—but all four turned out to be placed by the same person. Beijing's abundance really is rare. One lay near the shore. I had searched there with classmates before and found nothing. On a whim, I messaged the owner and quickly received a warm reply with an extra hint and an invitation to see his collection of geocoins. I gladly accepted, and we arranged to meet today. (Mainly because I returned for a second search and *still* could not find the container.)
+He arrived carrying two thick albums. We took their surprising weight and sat on a roadside bench to examine them carefully. I had been geocaching for at least half a year, yet knew nothing about this collecting culture. He patiently told the stories behind the coins: some proved attendance at overseas events—there are in-person events!—some represented different cache types—the version I described was only the beginning—and others marked milestones in finds and hides. (I have a very long way to go.) The variety amazed me. Someday, I decided, I must earn at least one geocoin of my own.
 
-我们还交流了许多关于Geocaching的经验，他表示国内其实也有类似的玩法，但通俗点说他们都是闭源的，必须用官方的容器和二维码，也没有形成规模。于是便更感叹这25年前的游戏拥有如此前瞻性，还是开源。
+We exchanged plenty of geocaching stories too. China has similar games, he said, but in simple terms they are closed systems: official containers and QR codes are mandatory, and none has reached much scale. It made this twenty-five-year-old, open game seem even more farsighted.
 
-我们相谈甚欢，这也是除开在Puzzler's Day之外我唯二线下见过的Geocacher。与同好见面的感觉真好！这就是所谓认同感吧。
+We talked happily for a long time. Aside from Puzzler's Day, he was only the second geocacher I had ever met in person. Meeting someone who shares your interest feels wonderful. Perhaps that is what belonging means.
 
-**最后，来的时候一路下坡的代价是什么？**
+**Finally: what is the price of a downhill ride on the way there?**

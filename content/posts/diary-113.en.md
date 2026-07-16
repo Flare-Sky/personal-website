@@ -1,41 +1,45 @@
 +++
-title = "寄居者的日记-113"
+title = "Sojourner's Diary - 113"
 date = 2025-09-24T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Puzzle"]
 +++
 
-昨天的Cornerstone课接近尾声时，老师让我们打了一次小Puzzle Hunt。
+Near the end of yesterday's Cornerstones class, our professor gave us a little Puzzle Hunt.
 
-你能想象当时我的心情吗？
+Can you imagine how I felt?
 
-Cornerstone，顾名思义，是你为了在LETU生存下去必须参与的课程，是一切的基石。好吧其实并没有那么严肃，除开作弊抄袭政策之类教条的内容，基本就是一整个茶话会。老师本身兼职学生中心的写作部门主席，所以每周就可劲给我们布置Journal作业（估计是期望我们拿着草稿去那边找tutor帮忙，虽然我一次都没带去过就是了）。我一看，这不正好可以偷懒算进《寄》里嘛！但转念一想，这种小学词汇量语法的东西，还是不要发出去为妙（
+Cornerstones, as the name implies, is the class you must take if you hope to survive at LETU. It is the foundation of everything. Fine, it is not actually that grave. Apart from doctrinal material such as the cheating and plagiarism policies, the class is basically one extended tea party. Our professor also chairs the writing section of the student center, so she gleefully assigns us a journal every week. Presumably she hopes we will take our drafts to the tutors there for help, although I have never once done that. My first thought was: perfect, I can lazily count these as entries in *Sojourner's Diary*! My second thought was: perhaps exercises written with elementary-school vocabulary and grammar are better left unpublished. (
 
-总而言之，这是一门和来自世界各地的国际学生上的课程（虽然韩国人占了三分之一就是了……哪来的这么多Korean啊）。对于我而言，这节课同时还是一个了解到学校大小event的渠道。比如，这周的“Human vs. Zombies”活动。
+In any case, it is a class for international students from all over the world, though Koreans somehow make up a third of it. Where did all these Koreans come from? For me, the class is also a channel for learning about events around campus. For example, this week's Humans vs. Zombies game.
 
-在我刚刚入住宿舍时，就曾疑惑为什么公共空间会有那么多的玩具枪，一个个似乎还都算是品质上乘男生自用99新的程度。后来，在收集各类子弹的室友口中听说了这个PVZ活动（People也是P！）。在这一周，每一个报名参与的人都会在手臂上戴上绿色飘带，并且全副武装。一旦离开建筑物，外面就是不可预测的命运之舞台。除了组织者随机选择的“初始僵尸”，其他人都要为了自己不被感染而在走路时放下手机端起枪。
+When I first moved into the dorm, I wondered why the common areas contained so many toy guns, each of them seemingly premium quality, lightly used, 99 percent new, boys' personal collection. Later, my roommate—who collects every variety of foam ammunition—told me about this campus edition of PvZ. People begins with P too!
 
-正如你可能想象得到的，僵尸通过接触进行感染。当然，他们有时还会带上海绵棒之类进行一个“我来助你”。而人类的子弹（或者作为“手榴弹”的袜子……希望是没穿过的）打到僵尸后，对方将有10分钟的时间不能进行任何感染行动。据室友所言，他曾经看到一位好友在PVZ伊始兴高采烈地出门准备“猎杀时刻”，结果哭丧着脸走了回来，把手上的飘带绑到了头上——变成僵尸的标志。
+Throughout the week, every player wears a green band around one arm and goes out fully armed. The moment they leave a building, they step onto the unpredictable stage of fate. Aside from the “original zombies” randomly selected by the organizers, everyone must put down their phone and raise their weapon while walking if they want to avoid infection.
 
-> 我好奇：你也会参加吗？没见你有枪啊？
+As you might imagine, zombies infect humans by touching them. Sometimes they carry foam batons or similar implements to “lend a helping hand.” When a human projectile—or a sock used as a “grenade,” hopefully a clean one—hits a zombie, that zombie cannot infect anyone for ten minutes. My roommate once watched a friend stride cheerfully out at the beginning of HvZ, ready for “hunting time,” only to return with a face full of misery and tie the band around his head: the sign that he had become a zombie.
 
-> 他（抬了抬手边满满的一袋子弹与手榴弹）
+> Me, curious: Are you playing too? I have not seen you carrying a gun.
+>
+> Him: (Raises the enormous bag of darts and grenades beside his hand.)
 
-是的，他收集子弹是为了~~当军火商大发战争财~~救人于水火之间。听说已经~~赚了不少~~帮过不少人了。
+Yes, he collects ammunition so that he can ~~become an arms dealer and make a fortune from the war~~ rescue people in their hour of need. I hear he has already ~~made quite a profit~~ helped quite a few people.
 
-今天中午去食堂时，看到有几个飘带尚在手臂的人类提着抢堵桥，啊不是，堵食堂。是的，人以食为天，只有一个入口的食堂因此成为了“兵家必争之地”。这几位“护卫”到了晚饭时间似乎无影无踪了，而我只能看见在门边的野餐桌围坐的僵尸小组……好吧，赛局扭转的进度疑似有点快了。
+On my way to lunch today, I saw several humans whose bands were still around their arms standing with guns to block the bridge—sorry, the cafeteria. Food is the first necessity of the people, and a cafeteria with only one entrance is therefore ground every strategist must contest. By dinnertime, these “guards” had apparently vanished. All I could see was a squad of zombies gathered around the picnic table beside the door... Right. The balance of the game seems to have shifted suspiciously fast.
 
-好的，聊了这么多，你应该也能发现我并没有参加了。站着说话就是不腰疼啊！
+After all that, you have probably noticed that I did not participate. Easy to comment when you have no skin in the game!
 
-那还是说回我参加的CPH吧（以防你看不懂，这是Cornerstone Puzzle Hunt的缩写）。在进行了随机分组（并非随机因为是报数）以及组长选举（并非选举因为我抢了）后，CPH就没有任何网络问题地开赛了……好吧，这其实本质上就是一个[《基于Google表格实现的题目集合》](https://docs.google.com/forms/d/e/1FAIpQLScbYWVMaAoXsY2z9dWRfIPWEQXfdEtfabg-fILEUOv8K36YHw/viewform)，有条件你也能试试
+Let us return, then, to the CPH that I *did* join. In case the acronym escapes you, that means Cornerstones Puzzle Hunt. After random team assignment—not random, since we counted off—and a team-leader election—not an election, since I seized the role—the CPH began without the slightest network difficulty. Fine, in essence it was simply [a set of puzzles built in Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScbYWVMaAoXsY2z9dWRfIPWEQXfdEtfabg-fILEUOv8K36YHw/viewform). If you can access it, you can try it yourself.
 
-秉承了PH一向“剧情只是摆设”的传统，在潜心钻研1分钟剧情后，得出“Carmon原来是女的”结论的我决定直接和随到的野队看看题。解方程，秒了；单表替换，quipquip爆了；逻辑推理，秒了；疑似猪圈，发现端倪后秒了；杯子蛋糕，好吃（划）nutri爆了；走迷宫，秒了；没懂是啥但nutri爆了；做了半天“浮想联翩”发现根本不用找最短路径，多想了；scrabble，理解规则后秒了；哎？怎么就最后密码了？哎？怎么就完赛了？
+In keeping with the great Puzzle Hunt tradition that “the story is decorative,” I studied the plot intently for one minute, reached the profound conclusion that Carmon was apparently a woman, and then opened the puzzles with my randomly assembled pickup team.
 
-总之就是一套秒秒工具展示加群策群力后，喜提冠军队（顺便，秒打多了前面打成了“秒秒”，转念一想也没问题故保留）。下次还填非常简单！
+Solve equations: instant kill. Monoalphabetic substitution: quipqiup destroyed it. Logic puzzle: instant kill. Probably a Pigpen cipher: spotted the pattern, instant kill. Cupcakes: delicious—cross that out—Nutrimatic destroyed it. Maze: instant kill. No idea what this one was, but Nutrimatic destroyed it. Spent ages indulging in “flights of fancy” before realizing we did not need the shortest route at all: overthought it. Scrabble: understood the rules, instant kill. Huh? We are already at the final password? Huh? We finished?
 
-在短暂思考、报（爆）答案之后听到队友“他好聪明啊”的称赞，我的虚荣得到了极大的满足。末了不忘一句“只是有些工具罢了”，展示一波中国人特有的假谦虚。
+In short, after an exhibition of instant-solving tools and some collective brainpower, our team took first place. Incidentally, I originally mistyped “instant solves” as “instant instant.” On reflection, it was still accurate, so I kept it. Next time I will once again rate the difficulty “Very Easy”!
 
-这么说来，其实LETU的谜题氛围也挺浓厚的。之前我们工程系的开学活动就是一场校园寻宝（最后以因为对校园不熟未完赛告终）；在食堂吃中饭时偶然碰见现任校长来走基层，在他和导师的交流中听到师母是个Puzzle爱好者之后，哈基天直接A上去一顿自我介绍后后知后觉我是不是太积极了点；就连在和导师交流完学习规划后，还是会看看时间说句“再做几道三字谜吧”强行把话语主导权抢过来。
+After thinking briefly and firing—occasionally exploding—the answers at everyone, I heard a teammate say, “He is so smart.” My vanity was immensely satisfied. Naturally, I finished with “Oh, it was only a few tools,” displaying that uniquely Chinese form of false modesty.
 
-果然，人在捣乱和兴趣这唯二的事上是不会感觉到累和放不开的。
+Come to think of it, LETU has a fairly strong puzzle culture. The engineering department's orientation event was a campus scavenger hunt, which I failed to finish because I did not yet know the campus. Once, while eating lunch in the cafeteria, I happened to see the current university president making the rounds. When I overheard him tell my advisor that his wife liked puzzles, yours truly charged straight in with an enthusiastic self-introduction, only afterward wondering whether that had been a little *too* enthusiastic. Even after my advisor and I finish discussing my academic plans, we still look at the clock, say, “How about a few more word puzzles?” and forcibly seize control of the conversation.
+
+It seems that mischief and genuine interest are the only two things that never leave a person tired or inhibited.

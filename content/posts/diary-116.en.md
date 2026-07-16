@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-116"
+title = "Sojourner's Diary - 116"
 date = 2025-09-29T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-对不起，爷爷，在看到爸妈的文章之后没能忍住
+I'm sorry, Grandpa. After reading what Mom and Dad wrote, I couldn't hold it in anymore.
 
-为了不影响到室友，一个人躲到宿舍的厕所偷偷哭。突然想起我还有之前您给我们分享越战故事的录音，翻出来听，但没听完
+I didn't want to disturb my roommate, so I hid alone in the dorm bathroom and cried quietly. Then I suddenly remembered that I still had the recording from when you told us your stories about the Vietnam War. I found it and started listening, but I couldn't finish.
 
-因为当时我也是在厕所里跟您聊的啊，当时你明明说还要给我们继续讲的呢
+Because I was talking to you from a bathroom that time too. And you clearly said you still had more stories to tell us.
 
-我还没来得及听……
+I never got to hear them...

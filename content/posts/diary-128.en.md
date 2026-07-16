@@ -1,29 +1,45 @@
 +++
-title = "寄居者的日记-128"
+title = "Sojourner's Diary - 128"
 date = 2026-02-14T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-想了想，还是决定先凑出一个2的7次方出来。今天来聊一个酝酿挺久的话题：后劲
+After some thought, I decided I should at least reach two to the seventh power. Today, let us discuss a subject that has been brewing in my head for quite a while: the emotional aftershock a story leaves behind.
 
-起因是鸣潮3.1的剧情着实惊到我了，出色的剧本中可以看出《星际穿越》、《命运石之门》之类前辈的影子，但同时又基于索拉里斯的世界观讲了一个好故事（虽然暂时BE了）。将2.5就稍有尝试过的遗憾文学发扬光大，成功地又刀到了一大批人，包括我。那天晚上刚推到歌友会剧情室友就要睡了，我则因为第二天没有早课决定过完剧情再睡（当时也以为快结束的说），结果接下来的怒涛展开成功让未来几小时变成了在床上眼睛一闭胡思乱想与睁眼开始在阿b狂刷二创的量子叠加态，当然第二天的课业并未受到影响（
+The immediate cause was the 3.1 story update for *Wuthering Waves*, which genuinely stunned me. Its excellent script carries traces of predecessors such as *Interstellar* and *Steins;Gate*, yet still tells a good story rooted in the world of Solaris. Although, for now, it ends badly. It takes the literature of regret tentatively explored in 2.5 and brings it to full maturity, successfully stabbing another large crowd of players, myself included.
 
-说来也有趣，这样的情绪至少在我身上并非第一次了。我从小是一个喜欢听故事看书的孩子，所以许多剧情都能带给我极大的触动，或者换句话说是对幼小的心灵造成极大的伤害。当时并没有二创或者是身边的同好来一同分担这样的感伤，于是便化为所谓“后劲”让当时的我回味悠长。印象里最深的一次（说来也奇怪）是在看完油管MC动画博主rainimator的剧情向MV后，被那种宏大叙事之中主角的挣扎所打动。后来释怀的方式似乎是融入给弟弟讲的故事里，不管当时比我还小的小不点能不能听懂反正我讲爽了就行
+That night, I had only just reached the music-club sequence when my roommate went to bed. Since I had no early class the next morning, I decided to finish the story before sleeping. I also thought I was nearly done. The furious sequence of developments that followed transformed the next few hours into a quantum superposition: eyes closed in bed, thoughts racing wildly; eyes open, frantically scrolling through fan creations on Bilibili. Naturally, my schoolwork the following day remained entirely unaffected. (
 
-除此之外，在《查理九世》或者《龙与猫之国》之类小说中也能拎出不少让小小的老子辗转难眠的剧情（褒义，好吧前者也有贬义，幽灵列车是我很长一段时间的童年阴影）。同样的例子还有父亲小时候因为免费票拉着我去电影院看的一些PG13（中国没有电影分级体系真不好），当时电影院经常放的那首《Moon River》自然而然地在当时我的认知里与那些惊悚片（嘶……印象里好像有什么《最终幻想》《刺客信条》之类的，等会怎么都是游戏名啊）的场面联系在了一起。一直到后来读到《记忆天使》《月亮城》《太阳城》三部曲时才被逐渐洗去，因为这同时也是作品女主角最喜欢的歌（邓秀茵的故事讲得是真好吧，等会什么叫她是马来西亚雪兰莪人？）哦对了，当时读完这三本书的后劲也不是一般的大，以至于在美术方面没有半点细菌的我居然突发奇想照着书中插画临摹半天以希图留下些大概会让未来的我看到尴尬地无地自容的印象（长难句这块）。嗯，幸亏我做到了
+It is interesting that, for me at least, this feeling is not new. I loved stories and books from childhood, so many plots moved me enormously—or, put differently, inflicted enormous damage on my young heart. Back then, I had neither fan creations nor nearby friends who shared the interest and could help carry the sadness. Instead it became that lingering “aftershock,” leaving me to turn the story over in my mind for ages.
 
-大概也是小孩子更容易在阅读聆听看电影时代入角色的缘故吧，逐渐长大之后，这样的瞬间便屈指可数了
+The most memorable instance—strangely enough—came after I watched a story-driven Minecraft music video by the YouTube animator Rainimator. I was deeply moved by the protagonist's struggle within its sweeping narrative. I seem to have made peace with it later by weaving the story into tales I told my younger brother. Whether the tiny child, even younger than I was, understood any of it did not matter. I enjoyed telling it, and that was enough.
 
-记得某次在化学课上看到某个同学摸鱼玩的游戏（当时的化学课有这么闲吗，怎么解谜玩游戏什么都有啊），随口疑惑了一句“这游戏最近是不是挺火的？”然后就被狠狠推荐了《饿殍：明末千里行》。后来也是趁着史底光荣成为同学里首个入股的（对当时朋友玩的是盗版），并每天早起在琴房监控死角爽爽摸鱼。过完剧情的那天是中秋节假期的早晨，2024年9月16日。我能记这么清楚是因为当时过完真结局的我在网上猛猛刷二创然后存图，苹果相册就像岁月史书一样记录下了这一切（
+Novels such as *Charlie IX* and *The Kingdom of Dragons and Cats* also contain plenty of scenes that left little me tossing and turning at night. I mean that as praise—although in the former case, partly as criticism too. *The Ghost Train* remained a childhood nightmare for a very long time.
 
-在不剧透的情况下，只能说从个人角度出发，对这部作品是由衷的喜爱。网上一直有hanser配音没有代入感的风评，我只能说因人而异。galgame这方面我相信朋友圈里有更权威的兄弟，就不在这班门弄斧了，毕竟本系列的目的本就是记录对吧
+The same applies to several PG-13 films Dad took me to as a child because he had free tickets. China really could use a film-rating system. *Moon River*, which the cinema often played at the time, became naturally linked in my mind with scenes from those thrillers. Hmm... I vaguely remember *Final Fantasy* and *Assassin's Creed*. Wait, why are they all named after games?
 
-最后呢，还是要回到主题。相信在上面这些叙述之后，读者的心里对这个抽象的词大致有了大致的轮廓。于我而言，本质上这种“后劲”其实是来源于“意料之外”。小时候不懂那么多套路，第一次读到因果闭环之类必定会异常震撼，对于恐怖片也是同理。互联网的兴起让诸多概念符号化，变向激励了更多的创新——因为哪种题材流量高了，这样的题材下自然而然就会有数不胜数的模仿者，纵使有文采斐然者但总归是少数，一来一回作为观众的我们也就脱敏了（这么说来最明显的例子当属“异世界”题材了吧）。当这些套路被总结出来之后，也就变向地提醒那些有追求的创作者“此路不通”，强迫他们继续创新，于是就有了反套路，然后它们又变成新的套路
+That association was gradually washed away when I later read the *Memory Angel*, *Moon City*, and *Sun City* trilogy, because *Moon River* was also the heroine's favorite song. Teng Xiu Yin really does tell wonderful stories. Wait, what do you mean she is from Selangor, Malaysia?
 
-比如，我个人很吃“众志成城”的一套催泪弹，所以偏爱群像叙事，但看多了大概也就知道“哦这里可能要煽情了”
+Oh, right. The aftershock from finishing those three books was no small thing either. Despite possessing not a single artistic cell, I was suddenly inspired to spend ages copying the illustrations, hoping to preserve some impression that would probably make my future self cringe so hard he wanted to disappear into the earth. (There is today's long sentence.) Fortunately, I succeeded.
 
-然后发现是关羽之歌，释怀了
+Perhaps children simply enter the roles in books, stories, and films more easily. As I gradually grew older, moments like these became fewer and farther between.
 
-说了这么多，其实也只是单纯分享自己这方面的思考。我相信人的创造力不可能被AI所取代，因此未来势必仍然会有给我带来“后劲”的诸多作品。到了那个时候，就暂时放下这些理性的分析，回归童年时那对一切抱有好奇的心态，进入故事之中，然后享受故事吧
+I remember seeing a classmate playing some game during chemistry class. Were our chemistry lessons really that relaxed? Somehow puzzles and games appeared there constantly. I casually asked, “Has this game become popular recently?” and immediately received an emphatic recommendation for *The Hungry Lamb: Traveling in the Late Ming Dynasty*.
+
+Later, when it reached its historical lowest price, I proudly became the first among my classmates to invest in a legitimate copy. Yes, the friend playing it at the time had pirated it. Every morning I rose early and happily slacked off in the piano room, safely outside the security camera's blind spot. I finished the story on the morning of the Mid-Autumn Festival holiday, September 16, 2024. I remember the date so precisely because, after reaching the true ending, I scoured the internet for fan creations and saved image after image. Apple Photos recorded it all like a chronicle of the ages. (
+
+Without spoilers, all I can say is that I sincerely love the game from my own perspective. I often see people online complain that Hanser's voice acting lacks emotional immersion. My answer is simply that everyone experiences it differently. I am sure some friends on my WeChat feed have far more authority on visual novels, so I will not parade my tiny axe before the experts. The purpose of this series is to record my own experience, after all.
+
+Finally, let us return to the subject. After all those examples, I imagine the reader now has a rough outline of this abstract feeling. For me, the aftershock comes fundamentally from the unexpected.
+
+As a child, I knew fewer narrative formulas. The first time I encountered a closed loop of cause and effect, I was inevitably overwhelmed; horror films worked the same way. The rise of the internet has turned countless concepts into recognizable symbols, indirectly encouraging more innovation. Whenever one genre attracts traffic, imitators naturally multiply beyond counting. A few may write beautifully, but they remain the minority. After enough repetition, we as viewers become desensitized. The clearest example may be the “transported to another world” genre.
+
+Once these formulas are named and summarized, they also tell ambitious creators that “this road is closed,” forcing them to innovate further. Thus anti-tropes appear—and then become new tropes themselves.
+
+For example, I am particularly vulnerable to the tear-jerking power of “everyone unites as one,” so I favor ensemble narratives. But after seeing enough of them, I can usually tell myself, “Ah, this must be where the emotional speech begins.”
+
+Then I discover it is the Song of Guan Yu, and inner peace returns.
+
+After all these words, I am really only sharing my own thoughts on the subject. I do not believe human creativity can be replaced by AI. Inevitably, many future works will still leave me with that emotional aftershock. When they do, I hope I can set these rational analyses aside for a while, recover the childhood curiosity that greeted everything as new, step into the story—and simply enjoy it.

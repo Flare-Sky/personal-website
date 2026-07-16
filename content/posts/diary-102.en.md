@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-102"
+title = "Sojourner's Diary - 102"
 date = 2025-07-27T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["斐济"]
+categories = ["Sojourner's Diary"]
+tags = ["Fiji","Geocaching"]
 +++
 
-这几天在准备一个活，目前仍在锐意剪辑中，日记就名正言顺地咕咕了
+I have been preparing a bit over the last few days and remain hard at work editing, so the diary has a perfectly legitimate reason to coo quietly and disappear.
 
-但这几天能记的东西其实还是很多的，撸到了潜店的猫猫、看到了好多鲨鱼、还带着家人勇闯度假村寻宝！话说好像是第一次在打宝的过程中“偶遇”同好哎，感谢那位姐姐的指引不然就无功而返了
+There is actually plenty worth recording: I petted the cat at the dive shop, saw a whole lot of sharks, and led my family on a brave caching expedition through the resort! Come to think of it, this may be the first time I have “run into” another geocacher while actively hunting. Thank you to that kind lady for the directions; without her, we would have left empty-handed.
 
-今天和上次爸妈来时结交的印度朋友聚餐了，目前双方仍热情交流中而我默默地在码字。不过，没想到纯素的食谱也别有一番风味呢
+Today we had dinner with the Indian friends my parents met on their last visit. Both sides remain deep in enthusiastic conversation while I quietly type. I did not expect a fully vegan menu to have such a distinctive charm.
 
-斐济真是个好地方哈哈
+Fiji really is a wonderful place, haha.

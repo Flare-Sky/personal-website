@@ -6,9 +6,9 @@ categories = ["Sojourner's Diary"]
 tags = ["Kuala Lumpur"]
 +++
 
-Met a driver with an exceptionally interesting story, and practiced my English with him the entire way. We chatted about everything from Malaysia to the rest of the world, from study and work to the future global landscape, and from AI technology to general morality (felt way more useful than an English class, hehe).
+Met a driver with quite a life story and practiced my English the entire ride. We went from Malaysia to the rest of the world, from school and work to the future global order, from AI to universal morality. (Honestly more useful than my last English class, hehe.)
 
-He works in an international environmental organization (or at least something related to wildlife), which has taken him to various corners of the world, making my own life experiences pale in comparison... We both agreed that "a truly good job should be something you love." Oh, by the way, all three of his children are studying art: the eldest brother is currently a director making movies, the second brother is a music teacher in Singapore, and the youngest sister is working on 3D animation! He said he usually goes out as a private car driver, and this time he just happened to be heading to the airport to pick someone up and picked me up on the way—a win-win!
+He works for an international environmental organization—or something involving wildlife, anyway—and has traveled all over the world through his work. My own experience rather paled beside his... We agreed that “a truly good job should be something you love.” Oh, and all three of his children went into the arts: the eldest directs films, the second teaches music in Singapore, and the youngest works in 3D animation! He said he normally drives only private clients; today he happened to be going to the airport to pick someone up and took me along on the way. Win-win!
 
 He asked me to guess his age. I guessed 50, but to my surprise, he was already over 60! You really couldn't tell at all! He also mentioned that he is currently collecting material for a TV show he is producing, and one of his methods is chatting with different people. Turns out I inadvertently became part of his material.
 

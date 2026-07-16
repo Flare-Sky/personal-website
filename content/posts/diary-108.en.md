@@ -1,39 +1,43 @@
 +++
-title = "寄居者的日记-108"
+title = "Sojourner's Diary - 108"
 date = 2025-08-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Study","Food"]
 +++
 
-今天其实还是挺闲的，理论上在带着吃一半的汉堡跑去上完英语写作课就没事了。但我还是在老师的办公室间跑了几个来回以解决了换double major的问题，顺便和教授用中文交流了半天哈哈。
+Today was actually rather relaxed. In theory, once I had run to English Composition carrying a half-eaten burger and finished class, I had nothing else to do. I still ended up making several trips between professors' offices to sort out my switch to a double major, and spent ages chatting with one professor in Chinese while I was at it, haha.
 
-不管怎样，这顿晚饭可能是几天来吃得最悠闲的一次。简单介绍一下这幅场景：从长桌的左上角开始，坐着的是入学时在Walmart Run（实际应该是Drive才对哈哈）的大巴上认识的韩国同学Jaemin，然后是能从容吃下n个食堂的难绷花花绿绿奶油果冻（超长定语）、在吃饭时还在清日常的皱皮Kris（因为这个我们还教了“粥批”的中文读法，并热情科普了为什么称之为蟑螂，韩国同学非常满意），再然后是同样面不改色吃完了果冻的Ted（哦对了顺便一提前两位都是上海民航的交换生），最后是在前面提到的那位教授手下开始学习中文、同时为每一天的日程做好详细安排的To do list战神Korbin（与在座多位ddl战神形成鲜明对比）；我的这一侧，左侧起首是美国土生土长的中国学长James，吃下第一口果冻就戴上痛苦面具的我，和我一起吐槽果冻难吃的Liah，还有同样来自中国、但却难以理解为什么有人吃得下这种东西的Amy。
+In any case, dinner was probably the most leisurely meal I have had in days. Allow me to set the scene. Starting from the far left side of the long table, there was Jaemin, the Korean student I met on the bus during the orientation Walmart Run—technically a Walmart *Drive*, haha. Next came the aggressively multicolored, questionably edible cafeteria cream jelly that some people could calmly consume any number of. Then there was wrinkly Kris, still clearing his game dailies over dinner. Because of this, we taught everyone the Chinese pronunciation of “gacha-game addict” and enthusiastically explained why the players are compared to cockroaches. Our Korean classmate was delighted. Beside him sat Ted, who finished the jelly with the same untroubled expression. (Incidentally, those last two are both exchange students from the Shanghai Civil Aviation College.) Finally there was Korbin, who has started learning Chinese under the professor I mentioned and who prepares a detailed to-do list for every day: the God of To-Do Lists, in sharp contrast with the many Gods of Last-Minute Deadlines present.
 
-在你面前的是，中国驻美大使馆SAGA（我们食堂的名字）分馆！
+On my side of the table, starting from the left, sat James, a Chinese upperclassman born and raised in America; me, putting on an expression of pure agony after one bite of jelly; Liah, who joined me in complaining about how awful it tasted; and Amy, also from China, who likewise could not understand how anyone managed to swallow the stuff.
 
-其实这个名字背后有一段辛酸事。出于交流方便需要，我在Wechat（为什么换成美国手机号自动就变成海外版了啊）拉了一个“中国驻美大使馆”群，大家可以在里面随意发中文。早上不知怎么想的把之前认识的学长踢了只留下了另外两个沪爷作为小群使用，然后在那二位的劝说下意识到不合适，于是浪子回头拉回学长另开小群（对不起！🙇‍♂️）。嗯，这就是小群的名字。
+Before you stands the SAGA Branch of the Chinese Embassy in the United States! SAGA, for the record, is what we call our cafeteria.
 
-啊还有一点fun fact，就是在入学时我就发现地图上食堂的名字明明是“Corner Cafe”，为什么大家都叫它“SAGA”呢？总不能是“Soviet Attempted to Govern America”吧？（经典不懂的比懂得多）在问过Peer Advisor（可以理解为上面安排带新生小孩来的。好吧貌似大家都是成年人，甚至有已经在带娃的）以及在Cornerstone预备课（可以理解为新生们的Letu新手教程，从入门到入土）问过老师后，我了解到了这样的一段历史：
+There is a painful story behind that name. For ease of communication, I made a WeChat group called “Chinese Embassy in the United States,” where everyone could freely type in Chinese. (Why did switching to an American phone number automatically turn my WeChat into the international version?) For some unfathomable reason, I removed an upperclassman I already knew that morning and kept only the other two Shanghai gentlemen, intending to use it as a smaller chat. They persuaded me that this was not terribly appropriate. The prodigal son returned, added the upperclassman back, and created a separate small group. Sorry! 🙇‍♂️ And yes, that is the small group's name.
 
-曾经（实际上是几十年前）食堂的外包商是一家叫“SAGA”的公司，但因为他们做的饭菜实在太难吃，即使后来换了多届外包，SAGA的名号却传承了下来，延续至今。
+Another fun fact: when I arrived, I noticed that the cafeteria was labeled “Corner Cafe” on the map. Why did everyone call it “SAGA”? Surely it did not stand for “Soviet Attempted to Govern America”? (A classic case of making up more than you know.) I asked my Peer Advisor—roughly, the person assigned from above to shepherd the new children around. Fine, we are all adults; some are even raising children of their own. I also asked the teacher in Cornerstones, essentially LETU's beginner tutorial for freshmen, from enrollment to burial. And thus I learned the history:
 
-啊，要来Letu的同学学到了吗？
+Once upon a time—several decades ago, in fact—the cafeteria's contractor was a company named SAGA. Its food was apparently so dreadful that, even after the school went through several new contractors, the name SAGA survived and has been passed down to this day.
 
-今天还有一件有意思的事。早上第一节课我背着包提早跑到了Hall里，迈进教室看到Ted和Sascha（嗯就是那个已经带上娃的）的上节课刚刚结束，想都没想就坐下开聊了。他们走后，我直接打开谜协的每日纸笔谜题开始备战GPH（大嘘，其实就是摸鱼）。教授走进教室开始自我介绍，嗯不错；轮到同学们了，嗯还行；我来自述fun fact，嗯一切顺利……等等？同学们的名字似乎和课程安排里写的不一样啊？怎么搜不到这些自我介绍的同学啊？
+Future LETU students, did you take notes?
 
-> 老师：好我们前面的同学都介绍完了从后面开始——
+One more amusing thing happened today. I reached the hall early for my first class of the morning, walked into a classroom, and saw Ted and Sascha—yes, the one who already has a child—just finishing the previous class. Without a second thought, I sat down and chatted with them. After they left, I opened the Puzzle Association's daily pencil puzzle and began my rigorous GPH training. (A monstrous lie. I was slacking off.)
 
-> 我（举手）：等等老师，似乎我又有一个fun fact了……这个教室的编号是多少？
+The professor entered and introduced himself. Good. My classmates began their introductions. Fine. My turn came, and I delivered my fun fact without incident... wait. Why did none of their names match the course roster? Why could I not find a single one of these people in the schedule?
 
-> 老师：啊？C104啊
+> Professor: All right, everyone at the front has introduced themselves. Let us start from the back—
+>
+> Me (raising my hand): Wait, Professor. I believe I have another fun fact... What is this room number?
+>
+> Professor: Huh? C104.
+>
+> Me (checks schedule): Right. I am in the wrong room. I should be in C140.
 
-> 我（看一眼课程表）：好的我走错教室了，我应该去C140
+**NO LONGER HUMAN**
 
-**人 间 大 失 格**
+Half an hour had already passed since class began.
 
-此时，距离课程开始已经过去了半小时。
+Fortunately, when I reached the correct room for the second half, I had not missed much. They had mostly read through the syllabus, which I could catch up on myself. My seat was not even warm before *they* began introductions, so I introduced myself twice in one morning.
 
-好在是后半程到正式教室后没错过太多环节，基本上是把Syllabus大纲上的内容读了一下，可以自己补上——甚至我座位还没坐热，他们才开始自我介绍环节，于是我一个早上做了两次自我介绍。
-
-哎，纸笔害人（
+Sigh. Pencil puzzles: not even once. (

@@ -1,5 +1,5 @@
 +++
-title = "Sojourner's Diary-11"
+title = "Sojourner's Diary - 11"
 date = 2023-12-15T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
@@ -8,12 +8,12 @@ tags = ["Chengde","Food"]
 
 What should I write today?
 
-I repeat this question every day because every day in Chengde brings new experiences. So today, why not take a look at what I'm best at: "eating"!
+I ask myself this every day, because every day in Chengde brings something new. So today, why not turn to the thing I do best: eating!
 
-The main reason is that I went to the city center today, and the result of "wandering and eating" was that my performance at dinner was less than ideal... But undoubtedly, my stomach hasn't been idle for a moment since I returned to Chengde these past few days.
+Mainly because I went downtown today, and all that wandering-and-snacking resulted in a rather underwhelming performance at dinner... Still, in the few days since I returned to Chengde, my stomach has undoubtedly not had a moment's rest.
 
-My grandmother's cooking has been "number one" in my mind since childhood, and this position has never been shaken. Thinking about what I like, it's actually just those few things: steamed buns (Baozi), dumplings (Jiaozi), stuffed pancakes (Xianbing), and fried noodles; when Grandma asks, my answer is usually one of those four. Considering that much of my childhood was spent with my grandmother, maybe what makes me linger is not just the taste, but also the sense of "home" in my heart!
+Grandma's cooking has been number one in my heart since childhood, and nothing has ever shaken its position. Come to think of it, my favorites are always the same few things: baozi, dumplings, stuffed pies (wait, so *馅* isn't pronounced *xiè*?), and fried noodles. Whenever Grandma asks, my answer is almost always one of the four. Since so much of my childhood was spent by her side, perhaps what keeps drawing me back is not only the food, but the meaning of “home” wrapped up in it.
 
-Chengde is a small place, but my family is here. My father knows I don't eat hawthorns, so he specially took us to eat Tanghulu made of frozen Chinese yam (is this even Tanghulu anymore?!); when everyone walked until they were "chilled to the bone," my mother took us to drink lamb soup, the heat seeping from the tip of the tongue straight to the toes; my younger brother would shout "Brother, let's swap and eat" while eating dessert to let me taste the sago (but he took away the double-skin milk!). The warmth amidst the ice and snow doesn't just come from thick clothes.
+Chengde may be a small place, but my family is here. Dad knows I don't eat hawthorn, so he went out of his way to take us for tanghulu made with frozen Chinese yam (at this point is it even tanghulu?!). When we had walked ourselves cold to the core, Mom took us for lamb soup, its warmth sinking from the tip of my tongue all the way to my toes. And over dessert, my little brother called, “Hey, let's trade!” so that I could try his sago pudding (except he took my double-skin milk in return, hey). Amid the ice and snow, warmth comes from more than thick clothing.
 
-Full and satisfied, the day ends.
+Fed and content. End of day.

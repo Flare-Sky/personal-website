@@ -3,14 +3,14 @@ title = "Sojourner's Diary - 37"
 date = 2025-02-18T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Beijing"]
+tags = ["Beijing","Study","Sport"]
 +++
 
 Today is a day filled with grace!
 
-Woke up early and ran 9 kilometers, and surprisingly, my pace kept increasing. Winter in Beijing is still freezing cold, though...
+Got up early and ran nine kilometers, somehow getting faster as I went. Beijing winters really are cold...
 
-Paid a visit to the National Library and registered for a card. I have to say, there are indeed a lot of people; even finding a seat in such a massive library was difficult, let alone one with a power outlet. I plan to go earlier tomorrow to check out the situation.
+Paid a visit to the National Library and got a library card. The place was packed: even in a building that enormous, finding any seat was hard, never mind one beside an outlet. Tomorrow I plan to arrive early and stake one out.
 
 In the evening, with the help of a friend, I completed the math competition, and then hurriedly left (so grateful to my friend for helping me call a cab). On the way, we passed a toll station, and looking out the car window, I saw the big characters reading "North China Electric Power University." Hmm, feels a bit familiar.
 

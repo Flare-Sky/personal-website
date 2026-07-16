@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-87"
+title = "Sojourner's Diary - 87"
 date = 2025-04-13T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-这个周末过得有意义吗？
+Did I spend this weekend meaningfully?
 
-因为北京的大风天，被关在了家里无处可去（我约的故宫啊呜呜呜）。本来下定决心要好好利用这些时间学习，结果到头来还是MC启动+解谜。明明要对自己的服侍负责的，明明要在兼职上更进一步甚至教同学的，明明要帮同学补习英语的，明明要在离开之前把所有的作业连同论文一齐上交的，明明应该和爸妈有交流的时间的，明明不应该忘记每日读经的……
+Beijing's gale trapped me at home with nowhere to go. (My Forbidden City reservation, noooo.) I had firmly resolved to use the time for serious study. What actually happened: MC, launch! Plus puzzles. I was supposed to take responsibility for my service. I was supposed to improve at my part-time work, even teach a classmate. I was supposed to tutor another classmate in English. I was supposed to submit every assignment and the paper before leaving. I was supposed to make time to talk with my parents. I was not supposed to forget my daily Bible reading...
 
-但这个周末就是这样过去了，一去不复返。
+And yet that was how the weekend passed, never to return.
 
-……
+...
 
-今晚听歌的时候，突然听到了曾经在马来西亚夜深人静时最爱唱的《隙光海》，不知怎的就流下泪来。那是一段艰难的时期，五维的停摆在很大程度上改变了中v这个小圈子，许多老人淡圈退坑，同人社区却还是那样的繁荣。在那时我听到的，是一首老粉离开前留下的最后作品。相当豪华的制作阵容，甚至拉来了平四时期的元老画师小勺老师来提供曲绘，到最后也只有不温不火的热度……但我却实实在在相信自己找到了宝藏，便反复听之，慢慢也就学会了唱，然后常常就在浴室KTV大展歌喉。
+While listening to music tonight, I suddenly heard *Sea of Light Through the Cracks*, the song I loved to sing late at night in Malaysia. Somehow, tears began to fall. That had been a difficult time. Medium⁵ going dormant changed the tiny Chinese Vocaloid community enormously; many longtime fans drifted away or left entirely, even as the fan community remained as lively as ever. The song I found then was the final work left by one old fan before their departure. Its production team was astonishingly lavish—they even brought back Xiaoshao, a veteran illustrator from the Quadimension era, for the artwork—yet the song never became more than moderately popular... I was convinced, though, that I had found treasure. I played it over and over, slowly learned to sing it, and frequently gave full concerts in the bathroom KTV.
 
-音乐本身只是旋律，是人赋予其意义。创作者一定有想要表达的东西，但聆听者未免能体会到这种初始意图。反之，他们会将自己的生活点滴融入那一段音符之中，定格刹那的永恒。所以我会觉得听歌和摄影很像，也同时热衷于二者。而也就像你看到老照片会触景生情，当你再次听见那熟悉的旋律，心中也会有所触动。
+Music by itself is only melody; people give it meaning. A creator certainly has something they wish to express, but the listener may never grasp that original intent. Instead, listeners fold fragments of their own lives into those notes, preserving one fleeting moment forever. That is why listening to music feels so much like photography to me, and why I love them both. Just as an old photograph can summon the feeling of a place, a familiar melody can stir something in the heart when you hear it again.
 
-我这个人的听歌习惯就是自己找歌扒到本地自己听，好处是资源丰富不受限制也不用担心下架，坏处是翻来覆去就那么几首。现在我听的“我的”歌单（怎么这么像绕口令啊喂）常驻100+从中V初期到AI时代的各类曲子，当然大部分是翻调过的。当我听老曲听烦了，便会新建一个“临时”歌单，用于存放找到的新曲专门循环听。等到手癖被放置解了（哎怎么又扯上音游了……算了就这个意思各位体会一下吧），便能二合一形成一个更大的歌单。以往在我高强度听歌的情况下，这个循环周期不会超过一个月。但我这次“分久必合”的流程却走了半年。
+My music habit is to hunt down songs, save them locally, and listen on my own. The advantage is an unrestricted library with no fear that anything will be taken down. The disadvantage is that I keep circling the same handful of tracks. My current “My” playlist—why does that sound like a tongue twister?—contains more than a hundred songs spanning the early Chinese Vocaloid era through the age of AI, most of them retuned covers. When the old tracks wear me out, I create a “Temporary” playlist and loop whatever new songs I find. Once the muscle-memory habits have faded through neglect—why have rhythm games entered this explanation now? Never mind, you understand—I merge the two into one larger playlist. Back when I listened intensely, this cycle never lasted more than a month. This time, the “what is long divided must unite” process took half a year.
 
-具体的原因比较复杂不好说清，反正就是各种原因做的歌词少了听的歌也少了。当我终于决定把“临时”重新移回“我的”里时，我就一定会听到这首歌。
+The reasons are complicated and difficult to explain. For one reason or another, I made fewer lyric files and listened to less music. When I finally decided to move “Temporary” back into “My,” I was bound to hear this song.
 
-一定会回想起曾经的时光。
+And bound to remember that earlier time.

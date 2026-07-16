@@ -1,39 +1,41 @@
 +++
-title = "寄居者的日记-110"
+title = "Sojourner's Diary - 110"
 date = 2025-09-11T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-一个简单、有效且离谱的方法，能让校园中有人主动找你说话。（真的很简单！）
+Here is a simple, effective, and ridiculous way to make people on campus approach you and start conversations. (It really is simple!)
 
-想知道？只需花费$7,999,999解锁包月充电方可……（被打）
+Want to know how? Unlock our monthly charging plan for the low, low price of $7,999,999 and— (Gets punched.)
 
-好吧，实际上就是今天晚上的SI（可以理解成课后小灶环节？助教带着参加的同学一起做题一起复习学习内容）结束后，我正准备走时被叫住了。对方邀请我一起打乒乓球，于是我就留了下来，并且有一搭没一搭地聊上了。
+Fine. What actually happened was that, after SI tonight—think of it as an after-class study session where a student instructor leads everyone through problems and reviews the material—I was about to leave when someone called me back. He invited me to play table tennis, so I stayed, and we began chatting on and off.
 
-嗯，他叫了我的名字。
+Then he said my name.
 
-我纳闷：哎不对啊我认识这个人吗？不对不对……哦对的……哎不对……最后还是发挥传统艺能问名字起手，再接上“我不擅长记名字也联系不上人脸所以我们即使见过也不一定认得出来请见谅下次我可能还会问一样的问题请多包涵”长难句连招，完美化解可能出现的尴尬情况（这不是更尬吗喂！）
+I was baffled. Wait, do I know this person? No, surely not... oh, yes... wait, no... In the end, I deployed my traditional opening move and asked his name, immediately chaining it into the advanced run-on combo: “I am bad at remembering names and cannot connect them to faces, so even if we have met I may not recognize you; please forgive me; I may ask the exact same question next time; thank you for your patience.” Potential awkwardness: perfectly neutralized. (You made it *more* awkward, hello!)
 
-他说，他在Calculus课上坐在我的后排。这就不奇怪了。
+He told me that he sits behind me in Calculus. That explained it.
 
-来到LETU之后，我总是穿着在Peninsula“重金”定制的校服，以记载那段与学校斗智斗勇的光辉履历。当时，学校以校风为由要求每个学生购买校服外套。这乍一看没啥问题，但请注意：我们当时可是在马来西亚哎！热带，外套，必须？感谢学校常年开到体感温度零下的空调，这几个词第一次得以在我的脑海中画上了“浮想联翩”的线条。
+Ever since arriving at LETU, I have constantly worn the school jacket I paid a “small fortune” to customize at Peninsula, a monument to my glorious campaign of wits against the school. Back then, the administration required every student to buy a school jacket in the name of campus culture. At first glance, that seems reasonable. Please note, however: we were in Malaysia. The tropics. A mandatory jacket. Thanks to the school's year-round air-conditioning, set to a perceived temperature somewhere below freezing, those words could finally coexist in my imagination.
 
-作为一块哪需要往哪搬的砖，我被拉去拍了宣传照之后更郁闷了：这毛衣是真的不好看啊！我穿的尺码还是小了一号的，穿着难受不说，走远了都分不清是外套还是紧身衣。所以当我在Student Leader会议上听到定制12年级外套的提案，我是举双手双脚赞成的。
+As the brick everyone carried wherever a brick was needed, I became even more annoyed after being dragged into a promotional photo shoot. The sweater was genuinely ugly! Mine was also one size too small. It was uncomfortable, and from a distance you could not tell whether I was wearing a jacket or a compression shirt. So when someone proposed a custom Grade 12 jacket at a Student Leader meeting, I voted for it with both hands and both feet.
 
-在那之后就没我什么事了。作为学校历史上（大概的）“最摆Head Boy”，我全程监（mo）督（yu）跟完了购置的流程。虽说最后比起直接在学校买贵了一点，但这终归是一次胜利！一次学生阶级的有声反抗！
+After that, the project had little to do with me. As perhaps the most laid-back Head Boy in school history, I “supervised” the entire purchasing process from beginning to end—which is to say, I slacked off. The final product cost a little more than buying directly from the school, but this was still a victory! A vocal uprising of the student class!
 
-在毕业后，我望着衣服上的“2024 YEAR 12”、“Graduating Class”、“Peninsula International”以及那个大大的“Flare”，想着这衣服估计要不得了。但秉持着中国人优秀的“买都买了”的妥协精神，我把它带到了美国。
+After graduation, I looked at “2024 YEAR 12,” “Graduating Class,” “Peninsula International,” and the enormous “Flare” printed on the jacket and thought, well, this thing is probably unwearable now. But guided by that excellent Chinese spirit of compromise known as “I already paid for it,” I brought it to America.
 
-我管你这那的，穿就完了！
+Who cares? Just wear the thing!
 
-于是大概每个见到我的人都至少知道了我的名字。
+As a result, almost everyone who has seen me knows my name, at the very least.
 
-说起这个“Flare”，其实心里有愧。之前我的英文名其实是“Jason”，是来自美国的David爷爷起的，挺好听的一个名字，也在圣经里。但初中的一班4个“Jason”确实太巧合了，故我自作主张地改了名。“Flare”是我在苦思MC账户名时想到的，是“诸葛天曜”末字的同素（音）异形体“耀（斑）”的英文。加上本名结尾的“Sky”，共同构成了“FlareSky”这个“哇看起来就好帅啊”的名字（顺便，因为我的号现在主要是我弟在玩，在服务器上大家都叫他“Flare”了~~，可恶被牛了啊~~）。
+I do feel a little guilty about the name “Flare.” My English name used to be Jason, chosen for me by Grandpa David from America. It is a perfectly nice name and appears in the Bible. But having four Jasons in one middle-school class was too extraordinary a coincidence, so I took it upon myself to change mine.
 
-于是Flare就这么被用到了今天。
+I invented “Flare” while agonizing over a name for my Minecraft account. The final character of “Zhuge Tianyao” is *yao*, meaning “shine”; a flare is a different form of the same idea and sound. Combined with “Sky,” the end of my real name, it became “FlareSky,” a name that made me think, “Whoa, that looks so cool.” (Incidentally, my brother now plays on the account more than I do, so everyone on the server calls *him* Flare. ~~Damn it, I have been NTR'd out of my own name.~~)
 
-有时别人说起这个名字，会觉得“weird”（来自Peninsula老师原话），但更多人会觉得“special”而能够记住。这是我能想到唯一的辩解了。
+And thus Flare has survived to the present day.
 
-所以，你学废了吗？只需要背着你的名字满学校乱跑，就会有人主动跟你聊天啦！
+Sometimes people hear it and call it “weird”—a direct quote from one of my Peninsula teachers—but more often they call it “special,” which makes it easier to remember. That is the only defense I can offer.
+
+So, have you learned the trick? Simply carry your name around the entire campus on your back, and people will come talk to you!

@@ -1,45 +1,61 @@
 +++
-title = "寄居者的日记-130"
+title = "Sojourner's Diary - 130"
 date = 2026-04-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Study"]
 +++
 
-在做完网站之后，我一个月没写日记
+After finishing the website, I went an entire month without writing a diary entry.
 
-要说原因，日后要更新的地方多了一个嫌麻烦是一方面，平时要做的事多是另一方面。可如果继续追问下去，大概率得到的会是支支吾吾顾左右而言他的反应。诚然，最近几周的学习是比较紧促，但一学期区区13学分的我对付这些作业还是游刃有余的，至少不会熬到后半夜（哎死线战士）
+Why? Partly because having one more place to update felt troublesome, and partly because everyday life gave me plenty to do. But if you kept pressing me, you would probably receive only stammering and evasive glances. It is true that the past few weeks of school have been rather intense, but with a mere thirteen credit hours this semester, I can handle the assignments comfortably enough. At least I do not stay up until the middle of the night. (Ah, a deadline warrior.)
 
-那么，我的空闲时间都用来做什么了呢？
+So what have I been doing with all my free time?
 
-有人可能注意到，有一些《寄》的内容既没有在朋友圈上发过，也没法在电报动态里找到，只在网站的某个角落默默归档。那是去年一段时间里我的每日时间表。说是时间表，其实更像是记录或是什么东西。当时听从长者建议将自己每天两小时做过的事情记录下来，一连两周。刚开始还有装装好学生样子的迹象，后面（其实就在周日一天过后）就原形毕露魔丸降世了。当时在交通便利的北京尚且如此，现在一个人整天窝宿舍里，附近又人生地不熟，情势真是急转直下啊（悲）
+Some readers may have noticed that certain *Sojourner's Diary* material never appeared on WeChat and cannot be found among my Telegram posts. It sits quietly archived in a corner of the website. Those entries are my daily schedules from a period last year.
 
-但还好，我又开始动笔了
+“Schedules” is not quite the right word. They are more like logs, or something of that sort. Following an elder's advice, I recorded what I did in each two-hour block of the day for two straight weeks. At first, there were signs that I was pretending to be a model student. Later—meaning immediately after the first Sunday—my true demonic form descended upon the earth. I was already like that in Beijing, where transportation was convenient. Now I spend entire days alone in my dorm, unfamiliar with both the area and the people around me. The situation has taken a sharp turn for the worse. (Tragic.)
 
-有意思的是，明明之前有许多比这有意思得多的主题，但却如何也没有动笔的想法。不过错过的东西就是错过了，让我们把目光放在当下的每时每刻吧
+But at least I have begun writing again.
 
-而此时此刻有一个决定得说
+Interestingly, I had many topics far more entertaining than this one, yet I could not summon the desire to write any of them. What has been missed has been missed, however. Let us turn our eyes to every moment of the present.
 
-大概是之前对奖学金这类事项不够上心，等真的到了LeTourneau，我才发现自己实际上错过了很多奖学金申请的机会。到头来，虽然有个Dean奖，一学期2w刀的开销我们家还是负担不起。同时也考虑到我的专业、校友网络等多方面因素，我最终和家人讨论后决定从LETU转学至UT Dallas，在离家更近的地方继续我的大学生活
+And at this particular moment, there is a decision I need to share.
 
-说实话，自从做出这个决定以来，我一直莫名有种抗拒在人前将他说出的感觉。回想到曾经有过退出高家决定的朋友以及自己当时的感受，就有一种“背叛”的不安。尤其再想到我刚到LETU时在人前为国内jdj教育做的介绍和见证，以及去年一次自以为是的线下问询导致的“决裂”。但最终我还是说服了自己：是零羽的不告而别才让泠洛陷入梦魇（妄想症系列真是太好用了），而我应该做的绝对不是临行前匆匆说出再见
+Perhaps I did not pay enough attention to scholarships before coming here. Only after I truly arrived at LeTourneau did I discover how many application opportunities I had missed. In the end, even with the Dean's Scholarship, my family cannot afford twenty thousand dollars per semester. After also considering my major, the alumni network, and several other factors, my family and I have decided that I will transfer from LETU to UT Dallas and continue university closer to home.
 
-有意思的是，当我告知Gowing教授我的选择时，他笑着说，这不是他第一次因为学费的问题失去学生了。诚然LETU有着最好的校园风气和同学，你能在这里的任何角落跟天南海北的人谈论大大小小的话题，甚至能理解每一个来自Bible的笑点。但对于国际生而言，费用的门槛还是太高了
+To be honest, ever since making the decision, I have felt a strange resistance to saying it aloud in front of others. I remember how I felt when a friend once decided to leave the Gao family, and a sense of unease whispers that I am committing some sort of “betrayal.” That feeling becomes stronger when I recall the introductions and testimony I gave about Christian education in China soon after arriving at LETU, along with the “rupture” caused by one self-important in-person inquiry last year.
 
-正如之前说的，如果我在马来的时间有更多研究，早就应该像Jenny姐姐一样考个SAT出来，甚至提前修直属LETU的网络课程来抵学分。事到如今机会尽失，而仍有12个学分似乎遥不可及，但我确实又不敢频繁再提
+Ultimately, though, I persuaded myself: it was Lingyu's departure without a word that trapped Lingluo in her nightmare. (The *Paranoia* series really is useful for everything.) The one thing I absolutely should *not* do is wait until the last moment and throw out a hurried goodbye.
 
-随他去吧，人在旅途无论是顺境还是逆境都要随遇而安，而这一路上的经历才是最宝贵的
+When I told Professor Gowing about my choice, he smiled and said this was not the first time tuition had cost him a student. LETU truly does have the finest campus culture and classmates. In any corner of the university, you can discuss subjects large and small with people from every imaginable place. You can even understand every joke derived from the Bible. But for international students, the financial barrier remains too high.
 
-在LETU的经历才是最宝贵的。我能够了解美国文化，能够克服Peninsula时期的那种对英文交流的恐惧，能够了解Third Culture Kid和Missionary Kid这一群体并且与其中的许多人建立深交，能够在每周日下午刷完盘子之后拿到足够我吃3顿的中国菜（和马来鸡！）……这一切都是宝贵的
+As I have said before, if I had done more research during my time in Malaysia, I should have followed Sister Jenny's example and taken the SAT. I might even have completed online courses directly affiliated with LETU for transfer credit. Those opportunities are gone now. Another twelve credits still seem impossibly far away, and I truly do not dare bring the subject up repeatedly.
 
-而在这种种祝福中的我，却似乎没能给他人带去祝福。我是个很矛盾的人。“恃才傲物”的形容其实并不准确，因为我实际上没啥真才实学。跟老友聊到AI编程Vibe Coding的话题，才恍然惊觉自己在Peninsula时期一次直接点了Gmail的便捷回复被吐槽“太随便”后，就再没写过一封像样的英文邮件了。一边调侃着AI的代码是石山，自己的网站还用着这样的代码，甚至以为这样就足够自己参与到更复杂的，Software Engineering II才会涉及的专业项目之中。但同时我又是那样喜欢与众不同，喜欢别人的称赞。于是会在用AI暴力破解网站源代码里的哈希之后直接丢出截图享受群友发的一个个“？”，会在对文字进行最大程度的修改后勾选提交时必须勾的那个框……哎还是来听歌吧
+Let it go. Whether the road is smooth or difficult, a traveler must adapt to whatever comes. The experiences along that road are what matter most.
 
-ilem的新歌《告死鸟》，非常喜欢的一首洛曲。总觉得这个老鸽子复活的时刻多少得写点什么，而这首歌的主题也很深刻值得写点什么（没错我在写所有这些文字时就在单曲循环这首）。
+My experiences at LETU are what matter most. I learned about American culture. I overcame the fear of communicating in English that followed me through Peninsula. I learned about Third Culture Kids and Missionary Kids and formed close friendships with many of them. Every Sunday afternoon, after washing all the dishes, I received enough Chinese food for three meals. And Malaysian chicken! All of it has been precious.
 
-曾经在[寄-87](https://flaresky.me/posts/diary-087/)中提到过，声音是记忆的载体之一。而这首歌必然与我在LETU的时光相绑定。最浅显的那一层解释是去年9月底的那件事。当我在电话里听到“告死鸟”时，时间停止。之前听说过人在面对重大事件时，同一时间那看起来毫不相关的东西倒是会记得特别清楚。我当时正在翻看丝之歌图鉴找哪个还没解锁，鼠标停留在机枢巡游者的条目之上
+Yet amid all these blessings, I do not seem to have brought many blessings to other people.
 
-……等到5月10日，再做一次红烧肉吧
+I am a contradictory person. “Arrogant because of talent” is not quite accurate, since I possess very little genuine expertise. While discussing AI programming and vibe coding with an old friend, I suddenly realized that, after someone criticized me as “too casual” for clicking Gmail's suggested quick reply at Peninsula, I had never again written a proper English email.
 
-随后的一层意思，是几年来教主歌曲中体现出来的心境之变。从《深夜诗人》的星空三千丈做翅膀，到《白鸟过河滩》的翅膀变成白鸟（再变成n个puzzle里的提取，不对串场了），再到如今幽幽天边匆匆划过的告死鸟，似乎是每一个生活在这时代人的写照。我们迷茫却又前进着，附和着主流的观点，追逐着时代的风口，到头来却没能与故人临行前再饮一杯
+On one hand, I joke that AI-generated code is a mountain of garbage. On the other, my own website still runs on that code, and I have even imagined it was enough to let me participate in more complex professional projects of the kind not introduced until Software Engineering II. At the same time, I love being different and love receiving praise. So after using AI to brute-force a hash buried in a website's source code, I immediately throw a screenshot into the group and enjoy the succession of question marks from my friends. After revising AI-generated text as heavily as possible, I tick the mandatory box when submitting it...
 
-所以，我希望在离别前留下最好的（明明都能keep in touch的你这家伙在伤感什么啊！整段垮掉）
+Ah. Let us listen to music instead.
+
+Ilem's new song, *Bird of Death*, is a Luo Tianyi track I love very much. The resurrection of that ancient pigeon of a producer surely deserves a few words, and the song's theme is profound enough to deserve a few more. Yes, I have been looping it throughout the writing of this entire entry.
+
+I mentioned in [Diary 87](https://flaresky.me/posts/diary-087/) that sound is one of the vessels of memory. This song will inevitably become bound to my time at LETU.
+
+The most immediate interpretation lies in what happened at the end of last September. When I heard the words “bird of death” over the phone, time stopped. I had heard that when people face a life-changing event, they sometimes remember the completely unrelated details surrounding that moment with extraordinary clarity. At the time, I was scrolling through the *Silksong* bestiary, trying to determine which entry I had not unlocked. My cursor rested on the Cogwork Pilgrim.
+
+...On May 10, I will make braised pork again.
+
+The next layer is the change in spirit reflected across the Master's songs over the years. In *Midnight Poet*, three thousand fathoms of starry sky became wings. In *White Bird Crossing the Riverbank*, the wings became a white bird—and then became the extraction string in n different puzzles. No, wrong subject. Now, in *Bird of Death*, a dark figure glides hurriedly across the distant edge of the sky.
+
+It seems to portray every person living in this era. Lost, yet still moving forward. Echoing the mainstream view. Chasing whatever opportunity the age declares to be the next great thing. And in the end, failing to share one more drink with an old friend before they leave.
+
+So before I leave, I hope to leave behind the best—
+
+(You can all keep in touch! Why are you being sentimental? The entire paragraph has collapsed.)

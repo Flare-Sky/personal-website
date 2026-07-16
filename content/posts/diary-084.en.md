@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-84"
+title = "Sojourner's Diary - 84"
 date = 2025-04-10T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Geocaching"]
 +++
 
-又是早起跑步失败的一天（
+Another day of failing to get up for a run (
 
-今天在上完NT之后跟着同学快马加鞭赶往王府井，去和他的校友会合。晚上跟他们吃了“地道”的炸酱面，聊了很多他们学校有意思的人和事。
+After NT today, I galloped after a classmate to Wangfujing to meet some of his old schoolmates. That evening we ate “authentic” zhajiangmian and heard all manner of amusing stories about people and events at their school.
 
-路过王府井圣约翰天主教堂，从外面看还是很漂亮的，可惜这里的Cache丢失了。
+Passed St. Joseph's Church in Wangfujing. Beautiful from the outside, though sadly its cache was missing.
 
-路过一个人力车雕像，发现车夫居然人车分离，惊呼：原（力），启动！然后这其实也是一种Cache，只需要提交合影即可（所以我拍了张包与车的合影，不愧是我）
+Passed a rickshaw statue and discovered that the driver had become separated from his vehicle. I cried: “The Force—activate!” This, too, was a kind of cache; all it required was a photo together. (So naturally I photographed my bag with the rickshaw. Classic me.)
 
-路过百货大楼，不知为何四个大老爷们直接自信走进化妆品区，当然最后还是前往了二楼的玩具反斗城回忆童年了。
+Passed the department store, where four grown men marched confidently into the cosmetics section for reasons unknown. We did eventually reach Toys “R” Us on the second floor and revisit our childhoods.
 
-路过蜜雪冰城，发现团购券不能用，于是赶去远一点的蜜雪冰城，然后发现打烊了。
+Passed a Mixue, discovered our group-buying coupon was not accepted, hurried to a more distant Mixue, and discovered it had closed.
 
-路过智化寺，发现下午4点就关门了，于是意识到下次出发找Cache时一定要做足功课。
+Passed Zhihua Temple, discovered it closes at four in the afternoon, and realized that next time I go caching I need to do my homework first.
 
-路过灯市口地铁站3次，都没有找到入口的位置，倒是见到了几分钟前刚分别准备回酒店的同学们（Geocaching能使你快人一步，确信）。不是为什么一个地铁口藏得这么深啊！
+Passed Dengshikou metro station three times without finding the entrance. I did, however, run into the classmates who had said goodbye only minutes earlier and were heading back to their hotel. (Geocaching keeps you one step ahead. Confirmed.) No, seriously—why was that entrance hidden so well?!
 
-早睡，晚安。
+Early bedtime. Good night.

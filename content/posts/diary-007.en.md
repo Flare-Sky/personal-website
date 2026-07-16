@@ -1,17 +1,17 @@
 +++
-title = "Sojourner's Diary-7"
+title = "Sojourner's Diary - 7"
 date = 2023-05-18T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Kuala Lumpur","Study"]
 +++
 
-I can't say that I planned to flake out, but a month has truly passed. The week's studies aren't over yet, but since I remembered this last night, it's necessary to write a bit about myself.
+I can't say I *planned* to disappear, but somehow an entire month has gone by. The school week isn't even over yet, but I remembered this diary last night, so I suppose it is time to sit down and write honestly about myself.
 
-When people ask me questions like "How's school going?", my answer is usually "It's alright, just the language environment is hard to adapt to." Studying entirely in English is, of course, a challenge for us. But the challenges don't end there. The subjects I've chosen are EAL, CFL, Mathematical Methods, Physics, Chemistry, and Economics, which lean toward the sciences. There's a tiny possibility before me that I might not drop a single subject in Grade 12 and instead take exams for all six subjects. If so, the study pressure will be several times that of others, but it seems to mean scholarships and some other things...
+Whenever someone asks, “How's school?”, my answer is usually, “Not bad. The English-speaking environment is just a little hard to get used to.” Studying entirely in English is a challenge for us, of course, but it is hardly the only one. I chose EAL, CFL, Mathematical Methods, Physics, Chemistry, and Economics—a fairly STEM-heavy load. There is now the tiniest possibility that I could carry all six into Grade 12 and sit every exam without dropping a single subject. That would multiply the workload, but it might also mean a scholarship and... other things.
 
-I feel I think this way because I consider myself very capable and believe I can be at the top of my studies. But the truth is, how can a lazy person who isn't even willing to catch up on CFL homework, a late-stage procrastinator who has delayed Economics homework for nearly a week, a coward who is unwilling to take responsibility, and a prodigal son who indulges in pleasure when there's no external pressure—how could such a person study well? Good study habits were probably formed in junior high; although the momentum has lasted a while, it will eventually vanish. When that time comes, will I no longer be able to move forward on my own?
+I suspect the only reason I would even entertain the idea is that I think rather highly of myself—that I am smart, that I can come out on top academically. But really: how could a lazybones who cannot be bothered to catch up on his CFL homework, a terminal procrastinator whose Economics assignment is nearly a week overdue, a coward who refuses responsibility, a prodigal who runs wild the moment external pressure disappears—how could someone like that possibly study well? Perhaps I built good study habits in middle school. The momentum has carried me a long way, but it will fade eventually. When it does, will I be unable to keep moving under my own power?
 
-Why am I saying all this? Study pressure won't vanish into thin air. I still have Mathematical Methods teaching tasks today, Chemistry review this afternoon, and a festival program list to submit this week. Why am I spending time writing this?
+What is the point of saying all this? The workload will not magically disappear. I still have a Mathematical Methods lesson to teach today, a Chemistry review session this afternoon, and a festival program due this week. Why am I spending time on this instead?
 
-Perhaps, it is so that when I find my direction, I can look back at my former lost self.
+Perhaps so that, once I find my direction, I can look back on the time when I was lost.

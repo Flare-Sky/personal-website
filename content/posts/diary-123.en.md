@@ -1,35 +1,35 @@
 +++
-title = "寄居者的日记-123"
+title = "Sojourner's Diary - 123"
 date = 2025-12-04T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Puzzle"]
 +++
 
-恭喜公众号“神秘的猫头鹰q先生”粉丝数破千！撒花🎉
+Congratulations to the WeChat account *Mysterious Mr. Owl Q* on reaching one thousand followers! Confetti 🎉
 
-一大早起来看到消息，激动得在赶Paper的ddl中忙里偷闲摸了个限量周边（仅此一家你就说限不限量吧），有机会就去狠狠量产（
+I saw the news first thing in the morning and became so excited that, amid the deadline panic of finishing a paper, I found time to doodle some limited-edition merchandise. Only one exists, so you tell me whether that counts as limited. If the opportunity arises, I will put it into ruthless mass production. (
 
-说起来，我的解谜圈龄和这个公众号倒是相差不大。刚好最近在整理一年来写过的各种解谜相关玩意，就在这里小小的剧透一部分（顺便偷个懒凑凑字数）：
+Come to think of it, I have been in the puzzle community for roughly as long as that account has existed. I have recently been organizing the various puzzle-related things I wrote over the past year, so here is a tiny preview—and a lazy way to pad today's word count.
 
-通过翻聊天记录，找到了那天的日期。2024年10月3日，如果在化学课上老师没有让我们自习，我没有提前完成作业（？），电脑上没有装QQ的话，我也不会在无聊翻消息记录时突然看到了群里的题吧。
+I found the date by searching my chat history: October 3, 2024. If our chemistry teacher had not given us a self-study period, if I had not finished my work early (?), and if QQ had not been installed on my laptop, I would never have spotted that puzzle in the group while scrolling through old messages out of boredom.
 
-所谓“锈湖ARG群”，和游戏《The Past Within》推出之后隐藏在关卡中的“卷轴谜题”有关。因为每个人能拿到的卷轴数量是有限的，因此就需要来自世界各地的玩家通力协作共同拼凑出谜题的全貌（好奇者可以移步[BV1pg411b7X9](https://www.bilibili.com/video/BV1pg411b7X9/)详细了解）。在这个活动结束之后，这个群被留了下来作为吹水群，当然也有高强度讨论锈湖相关的内容啦（甚至有专门的解谜活动！不过那是后话了）。
+The “Rusty Lake ARG Group” was connected to the hidden scroll puzzle released inside *The Past Within*. Because each player could obtain only a limited number of scrolls, people around the world had to collaborate and assemble the whole puzzle. If you are curious, [BV1pg411b7X9](https://www.bilibili.com/video/BV1pg411b7X9/) explains it in detail. After the event ended, the group remained as a casual chat, though naturally Rusty Lake still receives plenty of intense discussion. It even has dedicated puzzle events—but that comes later.
 
-这个解谜活动是来自于群主quest老师带队参加完GPH（国外大型Puzzle Hunt赛事）后，为了让更多人感受到谜题的乐趣（？存疑），在国庆假期期间作为群内团建之外的项目开展的。而我并没有参加团建活动（互联网i人是这样的），而解谜也其实是从第2题才开始加入的。
+This particular puzzle event was created during the National Day holiday as something beyond the group's regular get-together. The group owner, Quest, had just led a team through GPH, a large international Puzzle Hunt, and apparently wanted more people to experience the joy of puzzles. (Question mark; citation needed.) I did not join the social event itself, because that is how internet introverts are. I only entered the hunt with Puzzle 2.
 
-嗯，然后就一发不可收拾。
+And then everything spiraled out of control.
 
-说起自己对公众号的贡献~~，可以说几乎没有~~。不知道自己是不是个例，但我自认为是一个不会在网上社交的人。以QQ为例，我平时不怎么上线，虽然加了很多群但大多情况下都是那种人满大清洗时会被刷掉的那一类。偶尔说几句话，也会担心其他人的回应。有时，甚至会因为自己在大量信息流中被无视而感到安心——因为如果别人接下了话茬开始新一轮讨论反而会给我带来更多的压力
+As for my contributions to the account, ~~there were essentially none~~. I do not know whether I am an unusual case, but I consider myself incapable of socializing online. Take QQ: I rarely log in. Although I have joined many groups, I am usually the kind of member who gets swept away whenever a full group conducts a purge. When I do say something, I worry about how other people will respond. Sometimes I even feel relieved when my message is ignored in the flood, because if someone picks it up and starts another discussion, that only creates more pressure for me.
 
-所以我当时将近十年没用过QQ。
+That was why I had barely used QQ in almost ten years.
 
-但如今，我至少在那么几个群间歇性活跃……这大概就是热爱的力量吧。
+Today, at least, I am intermittently active in a few groups. I suppose that is the power of loving something.
 
-记忆犹新的有那么几次。一次是在ARG群里要说自己考试的事，当时就在公众号上拜托了q老师帮忙发布消息，回应的人虽然不多但还是让我心里暖暖的；还有一次是淘宝十周年活动开的小群，我当时在其中异常积极，一度表示“把一年的天都聊完了”；以及剪完金牌解谜视频的那天，同样拜托了q老师转发，然后直接钻进被窝倒头便睡。然后第二天睁开眼时，第一件事就是翻历史记录去看反馈
+Several occasions remain vivid in my memory. Once, when I needed to tell the ARG group about an exam, I asked Q to publish a message through the account. Not many people replied, but those who did still warmed my heart. Another time, in the small group for Taobao's tenth-anniversary event, I became abnormally talkative and declared that I had “used up an entire year's supply of conversation.” Then there was the day I finished editing the *Gold Medal Puzzle* video. Once again, I asked Q to share it, crawled directly under my blankets, and fell asleep. When I opened my eyes the next morning, the first thing I did was scroll through the history to see the reactions.
 
-为什么要这样子呢？其实我也说不清楚。明明在现实里是个e人（考虑到某些场合下的情况，存疑），到了网上反而不行了。
+Why am I like this? I cannot really explain it. In person, I am clearly an extrovert—questionable under certain circumstances—but online, somehow I cannot do it.
 
-~~哎不对咱们不是在说公众号吗~~
+~~Wait, were we not talking about the WeChat account?~~
 
-总而言之感谢大家的支持！也希望看到这篇文章的你（指），如果还没关注“神秘的猫头鹰q先生”的话动动手指点点关注谢谢喵
+In any case, thank you all for your support! And if you, yes *you*, are reading this and have not yet followed *Mysterious Mr. Owl Q*, please move that little finger and tap Follow. Thank you, meow.

@@ -1,29 +1,27 @@
 +++
-title = "寄居者的日记-75"
+title = "Sojourner's Diary - 75"
 date = 2025-04-01T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Puzzle"]
 +++
 
 | | |
 |---|---|
-|0:00-8:00|睡觉|
-|8:00-9:00|起床，洗漱，泡咖啡，打Phigros愚人节曲|
-|9:00-10:00|早读（约一2），赶去书店，做歌词|
-|10:00-11:00|打Hunt，解Lilac谜|
-|11:00-12:00|解Lilac谜，看视频|
-|12:00-13:00|看视频|
-|13:00-14:00|看视频，解谜|
-|14:00-15:00|解FISH谜，修权重|
-|15:00-16:00|修权重，解Lilac谜，传歌|
-|16:00-17:00|解Lilac谜，回家拿充电线，赶地铁去金融街|
-|17:00-18:00|赶地铁，读《波依斯》，听书，吃晚饭|
-|18:00-19:00|吃晚饭（吃撑了www），Art History|
-|19:00-20:00|Art History，解明谜|
-|20:00-21:00|Art History（朋友给我们一人买了一杯星巴克哎），赶地铁回家|
-|21:00-22:00|赶地铁回家，解谜|
-|22:00-23:00|解纪谜，打Hunt|
-|23:00-24:00|洗漱，熄灯，打Hunt|
-
-
+|0:00-8:00|Sleeping|
+|8:00-9:00|Getting up, washing up, making coffee, playing the Phigros April Fools' chart|
+|9:00-10:00|Morning reading (1 John 2), rushing to the bookstore, making lyrics|
+|10:00-11:00|Puzzle hunt, solving Lilac puzzles|
+|11:00-12:00|Solving Lilac puzzles, watching videos|
+|12:00-13:00|Watching videos|
+|13:00-14:00|Watching videos, solving puzzles|
+|14:00-15:00|Solving FISH puzzles, fixing weights|
+|15:00-16:00|Fixing weights, solving Lilac puzzles, uploading songs|
+|16:00-17:00|Solving Lilac puzzles, going home for a charging cable, catching the metro to Financial Street|
+|17:00-18:00|Riding the metro, reading *Beuys*, listening to an audiobook, eating dinner|
+|18:00-19:00|Eating dinner (absolutely stuffed, www), Art History|
+|19:00-20:00|Art History, solving Ming's puzzles|
+|20:00-21:00|Art History (a friend bought each of us a Starbucks!), catching the metro home|
+|21:00-22:00|Riding the metro home, solving puzzles|
+|22:00-23:00|Solving Ji's puzzles, puzzle hunt|
+|23:00-24:00|Washing up, lights out, puzzle hunt|

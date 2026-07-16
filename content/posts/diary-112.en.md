@@ -1,35 +1,37 @@
 +++
-title = "寄居者的日记-112"
+title = "Sojourner's Diary - 112"
 date = 2025-09-20T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Food"]
 +++
 
-今天的序号刚好是空洞骑士的最高完成度。望着还没打的竞技场三，我决定……
+Today's entry number happens to equal the maximum completion percentage in *Hollow Knight*. I looked at Trial of the Fool, which I still have not beaten, and decided...
 
-今天不打游戏！
+No games today!
 
-好吧，并非决定。早上跟着我们的PA（学长Korbin和学姐Amy）去教会包饺砸，中午吃完逛了几家桌游店，下午去湖边参加了一位退休中国传教士组织的Lake Day，回到宿舍就是九点多了，洗洗睡吧有点早，还是得写点什么。
+Fine, it was not exactly a decision. In the morning I followed our PAs, Korbin and Amy, to church to make dumplings. After lunch we visited several board-game stores. In the afternoon I attended a Lake Day organized by a retired missionary to China. By the time I returned to the dorm, it was after nine. A little early to wash up and sleep, so I suppose I should write something.
 
-饺子这种中国文化的纽带，总是能让人浮想联翩（还在浮想联翩）。尤其是看到今天的饺子还是韭菜馅的，就不得不想到昨天（其实应该是今天早上）质询我“这么晚了还没睡觉”的奶奶了。小时候的饺子总是在冒着热气地等待着我，将一切烦恼融化在随饺子汤一起沸腾的空气中。可惜今天的饺子是蒸的，那我缺的“原汤化原食”这一块在哪补啊。用着奶奶教给我的便捷包饺子法左右开弓，也是在擀了几个不规则多边形饺子皮后，装模作样地包了几个，不算全程摸鱼（确信）
+Dumplings, that great binding thread of Chinese culture, always stir the imagination. (There it goes, still stirring.) Today's filling was Chinese chives, which inevitably made me think of Grandma interrogating me yesterday—technically early this morning—about why I was still awake so late. The dumplings of my childhood always waited for me in clouds of steam, melting every worry into the air that boiled above the dumpling broth. Sadly, today's were steamed. Where, then, was I supposed to fulfill the sacred doctrine that “the original broth helps digest the original food”?
 
-这么说来，今天的韭菜似乎也是弟兄姐妹家里自己种的。说到这个就不得不提上周去另一位老师家的时候，望着他们后院的大草坪不少人给出了哪里可以种什么的建议。果然中国人在种菜血脉上确实是有点传承在的。
+Armed with Grandma's convenient folding method, I worked with both hands at once. After rolling several wrappers shaped like irregular polygons, I put on a convincing performance and wrapped a few dumplings. I did not slack off the *entire* time. (Definitely.)
 
-吃饱喝足后跟着Korbin去了他熟悉的一家桌游店，一进店就有到了一种熟悉的感觉——这不是谷子店嘛！虽说整体以桌游为主，万智牌游戏王宝可梦一样不少，但手办、模玩、周边等等也是五花八门。抛开价格不谈，看着还是很帅的。当然，在我看到一个亚克力挂件9刀的时候就知道这不是我能负担得起的消费了。
+Come to think of it, today's chives also seemed to have been grown at a church member's home. That reminds me of visiting another teacher's house last week. The moment everyone saw the great lawn behind the house, several people began recommending what could be planted where. The vegetable-growing instinct really does run deep in Chinese blood.
 
-然后就在看到PB能天使时走不动道了（没买！）。哎，果然我最喜欢的还是高达啊。教授说的“选Mechatronic的都想造高达”果然是正确的中肯的一针见血的。
+Once we were full, I followed Korbin to a board-game store he knew. The moment I walked in, I felt something familiar. Wait—is this not just an anime-merch shop? Board games were the main attraction, and Magic, Yu-Gi-Oh!, and Pokémon were all present, but there was also a dazzling range of figures, model kits, and other goods. Ignore the prices and everything looked very cool. Naturally, the moment I saw a tiny acrylic charm priced at nine dollars, I understood that this was not a hobby I could afford.
 
-与此同时，在另一个桌游咖啡店里，同学教起了美国人麻将规则……（明明几天前的测试有97%的I啊，你该不会有双重人格吧）
+Then I saw a P-Bandai Exia and physically could not walk away. (I did not buy it!) Sigh. Gundam really is still my favorite. My professor's remark that “everyone who chooses Mechatronics wants to build a Gundam” was correct, fair, and devastatingly precise.
 
-下午赶到Lake Day场地，面对说出流利中文的外国人，我惊讶地发现自己并没有惊讶（什么素材复用）。想来也是，在美国这一个月见到了不下10个去过中国的师长，其中会中文者不在少数。不过，这种“他乡遇故知”的亲切感还是实打实的。
+Meanwhile, at another board-game café, one of my classmates began teaching Americans the rules of mahjong... Were you not 97 percent introverted on that test a few days ago? Do you have a second personality?
 
-坐在快艇上，湖光山色闪耀夺目（可恶啊今天应该带个墨镜的）。尽管遗憾地与湖心岛上的Geocache擦肩而过，这一趟坐在船头的兜风还是很爽的。
+We reached Lake Day that afternoon. Faced with foreigners speaking fluent Chinese, I was surprised to discover that I was not surprised. (Excellent recycling of old material.) It made sense: in one month in America, I had met at least ten teachers and older friends who had visited China, quite a few of whom spoke Chinese. Still, that warmth of “meeting an old friend far from home” was entirely real.
 
-在苦恼晚上吃什么这一人生命题时，我不负众望地选择了：麦门！悲哀地发现老美这边居然没有板烧鸡腿堡，然后化悲愤为食欲，狂炫免费续杯的雪碧（对的还带了一大杯回来）
+From the speedboat, the glittering lake and hills were dazzling. Damn it, I should have brought sunglasses. I regret that we passed right by the geocache on the island in the middle of the lake, but riding at the bow with the wind in my face was fantastic.
 
-你要说这一天很忙那是必然的。虽然在外时带上了电脑，时不时会想起爬完雪山拿到二段跳之后能解锁哪些之前去不了的地方，但真正回到宿舍还是放弃了开一把紧张刺激的丝之歌的念头。这一天已经足够充实了。
+When confronted with life's eternal question—what to eat for dinner—I did not disappoint. I chose the Church of the Golden Arches! Tragically, American McDonald's does not sell the grilled chicken thigh burger. I transformed grief and fury into appetite and demolished refill after refill of free Sprite. Yes, I brought a huge cup back with me too.
 
-中术周榜，蒙面好汉zzz，启动！
+The day was unquestionably busy. I carried my laptop while we were out and occasionally wondered which previously unreachable areas would open up now that I had climbed the mountain and unlocked the double jump. But once I actually returned to the dorm, I abandoned the idea of launching another tense and thrilling round of *Silksong*. The day was full enough already.
 
-哎爽爽听了超绝5SH周榜之后就11点了，怎么回事呢（
+Weekly Chinese Vocal Synth Chart, Masked Hero zzz—launch!
+
+Ah, nothing like an exquisite 5SH weekly chart. Wait, how is it already eleven? (

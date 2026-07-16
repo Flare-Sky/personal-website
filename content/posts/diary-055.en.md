@@ -6,4 +6,4 @@ categories = ["Sojourner's Diary"]
 tags = ["Beijing"]
 +++
 
-This morning I helped my classmate complete his university application (actually just filled out a form). Forgot what I did in the afternoon, too lazy to write.
+Helped a classmate finish his university application this morning. (Meaning I filled in a form.) Forgot what happened in the afternoon. Can't be bothered to write.

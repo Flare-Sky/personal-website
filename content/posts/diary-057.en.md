@@ -8,6 +8,6 @@ tags = ["Beijing"]
 
 Happy Lantern Festival!
 
-Today I ran over to pick up my US visa passport, experiencing the embassy queuing vibe once again. When it was my turn, it was over in just a minute—submitting and receiving the documents, and immediately rushing off to play basketball. I am a timing expert (
+Ran over to collect my passport with its U.S. visa today and once again enjoyed the authentic embassy-queue experience. When my turn finally came, it took all of one minute: hand over a document, receive a document, then gallop straight to basketball. I am Timing Man (
 
-Also, the explanation video for the Golden Egg puzzle was released, but my writeup hasn't been written yet... need to put it on the schedule quickly! As for the diary, too lazy to write.
+Also, the solution video for the Golden Egg puzzle is out, while my write-up remains unwritten... That needs to reach the schedule immediately! The diary? Can't be bothered to write.

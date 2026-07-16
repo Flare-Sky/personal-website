@@ -1,25 +1,27 @@
 +++
-title = "寄居者的日记-114"
+title = "Sojourner's Diary - 114"
 date = 2025-09-25T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Study"]
 +++
 
-**《Career Fair，但是自动拾取忘关了》**
+**Career Fair, but I Forgot to Turn Off Auto-Loot**
 
-LeTourneau以其惊人的就业率而出名，据说在这你能近乎100%找到一份合适的工作。不管实际是不是我听说的那么玄乎，今天的Career Fair确实让我大开眼界。大部分公司为2026的暑假工而来，而据我室友所述，一般人选在明年春天之前就定下来了，而下学期的CF将早早地为后年做预备。
+LeTourneau is famous for its extraordinary employment rate. Supposedly you can come here and have nearly a 100 percent chance of finding a suitable job. Whether reality is quite as miraculous as the stories I have heard, today's Career Fair certainly opened my eyes. Most companies came looking for interns for summer 2026. According to my roommate, their selections are generally settled before next spring, while next semester's fair will already be preparing for the year after that.
 
-在参加过Church Fair（找教会的）和Stomp（找社团的）之后，我慢慢抓到了这类活动的套路——本质上就是逛漫展收无料嘛！作为在这方面毫无经验的人（是的我出国前还是一次漫展没去成，但也没啥留恋了），我深谙脸皮厚就是王道。在接受了室友“穿着正式”的建议并有幸借到了他多余的衬衫与领带后，自动拾取，开！
+After attending Church Fair, for finding churches, and STOMP, for finding student organizations, I have gradually understood the formula behind these events. They are anime conventions where you walk around collecting freebies! As someone with absolutely no convention experience—yes, I never managed to attend one before leaving China, though I no longer particularly regret it—I understand perfectly that shamelessness is king. I accepted my roommate's advice to dress formally and was fortunate enough to borrow his spare shirt and tie.
 
-拉上同为新生的中国朋友Kris，我们自信A了上去。
+Auto-loot: on!
 
-这次CF现场摊位不少，种类丰富任君选择。老美这边的基建一直有项目，所以今天印象里好像聊过不少招土木老哥的工作；Kris作为航天维修专业的学生，也见到了不少需要他们学科经验的工作（那毕竟这是在以航天闻名的LETU）；对于我，这个机电加网络安全的双专业似乎就是一块哪里需要哪里搬的砖，没有特别招这块的，但问起来似乎也都能做。这不，有一个和手机应用开发相关的实习我就挺感兴趣的，不知道在暑假网课期间能不能抽空了解一下。
+I dragged Kris, another Chinese freshman, along, and the two of us confidently charged in.
 
-聊完，在“Thanks for your introduction”之后，就是“哎，这个可以吃吗（划）”的环节。在得到肯定的答复后，直接一个拿起就跑。于是拎袋的重量与去过的摊位成正比，最后一清点，我室友得了MVP！
+There were plenty of booths and a broad selection of employers. America always has infrastructure projects in progress, so I seem to remember talking to quite a few companies recruiting civil-engineering talent. As an aviation-maintenance student, Kris also encountered many jobs requiring his field's expertise. This is LETU, famous for aviation, after all. As for me, a double major in mechatronics and cybersecurity apparently makes me the brick that can be carried wherever a brick is needed. No one was recruiting specifically for that combination, but whenever I asked, I seemed to qualify anyway. One internship related to mobile-app development caught my attention. I wonder whether I could find time to explore it alongside my online summer classes.
 
-可恶他去的比我早，有些他拿了的东西我去时已经没了。
+Once the conversation ended with “Thanks for the introduction,” we reached the “Hey, can I eat this—cross that out—can I take this?” phase. The moment we received permission, we grabbed the item and fled. Thus the weight of each person's bag grew in direct proportion to the number of booths visited. When we counted the haul at the end, my roommate was the MVP!
 
-一天聊下来，最大的收获就是我该有个自己的简历了（咦之前是不是有人提醒过我做这个的？）相比写上“曾参与破吉尼斯世界纪录”这种玩意，我应该更加认真地考虑曾经的人生里，有哪些经历可能会被特别重视。毕竟，过度包装永远不会是下策。
+Damn it. He arrived before I did, and some of the things he collected were already gone by the time I reached those booths.
 
-事已至此，还是打会三国杀吧。
+My greatest lesson from a full day of conversations is that I should make a résumé of my own. (Wait, did someone not already remind me to do that?) Rather than writing nonsense like “participated in breaking a Guinness World Record,” I should seriously consider which experiences from my life employers might value in particular. After all, excessive packaging is never the worst strategy.
+
+Now that matters have reached this point, I might as well play some *Legends of the Three Kingdoms*.

@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-97"
+title = "Sojourner's Diary - 97"
 date = 2025-06-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["上海"]
+categories = ["Sojourner's Diary"]
+tags = ["Shanghai","Puzzle"]
 +++
 
-为什么会变成这样……
+How did things end up like this...?
 
-我曾经在想，是不是没有看到GMHS的信息就好了，这样它也就只是像CP31那样成为我心中的一个遗憾，而非伤心事。我明明知道正确的优先次序是什么的，我明明想到了周日来上海可能存在的冲突的，但为什么还是一口答应了q老师呢。
+I found myself wishing I had never seen the GMHS announcement. Then, like CP31, it would have remained a simple regret instead of becoming something painful. I knew what the right priorities were. I had already considered the possible conflict of coming to Shanghai on Sunday. So why did I immediately say yes to Q?
 
-是一种侥幸心理吧……如果没人提醒我可能就真的停止聚会了。
+Wishful thinking, perhaps... If nobody had reminded me, I might genuinely have stopped gathering with them.
 
-唉……本身在出国上大学前的时间就不多了，能有机会见到一起打PH的队友应是件幸事，并且我对这次见面充满期待，不亚于当初第一次去谜协参加招新活动。q老师是我在PH领域的领路人，又是一起解过TMMT 2025的Final Meta“Reactor”的可靠队友，这样双重的身份让他在我心里的地位趋向于一位学习中的学长，工作上的前辈。可我做了什么呢？
+Sigh... There is so little time left before I leave for university abroad. The chance to meet a puzzle-hunt teammate should have been a blessing, and I had looked forward to it as intensely as my first Puzzle Association recruitment event. Q introduced me to the world of puzzle hunts and was the reliable teammate beside me for TMMT 2025's final meta, “Reactor.” Those two roles made him feel like both a senior student and a professional mentor. And what did I do?
 
-我只想说，真的很对不起……我会忍不住去想，他愿意和我住一间青年旅舍（而这是我当时单纯图便宜选的），愿意为了一张电影票在闲鱼和黄牛斗智斗勇，愿意特地准备物料带来给我，我这样，是不是辜负了他。
+All I can say is that I am truly sorry... I cannot stop thinking about it. He agreed to share a hostel room with me, even though I chose it simply because it was cheap. He matched wits with scalpers on Xianyu over a movie ticket. He specially prepared things to bring me. By acting this way, did I let him down?
 
-所以……如果我当初想得仔细点就好了。
+If only... I had thought more carefully at the beginning.

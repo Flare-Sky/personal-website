@@ -3,7 +3,7 @@ title = "寄居者的日记-51"
 date = 2025-03-06T12:00:00-05:00
 draft = false
 categories = ["寄居者的日记"]
-tags = ["北京"]
+tags = ["北京","地理寻宝"]
 +++
 
 补写了一篇Write-up并发在了b站上！来看！

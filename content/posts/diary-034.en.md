@@ -6,7 +6,7 @@ categories = ["Sojourner's Diary"]
 tags = ["Beijing"]
 +++
 
-When I first arrived here, I caught a slight glimpse of what it means to be a "Beijing Drifter" (Beipiao).
+Newly arrived, I caught my first faint glimpse of what it means to drift north to Beijing.
 
 The airport is grand, and equally spectacular is the complex, web-like subway map. Getting off at Lishuiqiao and stepping into the "suburbs" outside the Fifth Ring Road, the prosperity of the capital faded away, revealing a pale sky and a raw depiction of life. A tiny area on the edge of Tiantongyuan—"the largest residential community in Beijing"—served as our dormitory, with a configuration that belongs to the lowest tier: two residential buildings sharing one gate, and if you didn't look closely, you would even think this community had no security guards. Tree shadows cast mottled sunlight, drawing patterns on the ground; next to a bench beside a swaying swing, I lay down and waited for the class monitor to arrive. In a daze, I envisioned countless young people coming to Beijing in search of opportunities, shedding sweat and tears here, yet often failing to get what they wished for in the end. Will I become one of them?
 
@@ -26,7 +26,7 @@ In the bleak, cold wind of North China, a classic poem inexplicably came to mind
 
 I still have quite a poetic touch, I thought to myself, taking solace in this.
 
-Impulsively, I opened Geocaching on my phone (my data package is limited, so I cannot browse Bilibili, please be advised), and discovered that an introductory cache was actually hidden nearby! Since I couldn't return to the dormitory anyway, I immediately decided to take this opportunity to walk around. Along the way, I received two phone calls. One was from Grandma responding to my request, saying she could mail a woolen quilt that was lying unused at home. The other was from a friend informing me of tomorrow's meeting location and offering to lend me a spare suit of his. The winding streets of Beijing caused me to hit a dead end a few times, forcing me to retrace my steps and detour from another side. Strangely, though, there were fewer and fewer pedestrians on the street, until not a single person was in sight.
+On a whim, I opened Geocaching on my phone. (My data is limited, so Bilibili was unavailable, for the record.) To my surprise, a traditional cache was hidden nearby! I could not return to the dorm anyway, so I seized the excuse to explore. Two calls came along the way. Grandma answered my request and offered to mail us a wool quilt nobody at home was using. Then a friend sent tomorrow's meeting place and offered to lend me a spare suit. Beijing's twisting paths sent me into several dead ends until I had no choice but to retrace my steps and circle around. Yet, strangely, the pedestrians thinned as I went, until there was not another person in sight.
 
 I pulled out my phone to confirm I wasn't lost; this was indeed the way to "Aobei Forest Park." When detouring into a small park path near a construction site, I hopelessly thought this area had been closed. But the stubbornness of "since I'm already here" and the allure of an unknown treasure kept me moving forward.
 
@@ -36,6 +36,6 @@ Gradually, I began to see people in twos and threes, either running or walking. 
 
 It seems... like an ideal place for a morning run?
 
-Even if, after some searching, I concluded: "What? Are the coordinates fake?", I believe I have found a far more important treasure at this moment.
+Even though a long search ended with “Nani? The coordinates are fake?”, I believe I found a far more important treasure that evening.
 
 And that is an attitude toward life.

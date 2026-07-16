@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-92"
+title = "Sojourner's Diary - 92"
 date = 2025-04-30T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Geocaching"]
 +++
 
-天安门广场和故宫已经不能用单纯的人多来形容了！明明五一还没到啊！
+“Crowded” no longer begins to describe Tian'anmen Square and the Forbidden City! May Day has not even arrived yet!
 
-这次故宫之旅全程以集章为引，兜兜转转居然也是走遍了每个建筑，包括午门和神武门（都有临时展）。还蹭到了陶瓷馆的志愿者讲解，一路各种拍照。逛！
+Stamp collecting guided the entire Forbidden City trip. By circling from station to station, I somehow visited every building, including the Meridian Gate and Gate of Divine Might, both with temporary exhibitions. I also joined a volunteer tour of the Ceramics Gallery and took photos of everything along the way. Explore!
 
-今天的寻宝之旅也是取得了3/3的好成绩。还当了一回维护，在之前来时没找到的位置放了个新容器。爽！
+Today's caching scored a perfect 3/3. I even performed some maintenance, placing a new container where I had failed to find one on my last visit. Excellent!
 
-从故宫回来，去了打篮球时认识的朋友家，又一次讲起自己的故事。“温故而知新”果然是不错的，也希望这样的见证能够激励更多的人。然后感觉还是要尽早重启班级史才行，不能再拖了。上！
+After returning from the Forbidden City, I visited a friend I met through basketball and told my story once again. Revisiting the old really does bring new understanding; I hope testimony like this can encourage more people too. I also need to restart the history of our class as soon as possible. No more delays. Go!
 
-思考今晚要不要熬夜等锈湖10周年直播呢……
+Now to decide whether I should stay up for Rusty Lake's tenth-anniversary livestream...

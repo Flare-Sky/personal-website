@@ -6,11 +6,11 @@ categories = ["Sojourner's Diary"]
 tags = ["Chengde"]
 +++
 
-**《About me writing a long passage, then accidentally hitting "paste" after selecting all, causing it to be overwritten》**
+**The One Where I Wrote a Huge Wall of Text, Selected All, Accidentally Hit “Paste,” and Overwrote the Entire Thing**
 
-Ah, I wrote so hard!
+But I worked so hard on that!
 
-Let me think... the beginning was "Another day of not doing proper work, followed by a dog head emoji."
+Let me think... it began with “Another day of doing anything except what I'm supposed to do,” followed by a Doge.
 
 And the end was "Starting today, go to bed early."
 
@@ -20,4 +20,4 @@ How did I connect these two?
 
 Ah, I really can't remember—
 
-WeChat! Please add an undo function for moments! Or, I really should write things in my notes first and then paste them here.
+WeChat! Give Moments an undo button! Or maybe I really should write in Notes first and paste it over afterward.

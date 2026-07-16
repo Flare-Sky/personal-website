@@ -1,19 +1,19 @@
 +++
-title = "Sojourner's Diary-15"
+title = "Sojourner's Diary - 15"
 date = 2024-10-28T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Kuala Lumpur","Stargazing"]
 +++
 
-The night before the exam, I saw stars in the Malaysian night sky for the first time.
+On the night before my exam, I saw stars in the Malaysian sky for the first time.
 
-With an apparent magnitude of about -4, it shone exceptionally brightly against the backdrop of scattered starlight. Referencing the star chart, I recognized it as Venus, representing love and beauty.
+With an apparent magnitude of around −4, it shone brilliantly among the scattered pinpricks around it. I checked my star chart and recognized Venus, the symbol of love and beauty.
 
-It's funny, three years ago when we huddled on the balcony of dormitory 2901 in the middle of the night, what we saw through the telescope was this very morning star. In my memory, it also sparkled just like this.
+Funny: three years ago, when a crowd of us huddled on the balcony of Room 2901 in the middle of the night, this very same morning star was what we found through the telescope. In my memory, it glittered just as brightly then.
 
-Three years is both too long and too short. No matter what, tomorrow will always come.
+Three years: far too long, far too short. Either way, tomorrow always comes.
 
 > "The heavens declare the glory of God; the skies proclaim the work of His hands."
 
-Even though I'm not superstitious about horoscopes or luck, I'm still willing to believe that this bright star, along with the constellations formed by the dimmer points of light around it, is a blessing to me.
+I may not believe in horoscopes, luck, or any of that, but I am still willing to believe that this bright star—and the constellation drawn by those dimmer lights around it—was a blessing meant for me.

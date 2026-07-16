@@ -1,31 +1,31 @@
 +++
-title = "寄居者的日记-103"
+title = "Sojourner's Diary - 103"
 date = 2025-08-02T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["达拉斯"]
+categories = ["Sojourner's Diary"]
+tags = ["Dallas"]
 +++
 
-抵达美国后倒时差理东西买车办卡到处跑，昨天刚刚通网，今天才想起来要写点东西。权且算是完成了开学前所有的准备，接下来的几天相对会轻松一点吧。
+Since arriving in America, I have been recovering from jet lag, sorting everything out, buying a car, opening accounts, and running everywhere. The internet was finally connected yesterday; only today did I remember to write. Preparations before school are more or less complete, so perhaps the next few days will be easier.
 
-我妈应该会在她的朋友圈提到，他们3个刚到美国出海关时就因为SEVIS还是什么的问题（反正是系统抽风）被拉去小黑屋了，我则是问都没问就放过去了。但当时的我可不知道，取完行李后在长椅上等了半天才找到机场Wi-Fi。外面来接我们的弟兄和我一起等了半天，好在最后是顺利出来了。
+Mom will probably mention on her Moments that the other three were taken into the little black room at immigration because of SEVIS or something—some system malfunction, anyway—while I passed through without a single question. I did not know any of that at the time. After collecting my luggage, I sat on a bench forever before finding the airport Wi-Fi. The brother meeting us outside waited with me just as long. Thankfully, everyone emerged safely in the end.
 
-第一天到其实也没太多感觉，美国某些地方和中国还是挺像的：机场格局、左舵驾驶、道路规划等等。真到了住下来了后，才感受到许多“初来乍到”。SI实在太先进了可惜美国日常不用，哎，华氏度英里盎司，颅内换算根本转不过来；美元标出的价格倒还好，乘个7之后就不那么好了；能源浪费这块也是世界领先水平，出门甚至不用关空调，难怪能消耗世界上三成的能源；饮食方面倒是没多难适应，在外快餐多还有无限续杯爽爽喝，家里买来猪排牛肉烤鸡爽爽吃，还好我不用担心长胖的问题嘿嘿。
+The first day did not feel especially different. Some parts of America resemble China: airport layouts, left-hand-drive cars, road planning, and so on. Only after settling in did the many small signs of being newly arrived appear. SI units are so advanced, yet America refuses to use them in daily life. Fahrenheit, miles, ounces—my brain cannot convert fast enough. Prices in dollars look fine until you multiply them by seven. America also leads the world in wasting energy: you do not even turn off the air-conditioning when leaving home. No wonder the country consumes such an enormous share of the world's energy. Food has been easy enough. Outside, there is fast food and glorious unlimited refills; at home, pork chops, beef, and roast chicken. Good thing I do not need to worry about gaining weight, hehe.
 
-我们居住的德州，或者干脆大部分美国的最大特点，就是地广人稀。资源的浪费不仅在能源上体现，还在空间上。住进了弟兄姐妹的独栋，房屋四周的甚至有大片的草坪，小区内还有业主们独享的一整个湖！在湖边走一圈，虽然水质不咋地，但还是很惬意的（等等似乎有个熟悉的圆头延长线……）
+The defining feature of Texas—or most of America—is vast land with few people. Waste appears not only in energy but in space. We moved into a detached house belonging to brothers and sisters, surrounded by broad lawns. The neighborhood even has an entire private lake for residents! Walking around it is pleasant despite the questionable water quality. (Wait, is that a familiar round-headed extension over there...?)
 
-草坪听着挺好，但打理起来是真的麻烦。为了保证给来这看房的潜在业主一个好的第一印象，小区里有一个专门的组织管理区容区貌，他们甚至规定了草的最长长度。因此浇水和除草两件活计就是必不可少的了。虽然我还没尝试过除草，但昨天一整个上午我都在浇水啊。室外快40度的高温，我根本不敢走出房子的阴影；对着草地晃半天水管才覆盖一小片，还得时不时冲掉腿上的小虫子；相比之下，水管漏水这种事已经算可以忽略不计的小插曲了。问题是做完之后没有任何正反馈啊，草不会更绿一点，甚至地都不会更湿一点（除了漏水的那个地方），很难想象邻居们浇水时是怎么坚持下去的。
+Lawns sound wonderful but are genuinely troublesome. To create a good first impression for prospective buyers, the neighborhood has an association dedicated to appearances. It even regulates the maximum height of the grass. Watering and mowing are therefore unavoidable. I have not tried mowing yet, but yesterday I spent the entire morning watering. In nearly forty-degree heat, I did not dare leave the building's shadow. I waved a hose over the lawn forever to cover one tiny patch and periodically sprayed insects off my legs. Compared with that, the leaking hose barely counted as an incident. The worst part was the total lack of positive feedback: the grass did not become greener; even the ground did not look wetter, except where the hose leaked. I cannot imagine how the neighbors keep going.
 
-说到邻居，请允许我花一点时间吹一下我们周边的一位绝世好邻居（反正他也看不懂中文我就自由发挥了）。据之前住过这的Julie老师所说，这位Tony老师“什么都会，什么都有”。也不知道怎么我爸妈和他联系上了，然后他就在我爸妈出门时来帮忙装净水器。他用娴熟的手法装完三通时，我甚至只来得及帮忙递递美工刀等工具。今天他又携全家登门拜访，分享神秘打野点（附近的家具市场）的同时还送来了许多我们需要的物件。说起昨天他帮忙买的三通，他表示那点钱不算什么，一旁的妻子附和“那东西他居然没有”之后补上一句“我们家有各种（能帮到邻居）的东西”。我看了下那些尚未拆封的，如雪中送炭的物件，信了。哎太靠谱了，什么时候我也能这样就好了。
+Speaking of neighbors, allow me to praise one perfect neighbor nearby. (He cannot read Chinese, so I am free to improvise.) According to Julie, who lived here before us, Tony “knows how to do everything and owns everything.” Somehow my parents contacted him, and while they were out he came over to install our water filter. His hands moved so expertly through the three-way fitting that I barely had time to pass him a utility knife and other tools. Today he returned with his whole family, shared a secret farming location—the nearby furniture market—and brought many things we needed. When yesterday's fitting came up, he dismissed the cost as nothing. His wife added, “I can't believe he didn't already own that. Our house has every kind of thing that might help a neighbor.” I looked at the unopened supplies they had delivered exactly when we needed them and believed her. So dependable. When will I become someone like that?
 
-那我在干什么呢？跟着爸妈逛超市拎东西呗。在等银行办理业务的时候跑到附近的橡树底下找到了漂洋过海到美国后到第一个宝，还是个树宝。一打开Geocaching的定位，万千Cache（大部分灰的呜呜）向我涌来。至少平时不会无聊没事干了……不过还是等到天气凉下来再说吧。
+And what was I doing? Following my parents through supermarkets and carrying things. While the bank processed our business, I ran beneath a nearby oak and found my first cache after crossing the ocean to America—a tree hide, naturally. The moment Geocaching opened, thousands of caches surged toward me. (Most were gray and unavailable, noooo.) At least I will never lack something to do... once the weather cools down.
 
-前几天还去了趟老爸将要就读的学校，这一天的聊天内容都够单独写一篇的了。避免本文过长，日后再叙。不过值得一提的是校园环境真的非常好，充满文化氛围的同时不失自然风光。据Julie老师所言，她与丈夫的结婚照就是在校园内拍的。我则是抓住时机，拍了几张DBU的鸟（好怀念我的索尼黑卡啊啊啊，果然还是忘不掉吗）
+A few days ago we visited the school Dad will attend. That day's conversation deserves an entry of its own, so I will save it. The campus is worth mentioning, though: rich in culture without sacrificing natural beauty. Julie said she and her husband took their wedding photos there. I seized the opportunity to photograph a few DBU birds. (I miss my Sony RX100 so much, aaaaaah. Can I truly not let go?)
 
-今天总算是把大大小小的东西全都收拾好了，附上一张书桌照片～我的东西不算多，主要还是要搬到学校去的，但其中值得一提的是我搬家抢救出来的机械键盘、Kindle Voyage和移动硬盘。说实话，几乎每次搬家都能趁乱搞到些爸妈的好东西，上次离开杭州时是一个iPad和Fiil的头戴式（后者还给老妈了，我戴着难受），确实挺爽的（
+Today we finally finished putting every large and small thing away. Attached: desk photo~ I do not own much, and most of it must move to school, but special mention goes to the mechanical keyboard, Kindle Voyage, and portable hard drive rescued during the move. Honestly, almost every move lets me acquire something good from my parents amid the chaos. Leaving Hangzhou last time produced an iPad and a pair of FIIL headphones. (I returned the headphones to Mom; they hurt my head.) Very satisfying (
 
-桌上留的东西不算多，但足够日常学习（你怎么知道我又20/20满分通过入学前的Calculus测试了哈哈）和业余爱好（在这剪完了我的抽象小视频，将来在这打CCBC 16）的需要了。昨天终于装好宽带后补全了断网时期的乐子，顺便产出了一个乐子，欢迎移步b站BV1guhbzZEto还有关注诸葛天曜谢谢喵。
+The desk is not crowded, but it contains enough for daily study—how did you know I scored another 20/20 on the pre-enrollment Calculus test, haha?—and hobbies. I finished editing my absurd little video here and will play CCBC 16 here in the future. Once broadband finally arrived yesterday, I caught up on all the entertainment missed offline and produced some entertainment myself. Please visit Bilibili BV1guhbzZEto and follow Zhuge Tianyao, thank you meow.
 
-时差这个问题还是很必要的，比如我发这篇时可能许多人不一定看得到（聚会去了）还有很多人会疑惑今天不应该是8.3吗。好吧美国这边到底是比中国早一天还是晚一天的问题我跟我弟扯了很久了，总而言之就是有时差，上次说的“时间倒流”也是这个原理——在从斐济到美国的路上跨越了国际日期变更线。我之后还是会大部分时间继续在晚上写点东西，无非看的人的时间变成早上了，追更的自适应一下喽（你这写作频率真能有追的吗，话说这应该叫视奸吧！）
+Time zones matter. When I post this, many people may not see it because they are at the gathering, while many others will wonder whether today should be August 3. My brother and I argued for ages over whether America is one day ahead of or behind China. In summary: time zones exist. The “time travel backward” I mentioned before came from crossing the International Date Line between Fiji and America. I will probably continue writing mostly at night; the reader's time simply changes to morning. Serial readers, please adapt automatically. (Does your update frequency truly support serial readers? Also, isn't that just surveillance?)
 
-那最后，寄居者的日记美国篇，正式启动！欢迎收地球OL看新美服玩家的评测。
+And finally: *Sojourner's Diary — America Arc*, officially launched! Welcome to Earth Online, where a new player reviews the American server.

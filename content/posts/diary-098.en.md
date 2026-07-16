@@ -1,62 +1,71 @@
 +++
-title = "寄居者的日记-98"
+title = "Sojourner's Diary - 98"
 date = 2025-06-22T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["上海"]
+categories = ["Sojourner's Diary"]
+tags = ["Shanghai","Puzzle"]
 +++
 
-回家的脚步是轻快的，一路哼着小曲踩着水坑，似乎上海连绵的大雨丝毫不会浇熄我的热情。
+My steps on the way home were light. I hummed as I splashed through puddles, as if even Shanghai's endless rain could do nothing to extinguish my excitement.
 
-所以我必须为了今天再写点什么。
+So I have to write something more for today.
 
-是的，我最终还是放弃了看那部超前点映的电影，而是与父亲曾经拜访过的弟兄姐妹聚集。早上出门，跟父母通话时瞥见隔壁房有个人背着包出来四下张望，然后手机上就收到q老师“我出来了”的信息。我直接自信走位：早上好，q老师！
+Yes, in the end I gave up the advance screening and gathered instead with the brothers and sisters my father had visited before. As I headed out that morning, talking with my parents on the phone, I noticed someone emerge from the room next door with a backpack and look around. At that exact moment, a message from Q appeared on my phone: “I'm out.” I moved in with complete confidence: Good morning, Q!
 
-我们之间的联系早有描述，但初次线下面基，二人都有些许拘谨（有……有吗）。我直接递出了从谜协招新当天会场拿的纸袋，里面有招新当天的带题海报（TPAPWRAPA“最‘白鸟过河滩’奖”喜加一）、CCBC 1314的徽章和一倾园的最终奖品“谜历”。对于徽章，q老师表示：我本来也想给你买这个的，但点开淘宝店一看，第一条就是你的评价。对于谜历，如果q老师能看到这条，它每天会有相关拼图提示发在同名公众号上。刚拿到的早期我也热衷于自己从零拼出每天的日期，后期就逐渐退化为开公众号找easy难度然后抄答案了，果然我的本质是懒狗哈哈。
-那么！q老师的礼物是……等等，他拿出了一堆纸，是CCBC 16的海报吗？不对有点像思维导图（督促学习吗有点意思）？怎么是`STOCK-PILE`（TMMT 2025某题）？！
+I have described our connection before, but meeting offline for the first time left both of us slightly reserved. (Did... did it?) I immediately handed him the paper bag I had picked up at the Puzzle Association recruitment fair. Inside were a puzzle poster from the event—another TPAPWRAPA “Best ‘White Bird Crossing the Riverbank’ Award” for the collection—a CCBC 1314 pin, and the final prize from Yiqingyuan, the “Puzzle Calendar.” Q's reaction to the pin: “I was going to buy this for you, but when I opened the Taobao store, the very first thing I saw was your review.” As for the calendar, if Q happens to read this: the official account of the same name posts hints for each day's puzzle. When I first received it, I enthusiastically assembled each date from scratch. Later, I gradually degenerated into opening the account, finding the easy solution, and copying the answer. My true nature is that of a lazy dog after all, haha.
 
-> Q：我思来想去打印别的题（cw之类的）都没什么代表性，Reactor又是随机谜题，所以最后还是选了这道
+And Q's gift was... wait. He pulled out a stack of paper. Was that a CCBC 16 poster? No, it looked more like a mind map. (A reminder to study? Interesting.) Why was it `STOCK-PILE`, a puzzle from TMMT 2025?!
 
-> 我：完了这我当时看懂规则就撤去打RPG（另一道题）了，有点得（到这个）不配位的感觉
+> Q: I thought it over. Printing another puzzle, like a crossword, would not have meant much. *Reactor* is randomized, so in the end I chose this one.
 
-除此之外，还有他早就晒在群里的P&KU周边徽章！是金发少女和观测者的款式（还能凑个CP真是太好了我吃吃吃）。以及一款《芙莉莲》的盲抽镭射（？）票，这下不得不赶紧看原番了。
+> Me: Oh no. Back then I understood the rules and immediately left to work on *RPG*, another puzzle. I feel rather unworthy of this gift.
 
-以吃早餐为由我们边走边聊，说着什么Pzuzle什么Hunt的，气氛融洽。约好中午一起吃饭后，我们在麦当劳门口（记住这个M）分开。放弃了麦咖啡的我急匆匆赶向地铁站——这个主日还有人等着我呢。
+There was more: the P&KU merchandise pin he had shown off in the group ages ago! It featured the blonde girl and the Observer. (They even make a matching pair. Excellent. I consume.) And there was a blind-draw holographic (?) ticket from *Frieren*. Now I had no choice but to hurry up and watch the anime.
 
-RC姐特别热心，一大早跑来地铁口接我，还带我买了杯瑞幸（麦当劳：所以爱会消失对吗）支撑起了这忙碌的一天。今天的笔记被记在了《无聊的笔记4》上，作为写在上面的倒数第二篇文字。聚会结束，我受到了大家的欢迎并且分享了那我已经讲过许多遍的，自己的故事。但每一次讲都会让我有完全不同的感受，这次也是如此。
+Using breakfast as our excuse, we walked and talked about Puzzle this and Hunt that, and the atmosphere quickly relaxed. We agreed to meet again for lunch, then parted outside McDonald's—remember that M. Having abandoned McCafé, I hurried toward the metro. There were people waiting for me on this Sunday.
 
-小组讨论结束后，我惊喜地得知RC姐愿意送我去老师他们吃饭的地方。这里再次感谢她！（虽然她大概率看不见）路上聊起昨天的事，在愧疚之余也感恩身边有这么多好人愿意分担我粗心的后果——而我自己呢，往往事到临头才想着处理，所以才一直自嘲为ddl战士。听罢，她劝诫我应该开始做计划，也只有这样才能真正做好我想做的事。不过，这样的改变不会是一蹴而就的吧。
+Sister RC was extraordinarily kind. She came all the way to the metro station early in the morning to meet me and bought me a Luckin coffee—McDonald's: so love really does disappear—to sustain me through this crowded day. Today's notes went into *Boring Notes 4*, becoming the second-to-last piece of writing that notebook will hold. When the gathering ended, everyone welcomed me, and I once again shared the story I have told so many times. Yet every telling leaves me with a completely different feeling. This one did too.
 
-总之，在告别RC姐之后，怀着对“湘菜”的称呼忐忑不安的心情（我不能吃辣呜呜呜），我走进了餐馆。餐桌前已经坐了3个人，我惊讶“啊q老师不是说过只有他一个人来吗”，交流后才得知一位是昨天观影会上认识的同好，来自江西的K&T老师（缩写了一下他QQ名称，应该可以这么称呼吧），另一位则用上了我不得不放弃的那张票。我对于那个座位没有空着感到安慰，也对能认识更多新朋友而兴奋。
+After the group discussion, I was delighted to learn that Sister RC was willing to drive me to the restaurant where Q and the others were eating. Thank you again! (Though she probably will never see this.) On the way, we talked about what had happened yesterday. Amid the guilt, I was also grateful that so many good people around me were willing to share the consequences of my carelessness. I, meanwhile, wait until disaster is directly in front of me before attempting to handle it—which is why I forever call myself a deadline warrior. After listening, she advised me to begin making plans. Only then, she said, could I truly do the things I wanted to do well. A change like that will not happen overnight, though.
 
-入座后，圈哥（他QQ头像就是个⭕啊）递给我一个袋子，里面是今天观影会的物料。他说，希望这能弥补我的遗憾。
+In any case, after saying goodbye to Sister RC, I entered the restaurant with considerable anxiety over the words “Hunan cuisine.” (I cannot eat spicy food, noooo.) Three people were already seated. I was surprised: “Didn't Q say he was coming alone?” Conversation revealed that one was K&T, a fellow fan from Jiangxi whom I had met at yesterday's screening. (I shortened his QQ name. Hopefully I am allowed to call him that.) The other had used the movie ticket I had been forced to give up. I was comforted that the seat had not gone empty, and excited to meet more new people.
 
-我们一边吃一边聊着各种话题，比如关于番剧的：对Mujica的评价（终于找到一个和我一样喜欢11集的处理而不是玩“sakisakisaki+爬行”的梗的了，泪目）、上午《龙女仆》的电影（就我一个人没看过被疯狂安利）；关于个人情况的（这个基本是我和圈哥在聊，并到后文介绍）；关于PH的，圈哥问起有没有题能代表高难度，q老师当场祭出之前ARG群解谜活动用过的“Six Wives”（那一天，诸葛天曜回想起了被cryptic支配的恐惧）当然，还有关于下午安排的。我了解到，下午其实还有一个主创见面会，只有q老师一个人抢到了票，但他决定让出这个名额给“更需要的人”：圈哥和他未到场的朋友准备了对联等礼物但没能在观影时送出。我转头看了看塑料袋里的物料，打心底里觉得，能遇到这些人真好啊。
+After I sat down, Circle Bro—his QQ avatar is literally a ⭕—handed me a bag containing materials from today's screening. He said he hoped they might make up for what I had missed.
 
-结完账（AA是好文明），我们打车前往鸢尾书店参加见面会。一路堵车，但好在没有迟到。圈哥检票进场，而我们仨则在外边看行李，偶尔跑到屏风边上偷窥内部情况（当然是什么都看不清）。也是在那段时间，我给q老师分享了之前北京一顷园活动的谜题（还有一道题我至今没解出来，真的不菜啊），然后发现GMHS要收场了。
+As we ate, the conversation wandered everywhere. Anime: opinions on *Mujica*. At last, someone else who liked how episode 11 was handled instead of repeating the “sakisakisaki + crawling” meme. I could cry. The *Dragon Maid* movie that morning: I was the only one who had not seen it and was recommended it from every direction. Personal circumstances: mostly a conversation between Circle Bro and me, to be continued later. Puzzle hunts: when Circle Bro asked what puzzle best represented high difficulty, Q immediately brought out “Six Wives,” previously used in an ARG group event. (On that day, Zhuge Tianyao remembered the terror of being ruled by cryptics.) And, of course, the afternoon plans.
 
-我一看，地铁过去堪堪来得及，此时心中的赶ddl之魂熊熊燃烧起来，决定……和客服联系看看能不能退票。说来挺搞笑的，本身我来上海的主要目的就是参加这次的模型展，顺便看看能不能抢到个场限。在得知有同学也来之后就想着去展会上见一面。结果现在反而有点“本末倒置”了哈哈。但我当时的第一反应真的就是退票而非赶过去，因为我觉得这样的时光真的太宝贵了，能和一天前素未谋面的人如此融洽，能和从来没聊过天的人侃侃而谈。嗯，然后客服说不能退。
+I learned that there would be a creator meet-and-greet that afternoon. Only Q had managed to get a ticket, but he had decided to give his place to “someone who needed it more.” Circle Bro and his absent friend had prepared couplets and other gifts but had been unable to present them during the screening. I looked at the materials in the plastic bag beside me and thought, from the bottom of my heart, how wonderful it was to meet people like these.
 
-……那我钱都花了，还是得去吧。功利主义的心态最终战胜了感动（并非）。我拿出快没电的手机，给会场里的圈哥发了一条信息：“加油，不要留下遗憾/比心”，然后准备和q老师道别（他下午就要赶回去了）。
+After settling the bill—splitting the check is civilization—we took a taxi to Iris Bookstore for the meet-and-greet. Traffic crawled, but thankfully we were not late. Circle Bro showed his ticket and entered, while the three of us remained outside guarding the luggage and occasionally crept toward the folding screen to spy on the room. (Naturally, we could see nothing.) During that time, I showed Q some puzzles from the earlier Yiqingyuan event in Beijing. There is still one I have never solved, and it genuinely is not because I am bad. Then I noticed that GMHS was about to close.
 
-> Q：那么，临走之前整个活吧。
+I checked the route. The metro would get me there with barely a second to spare. My deadline-warrior soul burst into flame, and I decided... to ask customer service whether I could refund the ticket.
 
->我：你真要搞那个啊？
+It was rather funny. The main reason I came to Shanghai in the first place was this model exhibition, with the side goal of acquiring some event-exclusive item. Once I learned that a classmate would attend too, I imagined meeting at the show. Yet now the priorities seemed completely reversed, haha. My honest first instinct was to refund the ticket rather than rush over. This time felt too precious: getting along so naturally with people who had been complete strangers one day earlier, talking freely with someone I had never spoken to before. Mm. And then customer service said no refunds.
 
-之前在聊天时我们打趣这次终于能实现TMMT 2025里卡我们超久的`The Transmission`的提交。它要求用各种方式“说出”外星人的语言，并且给出了肢体语言的例子。看着漫画上抽象的动作，我表示：要做吗？就这里？
+...Well, I had already spent the money. I had to go. A utilitarian mindset triumphed over human feeling in the end. (Not really.) I took out my nearly dead phone and sent Circle Bro a message inside the venue: “Good luck. Leave no regrets. /heart” Then I prepared to say goodbye to Q, who had to leave Shanghai that afternoon.
 
-嗯，如你能在图片里看见的，俩大老爷们在书店里表演了行为艺术，这就是我们热血沸腾的组合技啊啊啊（觉得尴尬的话就发出很大的声音掩盖过去罢）。但可以确定的是，这绝对属于一段难忘的回忆了。
+> Q: Before we part, let's do something ridiculous.
 
-于是我冒雨骑着共享单车冲锋，终于压线赶到了GMHS会场。人群基本上都已经散去，那些品牌方也都开始收摊了。靠着仅剩的电量我尽可能地拍了些照片，然后挨家挨户去问：还有什么买的吗？答案基本都是：你来晚了。
+> Me: You really want to do *that*?
 
-我的场限呜呜呜……算了换个色加100块钱本来就不值，哼。
+Earlier, we had joked that meeting in person would finally let us perform the submission for `The Transmission`, a TMMT 2025 puzzle that had held us up forever. It required teams to “speak” an alien language in various ways and included an example using body language. Looking at the abstract poses in the comic, I had asked: “We're doing this? Right here?”
 
-但还是成功收割了很多无料！其中和模线那边还有两个手机支架盲抽卖，见我可怜（且微信没钱，都用来买电影票了）大发慈悲全送我了。哇这个兴奋劲蹭的一下就上来了，感觉身上的雨水瞬间蒸发掉了不少。最后，在品牌报菜名的全家桶海报前和路人做了“拍照交易”（您好需要我帮忙拍照吗？哈哈我其实也想拜托你们帮忙拍一下），留下了“到此一游”的凭据。
+And so, as the photo may show, two grown men performed contemporary art in the middle of a bookstore. This was our hot-blooded combination attack, aaaaaah! (If something feels embarrassing, make enough noise to drown the embarrassment out.) One thing is certain: it became an unforgettable memory.
 
-回家洗个热水澡！
+Then I charged through the rain on a shared bicycle and crossed into GMHS at the final possible moment. Most of the crowd had already gone, and the brands were packing their booths away. With the last of my battery, I took as many photos as possible, then went door to door asking, “Is there anything left to buy?” The answer was almost always: “You came too late.”
 
-Q老师和K&T老师下午就坐上火车回家了，故晚上就只有圈哥和我一起团建。为了感谢我把名额让给他（实际上不管怎么样我都去不了啊），他表示晚上请我看《南方车站的聚会》这部电影。就像圈哥说的那样，整部电影其实就是在渲染二十年前一个三线小城市的一次黑吃黑，我则惊叹观众的情绪几乎和主角完全同频，会被每一次的杯弓蛇影吓到。走出电影院之前，我看着他将印好的无料一个个发给看同一部电影的人们，惊叹于他的勇气。事后聊起时，我问他勇气从何而来，他表示：你在球场射门时，会关注场下观众说的话吗？这就是热爱吧。
+My event exclusives, noooo... Whatever. Paying an extra hundred yuan for a different color was never worth it anyway. Hmph.
 
-晚上我们投奔了麦门，长谈许久。得知我要去美国留学，他作为一个独立在美国求学的过来人给了我许多宝贵的建议和个人经验。具体的对话内容可能涉及个人隐私，就不发出来了。在分别时，我们说着：下次一定要再见啊。
+I still harvested a large quantity of freebies! One booth even had two blind-box phone stands for sale. Taking pity on me—and on the fact that my WeChat balance was empty because it had all gone toward movie tickets—they mercifully gave me both. My excitement shot through the roof; it felt as though half the rainwater on me evaporated instantly. Finally, in front of an enormous poster listing the entire product lineup, I completed a “photo transaction” with some strangers. “Hello, would you like me to take a picture for you? Haha, actually, could you take one for me too?” Proof that I had been there.
 
-事后和q老师交流这一天的感受，真的感觉就和梦一样。虽然我毫无计划，却恰好造就了这一天相逢的奇迹。下次一定要再见啊，大家。
+Home for a hot shower!
+
+Q and K&T took trains home that afternoon, so only Circle Bro and I remained for the evening team-building. To thank me for giving him the meet-and-greet ticket—even though I could not have used it under any circumstances—he offered to take me to *The Wild Goose Lake*. As Circle Bro put it, the entire film is essentially one underworld faction devouring another in a third-tier city twenty years ago. I was struck by how perfectly the audience's emotions synchronized with the protagonist's; every shadow and imagined threat made us jump.
+
+Before leaving the cinema, I watched him hand his printed freebies one by one to people who had seen the same film and marveled at his courage. When we discussed it later, I asked where that courage came from. He answered: “When you take a shot on the field, do you listen to what the spectators are saying?” That must be what love for something looks like.
+
+That night we sought refuge beneath the Golden Arches and talked for a long time. When he learned that I was going to study in the United States, he offered a wealth of valuable advice and personal experience as someone who had studied there independently. The details may touch on private matters, so I will not post them. When we finally parted, we said: we absolutely have to meet again.
+
+Afterward, I talked with Q about the day. It truly felt like a dream. I had made no plans whatsoever, yet somehow that very lack of planning produced the miracle of all these encounters.
+
+We absolutely have to meet again, everyone.

@@ -1,40 +1,39 @@
 +++
-title = "寄居者的日记-91"
+title = "Sojourner's Diary - 91"
 date = 2025-04-29T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Sport"]
 +++
 
-今天太特种兵了，3小时爬完居庸关长城下午又去了八达岭北长城。不过就应该趁着还是学生的时候多出去跑跑——毕竟相当于花一张成人票的钱逛了两座长城啊！
+Today was tourism on special-forces difficulty: I finished the Great Wall at Juyong Pass in three hours, then went to the northern section at Badaling that afternoon. But this is exactly the time to run around while I am still a student. After all, I visited two sections of the Great Wall for the price of one adult ticket!
 
-累了早睡了，就简单记录一下今日行程开销，由于买的都是学生票，差不多都是半价，仅供参考（行程也是吧喂，毕竟真有人也会这样爬长城吗喂！）
+I'm exhausted and going to bed early, so here is a quick record of the route and expenses. Almost everything was half-price with a student ticket, for reference only. (The route too, probably. Does anyone else actually climb the Great Wall like this?!)
 
-提前约了居庸关长城门票，学生票20（事实证明到地方约也完全来得及）
+Reserved Juyong Pass in advance: ¥20 for a student ticket. (As it turned out, booking after arrival would have been perfectly fine.)
 
-上午6:30黄土店站开门（我是骑车过去的），7:05市郊铁路S2线发车
-南口站下车，票价3元（因为这个月地铁消费满150所以半价被刷出来了，我怎么这么能跑），搭乘昌20路去居庸关村站下车，票价1元，而且时间刚好卡在8:30居庸关开门。
+Huangtudian Station opened at 6:30 a.m. (I cycled there), and the suburban S2 train departed at 7:05. I got off at Nankou; fare: ¥3. (My transit spending passed ¥150 this month and unlocked half price. How do I travel this much?) Then bus Chang 20 to Juyongguan Village for ¥1, arriving precisely when the pass opened at 8:30.
 
-从西坡爬到最高十二号敌楼用时半小时，下山走慢点保护膝盖，顺带着欣赏欣赏风景。
+It took half an hour to climb the western slope to Watchtower 12, its highest point. I descended slowly to protect my knees and admire the scenery along the way.
 
-绕过北关城楼，开始爬不那么陡的东坡。路上顺便寻了几个宝，但还是在1小时之内登顶，然后再用半小时下山。
+After circling the North Gate tower, I began the gentler eastern slope. Even with several caches along the way, I reached the top within an hour and came down in another half hour.
 
-去居庸关博物馆露天的座位吃个中饭。我选了个夹在厕所、垃圾桶和小卖部之间的位置，优点是方便，缺点是路人多。
+I ate lunch at the outdoor seating by the Juyong Pass Museum. My chosen spot sat between the restroom, trash cans, and convenience kiosk. Advantage: convenient. Disadvantage: every passerby in existence.
 
-一顿瞎走，最后问路去云台逛了逛，顺便解了个EarthCache（需要做一些地理知识题，DS助我！）
+After wandering blindly for a while, I asked directions and visited the Cloud Platform, solving an EarthCache along the way. (It required geology questions. DS, lend me your strength!)
 
-一看时间，才13:30。故从1号停车场搭乘919路去八达岭森林公园，票价1元（我甚至发了条朋友圈）。长城门票路上买，学生票20。
+I checked the time: only 13:30. So from Parking Lot 1, I took bus 919 to Badaling Forest Park for ¥1. (I was impressed enough to post a Moment.) Bought the Great Wall ticket on the way: ¥20 for students.
 
-在14:00出发，从北一楼到最高点北八楼花费30分钟，一路上各种超车。继续往前，在陡峭路面慢行，15:00爬到北十二楼。
+Set out at 14:00 and climbed from North Tower 1 to the highest point, North Tower 8, in thirty minutes, overtaking people all the way. I continued carefully over the steeper ground and reached North Tower 12 at 15:00.
 
-稍作休息，15:30返回到北十一楼下长城，然后在16:00绕回北长城起点。
+After a short rest, I returned to North Tower 11 at 15:30, left the wall there, and looped back to the starting point at 16:00.
 
-本来以为需要爬完北长城然后原路返回可能需要4小时，所以计划搭18:40的S2线；结果抄了近道，所以去坐16:40的那班了。
+I had expected the northern section plus a return along the same route to take four hours and planned for the 18:40 S2. The shortcut meant I caught the 16:40 instead.
 
-在车上晕过去补觉，大概18:00就回到黄土店站了，花费3.5。
+I passed out on the train and recovered some sleep. Back at Huangtudian around 18:00; fare: ¥3.50.
 
-总共算下来。门票+路费总共是`(20*2)+3+1+1+3.5=48.5`元，除此之外还因为水没带够在八达岭入口处含泪消费2大洋。除此之外纪念品一个没买，食物一个没买，主打的就是“我是个穷鬼”。
+Final total for tickets and transportation: `(20*2)+3+1+1+3.5=48.5` yuan. I also tearfully spent ¥2 at the Badaling entrance because I had not brought enough water. No souvenirs. No food purchased. The theme was: “I am broke.”
 
-哇写篇总结半小时就过去了，都够我登顶的了（
+Wow, this summary took half an hour—enough time for me to reach the summit (
 
-（哦对了，你怎么知道我在步数榜卫冕成功）
+(Oh, right. How did you know I successfully defended first place on the step leaderboard?)

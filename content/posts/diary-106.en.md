@@ -1,33 +1,33 @@
 +++
-title = "寄居者的日记-106"
+title = "Sojourner's Diary - 106"
 date = 2025-08-19T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-来到了LeTourneau，见到了新室友。过去几天忙前忙后，终于万事收
+I have arrived at LeTourneau and met my new roommate. After several frantic days, everything is finally settl—
 
-然后明天就要开始上课了啊啊啊！
+AND CLASSES START TOMORROW AAAAAAH!
 
-算了，抛开要写的Letu个人经验之谈，今天咱说点有意思的。
+Never mind. I will save my personal LETU survival guide for later. Let us talk about something fun today.
 
-在第一天见面时，他掏出的台灯和三合一无线充已经让我见识到了他的实力。当今天他拿出网线连上以太网让网速从80跑到800时，我也没之前那么惊讶了。然后……
+On the first day we met, he established his power level by producing a desk lamp and a three-in-one wireless charger. So when he pulled out an Ethernet cable today and boosted our internet speed from 80 to 800, I was no longer quite as surprised. And then...
 
-> 我（收拾桌子ing）：你有没有那种，就是那种可以理线的东西？
+> Me (organizing my desk): Do you have one of those... you know, those things for managing cables?
+>
+> Him: Sure. (Produces a brand-new set.) Just do not take all of them; I may still need some.
+>
+> Me: Did you scavenge these?
+>
+> Him: Yep.
+>
+> Me (still organizing my desk): Do you have one of those... you know, those things you can hang headphones on?
+>
+> Him: Which one do you want? (Produces an entire pile.)
 
-> 他：有啊（取出全新一套），你别拿完我可能还要用
+This man is *reliable*.
 
-> 我：这是你捡的？
+The training method behind this real-life Doraemon is simple: scavenging. In plain English, dumpster diving. I never expected to make up here for the experience I missed with Grandpa in Chengde. But honestly, there is good stuff to be found beside the international-student dorms. Even tonight, with everyone moving in on the eve of classes, I managed to find three IKEA organizers in 99-percent-new condition. Bring them back, give them a wash, and they are ready to go.
 
-> 他：对啊
-
-> 我（继续收拾桌子ing）：你有没有那种，就是那种可以放耳机的东西？
-
-> 他：你要哪个？（拿出一堆）
-
-这实在太可靠了！
-
-这位“真·哆啦A梦”炼成的方式很简单：拾荒。大白话就是翻垃圾桶。真没想到在承德没能和爷爷一起体验的在这边补上了。但你还真别说，国际学生宿舍旁边真能搞到许多好东西。就今晚这种开学前夕大家纷纷搬入宿舍的当口，我还能翻到三个99新的宜家（IKEA）收纳盒。拿回宿舍一洗又能用。
-
-《我的满级室友》，堂堂连载！
+*My Max-Level Roommate*: now officially an ongoing series!

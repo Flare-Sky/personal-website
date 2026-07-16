@@ -1,31 +1,32 @@
 +++
-title = "寄居者的日记-72"
+title = "Sojourner's Diary - 72"
 date = 2025-03-29T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Puzzle"]
 +++
 
 | | |
 |---|---|
-|0:00-7:00|睡觉，起床，洗漱，喝咖啡|
-|7:00-8:00|打Hunt（启动！）|
-|8:00-9:00|打Hunt|
-|9:00-10:00|打Hunt|
-|10:00-11:00|打Hunt|
-|11:00-12:00|打Hunt，吃午饭|
-|12:00-13:00|吃午饭，看空我|
-|13:00-14:00|打Hunt，给大卫买蛋糕|
+|0:00-7:00|Sleeping, getting up, washing up, drinking coffee|
+|7:00-8:00|Puzzle hunt (launch!)|
+|8:00-9:00|Puzzle hunt|
+|9:00-10:00|Puzzle hunt|
+|10:00-11:00|Puzzle hunt|
+|11:00-12:00|Puzzle hunt, eating lunch|
+|12:00-13:00|Eating lunch, watching *Kuuga*|
+|13:00-14:00|Puzzle hunt, buying a cake for David|
 |14:00-15:00|Art History|
 |15:00-16:00|Art History|
-|16:00-17:00|Art History，打Hunt|
-|17:00-18:00|Art History，表演魔术（然后意外就发生了），分蛋糕|
-|18:00-19:00|出门买鸡，回家，吃晚饭|
-|19:00-20:00|吃晚饭，打Hunt|
-|20:00-21:00|打Hunt|
-|21:00-22:00|打Hunt|
-|22:00-23:00|解纪谜，打Hunt，洗漱|
-|23:00-24:00|打Hunt（怎么是cryptic啊！），看空我|
+|16:00-17:00|Art History, puzzle hunt|
+|17:00-18:00|Art History, performing magic (and then the accident happened), sharing the cake|
+|18:00-19:00|Going out to buy chicken, returning home, eating dinner|
+|19:00-20:00|Eating dinner, puzzle hunt|
+|20:00-21:00|Puzzle hunt|
+|21:00-22:00|Puzzle hunt|
+|22:00-23:00|Solving Ji's puzzles, puzzle hunt, washing up|
+|23:00-24:00|Puzzle hunt (why is it cryptic?!), watching *Kuuga*|
 
-魔术是有意思，但当你表演的时候出现意外就没有意思了（悲）
-今日Hunt进度10/50，同志仍需努力
+Magic is fun. Magic going wrong while *you* are performing it is not fun (sad).
+
+Today's hunt progress: 10/50. The comrade must continue striving.

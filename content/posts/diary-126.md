@@ -3,7 +3,7 @@ title = "寄居者的日记-126"
 date = 2026-01-15T12:00:00-05:00
 draft = false
 categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+tags = ["朗维尤","学习"]
 +++
 
 因为想不到明天截止的，English Composition II第一篇文章的主题，我开始翻看起电脑上自己曾经写的作文。

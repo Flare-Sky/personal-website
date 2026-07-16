@@ -6,7 +6,7 @@ categories = ["Sojourner's Diary"]
 tags = ["Hangzhou"]
 +++
 
-My procrastinating nature ultimately made me miss the chance to finish the 24th entry in 2024. Fortunately, the 25th entry will definitely be posted in 2025.
+My pigeon-like instinct to procrastinate ultimately cost me the chance to finish entry 24 in 2024. At least number 25 is guaranteed to come out in 2025.
 
 Regarding yesterday's (hard-earned) rambling account, some people might find it suddenly unfamiliar. To this, I can only say that my mom is the same (scribble) and a year ago, I wouldn't have understood any of this either. Most of what I wrote are the changes and insights of the year, and the former Tianyao remains unchanged! Thanks for understanding.
 
@@ -30,6 +30,6 @@ Thinking about it, I actually missed some content yesterday—New Year's Resolut
 
 That's it for now. Afterwards, at the end of each diary entry, I will add: "May the words of my mouth and the meditation of my heart be acceptable in Your sight."
 
-Welcome! To! 2025!
+BRING! ON! 2025!
 
 *PS: Catching the tail end of January 1st to wish Zhaobai a happy birthday! Thanks to him for taking me karting and watching a Conan movie; also thanks to everyone who gave me gifts in advance*

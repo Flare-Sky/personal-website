@@ -1,29 +1,28 @@
 +++
-title = "寄居者的日记-73"
+title = "Sojourner's Diary - 73"
 date = 2025-03-30T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
 | | |
 |---|---|
-|0:00-8:00|打Hunt，睡觉|
-|8:00-9:00|起床，洗漱，泡咖啡|
-|9:00-10:00|开会|
-|10:00-11:00|开会，小组讨论|
-|11:00-12:00|小组讨论，送糖|
-|12:00-13:00|回家烤肉，打Hunt|
-|13:00-14:00|吃午饭，打会MC|
-|14:00-15:00|打会MC|
-|15:00-16:00|打会MC|
-|16:00-17:00|打会MC|
-|17:00-18:00|打会MC|
-|18:00-19:00|打会MC|
-|19:00-20:00|打会MC，吃剩下的午饭|
-|20:00-21:00|去星巴克，看加布，取快递，回家|
-|21:00-22:00|打Hunt，准备寄快递|
-|22:00-23:00|解纪谜，打会MC|
-|23:00-24:00|洗漱，看视频|
-
+|0:00-8:00|Puzzle hunt, sleeping|
+|8:00-9:00|Getting up, washing up, making coffee|
+|9:00-10:00|Meeting|
+|10:00-11:00|Meeting, group discussion|
+|11:00-12:00|Group discussion, handing out candy|
+|12:00-13:00|Going home to roast meat, puzzle hunt|
+|13:00-14:00|Eating lunch, playing a little MC|
+|14:00-15:00|Playing a little MC|
+|15:00-16:00|Playing a little MC|
+|16:00-17:00|Playing a little MC|
+|17:00-18:00|Playing a little MC|
+|18:00-19:00|Playing a little MC|
+|19:00-20:00|Playing a little MC, finishing lunch leftovers|
+|20:00-21:00|Going to Starbucks, watching *Gavv*, picking up a package, going home|
+|21:00-22:00|Puzzle hunt, preparing a package to mail|
+|22:00-23:00|Solving Ji's puzzles, playing a little MC|
+|23:00-24:00|Washing up, watching videos|
 

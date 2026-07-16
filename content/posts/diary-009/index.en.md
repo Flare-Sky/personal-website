@@ -1,25 +1,25 @@
 +++
-title = "Sojourner's Diary-9"
+title = "Sojourner's Diary - 9"
 date = 2023-12-13T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Chengde"]
 +++
 
-Although I have relatives from the North, I am a Southerner to my core; and being a Southerner means—having an obsession with snow.
+I may have relatives in the north, but I am a southerner to the bone—and to be a southerner is to be obsessed with snow.
 
-So, when I saw it snowing outside, my heart leaped with an innate excitement.
+So when I saw snow falling outside, the excitement felt almost instinctive.
 
-Regardless, I still had to bundle up in layers upon layers before heading out. Grandma, considering that my brother and I would basically be having "intimate contact" with the snow, specially put a pair of disposable gloves over our regular gloves—this later proved to be a brilliant move.
+Excited or not, going outside still meant wrapping myself in layer after layer. Grandma knew that my brother and I were basically planning to get *very* intimate with the snow, so she added disposable gloves over our regular ones—a stroke of genius, as it turned out.
 
-Snow in the North is different from snow in Hangzhou. Just as winter in Hangzhou is damp and cold, Hangzhou's "snow" is essentially ice: this is reflected in how easy it is to pack into snowballs. Under the dry cold of the North, packing a snowball is not as easy. In other words, Northern snow feels more like a gas than a solid.
+Snow in the north is nothing like snow in Hangzhou. Hangzhou winters are cold and damp, and Hangzhou “snow” is basically ice—a fact best demonstrated by how easily it packs into snowballs. In the dry cold of the north, making one is much harder. Put differently, northern snow feels more like a gas than a solid.
 
-So when I painstakingly gathered enough to make a large snowball, I couldn't bring myself to throw it at anyone. Instead, I just found some twigs and made a little snowman right there. After that, what else is there to do on a snowy day?
+So after painstakingly gathering enough for one enormous snowball, I couldn't bear to waste it by throwing it at someone. I found a few twigs instead and built a tiny snowman on the spot. And after that, what else is there to do on a snowy day?
 
-Ice skating! Well, we didn't have ice skates. But that didn't stop us from walking onto the ice. The river had long since frozen over and was covered with a thick white carpet, with the faint footprints of those who came before. Stepping into this sea of white, my heart seemed to find peace.
+Ice-skating! Alright, we did not actually have skates. That did not stop us from walking out onto the ice. The river had long since frozen and now lay beneath a thick white carpet, faintly marked by the footprints of those who came before us. As I stepped into that sea of white, something in me grew still.
 
-What a world this is! Snowflakes fall slowly, weaving a grand melody in the sky. Gathering a handful of snow in this whiteness and tossing it into the air, I was instantly covered in white. Immersed in it, I personally experienced the power of the Creator; this is the world's greatest artistic masterpiece.
+What a world it was! Snowflakes drifted down, weaving a magnificent melody through the sky. I scooped up a handful from all that whiteness and flung it overhead; in an instant, I too seemed to turn white. Standing in the middle of it all, I felt the Creator's power firsthand. This was the greatest work of art in the world.
 
-Amidst the wonder, I casually shaped a simple geometric form out of the snow. My honest thought was: hurry up and take a picture to show off, and take the opportunity to gloat a bit in front of my Southern friends. Classic me.
+Once I had finished marveling, I casually molded the snow into a simple geometric solid. My true inner thought: quick, take a photo so I can show off—and properly rub it in for my southern friends while I'm at it. That's me, alright.
 
 ![Star Tetrahedron](9-0.webp)

@@ -28,4 +28,4 @@ tags = ["Beijing"]
 |22:00-23:00|Watching videos, writing diaries|
 |23:00-24:00|Watching videos, lights out, sleeping|
 
-The Military Museum is fun! Industrial Bank is terrible! Yuetan is beautiful! Finding paintings is so hard!
+Military Museum fun! Industrial Bank awful! Yuetan beautiful! Identifying paintings impossible!

@@ -1,21 +1,21 @@
 +++
-title = "Sojourner's Diary-83"
+title = "Sojourner's Diary - 83"
 date = 2025-04-09T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Beijing","Geocaching"]
+tags = ["Beijing","Geocaching","Puzzle"]
 +++
 
-今天没啥说的，补记一下昨天的植物园之行吧：
+Nothing much to say about today, so let me fill in yesterday's trip to the botanical garden.
 
-为了踏青，我们随朋友来到了北京植物园。
+We followed a friend to the Beijing Botanical Garden for a spring outing.
 
-北京的春天，短暂而绚烂。当然除了美丽的花之外，你还能看到漫天的柳絮。当你将这“铺天盖地”的白幻视成雪，也会不由得感叹谢道韫的描述是何等贴切。
+Spring in Beijing is brief and brilliant. Besides the beautiful flowers, of course, there is willow fluff filling the sky. Once you let yourself mistake that all-enveloping white for snow, you cannot help marveling at how perfectly Xie Daoyun described it.
 
-随便走走，惊讶地发现了一个熟悉的人名——曹雪芹。植物园里居然有一个曹雪芹故居你敢信？反正我是没想到。虽然没看过红楼，但多少耳濡目染其中的情节与人物，便没来由的有了一种亲切感。
+Wandering without any particular aim, I was surprised by a familiar name: Cao Xueqin. Would you believe the botanical garden contains one of his former residences? I certainly did not expect it. I have never read *Dream of the Red Chamber*, but its characters and stories have seeped into the culture around me for so long that the place felt familiar for no reason at all.
 
-当然，出门必然少不了找宝环节，只是这次在植物园里的宝藏着实有些特殊：地图上居然都是蓝色的问号，代表着每一个坐标都需要通过解题得到。好在题目仅仅是简单的数独，要是再给我来个杨辉三角我就炸了（详见Puzzler's Day的wu……哦我还没写啊）。
+Naturally, no outing would be complete without geocaching. The caches in the garden were unusual, though: the map showed nothing but blue question marks, meaning every set of coordinates had to be earned by solving a puzzle. Fortunately, they were only simple sudokus. Give me another Pascal's triangle and I will explode. (See my Puzzler's Day write-up for details... oh, right, I still haven't written it.)
 
-最终也是在科技的帮助下（在线求解器了解一下）成功找到了三个坐标以及对应的两个Cache，没错一个找不到了。最后由于下午还有事，遗憾离场。
+With a little help from technology—online solver, anyone?—I obtained three coordinates and found two corresponding caches. Yes, one defeated me. With somewhere else to be that afternoon, I had to leave in regret.
 
-然后就把手机落在朋友车上了。
+And then I left my phone in my friend's car.

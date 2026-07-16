@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-80"
+title = "Sojourner's Diary - 80"
 date = 2025-04-06T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Study"]
 +++
 
-转眼间记录自己每天的时间安排也满打满算两周了。对于这段时间，我是非常惭愧的，甚至没有去分享的勇气——因为我的时间管理实在是一塌糊涂！除了每天大段的“看视频”和“打会MC”（真的是一会？我这么写都想笑），就是打Hunt、周游谜这种不务正业。真正花在正事上的时间屈指可数。甚至，这两周我一次早起晨跑都没有（很快就三周了）！
+Somehow, it has already been two full weeks since I started recording how I spend each day. I am thoroughly ashamed of those two weeks—so ashamed that I hardly dare share them—because my time management has been an absolute disaster! Each day contains enormous blocks of “watching videos” and “playing a little MC.” (A *little*? Even I laugh when I write that.) The rest goes to puzzle hunts, puzzle walks, and every other way of avoiding serious work. The hours genuinely spent on what matters can be counted on one hand. I have not even managed one early-morning run in these two weeks. (Soon to be three!)
 
-哎，我怎么会变成这样呢？
+Sigh. How did I become like this?
 
-在NT上分享了自己的难处，朋友表示特别理解，并且在思考了一个晚上之后给出了答复：“It’s a life long journey. ”那我肯定是知道的啊！但问题是在这样的纠结之中，是否应该提供一些更实际的帮助呢？果然，最后还是需要自己解决吧。
+I shared the struggle at NT. A friend said he understood completely, then thought for an entire evening before offering his answer: “It's a lifelong journey.” Well, yes, I know that! But when someone is tangled up like this, shouldn't there be some more practical help to offer? In the end, I suppose I still have to solve it myself.
 
-但我并不能自己帮自己。
+But I cannot help myself on my own.

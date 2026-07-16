@@ -1,31 +1,29 @@
 +++
-title = "寄居者的日记-79"
+title = "Sojourner's Diary - 79"
 date = 2025-04-05T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Puzzle"]
 +++
 
 | | |
 |---|---|
-|0:00-1:00|打Hunt，熄灯|
-|1:00-7:00|睡觉|
-|7:00-8:00|起床，洗漱，泡咖啡，打Hunt|
-|8:00-9:00|叫同学起床，赶地铁去牛街，听书，做鱼谜扑克题|
-|9:00-10:00|赶地铁去牛街，做鱼谜扑克题，买面包|
-|10:00-11:00|梦寻宣南巡游解谜|
-|11:00-12:00|梦寻宣南巡游解谜|
-|12:00-13:00|梦寻宣南巡游解谜|
-|13:00-14:00|领奖品，休息，买饮料|
-|14:00-15:00|赶地铁回家，整理xhs资料|
-|15:00-16:00|拿快递，蹲坑，洗澡，洗衣服，做午饭（？）|
-|16:00-17:00|化冻羊排，吃自制肉松面包+小笼包|
-|17:00-18:00|晾衣服，解谜历|
-|18:00-19:00|解谜历，写日记（其实前几天都是现在补的），打会MC|
-|19:00-20:00|打会MC|
-|20:00-21:00|打会MC，剪化冻羊排，烤羊排|
-|21:00-22:00|吃晚饭，看视频|
-|22:00-23:00|看视频|
-|23:00-24:00|写Write-up|
-
-
+|0:00-1:00|Puzzle hunt, lights out|
+|1:00-7:00|Sleeping|
+|7:00-8:00|Getting up, washing up, making coffee, puzzle hunt|
+|8:00-9:00|Calling a classmate to wake him up, catching the metro to Niujie, listening to an audiobook, solving Fish Puzzle Poker|
+|9:00-10:00|Riding the metro to Niujie, solving Fish Puzzle Poker, buying bread|
+|10:00-11:00|“Dreaming of Xuannan” puzzle walk|
+|11:00-12:00|“Dreaming of Xuannan” puzzle walk|
+|12:00-13:00|“Dreaming of Xuannan” puzzle walk|
+|13:00-14:00|Collecting prizes, resting, buying a drink|
+|14:00-15:00|Catching the metro home, organizing Xiaohongshu material|
+|15:00-16:00|Picking up a package, bathroom break, showering, doing laundry, making lunch (?)|
+|16:00-17:00|Thawing lamb chops, eating homemade pork-floss bread and xiaolongbao|
+|17:00-18:00|Hanging laundry, solving the puzzle calendar|
+|18:00-19:00|Solving the puzzle calendar, writing diary entries (actually catching up on all the previous days right now), playing a little MC|
+|19:00-20:00|Playing a little MC|
+|20:00-21:00|Playing a little MC, cutting up the thawed lamb chops, roasting lamb chops|
+|21:00-22:00|Eating dinner, watching videos|
+|22:00-23:00|Watching videos|
+|23:00-24:00|Writing a write-up|

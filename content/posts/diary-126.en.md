@@ -1,23 +1,29 @@
 +++
-title = "寄居者的日记-126"
+title = "Sojourner's Diary - 126"
 date = 2026-01-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Study"]
 +++
 
-因为想不到明天截止的，English Composition II第一篇文章的主题，我开始翻看起电脑上自己曾经写的作文。
+Unable to think of a topic for my first English Composition II essay, due tomorrow, I began digging through old papers on my computer.
 
-Omnibus有一种特殊的“声誉”，那就是它能带你去思考那些同龄人压根不会去想的问题，而那些问题恰恰是一个美国公民所需要考虑的（毕竟是美国的教材）。与此同时，如果把每个作文的文化分析里的“A国”换成“C国”，就会让整篇文章的发布难度提高一个档次。遗憾的是，我们对于大部分含有A国的文章题目都采取了这样的做法，因此大部分能在朋友圈看到这篇文章的人都看不到我的那些“黑历史”（这么想想也许也没有那么遗憾？）
+*Omnibus* has a special sort of “reputation”: it makes you consider questions no one else your age would ever think about, yet which an American citizen apparently needs to consider. It is an American textbook, after all. At the same time, if you replace “Country A” with “Country C” in each essay's cultural analysis, the difficulty of publishing that essay immediately rises by an entire level. Unfortunately, that is what we did for most prompts involving Country A. Consequently, most people who can see this post on WeChat cannot see those pieces of my “dark history.” On reflection, perhaps that is not so unfortunate after all.
 
-这次“黑历史”三个字是真的发自内心。我曾经是一个不拘一格的学生，用大白话说就是喜欢整活。好端端的议论文不写在那边尝试小说、童话、寓言、对话体、角色扮演、大段环境描写、不知所云的升华，以及上述的排列组合，可以说是充分贯彻了“文体不限，诗歌除外”的原则。现在我就很好奇当时我是怎么做到每次面不改色地写完然后在课堂上或者小组内分享时面不改色地读完之后不找个地洞钻下去的（长难句这块）
+This time, I use the words “dark history” with complete sincerity. I was once a student who refused to be constrained by convention. In plain language, I loved doing weird bits. Instead of writing a perfectly normal argumentative essay, I would experiment with fiction, fairy tales, fables, dialogue, roleplay, enormous blocks of environmental description, incomprehensible flights into profundity, and every possible combination of the above. I fully honored the instruction “any genre except poetry.”
 
-而且这些文章都有一个共同点：经不起细看。有些文章后面批注了当时老师同学的评价，如今自己读完后一看“这简直就是我（现在想说的）”。群众的眼睛是雪亮的啊，好的Puzzle Hunt都很重视内测这点绝对没说错（
+What fascinates me now is how I managed to write every one of them with a straight face, then read it aloud in class or to my group, still with a straight face, without immediately searching for a hole to crawl into. (And there is today's run-on sentence.)
 
-就，最根本的语句不通顺我就忍了，怎么还能有这么多的机械降神情节啊。本来这种叙事小作文就很难把主题突出了，自己当时因为懒还不愿意多写点东西，最后的结果就是落得个四不像——小说小说没写好，问题问题讨论不深入。依稀记得当时满怀激情地写完一篇惊世骇俗的小小说，主题似乎是“如果耶稣只是一个人（而不是神）会怎么样”。我写成时那叫一个兴奋，在这么短的篇幅我居然能同时塞下伏笔回收，细思极恐，内容深度，要长脑子等等要素，结果读完之后全体静默10秒，然后下一篇。
+These essays all share another trait: they do not survive close inspection. Some still carry comments from my teachers and classmates. I finish rereading the essay, look at a comment, and think, “That is *exactly* what I want to say now.” The eyes of the people are bright indeed. Good Puzzle Hunts take playtesting seriously, and they are absolutely right to do so. (
 
-我现在仍然相信当时是没人对上电波而已（
+Fine, I can forgive the fundamentally broken sentences. But why are there so many deus ex machina endings? These tiny narrative essays already make it difficult to bring out the theme. I was also too lazy to write enough material, so the final result became neither fish nor fowl: the story failed as a story, and the question received no serious examination.
 
-话又说回来了，需要对电波的题是不是大部分都是孬题来着？啊，今天会说这么多谜题相关的事大概是因为MITMH 2026开赛在即，“在下一者为主公悲伤，二者给主公道喜”。悲是自己没法跨越数州前往实地参加现场，喜是今年终于蹭到了一个正经的队伍（虽然不知道自己的能力是0贡献还是负贡献就是了）。为此我需要一个没有作业的MLK假期……
+I vaguely remember finishing one earth-shattering piece of microfiction in a blaze of passion. Its subject was something like, “What if Jesus were only a man rather than God?” I was ecstatic when I completed it. In so few words, I had somehow packed in setup and payoff, unsettling implications, intellectual depth, brain growth, and every other ingredient. Then I finished reading it aloud. Everyone remained silent for ten seconds. Then we moved to the next paper.
 
-等等，我是不是忘了自己一开始的目的？
+I still believe nobody else was simply on my wavelength. (
+
+Then again, are puzzles that require everyone to “get on the author's wavelength” usually bad puzzles? Ah, I am probably talking about puzzles so much today because MIT Mystery Hunt 2026 is about to begin. Your humble servant brings my lord one sorrow and one congratulation. The sorrow: I cannot cross several states to attend in person. The congratulation: this year I finally slipped into a proper team, although I do not know whether my contribution will be zero or negative.
+
+For that, I require an MLK holiday with no homework...
+
+Wait. Have I forgotten why I started doing this?

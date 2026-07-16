@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-107"
+title = "Sojourner's Diary - 107"
 date = 2025-08-20T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Study","Geocaching"]
 +++
 
-今天开始正式上课！在室友热情引路的前提下三堂课都及时赶到了（鼓掌）。虽然讲的内容都比较基础，毕竟是学期第一堂课，但还是让我认识了不少新同学，就是名字仍然死活记不住。
+Classes officially began today! With my roommate enthusiastically leading the way, I reached all three on time. (Applause.) The material was fairly basic—it was the first class of the semester, after all—but I did meet quite a few new people. Their names, however, still refuse to remain in my brain.
 
-对了，说起这个我似乎都没提到室友的名字呢。他叫Joel，美国本地人，机械工程专业。今天的宿舍楼大会上展现出了非同寻常的社牛属性，和老生们此起彼伏就不谈了，他居然一个下午都在找新同学聊天！下次让他带带我呜呜呜。
+Come to think of it, I do not believe I have even mentioned my roommate's name. He is Joel, a local American majoring in mechanical engineering. At today's residence-hall meeting, he displayed extraordinary extrovert powers. Bantering back and forth with the returning students was one thing; the man spent an entire afternoon seeking out new students to talk to! Please mentor me next time, sob.
 
-今天还顺手把校园内的两个传统宝找到了，起因是早上跑步跑到一半冲向了厕所，于是不了了之。但秉承着“来都来了”原则，我跑到了附近之前造访过的Cache藏点，并且尝试了不一样的方法——果然凑效了。
+I also found the two traditional geocaches on campus today. It began when I had to abandon my morning run halfway through and charge into a restroom. Since I was already there, I followed the sacred principle of “might as well” and returned to a nearby cache site I had visited before. I tried a different approach, and sure enough, it worked.
 
-但既然已经到了入睡时间了，就直接搬运一下我的Log作为总结吧：
+It is already bedtime, so I will simply paste my log as the conclusion:
 
-> 我是Flare，一名来自中国的Geocacher！作为Letourneau的新生，很惊喜能在校园里找到Cache（甚至不止一个！）平心而论，这二者其实有些同质化，你要么两个都找不到，要么就能都找到。
-
-这个宝在15年来（没错它是10年藏的）迎接了太多的人们，logsheet之多令人目不暇接。好在容器空间够大，我将老logsheet置于底下，并且加了一张带有入门指南的新logsheet（真有人能“不小心”找到它吗？）我将会在Letu停留一段时间，欢迎在来寻宝时联系我！
+> I'm Flare, a geocacher from China! As a new student at LeTourneau, I was delighted to find a cache on campus—and more than one, too! To be honest, the two are rather similar: either you cannot find either of them, or you can find both.
+>
+> This cache has welcomed a great many people over its fifteen years. (Yes, it was hidden in 2010.) There were more old log sheets than I could count. Fortunately, the container has plenty of room. I placed the older sheets at the bottom and added a new one with a beginner's guide. (Does anyone really find this “by accident”?) I will be at LETU for a while, so feel free to contact me when you come searching!

@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-95"
+title = "Sojourner's Diary - 95"
 date = 2025-06-19T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["湛江"]
+categories = ["Sojourner's Diary"]
+tags = ["Zhanjiang","Geocaching"]
 +++
 
-起因是我想买一个装Logsheet的容器用于Geocaching，然后一眼相中了耐压管：密封、耐腐蚀、易保存的特性正合我意。然而我忽略了口径……
+It all started when I wanted a container to hold a logsheet for geocaching. A pressure-resistant tube caught my eye immediately: watertight, corrosion-resistant, easy to store—exactly what I needed. There was just one tiny detail I neglected to consider: the diameter...
 
-于是买回来才发现记录纸根本！塞！不！进！去！无奈下楼现找。来到了小时常去的玩具店，老板竟还能认出我来。我说明来意，他便把我带到了一瓶瓶糖果前。我一看，嚯，正合适。果断买了两瓶回家，撕去标签倒出糖果，漂流瓶型容器堂堂登场！
+So I brought it home, only to discover that the logsheet! Would! Not! Fit! With no better option, I went downstairs to hunt for a replacement. I ended up at the toy store I used to frequent as a kid, and somehow the owner still recognized me. I explained what I was looking for, and he led me over to a shelf of bottled candy. One glance and—oh, perfect. I promptly bought two bottles, took them home, peeled off the labels, poured out the candy, and behold: two magnificent message-in-a-bottle cache containers!
 
-望着被倒出来的糖果我发了愁，然后就看到了一旁躺在那的耐压管。哎☝️🤓我有一计。刚好两种颜色的糖还是类`9999FF`和`FFFF00`的，贴上贴纸之后，一个创意周边就这么诞生了！我真是个买椟还珠的小天才（
+Then I looked at the pile of homeless candy and started to worry—until I spotted the pressure tube lying off to the side. Aha ☝️🤓 I have a cunning plan. The two candy colors even happened to be roughly `#9999FF` and `#FFFF00`. Slap on a sticker, and just like that, an original piece of merch was born! Truly, I am a little genius who buys the casket and returns the pearls (
 
-下午去放容器！
+Off to place the caches this afternoon!

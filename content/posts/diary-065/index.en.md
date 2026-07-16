@@ -1,24 +1,24 @@
-.+++
++++
 title = "Sojourner's Diary - 65"
 date = 2025-03-22T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Beijing"]
+tags = ["Beijing","Puzzle","Geocaching"]
 +++
 
-I hope that the core of my diaries is also the "story". However, when a story I wrote with all my heart is said to be incomprehensible, it's hard not to feel a bit let down.
+I want story to sit at the heart of my diary. So when a story I poured myself into is met with “I couldn't understand it,” it is hard not to feel disappointed.
 
 Today, I went to Olympic Forest Park with brothers and sisters to play Frisbee. Everyone was so easygoing, and Frisbee was super fun!
 
-I went to search for a few geocaches along the way, only to find that the location landed squarely within the working range of a sprinkler. After several rounds of outwitting it (meaning walking around it), I was happily awarded a pair of dirty shoes covered in mud.
+I searched for a few caches along the way, only to discover that one lay precisely within a sprinkler's firing range. After several rounds of matching wits with it (meaning: walking in circles), I received my prize—a pair of shoes completely caked in mud.
 
 Halfway through lunch, I looked at the time and realized that the afternoon Mystery Association meeting was about to start, so I left in a hurry.
 
-Nevertheless, I was still 10 minutes late. Let me post my notes here:
+I was still ten minutes late. Anyway, here are my notes:
 
 ---
 
-## Puzzle Workshop: From Puzzle Friday to Puzzle Designer
+## Puzzle Workshop: From Puzzle Friday to Setter
 1. How are puzzles created?
 - Example puzzle: Display Box
 The difference between the original draft and the final version, potentially redundant information (keyboard layout at first glance), and improvements on hourly puzzles.
@@ -43,14 +43,14 @@ Using the bounding box after selecting all to design puzzles, ensuring solvabili
 
 ---
 
-I designed a puzzle too! Want to give it a try if you are interested? Hint: related to ancient Chinese culture.
+I designed a puzzle too! Interested in giving it a try? Hint: it involves ancient Chinese culture.
 !["Half-finished"](65-0.webp)
 
 <details>
     <summary>🔍 Click to view puzzle hints/answers</summary>
 
-    Hint: Observably, this puzzle is related to the "Eight Trigrams" (Bagua) in classical Chinese culture.
+    Hint: Observation reveals a connection to the Eight Trigrams, or *bagua*, of classical Chinese culture.
     
     Trigrams: ☰ (Qian), ☷ (Kun)
-    Concept: Try combining the Chinese characters corresponding to the trigram names, and you will get the only meaningful phrase: "Qiankun" (乾坤, meaning universe/heaven and earth).
+    Approach: combine the Chinese characters for the names of the trigrams. Only one meaningful expression emerges: "Qiankun" (乾坤, heaven and earth—the universe).
 </details>

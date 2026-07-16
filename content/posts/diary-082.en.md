@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-82"
+title = "Sojourner's Diary - 82"
 date = 2025-04-08T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-今天被迫体验了无手机的一天，故鸽之。
+I was forced to experience an entire day without my phone, hence the missing update.

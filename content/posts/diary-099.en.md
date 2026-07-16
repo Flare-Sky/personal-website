@@ -1,37 +1,39 @@
 +++
-title = "寄居者的日记-99"
+title = "Sojourner's Diary - 99"
 date = 2025-06-23T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-坐过了北京和上海的地铁，觉得果然还是杭州的最好最舒服
+After riding the metro in Beijing and Shanghai, I remain convinced that Hangzhou's is the best and most comfortable.
 
-北京因为首都的身份，地铁时间跨度极大，所以你能看到许多所谓“同站换乘”实际上就是把新老地铁站缝合在了一起，地铁本体的品质也就像开盲盒一样，新老混杂
+Because Beijing is the capital, its metro system spans an enormous range of eras. Many so-called “same-station transfers” are really old and new stations stitched together. The trains themselves are blind boxes too: old and new mixed at random.
 
-上海虽据说拥有全世界最大的地铁网络，但我无论如何也无法理解居然看不了当前到站（也可能是我做的那几趟或者那几条线路恰好没有？反正就是很难受）。一个带耳机的人居然需要把头伸得像只长颈鹿才能确定自己有没有坐过站，就很难受
+Shanghai reportedly has the largest metro network in the world, but I cannot understand why I could not see the current stop anywhere. (Perhaps the particular trains or lines I used simply lacked displays? Either way, deeply uncomfortable.) A person wearing headphones has to stretch his neck like a giraffe just to determine whether he has missed his stop. Deeply uncomfortable.
 
-啊，起步9折乘车，免费换乘公交，杭州真好吧
+Ah, ten percent off from the first ride, free transfers to buses—Hangzhou really is wonderful.
 
-所以万达北路你什么时候才修好通车啊！
+So, Wanda North Road, when are *you* finally going to finish construction and open?
 
-地铁的事先搁一边，我在杭州的东西一排出来是真的处处摆啊！我思考良久，也记不清某些东西到底是什么时候买的，但其他人送的那些却记忆犹新。但无论如何，我都不舍得出出宝——把这些宝贝放到闲鱼上卖啊！于是就开启常常搬以及疯狂送人模式，如果你有机会与我见面并收到礼物，不要回礼谢谢，因为这是我在清堆积（
+Enough about metros. Once I laid out everything I had in Hangzhou, it truly covered every available surface! I thought for ages and could not remember when I had bought some of it, yet every gift from another person remained vivid in my mind. In any case, I could not bear to *chuchu* my treasures—to list these precious things on Xianyu and sell them! So began the endless moving-things-around and giving-things-away mode. If you happen to meet me and receive a gift, please do not give me anything in return. I am clearing inventory (
 
-不管这些东西了，事已至此先吃饭吧。老妈听说我中午就去外婆家吃饭非常高兴，然后得知了是外婆主动邀请我的，于是转变为催催报的建议模式，说着你要主动跟家人联系啊云云。“不管那么多了直接蹭吃饱吧”这样想着，我因为中午没光盘于是干脆留到晚上接着吃，然后不出意料地又没能光盘（黑洞的地位受到了挑战）。现在迈着吃撑步在外面游荡，反正闲得没事，决定开始寻宝！
+Never mind all that. At this point, food comes first. Mom was delighted to hear that I was eating lunch at Grandma's, then learned that Grandma had invited me and immediately switched into reminder-and-advice mode: “You need to take the initiative and contact your family,” and so on. “Forget all that. I am simply going to mooch until full,” I thought. Since I failed to clear my plate at lunch, I left the rest for dinner—and predictably failed to clear it again. (The black hole's position has been challenged.) Now I am wandering outside with the distinctive gait of someone who ate too much. With nothing else to do, I have decided to begin caching!
 
-以下内容摘自QQ空间：
+The following is excerpted from my QQ Space:
 
 ---
 
-**《记上城区夜游》**
+**A Record of a Night Tour in Shangcheng District**
 
-公元二五年六月二十四日夜，吃饱欲返，忽又觉撑，欣然起行。念无与为乐者，遂至[GCB4TQE](https://www.geocaching.com/geocache/GCB4TQE)寻Nano，Nano亦未寝……
+On the night of June 24 in the year twenty-five, I had eaten my fill and wished to return, yet suddenly felt overfull, so I rose and walked with delight. Thinking there was no one with whom to share the pleasure, I went to [GCB4TQE](https://www.geocaching.com/geocache/GCB4TQE) in search of Nano. Nano, too, had not retired for the night...
 
-和[@なのナノNano](https://www.geocaching.com/p/?guid=c27f8acf-566a-49b6-92c3-4d9b7904866d&wid=c350aaeb-f634-487d-9b5f-23d0a4cdf97b&ds=2)老师进行了一个突然的面基！起因是到亲戚家蹭饭吃多了故出门散步，顺便开始找宝，然后发现Cache位置就在Nano老师工作的地方楼下。QQ发了消息没有回应，反倒是一找到楼下那个宝时Nano老师非常敏锐地发现了（我：比起QQ联系Nano，显然找到一个他藏的宝更容易找到他）
+I had a completely unplanned meetup with [@なのナノNano](https://www.geocaching.com/p/?guid=c27f8acf-566a-49b6-92c3-4d9b7904866d&wid=c350aaeb-f634-487d-9b5f-23d0a4cdf97b&ds=2)! It began when I mooched too much food from relatives and went outside for a walk, then started caching while I was there. The cache happened to be directly below the building where Nano worked. My QQ message received no reply, but the moment I found the cache downstairs, Nano noticed with remarkable speed. (Me: compared with reaching Nano through QQ, finding one of his caches is clearly the easier way to find *him*.)
 
-后来在Nano老师的带领下找到了他Revive和藏的几个宝（有一个multi超级帅而且非常有PH的感觉，tql）！还看到了惊人数量的TB（类似在宝友手中流通的可追踪纪念品？拿了两个想出国的带给下一个有缘人嘿嘿）Nano老师展示了在日本寻过的形态各异的Cache，让我大开眼界（有些伪装宝真的太像了根本看不出来！）非常圆满的一天，并且结束后也顺利赶上了地铁。
+With Nano as my guide, I found several caches he had revived or hidden. One multi was incredibly cool and felt exactly like a puzzle hunt. Truly magnificent! I also saw an astonishing number of TBs—trackable souvenirs that circulate among geocachers, roughly speaking. I took two that wanted to travel abroad and will carry them to the next people fate selects, hehe. Nano showed me caches of every imaginable form that he had found in Japan, which opened my eyes completely. Some camouflage caches look so natural that you simply cannot see them!
 
-发现两人居然没谈太多谜题的内容？本来还想和卷帘大将学点技术的可恶啊（
+A wonderfully complete day, and I even caught the metro successfully afterward.
+
+Somehow the two of us did not talk about puzzles very much? I had planned to learn a few techniques from the Great General Who Rolls the Curtain. Curse it (
 
 ---

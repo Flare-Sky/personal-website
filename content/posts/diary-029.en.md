@@ -3,7 +3,7 @@ title = "Sojourner's Diary - 29"
 date = 2025-01-07T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Chengde"]
+tags = ["Chengde","Food"]
 +++
 
 What to do on Laba?

@@ -22,19 +22,19 @@ This year, I transformed from assembling plastic figurines to assembling plastic
 
 This year, my rks increased from 14.15 at the beginning of the year to 14.40. I learned interaction and sheet music, but my fundamental skills didn't keep up. I tried 4k fixed track and found everyone else was an alien.
 
-This year, the only gacha game I played, "Mobile Suit Girls: Fusion," ceased operation. It departed silently, and I have since stopped trying other gacha games.
+This year, the only gacha game I played, *Artery Gear: Fusion*, shut down. It slipped away without a sound, and I have not tried another gacha game since.
 
-This year, I successfully completed a Rust Lake new release without guides, leaving many enthusiastic reviews on Steam. Next, I plan to check out Animal Well.
+This year, I cleared the new Rusty Lake game without a guide and left several unhinged reviews on Steam to celebrate. Next, I plan to climb down into *Animal Well*.
 
 This year, I stepped into the puzzle-solving community, snatched three first kills in group challenges, and, with all my friends' support except for direct help, successfully completed a small Puzzle Hunt for the first time before the deadline.
 
 This year, I battled the final boss Radiance in "Hollow Knight" for three hundred rounds, achieving the true ending "Dream No More," and now I'm being forcefully dragged into a dance by Nightmare King Grimm.
 
-This year, I continued to watch Tokusatsu. After Blazar concluded, I specifically wrote a column analyzing its ending, hoping that Ark's ending wouldn't collapse, and that Gatchard would start strong and maintain its momentum.
+This year, I kept watching tokusatsu. When *Blazar* ended, I wrote an entire column analyzing its finale. Now I can only hope *Arc* sticks the landing and *Gavv* stays as strong as it started.
 
-This year, I witnessed various aspects of the virtual idol community, surprised that Dust could monopolize the top three in the 628th V Weekly, and admired the undiminished enthusiasm of fan creators despite the official inactivity. At the end of the year, I was also happy that the new operations team stepped up.
+This year, I witnessed all manner of happenings in the tiny Medium⁵ community. I marveled at Stardust taking all three top spots in issue 628 of *V Weekly*, and admired the passion of fan creators who kept going while the official account played dead. At year's end, I was glad to see the new operators finally get their act together.
 
-This year, I discovered the treasure of the Chinese virtual singer series "Delusion," and achieved all achievements in the eponymous story-driven game. Then it was reported, restricted, and its sources changed, giving me a feeling of joining the KMT in '49.
+This year, I discovered the hidden treasure that is the Chinese Vocaloid series *Paranoia* and earned every achievement in its story game of the same name. Then it got reported, throttled, and forced to change platforms. Real “joined the Nationalists in 1949” timing on my part.
 
 This year, I tried the Synth V AI editor and then abandoned the ancient Vocaloid 4 FE, exclaiming that gacha-style mindless tuning was more suitable for me.
 

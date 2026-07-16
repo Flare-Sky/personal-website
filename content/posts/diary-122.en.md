@@ -1,35 +1,37 @@
 +++
-title = "寄居者的日记-122"
+title = "Sojourner's Diary - 122"
 date = 2025-11-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Geocaching","Puzzle"]
 +++
 
-感谢感恩节假期！
+Thank goodness for Thanksgiving break!
 
-美国这边的Geocache疑似有些同质化了。目前为止至少找过6个摆放位置相似的，包括校园里仅有的两个实体宝。可恶啊当时Nano老师给我看过的那些伪装宝是一个类似的也没见着，该不会还要让中国淘宝给这些美国佬一些小小的义乌震撼吧？
+American geocaches are beginning to seem suspiciously homogeneous. So far, I have found at least six hidden in similar places, including the only two physical caches on campus. Damn it, I have not seen a single one resembling the ingenious camouflaged caches Teacher Nano once showed me. Must Chinese Taobao teach these Americans a small lesson in the manufacturing might of Yiwu?
 
-话又说回来，这样的模式也让我得以花更多时间阅读一个藏点背后的故事（因为真的只有这个好看了吧）。也许这就是在美国大road trip潮流下的顺应时代吧。至少我可以自信地写下log as found，而不是像某些找我杭州的宝的新人一样一言不合挂个need maintenance催我找朋友去维护，末了还要改提示降难度一条龙把答案喂到嘴边。真的只有在当了CO之后才会意识到“这群玩家真难伺候”。不知道年初的我留下的“not found”会不会也让别人有了这样的困扰
+Then again, this pattern gives me more time to read the story behind each location, because that is honestly the only interesting part left. Perhaps this is simply geocaching adapting to America's great road-trip culture. At least I can confidently write “found” in my log instead of behaving like certain newcomers who search for my cache in Hangzhou, fail without ceremony, immediately post “Needs Maintenance” to pressure me into sending a friend out, and then demand a revised hint and lower difficulty in one seamless chain until the answer is practically placed in their mouths. You only realize how demanding players can be after becoming a cache owner. I wonder whether any of my own “did not find” logs at the beginning of the year caused someone else the same trouble.
 
-忙忙碌碌的期末生活之中，仿佛十分生硬地插进了一个为期一整周的假期。恰逢ZJUPH开赛，故决定这把努力冲冲榜
+Amid the frantic end-of-semester rush, an entire week of vacation seems to have been inserted with almost comical abruptness. ZJUPH happened to begin at the same time, so I decided to make a serious push up the rankings.
 
-于是我在回家路上偷懒（划）时写下这些文字。咳咳，听我解释是我的个人热点出问题了电脑连不上网……哎算了就当我睡了一会吧（
+Thus I wrote these words while ~~slacking off~~ riding home. Ahem, let me explain: something was wrong with my phone's hotspot, and my laptop could not connect... Ah, never mind. Let us say I took a nap. (
 
-哎对了，你怎么知道ZJUPH里有道三国杀题？我就差让朋友把整盒三国杀抱过来了（然而截止文章发布时，那道题还没做出来，该如何提取？）
+Oh, by the way, how did you know ZJUPH has a *Legends of the Three Kingdoms* puzzle? I was one step away from asking a friend to bring over the entire card set. And yet, as of publication, we still have not solved it. How are we supposed to extract the answer?
 
-上周参加了这边教会的感恩节聚会。看着弟兄姐妹在台上的表演，恍惚间回想起从前感恩节晚会上我们的《黎明踏浪号》戏剧。然后从相册里翻出来了当时做的道具进行一个赛博留念
+Last week I attended my church's Thanksgiving gathering. Watching the brothers and sisters perform onstage, I suddenly remembered our old production of *The Voyage of the Dawn Treader* at a Thanksgiving program. I dug the prop I made back then out of my photo album for a little digital commemoration.
 
-珍惜这个还能写好字的天曜
+Treasure this Tianyao who could still write neatly.
 
-学校食堂良心发现地增设了冰淇凌机，同学们品尝过后纷纷评价：这根本不是冰淇淋！没有milk的ice cream只能叫ice！看着对面同学手里的原味巧克力双旋，恍惚间回想起从前在火锅自助做的华夫饼冰淇淋三明治。故复刻之，果然好吃😋
+In a sudden attack of conscience, the university cafeteria installed an ice-cream machine. After sampling it, my classmates unanimously declared, “This is not ice cream at all! Ice cream without milk is just ice!” Looking at the vanilla-chocolate swirl in the hands of the classmate opposite me, I suddenly remembered the waffle-and-ice-cream sandwiches I used to assemble at an all-you-can-eat hotpot restaurant. So I recreated one. Still delicious 😋
 
-为了这周三的room inspection（大白话也就是查寝评分），我和室友齐心协力把我们用过的engineering paper通通上了墙。端详着满墙杰作，我开始对接下来的学习之路心生畏惧（
+To prepare for Wednesday's room inspection—in plain language, a scored dorm check—my roommate and I worked together to put every sheet of engineering paper we had used onto the wall. As I admired the wall of masterpieces, fear began to grow in my heart about the road of study ahead. (
 
-不管怎么样，蓝丁胶绝对是我在这边最值得的一笔支出
+Whatever else may happen, reusable mounting putty has unquestionably been my best purchase here.
 
-昨晚星夜跑去参加SI临时抱佛脚，顺便与浙大的朋友交流了工科的学习经验（你个落后别人一年进度的真不是去偷偷卷吗），超绝不经意间提到似乎有个PH上cc98（浙大校内论坛），在得到朋友“哇真的哎”的回复后发出“哇我们PH是真火了”的莫名感慨。唉，是解谜让他变成这样的
+Last night, I ran through the dark to an SI session for some desperate last-minute cramming. I also exchanged engineering-study experience with a friend at Zhejiang University. (Are you, a full year behind his progress, sure you were not secretly trying to outwork him?) With exquisite casualness, I mentioned that some Puzzle Hunt had apparently reached CC98, ZJU's campus forum. When my friend replied, “Whoa, it really has,” I delivered the inexplicable reflection, “Whoa, our PH is genuinely famous now.” Sigh. Puzzles have done this to him.
 
-于是，在今天早上踌躇满志地决定不复习了。PH，启动！
+And so, full of confidence this morning, I decided not to review for class.
 
-然后卡三国杀题了
+Puzzle Hunt, launch!
+
+Then I got stuck on the *Legends of the Three Kingdoms* puzzle.

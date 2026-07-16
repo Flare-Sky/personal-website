@@ -1,18 +1,18 @@
 +++
-title = "Sojourner's Diary-5"
+title = "Sojourner's Diary - 5"
 date = 2023-04-07T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Zhanjiang"]
 +++
 
-It's been quite some time since I last wrote a diary entry, so I really need to do a proper review today.
+It's been a good while since my last entry. Time for a proper review of the day.
 
-Since returning to Zhanjiang, the pace of life has suddenly slowed down. Without tasks constantly pushing me forward, I've lost my motivation. Reflecting on it now, I often lack internal drive and frequently waste time during holidays. However, since I've recognized the problem, I must make a change.
+Ever since I returned to Zhanjiang, life has slowed down all at once. The moment there were no more deadlines driving me forward, I lost my momentum. Looking back, I often seem to lack any drive from within, and holidays have a habit of slipping by unused. Still, now that I've seen the problem, I have to do something about it.
 
-Let me list a few tasks for today:
-- Complete "My Story" and publish the WeChat Official Account article
+First, a few tasks for today:
+- Finish “My Story” and publish it on the WeChat account
 - Organize the items shipped to Zhanjiang
-- Translate the school emails and send them to my mom
+- Translate the school email and send it to Mom
 
-Only after these three tasks are completed will I have free time to arrange!
+No freely scheduled fun until all three are done!

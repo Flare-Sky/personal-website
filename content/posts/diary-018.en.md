@@ -1,5 +1,5 @@
 +++
-title = "Sojourner's Diary-18"
+title = "Sojourner's Diary - 18"
 date = 2024-12-19T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
@@ -8,12 +8,12 @@ tags = ["Hangzhou"]
 
 Sometimes I ask myself: What exactly did I come back to Hangzhou for?
 
-The past few days have been busy. I used up all 50 yuan on my citizen card riding the subway and buses (realized this halfway through writing and quickly switched to another subway card, phew, almost went into debt). It feels like every day I manage to hit my exercise goals, either by meeting classmates or being a teaching assistant, haha.
+The last few days have been nonstop. Somehow, between all the buses and metro rides, I burned through the entire 50 yuan on my citizen card. (Realized this halfway through the sentence and immediately switched to another transit card. That was close—I nearly went into the red.) Every day, whether I'm meeting classmates or working as a teaching assistant, I seem to hit my exercise goal without even trying, haha.
 
-Today I went to find Zhaobai (it still sounds so chuunibyou to use online nicknames) and enjoyed a hotpot buffet, and also played the escape room I always wanted to try! Attached are two elevator repairmen (who missed the escape room at Hangzhou Paradise during the last middle school field trip because there were too many people in line? Oh, that was me!) It just goes to show that sometimes choices made in a moment of thought can lead to completely different paths.
+Today I met up with Zhaobai (using internet handles still sounds every bit as chuunibyou as ever). We demolished an all-you-can-eat hotpot and finally tried the escape room I'd wanted to play! Exhibit A: two elevator repairmen. (Who missed the Hangzhou Paradise escape room on our last middle-school trip because the line was too long? Oh, right. Me.) Sometimes one tiny choice really does send you down an entirely different path.
 
-Years from now, I will probably still remember the joy of rushing into Sisyphe (a bookstore) tonight, frantically trying to browse for a few seconds before it closed (quite fitting for the Sisyphean myth, I suppose).
+Years from now, I will probably still remember the delight of charging into Sisyphe seconds before closing just so we could browse for all of a few seconds. (Pretty faithful to the actual Sisyphus story, come to think of it.)
 
-Honestly, these past few days, time has still not been enough—all the classmates I met were either those who proactively contacted me or those my dear mother helped me contact (it seems I have an 'i' attribute on the internet). Often, when we met, we just chatted idly without a clear topic, even though I had prepared to share my learning experiences and changes over the past three years... Well, writing it down seems like a solution too.
+Honestly, there still has not been enough time. Every classmate I've seen either contacted me first or was contacted with help from my dear mother. (Apparently I really am an “I” online.) And once we meet, the conversation wanders everywhere without ever finding a destination, even though I had planned to talk about everything I learned and how I changed over the past three years... Well, writing it down might work too.
 
-So, back to the initial question: what did I come back to Hangzhou for? To commemorate that "happy time with a little regret"? The past is gone forever, and before us lies an unknown road. But what I know is that I made the right choice.
+So, back to the opening question: what did I return to Hangzhou for? To commemorate that “happy time tinged with regret”? The past will not return, and an unknown road unfolds before us. But this much I know: I made the right choice.

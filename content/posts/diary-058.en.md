@@ -6,4 +6,4 @@ categories = ["Sojourner's Diary"]
 tags = ["Beijing"]
 +++
 
-No way, Tian Zhuge, how could you treat your diary like this? Ah? It's already 23:00? Too lazy to write.
+Come on, Zhuge Tian, how can you treat your diary this way? Huh? It's already 23:00? Can't be bothered to write.

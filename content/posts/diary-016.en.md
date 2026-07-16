@@ -1,17 +1,17 @@
 +++
-title = "Sojourner's Diary-16"
+title = "Sojourner's Diary - 16"
 date = 2024-12-14T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Hangzhou"]
 +++
 
-I just arrived in Hangzhou yesterday (actually, it should be the day before yesterday), and I didn\'t even have time to unpack my luggage. Today, I met many brothers and sisters from the community at the court and was fortunate enough to capture moments of mutual help. The most frequently asked questions were "How tall are you now?" and "Where are your parents?"
+I only arrived in Hangzhou yesterday (actually, the day before yesterday by now) and haven't even had time to unpack. Today I met many of the brothers and sisters from the community at the sports court, and even managed to catch a moment of people helping each other. The two questions I heard most were “How tall are you now?” and “Where are your parents?”
 
-It feels really good. Although all the roads along the river have been rebuilt, the connections between people remain so stable.
+It feels so good. All the roads along the river may have been rebuilt, but the bonds between people remain as strong as ever.
 
-Originally, I imagined returning to Hangzhou to live alone at home, mainly cooking for myself and occasionally visiting friends, and then posting "It\'s time for food again, folks." But it turns out both my accommodation and meals were "mooched," which is quite amusing (
+I had imagined my return to Hangzhou as living home alone, mostly cooking for myself, occasionally dropping in on someone, and posting “Time to eat again, folks.” Instead, both my bed and my meals have been “borrowed” from other people. I can only laugh (
 
-Actually, I should have written something yesterday, but I just started and then forgot, which just goes to show my character...
+I really should have written something yesterday, but I put down the opening line and promptly forgot about it. Very on-brand...
 
-In the evening, I went to my grandma\'s house for dinner, and everyone who heard about it said, "How rich!" As soon as I said I needed a pair of boots, my aunt quickly placed an order, and the delivery arrived swiftly. My feet won\'t be cold anymore, haha!
+In the evening I mooched dinner at Grandma's, and everyone who heard about it agreed: “What a feast.” The moment I mentioned needing boots, my aunt placed an order at lightning speed, and the delivery arrived just as fast. No more frozen feet, haha!

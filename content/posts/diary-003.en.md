@@ -1,15 +1,15 @@
 +++
-title = "Sojourner's Diary-3"
+title = "Sojourner's Diary - 3"
 date = 2023-04-01T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Hangzhou"]
 +++
 
-The original post for this day was deleted because it mentioned some content related to security (my WeChat Moments post was removed). Since I have absolutely no backup, I'll write down some of my reflections here instead!
+The original entry for today got deleted for touching on certain sensitive matters (as in, the Moments post itself was taken down). Since I didn't keep a backup at all, I might as well use this space for a little reflection.
 
-First of all, I indeed don't think carefully before speaking, always feeling that "it should be fine to say this." Actually, that's not right. I once wrote down a principle that I believe I should adhere to today as well: "think thrice before speaking."
+First: I really don't stop and think carefully before I speak. I am always telling myself, “Surely this is fine to say.” It isn't. I once wrote down a rule that I still need to follow today: think three times before you speak.
 
-Secondly, regarding how to perceive people. I feel that in the future, when facing a Christian, the most important thing is to see whether he/she has "experienced salvation"—that is, whether they have a clear understanding of their own sins.
+Second, on discerning people: when I meet a Christian in the future, I think the most important question is whether they have truly “experienced salvation”—in other words, whether they clearly recognize their own sin.
 
-Finally, to summarize: one must always be "as shrewd as snakes and as innocent as doves" among the Gentiles.
+So, to sum it all up: among the Gentiles, always be “as shrewd as snakes and as innocent as doves.”

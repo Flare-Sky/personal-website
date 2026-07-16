@@ -1,37 +1,41 @@
 +++
-title = "寄居者的日记-118"
+title = "Sojourner's Diary - 118"
 date = 2025-10-04T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Food"]
 +++
 
-某天睡前跟室友聊天，不知怎的就聊到了爷爷。我对他说，自己想要做一道爷爷生前教过我的菜来纪念他，顺便也分给认识的人尝尝。室友当即表示：明天晚上的Pizza Party不就是个机会么？
+One night, my roommate and I were talking before bed, and somehow the conversation reached Grandpa. I told him I wanted to cook a dish Grandpa had taught me, to remember him, and share it with people I knew. My roommate immediately replied, “Isn't tomorrow night's pizza party the perfect opportunity?”
 
-实际上，这个想法从我周日晚听到那则消息时就已经萌生了。所幸当时出于对自己记忆力的不确定，在爷爷教的时候全程录下了视频。于是，我也能通过那三寸见宽看到他，仿佛仍在身边。
+In fact, the idea had been with me since I heard the news on Sunday night. Fortunately, because I did not trust my own memory, I had recorded the entire lesson when Grandpa taught me. Through a screen only a few inches wide, I could still see him, almost as though he were beside me.
 
-有教程了，可食材又成了问题。我本来约了学校附近的住家，拜托他带我们去一次超市。结果到了约定的时间，我发现自己居然有课（所以你当时怎么会没想到的啊！）于是在周五早上才开始研究起怎么搭乘公交去沃尔玛，又担心着等车的时间会不会远远超出我上午下午课程之间的空窗期。刚巧，撞见了同个教会的郑教授，我便把烦恼一概托出，对方思考片刻：我刚好有空带你去。
+I had the instructions, but the ingredients became a problem. I had arranged for a local host family connected with the university to take us to the grocery store. When the appointed time arrived, I discovered that I had class. (How did this not occur to you when you made the plan?!) So it was not until Friday morning that I began researching how to take the bus to Walmart, all while worrying that the wait alone might swallow the entire gap between my morning and afternoon classes.
 
-欣喜万分之际，在当天额外加的Chapel期间也精神了不少（周一和周三的那两次基本在睡觉）
+By coincidence, I ran into Professor Zheng from my church and poured out the whole problem to him. He thought for a moment. “I happen to be free. I can take you.”
 
-抵达沃尔玛，在郑教授的指点下挑好了五花和葱姜蒜，即刻回程打理食材。回到宿舍，在室友的指导下向今晚Party的主人家Woodworth太太发消息，询问能否借用厨房。在上完下午的课后得到了肯定的答复，于是带上从Gowing太太那里借到的高压锅，4点多时便启程前往目的地。
+In my delight, I was considerably more alert during the extra Chapel session that day. I had slept through most of the Monday and Wednesday ones.
 
-制作的过程反而成了最微不足道的了。Woodworth先生表示厨房随便用，还给我找来了油和糖。中途，除了炒糖色时小小地翻了一下车（指弄得满屋浓烟），其余一切顺利。把肉放进高压锅，抬头一看时间差不多，就给奶奶打了个视频通话。
+At Walmart, Professor Zheng helped me select pork belly, scallions, ginger, and garlic. We immediately returned so I could prepare the ingredients. Back at the dorm, my roommate helped me message Mrs. Woodworth, whose family was hosting that night's party, to ask whether I could use their kitchen. After my afternoon classes, she replied yes. I collected the pressure cooker I had borrowed from Mrs. Gowing, and a little after four, I set off for their house.
 
-回过神来，房子里已经聚集了不少同学。当打开高压锅捞出肉时，我就意识到这次炖过头了。一边担心着肉不能放太久不然就凉了，另一边等待着Woodworth先生的归来（对他出去买披萨了）
+The cooking itself turned out to be the least remarkable part. Mr. Woodworth told me to use anything in the kitchen and even found oil and sugar for me. Apart from a minor derailment while caramelizing the sugar—meaning I filled the entire house with smoke—everything went smoothly. I put the pork into the pressure cooker, looked up to see that the time was about right, and video-called Grandma.
 
-哎，等不及了。看了看室友（后者给我比了个大拇指），我清了清嗓子：
+By the time I came back to myself, quite a few students had gathered in the house. The moment I opened the pressure cooker and lifted out the pork, I knew I had cooked it too long. On one hand, I worried that it would turn cold if it sat out. On the other, I was waiting for Mr. Woodworth to return. He had gone out to buy the pizza.
 
-> 同学们！全体目光向我看齐我宣布个事啊（划），这两盘肉呢，是我爷爷生前教我做的。他在不久之前因车祸离世后，我就一直想着要纪念他。不过，我现在离中国太远了，能做到的也就只有这些。
+Ah, I could not wait any longer. I looked at my roommate. He gave me a thumbs-up. I cleared my throat.
 
-> 我的爷爷出生于1949年，和中华人民共和国岁数相同。他是一个好人，并且一生都贯彻了这一点。我和父母曾不止一次地给他传过福音，他也表示愿意接受，可是想等到去世前再受洗……不过，一切来得都太突然了。
+> Everyone! May I have your attention? I have an announcement—cross that out. These two plates of pork were made from a recipe my grandpa taught me while he was alive. Ever since he died in a car accident not long ago, I have wanted to do something in his memory. But I am very far from China now, and this is about all I can do.
+>
+> My grandpa was born in 1949, the same year as the People's Republic of China. He was a good man, and he lived that goodness throughout his life. My parents and I shared the gospel with him more than once. He said he was willing to accept it, but wanted to wait until just before his death to be baptized... Everything happened too suddenly.
+>
+> But I believe that, in his final moments, he must have thought of Jesus. He must have thought of the faith of his son and his grandson. And I believe that one day I will see him again.
+>
+> Thank you to the Woodworth family for letting me use their kitchen, even though the host himself is currently absent. (Laughter.) Thank you to my roommate, Joel, for encouraging me to take this step. Thank you to Professor Zheng for taking me to buy the ingredients this morning. Thank you to Mrs. Gowing for lending me the pressure cooker. Thank you to everyone willing to listen to me today. And, more importantly, thank God for making all of this possible.
 
-> 但我相信，在他的弥留之际，一定想到过耶稣，一定想到过他儿子孙子的信仰。我也相信着，总有一天会与他重逢。
+...
 
-> 感谢Woodworth一家愿意给我用他们的厨房，尽管主人目前并不在场（笑），感谢我的室友Joel鼓励我迈出了这一步，感谢郑教授带我早上去买到了食材，感谢Mrs. Gowing愿意借给我高压锅，感谢今天每一个愿意听我讲这些的人，更重要的是，感谢让这一切发生的神。
+Afterward, many classmates came to tell me they would pray for me. Both large plates of pork received unanimous praise, and almost nothing remained by the end.
 
-……
+At last, I picked up a piece and tasted it too.
 
-之后，有不少同学来找到我，表示会为我代祷；两大盘肉得到了交口称赞，到最后也没剩多少。最后，我也拾起一块尝了一尝。
-
-是熟悉的味道呢
+It tasted familiar.

@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-111"
+title = "Sojourner's Diary - 111"
 date = 2025-09-13T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-啊？怎么就这么毫无征兆的咕咕咕了几天？鉴定为打丝之歌打的（
+Huh? How did I vanish for several days without warning? Diagnosis: too much *Silksong*. (
 
-这几天发生的事有点多，作为身在远方的弟兄不能帮到实际，但总归是要给一些劝勉的，毕竟多多少少也算是经历过大风大浪的（真是吗）
+Quite a lot has happened over the past few days. As a brother far away, I cannot offer much practical help, but I should at least offer some encouragement. After all, I have weathered my share of great storms. (Have you really?)
 
-今天去参加了学校组织的社区服侍，说着高级实际上就是帮忙小到清清灌木杂草，大到砍砍树开开叉车而已（好吧当然不是我在开）。这个过程里还和LeTourneau的一个Society里的同学彼此认识了，也了解了这个“冷门宿舍”的大概情况。
+Today I joined a community-service event organized by the university. That sounds grand, but it amounted to everything from clearing shrubs and weeds to cutting down trees and operating a forklift. (All right, *I* was obviously not driving it.) Along the way, I met a student from one of LeTourneau's Societies and learned roughly how these “alternative dorms” work.
 
-既然是“宿舍”，居住必定是首要目的。但相比普通宿舍，Society的好处就是你能自己装修自己的房间。同时，因为大家都住在一栋房子里，平日大大小小的活动也都大概率会参与，久而久之就能彼此熟络，共谋大事了。我听说他们经常在学期初有Opening House的安排，可惜这次错过了。
+Since they are still dorms, housing is naturally their primary purpose. Their advantage over ordinary residence halls is that you can renovate and decorate your own room. And because everyone lives together in one house, you are likely to join all the everyday activities, large and small. Over time, everyone gets to know one another, and then you can plot great undertakings together. I hear they usually host an Open House near the beginning of each semester, but sadly I missed this one.
 
-当然，作为一个新生，你是不能加入Society的。在这里学习一年之后，你可以向Society的管理员提交申请，然后和每一位成员见面交流之后，大多数人同意方可加入。这次我认识的同学都是来自一个名为“Alpha Omega”的组（顺带一提，我的教授Dr. Gowing刚好经常参与他们的活动），听闻另外两个Society中，一个专门为航天专业的学生和持证飞行员设立，还有一个是学校最古老的Society。
+Freshmen cannot join a Society, of course. After studying here for a year, you may submit an application to its officers. You then meet every member, and you can only join if a majority approves. The students I met today all belonged to Alpha Omega. Incidentally, my professor, Dr. Gowing, often attends their events. I was told that, of the other two Societies, one is specifically for aviation students and licensed pilots, while the other is the oldest Society on campus.
 
-不过我嘛……目前来说，还是觉得离食堂近一点的South Hall更佳！
+As for me... for now, I still prefer South Hall. It is closer to the cafeteria!

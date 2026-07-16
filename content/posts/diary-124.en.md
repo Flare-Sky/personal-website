@@ -1,51 +1,55 @@
 +++
-title = "寄居者的日记-124"
+title = "Sojourner's Diary - 124"
 date = 2025-12-31T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Puzzle","Geocaching"]
 +++
 
-又到了每年的这个时候，年度总结那自然是不能落下的。看看今年能在23:59之前赶出夺少内容（
+It is that time of year again, and naturally the annual retrospective cannot be omitted. Let us see how much I can finish before 11:59 p.m. (
 
-值得一提的是，关于这一年我在PH圈的经历，一方面担心写着写着达到微信字数上限挤占其他内容空间，另一方面根据我这一年来的反馈貌似身边没有太多人热衷于此，故单独成文。视频在29日解谜队伍的TPAPWRAPA直播中震撼首发，随后与配套图文专栏一并上传至b站。感兴趣的b站关注诸葛天曜谢谢！
+One thing worth mentioning: I gave my experiences in the Puzzle Hunt community this year their own article. On one hand, I feared I would hit WeChat's character limit and leave no room for anything else. On the other, judging from the feedback I have received all year, not many people around me are particularly obsessed with this subject. The video made its earth-shattering debut during the puzzle team's TPAPWRAPA livestream on the 29th, then appeared on Bilibili together with the companion article. If you are interested, please follow Zhuge Tianyao on Bilibili. Thank you!
 
-既然说到了b站，那还是惯例重述一下阿b那里年度总结的内容：首先是成功减少了刷视频的天数，从去年震撼的352锐减至350，可喜可贺（
+Since Bilibili has come up, let me repeat the annual-summary material I posted there, as tradition demands. First, I successfully reduced the number of days on which I watched videos, plummeting from last year's astonishing 352 to a mere 350. Cause for celebration. (
 
-作为观众看得最多的自然是中术相关内容，因此年度up成功地被周刊组霸榜。更详细的内容欢迎移步寄-105的周刊年度回顾（b站上也有专栏！）
+As a viewer, I naturally watched more Chinese vocal synth content than anything else, so the Weekly Chart team swept the rankings for my creators of the year. For details, please consult the chart anniversary retrospective in Diary 105. There is a Bilibili article too!
 
-而作为一名up主，我也是成功地在今年突破了百粉大关（甚至突破了两次）。最满意的作品自然是[【金牌解谜】你让我做这玩意？](https://www.bilibili.com/video/BV1guhbzZEto/) 明年再接再厉，争取在整活这方面把所有观众创似（
+As a creator, I also successfully passed one hundred followers this year. I even did it twice. The work I am proudest of is naturally [*Gold Medal Puzzle: You Want Me to Make This?*](https://www.bilibili.com/video/BV1guhbzZEto/). Next year I will keep working hard and strive to kill every viewer with increasingly deranged projects. (
 
-同样在今年成功破百的还有我Geocaching的寻宝数量。从去年PD的“[倒三角](https://www.geocaching.com/geocache/GCB06GM_inverted-triangle)”到GC25周年的“[发现身边的25（前面没有3）](https://www.geocaching.com/geocache/GCA2025)”Locationless宝，2025的寻宝之旅也圆满了。明年学会开车后，效率那必然是与日俱增啊
+My number of geocache finds also passed one hundred this year. From PD's [*Inverted Triangle*](https://www.geocaching.com/geocache/GCB06GM_inverted-triangle) last year to the GC25 anniversary Locationless Cache [*Find 25 Around You (Without a 3 in Front)*](https://www.geocaching.com/geocache/GCA2025), my 2025 geocaching journey has reached a satisfying conclusion. Once I learn to drive next year, my efficiency will surely rise by the day.
 
-对，我考到美国的驾照了。正如之前说过的，从开始线上申请到拿到驾照不超过一周时间。算上配镜费用（验光数据和初三那次相去不大，果然都怪网课）一共不到5000人民币，可以说是挺实惠的。关键是这边驾校第一堂课就让我去附近的街区路上开，果然在实践中学得就是快
+Yes, I obtained an American driver's license. As I said before, less than a week passed between beginning the online application and receiving the license. Even including new glasses—the prescription was not far from the one I had in ninth grade; online classes really were to blame—the total came to under RMB 5,000, which was quite reasonable. More importantly, the driving school put me behind the wheel on nearby neighborhood streets in the very first lesson. You really do learn quickly through practice.
 
-然后就是我到了美国上大学，而且最近几年估计很难回去一趟。今年我第一次走出亚洲，来到大洋洲和北美洲（同时我也在三个大洲都找过宝，这么一说瞬间就高大上起来了）
+And then, of course, I came to America for university. I probably will not be able to return for several years. This year I left Asia for the first time and visited Oceania and North America. I have also found geocaches on three continents, which sounds instantly more impressive when phrased that way.
 
-在LETU（我的大学）这边的经历之前的日记一直有叙述，最近也在筹备着将这些内容整合放进网站里（不过大概国内访问不了就是了）。一句话概括：这里的人真的很好，是一个绝佳起点！
+Earlier entries have chronicled my life at LETU, and I have recently been preparing to organize that material on my website, though it probably will not be accessible from mainland China. In one sentence: the people here are genuinely wonderful, and this is an excellent place to begin!
 
-把时间线倒拨回离开之前，在6月，我和父母有过一趟西进新疆的毕业旅行（弟弟还要上学怎么办？丢掉咯）。路上偶然的相遇终成知音，相关素材还都堆在硬盘里敬请期待！
+Rewind the timeline to June, before I left. My parents and I took a graduation trip west to Xinjiang. What about my brother, who still had school? We abandoned him. A chance meeting on the road became a meeting of kindred spirits. All the material is still piled on my hard drive, so please look forward to it!
 
-再之前就是在北京和威海的学习，现在想来当时除了吃了上顿没下顿之外没啥不好的。北京是座大城市，临走前才意识到有好些地方仍然没去成。留个念想，未来可期！
+Before that came my studies in Beijing and Weihai. Looking back, Beijing was not bad at all, apart from never knowing where my next meal was coming from. It is a vast city, and only when I was about to leave did I realize how many places I had never visited. Leave something for the imagination. The future awaits!
 
-而威海相对而言就丰满许多了，不过在离开之后藏的那些宝可得找个机会补上哈哈
+My time in Weihai was comparatively full, though I still need to find an opportunity to finish the caches hidden after I left, haha.
 
-哦对了，在北京值得一提的当然是用工资看了一次刘谦的巡演，并且幸运地抓到了最后一个在魔壶上签名的名额，更是在随后的高清场照中找到了自己写的名字。哇好梦幻
+Oh, and the obvious Beijing highlight: I used my salary to see Liu Qian's touring magic show. By extraordinary luck, I claimed the final slot to sign the Magic Pot, and later found my own handwriting in the high-resolution event photos. Whoa. It still feels like a dream.
 
-这一年仍然关注着五维介质，见证了永夜、海伊、牧心三个AI声库的推陈出新；然而并没有在调校方面迈出任何一步，没关系等将来SVAI更新了就是更好的无脑抽卡式调声，与其自己进步不如等科技进步！
+I continued following Medium⁵ this year and witnessed the arrival of three new AI voicebanks: Yongye, Haiyi, and Muxin. I did not, however, take a single step forward in tuning. Never mind. Once Synthesizer V AI improves in the future, tuning will become an even better brainless gacha simulator. Why improve myself when I can wait for technology to improve instead?
 
-这一年等到了妄想症第《十重告别》，见证了《反乌托邦》的横空出世直到神话（千万播放），惊讶于水逆（《我的悲伤是水做的》）的热潮一波又一波，理解了为什么《勾指起誓》会被称为“周刊老流氓”，被《请不要带我走》带走了，听着《空心人札记》的名字想去吃炸鸡，在《皈依者狂热》的反讽下反思，在《九光年宇宙》的流泪中流连，在《理想主义患者》的感动中感叹，在《奔赴山海》的豁达中豁然。与此同时，也发现了许多宝藏作编曲、作词和p主，视野终于不再局限于官方的一板一眼，百花齐放才是最健康的生态！
+This year, I finally received the next *Paranoia* installment, *Tenfold Farewell*. I watched *Dystopia* appear from nowhere and ascend into legend with ten million views. I marveled as wave after wave of enthusiasm carried *My Sorrow Is Made of Water*. I understood why *Pinky Swear* is called the weekly chart's resident hooligan. *Please Don't Take Me Away* carried me away. The title *Notes of a Hollow Man* made me crave fried chicken. I reflected beneath the irony of *Convert's Zeal*, lingered in the tears of *Nine-Light-Year Universe*, sighed with emotion through *Idealism Patient*, and found release in the openness of *Toward Mountains and Seas*.
 
-这一年入坑并尝试了大量解谜游戏，玩过见证者，cypher，未上锁的房间，baba is you，画中世界等等经典之后，发现锈湖还是太友好了。当然，还是没能下到动物井，史低买了的取景器前几天E宝送了，我是怨种
+At the same time, I discovered many hidden treasures among composers, arrangers, lyricists, and producers. At last, my view was no longer confined to the official team's rigid frame. A hundred flowers blooming is the healthiest ecosystem of all!
 
-这一年终于玩到了丝之歌，我真幸运。这一年没能等到泰拉瑞亚1.4.5，暴击+4。这一年玩到了魔法少女的魔女审判，雪莉酱卡哇伊daisiki！这一年末尾入坑了鸣潮，二游我又回来啦（去年：我再也不会玩二游了；今年：真香）
+This year I entered the world of puzzle games and tried a great many of them. After playing classics such as *The Witness*, *Cypher*, *The Room*, *Baba Is You*, and *Gorogoa*, I discovered that Rusty Lake had actually been treating me kindly. I still never managed to download *Animal Well*. I bought *Viewfinder* at its historical lowest price, only for Epic to give it away a few days ago. I am the sucker.
 
-当然还是坚守于MC。顺利通关传奇CTM地图《最终悖论》后现在在带弟二刷，惊叹于绝妙的BOSS战设计的同时被粪怪气晕。btw，那位被我带的人现在用我的号玩起了各大服务器，听说Discord上大家都叫他“FlareSky”，有牛啊（bushi
+This year I finally played *Silksong*. How fortunate I am. This year I failed to see *Terraria* 1.4.5. Critical hit, plus four. This year I played *Witch Trial of the Magical Girl*. Sherry-chan kawaii, daisuki! At the end of the year, I fell into *Wuthering Waves*. Gacha games, I have returned! (Last year: I will never play another gacha game. This year: delicious.)
 
-这一年在hunt队长的极力推荐下补番了《葬送的芙莉莲》，动漫看完意犹未尽去看了漫画。这一年终于盼到了jojo第7部的动画化决定，不对大卫社抱有期待。这一年在好友的力荐下看了MyGO并顺利被Mujica喂了个大的。这一年仍然在看特摄，亚刻是谁？奥美迦又是谁？什么？60周年有赛少新电影那不得不看了。被《加布》后期震碎三观的坠机吓晕，至于说《zzz》？我祝他好运。这一年终于是（被瓶子带的）回顾了千禧年星云奖神作《假面骑士空我》，为其中那鲜活的人和事感动流泪
+Naturally, I remained faithful to Minecraft. After successfully completing the legendary CTM map *Final Paradox*, I am now leading my brother through a second run. I marvel at the brilliant boss design while the garbage mobs enrage me into unconsciousness. By the way, the person I dragged along now uses my account on all the major servers. I hear everyone on Discord calls him “FlareSky.” My identity has been stolen. (Not really.)
 
-这一年，我的爷爷离开了……
+At our Hunt captain's forceful recommendation, I caught up on *Frieren: Beyond Journey's End* this year. The anime left me wanting more, so I moved on to the manga. This year finally brought the announcement of a *JoJo's Bizarre Adventure: Part 7* anime, though I expect nothing from David Production. At a friend's fervent recommendation, I watched *It's MyGO!!!!!* and was then successfully served an enormous disaster by *Ave Mujica*.
 
-这一年，我变了但又似乎没啥变化。回顾自己写下的文字，似乎有一种“这人谁啊”的感觉。好在我把这样的历程都记录了下来，等到更远的将来，也许就能得出准确的答案
+I also continued watching tokusatsu. Who is Arc? Who is Omega? What? The sixtieth anniversary is bringing a new Ultraman Zero movie? Then I have no choice but to watch it. The spectacular crash in the latter half of *Kamen Rider Gavv* shattered my worldview and knocked me unconscious. As for *Zeztz*? I wish it luck. This year I finally revisited the turn-of-the-millennium Nebula Award masterpiece *Kamen Rider Kuuga*, led there by Pingzi, and cried for the vivid people and lives within it.
 
-但人生从没有参考答案
+This year, my grandpa left us...
+
+This year, I changed, and yet perhaps I did not change much at all. Looking back at the words I wrote, I sometimes feel as though I am asking, “Who is this person?” Fortunately, I recorded the journey. Perhaps, much farther in the future, I will be able to reach an accurate answer.
+
+But life has never come with an answer key.

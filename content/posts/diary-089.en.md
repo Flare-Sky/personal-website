@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-89"
+title = "Sojourner's Diary - 89"
 date = 2025-04-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Study"]
 +++
 
-今天写Art History论文去了，鸽一天。
+Spent today writing my Art History paper. One-day hiatus.

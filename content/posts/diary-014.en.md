@@ -1,23 +1,23 @@
 +++
-title = "Sojourner's Diary-14"
+title = "Sojourner's Diary - 14"
 date = 2024-10-21T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
 tags = ["Kuala Lumpur"]
 +++
 
-Then let it go! Having just finished writing "Boring Note," I feel incredibly powerful! What's homework? Not writing it!
+Then let them remain unspoken! Having just finished *Boring Notes*, I feel invincible! Homework? What's that? Not doing it!
 
-(Checking the schedule... Hmm, I'll just write for 4 or 5 minutes.)
+(Checks schedule... Fine, I'll write for four or five minutes.)
 
-I finally understood one thing: why sometimes, even when I have something to write, I can never bring myself to pick up a pen. It turns out it's because there are more convenient ways to consume time.
+I finally understand why, even when I have something to say, I sometimes cannot bring myself to start writing: there are simply more convenient ways to make time disappear.
 
-Often, with a phone, an hour, what I intended to write will slowly be blown away by the wind on the sand, never to be seen again.
+Give me a phone and an hour, and whatever I meant to write will slowly blow away like marks in the sand, never to be seen again.
 
-But now it's different. ~~My phone was taken away~~ I need to focus on studying. And at this time, my inner voice tells me I shouldn't watch videos and slack off anymore. So, after much deliberation, I picked up my pen.
+But things are different now. ~~My phone was confiscated~~ I have decided to focus on my studies. And right now, something inside me says I should stop watching videos and slacking off. So, after weighing the matter very carefully, I picked up my pen.
 
-After Apple updated the Notes app, I can finally list all previous content with titles and archive them (then fold them up and watch the computer visibly slow down). Now, I'm looking at a series of arithmetic progressions extending downwards, writing this paragraph. I want to tell my future self who will see this:
+After Apple updated Notes, I could finally give all my old entries titles and file them neatly away (and then collapse the list while watching my computer visibly slow down). Now, looking at that evenly spaced sequence of titles stretching down the screen, I write these words. To the future me who will one day read them:
 
-No matter what, don't give up on documenting your life. Even if you steal a moment from your busy schedule, you should pick up your pen to record, to release, to create.
+Whatever happens, do not give up recording your life. Even if you have to steal a moment from the middle of a busy day, pick up your pen—to record, to release, to create.
 
-5 minutes are up.
+Five minutes are up.

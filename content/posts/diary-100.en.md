@@ -1,38 +1,77 @@
 +++
-title = "寄居者的日记-100"
+title = "Sojourner's Diary - 100"
 date = 2025-06-24T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-晚安，《无聊的笔记》。
+Good night, *Boring Notes*.
 
-其实已经有好长一段时间没有在纸上写过东西了，纸质作品的读者毕竟局限，保存也是个问题。在临行收拾行李时，无意看到了这些本子，遂读之
+It has actually been a very long time since I wrote anything on paper. A physical work can reach only so many readers, and preserving it creates problems of its own. While packing for my departure, I happened across these notebooks. So I read them.
 
-那是一个并不月黑风高的晚上，当时仍是初中生的我们随学校军训的安排，在完成一周军训后又延续了一个月的“军事化管理+学习”的模式。当时应该是我人生中的第一次晚自习，但不是第一次自习。小学放学后时常跟同学往娃小旁边的杭十四跑然后一起写作业，为了赶紧写完有自由时间满高中跑，我练就了一身速通作业的技巧（而那位同学嘛……我们几天前还在聊天呢）。在完成因为刚开学而注定不繁重的作业、翻完老师下发大部分人毕业前动都没都过的诗词册、望着空荡荡的天花板出神想和舍友聊天反被老师瞪了一眼之后，我百无聊赖地打开了一个笔记本
+It was an evening neither moonless nor especially windy. We were still in middle school. After one week of military training, the school extended the arrangement into a full month of “military-style management + study.” That was probably my first evening self-study, though not my first self-study session. After elementary school, I often ran with a classmate to Hangzhou No. 14 High School beside Wawayu Primary School, where we would finish our homework together. We wanted to complete it as quickly as possible and spend the remaining time roaming the high-school campus, so I developed formidable homework-speedrunning skills. (As for that classmate... we were still chatting a few days ago.)
 
-我当时看过一档自媒体节目叫做“无聊的开箱”，其中大多在开箱过程中无厘头但确实幽默的情节是我很长一段时间的快乐源泉。于是，我给这本笔记本命名为“无聊的笔记（以下简称“无笔”，开始写起了自己一天的经历，还顺便画了当时站军姿时的简笔画（哇那天作业那么少的哦……）
+That evening, I finished the inevitably light homework of a new semester, flipped through the poetry booklet our teacher had distributed—which most students would never touch again before graduation—stared at the empty ceiling, tried to talk with my roommate, and received a glare from the teacher. With absolutely nothing left to do, I opened a notebook.
 
-也是在那个时候，我给自己想了个笔名：“诸葛天曜”。诸葛亮是我最喜欢的历史人物，“天”来自我的名字，“曜”寓意星辰又能代表“黑曜石（没错就是MC）”。当时我也不知道，自己一直在云但从未玩过的《王者荣耀》后来会出一个叫“东方曜”的英雄，以至于很长一段时间大家都以为我是个农批才起这么中二的名。
+At the time, I watched a self-media series called *Boring Unboxings*. Most of its unboxing process consisted of absurd but genuinely funny nonsense, and for a long while it was a reliable source of happiness. So I named my notebook *Boring Notes*—shortened from here on to *BN*—and began writing about my day. I even added a stick-figure drawing of myself standing at attention during military training. (Wow, we really did have that little homework...)
 
-于是，在用手边有的五色笔（黑蓝红绿铅）用不同字体花了个名字上去（对没有打错，我当时还挺艺术的），并自信地标上“诸葛天曜”的大名之后——《无笔》，堂堂连载！
+That was also when I invented a pen name for myself: “Zhuge Tianyao.” Zhuge Liang was my favorite historical figure. “Tian” came from my real name. “Yao” suggested the stars while also standing for obsidian. (Yes, the Minecraft block.) I had no idea that *Honor of Kings*, a game I had spent years pretending to understand without ever playing, would later introduce a hero called Dongfang Yao. For ages afterward, everyone assumed I had chosen such a chuunibyou name because I was an *Honor of Kings* addict.
 
-《无笔》一直是有一群读者的，他们大多是我身边的同学，一同在学习之余找些消遣，笑一笑聊以自慰。最早的那位读者现在仍是我的挚友，他受我的启发，以“司马昭白”之名写起了他的《万能笔记本》，鄙人有幸拜读过，文笔比我好很多（但终究我还是前辈嘛哈哈哈）；还有一位和某明星重名的同学（希望他能看到这条朋友圈），他在我对于写作这件事迷茫时坚定地表示“你不写了我们读什么”，成功让我跨过了从2到3的坎（比某个不会数三的游戏公司强了）；以及，我高中时期唯一坚持追更的读者，和我有过许多天马行空的鬼点子，我给他的生日礼物甚至还没送出去呢……
+Using the five colors available to me—black, blue, red, green, and pencil—I decorated a name in several different typefaces. (No typo there. I was rather artistic at the time.) Then, having confidently signed the great name “Zhuge Tianyao,” I launched *Boring Notes* in all its serialized glory!
 
-《无笔》里写过的内容更是森罗万象：有时候它单纯就是我的笔记本用于打草稿或是记录，但更多的时候，它是我释放自己想象力的“半位面”。起初军训时，我们三排的教官，代号“猞猁”，曾经在我们顶着烈日站军姿时打趣我们中姿势不标准，手没紧贴身体两侧的同学为“捂裆派”。故而，他名正言顺地成为了我们口中“捂裆派”的初代掌门人（这哪里名正言顺啦喂！）在那之后，凭借在教官面前整的活，我们有了“第二代”和“第三代”掌门，其中那位第二代掌门，后来成为了我骑车上下学的骑友，上次还一起回过校。当时我就在筹备着一份“捂裆构史”，力图以最无厘头且中二的方式记录军训的趣事。于是我们“捂裆派”有了“八方神器”——那些导致同学被处分的违禁品；和“传承规则”，我也就此成为了“技术支持”，进而坐上了“第四代掌门”的位置。现在光看看就脚趾抠地抠出三室一厅的文字，却实在承载了我们那段时间的欢声笑语
+*BN* always had a small circle of readers. Most were classmates beside me, looking for entertainment between lessons and something to laugh about for comfort. The earliest reader remains one of my closest friends. Inspired by me, he took the name “Sima Zhaobai” and began his own *All-Purpose Notebook*. I had the honor of reading it; his prose was far better than mine. (But I am still the senior here, hahaha.) There was also a classmate who shared his name with a celebrity—I hope he sees this Moment. When I became lost and uncertain about writing, he declared without hesitation: “If you stop, what are we supposed to read?” That carried me across the great chasm from volume two to volume three. (Better than a certain game company that cannot count to three.) And then there was the only reader who followed every update throughout my high-school years. Together we invented all manner of impossible, ridiculous ideas. I still have not even delivered his birthday present...
 
-后来我像大部分中学生一样，开始写起了自己的小说。但因为时间不允许加上我热爱学习（真的吗），大部分的故事在纸上都只是开头，具体内容有的化为了“设定集”记录在备忘录里，有的以“说书人”的方式化为了我两位弟弟的童年记忆。我仍然记得它们的名字——以《洛洛历险记》为灵感来源，结合我刚玩MC时的经历写成的《天域传说》（甚至名字都是抄某个知名MC地图的）；结合我在大型模组“暮色森林”里到处乱飞（当时不敢开生存）写出的《暮色启示录》；玩某RPG服务器粗浅经历写出的《曙光初现》；玩某生存地图得到灵感，缝合亿点点《斗罗大陆》和月影yancie视频《天灾之下》（什么时候更新第4集！）的内容写成的《星空之下》；读《三体》等科幻读嗨了想写个科幻，最后还是被《神秘的快递家族》影响写成超能力大乱斗的《星墟》……这些内容虽然在《无笔》中只有一点点，但展开来又是另一个很长的故事喽
+The contents of *BN* covered everything under heaven. Sometimes it was simply a notebook, used for drafts or records. More often, it became a “demiplane” in which I could release my imagination.
 
-然而（是的现在才是重点），以上的内容通通不是《无笔》的主要内容。有时候为了讲段子，你往往需要的会是相声甚至是小品而非个人脱口秀。于是在《神快》后记“演员碰头会”的启发下，我当场精分出了n个人格开始写对话体整活。命名这个在写小说时困扰我许久的问题此时也不是个事：他们的名字是“甲乙丙丁戊己”，个性则在我一次次的写作中自然而然地生发了出来：甲是个暴躁老哥，会像《那年那兔那些事儿》里催更的人一样把作者羹了；乙是像《十万个冷笑话》的主角那样的吐槽役，擅长和甲一唱一和；丙是头脑担当的不高兴，没有什么存在感，戏份尝尝被甲乙抢走；丁是大智若愚的没头脑，但同样戏份不多；戊是某昭白在《无笔》中的化身，有时是我负责语C有时则由他本人执笔；己是甲的妹妹，寄托了我对于想要个妹妹的所有幻想，比她哥成熟稳重，还有扫地僧那样的传世武功。其中，甲和己的设定直接取自我小学看到《王者荣耀》（还有callback）中“长城守卫军”谱系灵感爆发写出的《守卫者传奇》（嗯，和《猫头鹰王国》大电影同名），在当时他们分别是男主旭和他的妹妹尹，父亲焰是对抗魔族的主力军战死沙场，母亲则在生出尹之后过世（一个“难产而死”让昭白笑了我一个学期……）。这些内容在《无笔》2结尾时有所提及。而其大纲与后来小学走路回家团的同学们融合变成了“幸存者联盟”，直到如今我们还是会在某人的号召下时不时聚一聚，固定碰头地点是西湖银泰角落的那家麦当劳（可惜上次我因为还在马来错过了……下次又是什么时候呢）哦对了，角色里还有不可或缺的\[旁白\]（没错他说话带方括号），前期试图绝对中立但最后还是加入了作者迫害大军（我是不是有点M的倾向……不然干嘛分裂这么多Mortis出来试图代替我）
+During that first military training, the instructor responsible for our third row used the codename “Lynx.” As we stood at attention beneath the blazing sun, he joked that anyone whose hands failed to press tightly against their sides belonged to the “Crotch-Covering Sect.” He therefore became, by perfectly legitimate succession, the sect's founding master. (What part of that was legitimate? Hey!) Afterward, through various bits performed directly in front of our instructors, we acquired a second- and third-generation master. The second master later became my cycling companion on the way to and from school; we even visited the old campus together last time.
 
-《无笔》整体的写作脉络呢，特别像《神快》作者的另一部作品《段子上的西游》（天知道这部作品对当时还是小学生的我造成了多少影响……当时天真的我听过某同桌绷住笑意尽力解释之后长大了许多，补兑！）正文漫不经心充满笑料，结尾突然正经+中二，有一种反差带来的严肃感，以及这种严肃感带出的笑点。这不巧了吗，《无笔》中也有一篇《〈西游记〉新编》，并且是唯一一份全程在《无笔》连载并且完结的作品。我还是觉得当时把“皮蛋瘦肉粥”算入四大洲，结尾让唐僧在徒弟纷纷离他而去（嘎了）后，对诸天神佛“你悟了么”的质问，回答的“悟空，悟能，悟净”真是天才的想法。虽然有直接抄《段西》的内容，但大多原创的笑话还是让我就算是现在看还是很难绷得住
+I began planning a *Constructed History of the Crotch-Covering Sect*, determined to preserve the funniest stories of military training in the most absurd and chuunibyou way possible. Thus our sect acquired its “Eight Artifacts of Every Direction”—the forbidden items that had earned classmates disciplinary action—and its “Laws of Succession.” I became “technical support,” then ascended to the seat of fourth-generation master. Reading it today makes my toes curl hard enough to excavate a three-bedroom apartment, yet those words truly hold all the laughter of that period.
 
-于是，在写过这么多内容之后，该结尾了。一般来说，《无笔》的结尾会是一场《银格》那样的大乱斗，可惜没有坂本的武术指导很难有优秀打戏（真有吗喂），然后是大家嚷嚷着“杀青啦”拍的大合照（疫情期间完结的第2本结尾是机器人+面部图片的组合，借鉴了当时新闻提到的别样毕业照），结尾还会有一道谜题，优先解出者能得到来自诸葛天曜的“丰厚”奖励（虽然似乎从来没有人拿到）。然后就会是一轮新的循环：开头超长前摇回顾一下往昔，中间不正经整几个活再写几篇文，结尾一定要大战！然后包饺砸！（鼓掌）
+Later, like most middle-school students, I began writing novels. Time was limited and I loved studying. (Did I?) Most stories never became more than openings on paper. Some expanded into “setting bibles” stored in Notes; others became childhood memories for my two younger brothers through my performances as a storyteller.
 
-但是逐渐地，我写作的时间越来越少。倒不是找不到本子了——《无笔》在我长途旅行中是必备品；也不是没有空闲时间——我总是因为太闲被父母说（真打起Puzzle Hunt了他们又不高兴）。一方面可能是因为自己“无聊”的时间越来越少了，尤其在上了Omnibus课之后，几乎所有的文采全部用于写Essay了（也是写了整整3大本纸质，后来转战线上去电报频道“晨星工作室”发文了欢迎来[@morningstar_high](https://t.me/morningstar_high)浏览！）；另一方面可能就是对于读者的渴望吧。我不满足于自己在本子上写写日记给未来的自己看，更希望能得到实时的反馈与认可
-于是，我开始写《寄居者的日记》
+I still remember their names. *Legends of the Celestial Realm*, inspired by *The Adventures of Lolo* and my earliest experiences in Minecraft. (Even the title came from a famous Minecraft map.) *Twilight Apocalypse*, born from flying everywhere through the enormous Twilight Forest mod because I was too afraid to play Survival. *The First Light of Dawn*, based on my shallow experience with an RPG server. *Beneath the Starry Sky*, inspired by a survival map and stitched together with just a tiny billion elements from *Soul Land* and Yueying Yancie's video series *Beneath the Calamity*. (When is episode four coming?!) And *Star Ruins*: I read too much science fiction, including *The Three-Body Problem*, decided to write science fiction myself, and still ended up under the influence of *The Mysterious Courier Family*, producing an all-out superpower brawl.
 
-哇，一个不注意写了这么多了，感觉好像把前半生都回顾了一遍哈哈。我是幸运的，身旁始终有着愿意倾听我的读者与伙伴。如今就算写的东西再如何nerd，也会有人愿意去看，在我因为各种原因没有及时发布时来催更。我真的很感谢每一个在我生命这本笔记上留下过印记的人们——那些我匿名提到的，那些我一时疏漏忘记提到的，以及那些我无需提到的。更是要感恩这本笔记的最终作者
+Only fragments of these stories appear in *BN*, but opening any one of them leads into another very long tale.
 
-那并不是我，而是那位天上的主。
+However—and yes, only now do we reach the point—none of the above was the main content of *Boring Notes*.
+
+Sometimes a joke needs cross-talk, or even an entire sketch, rather than one person delivering stand-up. Inspired by the “Cast Meeting” afterword in *The Mysterious Courier Family*, I split myself on the spot into *n* personalities and began writing nonsense in dialogue form. Naming characters, a problem that had tormented me throughout my novels, suddenly became trivial. Their names were simply A, B, C, D, E, and F. Their personalities emerged naturally as I wrote them again and again.
+
+A was the furious older brother. Like the readers demanding updates in *Year Hare Affair*, he might turn the author into soup. B played the straight man, like the protagonist of *One Hundred Thousand Bad Jokes*, and specialized in trading lines with A. C was the intelligent but perpetually unhappy one. He had very little presence, and A and B constantly stole his scenes. D was the absent-minded fool who occasionally revealed great wisdom, though he did not receive many scenes either. E was a certain Zhaobai's incarnation within *BN*: sometimes role-played by me, sometimes written by the man himself. F was A's younger sister, carrying every fantasy I ever had about wanting a little sister. She was calmer and more mature than her brother and possessed legendary martial arts worthy of a hidden grandmaster.
+
+A and F came directly from *Legend of the Guardians*, a story I wrote in elementary school after a sudden explosion of inspiration from the Great Wall Guards in *Honor of Kings*. (There is the callback.) Yes, it shared a title with the *Guardians of Ga'Hoole* film. Back then, A was the male protagonist Xu and F was his sister Yin. Their father, Yan, served as a main force against the demons and died in battle; their mother died giving birth to Yin. (The phrase “died in childbirth” kept Zhaobai laughing at me for an entire semester...) Some of this appeared near the end of *Boring Notes 2*.
+
+The outline later merged with the classmates from my elementary-school walking-home group and became the “Survivors' Alliance.” Even now, one person's summons will occasionally bring us together. Our fixed meeting point is the McDonald's tucked into a corner of West Lake Intime. (Sadly, I missed the last gathering because I was still in Malaysia... when will the next one be?)
+
+Oh, and the cast also included the indispensable \[Narrator\]. Yes, his dialogue came with square brackets. Early on he attempted absolute neutrality; by the end, he too had joined the grand army dedicated to persecuting the author. (Do I have masochistic tendencies? Why else would I split off this many Mortises to replace me?)
+
+The overall structure of *Boring Notes* greatly resembled *Journey to the West Through Jokes*, another work by the author of *The Mysterious Courier Family*. Heaven alone knows how deeply that series affected elementary-school me... Innocent little me grew up a great deal after listening to a certain deskmate suppress his laughter while attempting an explanation. Please allow me to apologize retroactively! The main text wandered carelessly from joke to joke, then the ending suddenly turned serious and chuunibyou. The contrast created solemnity—and the solemnity created another joke.
+
+What a coincidence: *BN* contained its own *Journey to the West: A New Adaptation*, the only work serialized and completed entirely within its pages. I still believe that counting “century-egg and pork congee” among the Four Great Continents was an act of genius. So was the ending: after all his disciples had left him (meaning: died), Tang Sanzang faced the gods and Buddhas demanding, “Have you attained enlightenment?” His answer was “Wukong, Wuneng, Wujing”—the names of his disciples, each beginning with *Wu*, “awakening.” Some material was copied directly from *Journey Through Jokes*, but most of the jokes were original, and even now they are almost impossible for me to read with a straight face.
+
+After writing all that, it was time for an ending.
+
+Normally, *Boring Notes* would conclude with an enormous free-for-all like *Ultra Galaxy Fight*. Unfortunately, without Sakamoto directing the action, a high-quality battle scene was difficult to achieve. (Was there ever a real battle scene? Hey.) Then everyone would shout, “That's a wrap!” and pose for a group photo. Volume two ended during the pandemic, so its photo combined robots with pictures of everyone's faces, inspired by the unusual graduation photos appearing in the news at the time.
+
+The ending also contained a puzzle. Whoever solved it first would receive a “generous” reward from Zhuge Tianyao, though nobody appears ever to have claimed one. Then another cycle would begin: an absurdly long opening windup reviewing the past, nonsense and assorted stories through the middle, and an obligatory final battle! Then everybody makes dumplings! (Applause.)
+
+Gradually, however, I wrote less and less.
+
+It was not because I could not find the notebooks—*BN* was required equipment on every long journey. Nor was it because I lacked free time—my parents constantly complained that I had too much of it. (Then when I actually joined a Puzzle Hunt, they were unhappy about that too.)
+
+Part of the reason may be that my truly “boring” hours became rarer. Once I began Omnibus, especially, nearly all my literary energy went into essays. Those filled three entire physical notebooks before I moved online and began posting to the Telegram channel “Morning Star Studio.” You are welcome to visit [@morningstar_high](https://t.me/morningstar_high)!
+
+Another reason may simply have been my hunger for readers. Writing a private diary in a notebook for my future self was no longer enough. I wanted immediate feedback. I wanted recognition.
+
+And so I began writing *Sojourner's Diary*.
+
+Wow. I looked away for one moment and wrote all of this. It feels as though I have reviewed the entire first half of my life, haha.
+
+I have been fortunate. There have always been readers and companions beside me, willing to listen. No matter how nerdy my writing becomes, someone is still willing to read it—and to demand an update when, for one reason or another, I fail to publish on time.
+
+I am truly grateful to every person who has left a mark on the notebook of my life: those I mentioned anonymously, those I accidentally forgot to mention, and those who never needed to be mentioned.
+
+Above all, I give thanks to the final Author of this notebook.
+
+That Author is not me, but the Lord in heaven.

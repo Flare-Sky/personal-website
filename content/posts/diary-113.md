@@ -3,7 +3,7 @@ title = "寄居者的日记-113"
 date = 2025-09-24T12:00:00-05:00
 draft = false
 categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+tags = ["朗维尤","解谜"]
 +++
 
 昨天的Cornerstone课接近尾声时，老师让我们打了一次小Puzzle Hunt。

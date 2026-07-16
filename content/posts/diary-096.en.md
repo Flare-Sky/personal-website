@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-96"
+title = "Sojourner's Diary - 96"
 date = 2025-06-20T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["湛江"]
+categories = ["Sojourner's Diary"]
+tags = ["Zhanjiang"]
 +++
 
-今天写了一篇涉及超级多人和事的回顾文，结果触碰到朋友圈这个古神的底层规则了（字数超2000发不出去呜呜呜），待我稍作修改，在《寄》满百期的时候发！
+Today I wrote a retrospective involving an absurd number of people and events, only to collide with the ancient god Moments and its deepest law. (More than 2,000 characters cannot be posted, noooo.) Give me time for a few edits; I will publish it when *Sojourner's Diary* reaches one hundred!

@@ -8,7 +8,7 @@ tags = ["Hangzhou"]
 
 A busy, bustling day.
 
-This morning, I finally managed to wake up early for once, and then spent the time packing my luggage. Squeezing everything into the checked suitcase felt like studying close packing of spheres—and successfully keeping the weight under 20 kg is truly an art in itself.
+For once, I finally managed to wake up early, then immediately set about packing. I stuffed everything into my checked suitcase as if solving the densest packing of cubes and successfully held it below twenty kilograms. That, too, is a technical skill.
 
 After lunch, I was busy rushing to catch the train and then the flight. It felt like most of the day was spent on transit. Since there was no Wi-Fi on the plane, I used this time to quickly draft something—tomorrow's speech draft! Ah, as expected of me, efficiency is always at its peak right before the deadline!
 

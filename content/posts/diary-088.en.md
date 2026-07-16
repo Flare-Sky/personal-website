@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-88"
+title = "Sojourner's Diary - 88"
 date = 2025-04-14T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Sport"]
 +++
 
-明明已经过了大风预警的时间，今天的风怎么还是这么大……
+The gale warning has already expired, so why is the wind still this strong today...?
 
-终于起来跑了步！感觉几周没见奥北森林公园大变样了，路边各样的花朵盛放着，伴着一声声“早上好”，开启了新的一天。
+At last, I got up and ran! After only a few weeks away, Aobei Forest Park seemed completely transformed. Flowers of every kind bloomed beside the path, and one “good morning” after another opened the new day.
 
-这跑步就应该在大风天之后跑啊，至少不会被柳絮袭击然后顶级过肺（
+Running really should happen right after a gale. At least the willow fluff cannot attack you and achieve maximum lung penetration (
 
-决定了，每天都要早起跑步！
+Decision made: early run every day!

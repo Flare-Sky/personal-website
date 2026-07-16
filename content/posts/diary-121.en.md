@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-121"
+title = "Sojourner's Diary - 121"
 date = 2025-11-13T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview","Study"]
 +++
 
-时隔n多日再见，我想死你们啦！
+We meet again after n days. I missed you all so much!
 
-最近做了个网站，总之就是介绍了一下我的大学以及我在这里的经验分享。之前张老师跟我说9月底有个给小一辈孩子的分享也不知道鸽到什么时候了，所以干脆就在这里发出来吧：
+I recently made a website introducing my university and sharing some of my experiences here. Teacher Zhang once asked me to give a talk for some younger students at the end of September, but who knows how long I will keep procrastinating on that? I may as well publish this instead:
 
 [My Life at LETU](https://sites.google.com/view/flares-blog/)
 
-需要科学上网。目前网站全英文，因为这其实是我的英语写作课作业（被打），将来会陆续将《寄居者的日记》系列归档在上面方便查找~~黑历史~~（最后还是放到这里了）。同时也欢迎向我提问，内容可能会加进网站！
+You will need a VPN to access it from China. The site is entirely in English for now, because it was actually an assignment for my English Composition class. (Gets punched.) In the future, I will gradually archive the *Sojourner's Diary* series there, making all my ~~dark history~~ entries easier to find. (In the end, I still put them here.) Questions are also welcome; the answers may be added to the site!
 
-哎Google Site真好用吧。
+Ah, Google Sites is wonderful.
 
-*\*网站目前没有藏题，不知道日后会不会（*
+*\*There are currently no hidden puzzles on the site. Who knows about the future? (*

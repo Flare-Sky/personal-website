@@ -24,6 +24,6 @@ tags = ["Beijing"]
 |22:00-23:00|Solving Ji's puzzles (Double first-blood, hooray!), washing up, shaving (how did my beard get so long), cleaning the toilet, calling classmate to go home|
 |23:00-24:00|Writing diaries, editing diary status/posts, lights out, sleeping|
 
-Following a friend's advice, I recorded the day's schedule in hindsight. To be precise, this is a log rather than a plan, but anyway, it's a timeline nonetheless.
+Following a friend's advice, I reconstructed the day's schedule after the fact. Strictly speaking, it is a log rather than a plan, but either way: timeline.
 
-So, naturally, I can skip writing a diary entry (
+Which naturally means I can skip the actual diary entry (

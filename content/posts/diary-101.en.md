@@ -1,77 +1,85 @@
 +++
-title = "寄居者的日记-101"
+title = "Sojourner's Diary - 101"
 date = 2025-07-02T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["杭州"]
+categories = ["Sojourner's Diary"]
+tags = ["Hangzhou"]
 +++
 
-……等等今天是几号？（写完的时间是7.9）
+...Wait, what date is it today? (Finished writing on July 9.)
 
-> “开始的开始 九月相约教室
+> “At the start of the start, September brought us to the classroom;
 
-> “最后的最后 七月分别彼此
+> “At the end of the end, July carried us apart;
 
-> “曾经的曾经 历历在目的日子
+> “The days that once were once remain vivid before our eyes;
 
-> “遗憾的遗憾 不能回到往日……”
+> “The regret of regrets is that we cannot return...”
 
-转眼之间，距离初中毕业已经过去了四年。四年间，我辗转奔波国内国外，因此错过了好几次同学们组织的回校探望；但我也是幸运的，许多朋友仍然和我保持着联系。在他们纷纷进入大学后，还能老友重逢聚一聚；在我发出一起回校看老师的邀请后，也能欣然赴会（尽管某人因为个人安排没能见到，但相信我，在见面时也带上了你的那份，聊天时不自主都会提到xxy，你们有什么头绪吗）
+In the blink of an eye, four years have passed since middle-school graduation. During those years I moved back and forth, inside China and abroad, and missed several visits my classmates organized to our old school. Still, I have been fortunate: many friends remained in touch. Even after everyone entered university, old friends could reunite; when I invited them to visit our teachers, they came gladly. (One person could not make it because of his own schedule, but believe me, we carried your share into the meeting too. Somehow xxy's name kept appearing in conversation. Any clues, gentlemen?)
 
-于是，我拉上曾经一起打MC的好友xjy和zy（对不起cts忘记叫你了啊啊啊），三人成行回到了惠兴。
+And so I recruited xjy and zy, old friends from our Minecraft days—sorry, cts, I forgot to invite you, aaaaaah—and the three of us returned to Huixing.
 
-在给老师们的贺卡上，开头我写道：
+At the beginning of the cards for our teachers, I wrote:
 
-> “表示从入学到毕业的距离 原来弹指挥间
+> “The distance from enrollment to graduation passed in the snap of a finger;
 
-> “表示校门教室操场梅园 很值得流连
+> “The gate, classrooms, field, and plum garden deserve one lingering look;
 
-> “惠兴百年文化流传积淀 谱写新诗篇
+> “A century of Huixing's culture gathers and flows into a new poem;
 
-> “朝向未知远方扬起了风帆 继续奋力向前……”
+> “We raise our sails toward an unknown distance and keep pressing ahead...”
 
-与开头的那段词一起，它们同出自当年毕业时我们903表演的歌曲《惠兴中学的日子》。顺带一提，你怎么知道是我重新填的词（
+Like the opening lines above, these came from *Days at Huixing Middle School*, the song Class 903 performed at graduation. By the way, how did you know I rewrote the lyrics? (
 
-当时也没想太多，就是上面布置了一个毕业晚会每班要表演节目的要求，大家一讨论觉得应该继承我们903的传统。于是，在重填了《奔跑》作为班歌、重填了《让爱住我家》作为班会的节目之后，我们把大手伸向了（蓝老师最爱的）《北京东路的日子》。考完中考的青少年精力最为旺盛，我自告奋勇担下任务之后，一晚上，一支笔，一个奇迹。
+There was not much thought behind it at the time. Every class had to perform at the graduation gala, and we agreed to carry on 903's tradition. After rewriting *Running* as our class song and *Let Love Live in My Home* for a class meeting, we reached our enormous hand toward Teacher Lan's favorite, *Days on Beijing East Road*. Teenagers released from the high-school entrance exam possess unlimited energy. I volunteered for the job: one night, one pen, one miracle.
 
-其实也不算啥，除开其中的大量用典（通俗点说就是抄的），其余内容基本化用自我之前考虑过在毕业季重填的《爱情转移/富士山下》歌词；况且当时正是我创作欲望正旺盛的时候。我当时还发了个朋友圈展示过程中的奇妙“代码”，现在应该还能翻到（顺便一提，当时纸上的数字代表该句字数）
+It was not actually that impressive. Beyond the many allusions—plainly speaking, things I copied—most of the lyrics reused ideas from a graduation rewrite of *Transference of Love / Under Mount Fuji* that I had considered earlier. Besides, my urge to create was overflowing at the time. I even posted a Moment showing the mysterious “code” involved. It should still be there somewhere. (The numbers on the paper represented each line's character count.)
 
-跑题了，回来。这次回去时正值中考结束的时间，所以遗憾地没有见到刚刚带完初三的范老师、曹老师和张老师。冯老师据说早上还在学校，结果我们到的时候一联系也已经离校办事去了（忙，忙点好啊……），再除开早已退休的程老师，我们这次能见到的老师也没几位了。
+Enough digression. We returned just after the high-school entrance exam, so sadly we missed Teachers Fan, Cao, and Zhang, who had just finished leading the graduating class. Teacher Feng had apparently been at school that morning, but by the time we arrived she had left on an errand. Busy. Busy is good... With Teacher Cheng long retired, only a few teachers remained for us to meet.
 
-抵达学校门口时，我还没有写完所有给老师的贺卡，故一头扎进对面的“东北烧烤”蹭空调（哎正新鸡排你怎么似了啊）。之后，xjy和zy也陆续来到，除开感慨好久没见（上次应该是22年去马来之前我妈拉整个MC组4个人一起在湘湖边上野餐，再次愧对cts）之外，我们在没有消费的情况下光明正大地在店内拼起了乐高（来自我翻出来压箱底的“我的世界”乐高存货，作为整个MC组给老师特别的礼物）
+When I reached the school gate, I had not finished all the cards, so I plunged into the “Northeastern Barbecue” across the street to borrow its air-conditioning. (Hey, how did Zhengxin Chicken Steak die?) xjy and zy arrived one after another. After marveling at how long it had been—the last meeting was probably in 2022, before I left for Malaysia, when Mom brought the four members of our MC group together for a picnic by Xianghu; apologies again to cts—we openly assembled Lego inside the restaurant without buying anything. It was an old Minecraft set rescued from the bottom of my collection, a special gift to the teachers from the whole MC group.
 
-联系蓝老师未果后（后来知道当时她在上课），我作为互联网i人直接豁出去向老师们群发了消息，拜托他们来对付保安（相比之下娃小的保安已经赢太多了）。首先回复的是冯老师，然后就遗憾的得知今天她在外面（上次我们骑车组来时也错过了呜呜）。好在刘老师紧随其后打来语音电话，我们得以入校。
+Unable to reach Teacher Lan—we later learned she was teaching—I, an internet introvert, abandoned all restraint and mass-messaged our teachers, begging someone to deal with security. (The guard at Wawa Primary wins by miles.) Teacher Feng replied first, bringing the sad news that she was away. We missed her last time too, when the old cycling group visited, noooo. Fortunately, Teacher Liu called immediately afterward, and we gained entry.
 
-三个大学生入校时基本处于一个面面相觑的状态。虽然校园没啥改变，但我们硬是忘记了惠兴楼、梅青楼等等的位置，硬着头皮进到熟悉的教学楼，抓来个小友一问，嗯还好来对了。
+The three university students stared blankly at one another once inside. The campus had barely changed, yet we had completely forgotten where Huixing Building, Meiqing Building, and everything else stood. We forced ourselves into a familiar teaching block, captured a younger student, and asked. Good—we had at least chosen the right building.
 
-阔别多日的师生之间自然是无话不谈。从大学专业到人生志向，从琐碎家常到奇闻逸事（顺便，老师们都非常看好护理专业，表示现在就需要许某帮忙）。提起那些过去常常返校的同学们，我们在表示佩服的同时也有那么一点心虚。不过往好了想，我们不也回来了嘛，就是周期长了点……
+Teachers and students reunited after so long naturally found endless things to discuss: university majors and ambitions, household trivia and extraordinary stories. Incidentally, every teacher was extremely optimistic about nursing and declared that a certain Xu was needed immediately. When they mentioned classmates who visited often, we admired them and felt slightly guilty. But look on the bright side: we came back too. Our cycle is simply longer...
 
-这期间，蓝老师发来消息说刚才在上课，要抓紧课间时间见见（下午还有体育中考的模拟考，得亏选了上午来）。我们和刘老师合影后，赶向之前703的教室。墙上的装饰依然保留着，“青蓝班”的名号也被学弟学妹所仰望（毕竟确实贴的很高啊）。我们在楼道碰见蓝老师，坐在办公室里又开始新一轮的谈天说地。聊到我们的初遇，我吐槽着自己当时在人武学院带一群室友跑错宿舍，等到了一看zy已经在床上坐着了；聊到当时xjy多么的不省心，班里各种幺蛾子十有八九都出自他的手笔。当然，那些时光已经变成过去式，回顾时，那一个月也似刹那间。
+Teacher Lan messaged during the conversation. She had been teaching and needed to catch us during the break; a mock PE entrance exam filled the afternoon, so thank goodness we came in the morning. After a photo with Teacher Liu, we hurried toward the old Class 703 room. Its wall decorations remained. The name “Qinglan Class” was still looked up to by younger students—because, admittedly, it was posted very high on the wall.
 
-当然，那段时间还促成了《无笔》的诞生哈哈。
+We met Teacher Lan in the corridor, sat in her office, and began another round of talking about everything. Remembering our first meeting, I complained about leading a group of roommates into the wrong dorm at the People's Armed Forces College, only to arrive later and find zy already sitting on his bed. We recalled how impossible xjy had been; nine out of ten strange incidents in class bore his fingerprints. Those days are past now. In memory, that entire month passes like a moment.
 
-在蓝老师回去管理班级后，我们四处打听发现张老师居然也在附近教学，于是果断出击。说起来心中仍然有愧，明明是对我来说非常重要的师长（只有她任教那段时间我打入了年级前5），在拍毕业照时的那一眼居然就是当时的最后一面并且一句话也没说上。依稀记得从wjy的口里听见“你就这么恨张老师吗？”的好奇，我才意识到那段时间的言语不当（学了2班某些同学的叫法，哎2班怎么这么坏呢）可能导致了误解。但当时张老师已经不教我们了，直到最后也没有机会进行解释。但当我再次见到张老师时，看着她脸上的笑容，听着她立刻喊出了我的名字（实际上是某两个坚实的后盾一致决定让我打头阵的缘故），我就知道已经不需要任何多余的词句了。
+Of course, that month also gave birth to *Boring Notes*, haha.
 
-张老师拄了根拐杖行动不便，因此我们就地在班级门口聊了起来。期间xjy怂恿我进去给学弟学妹们做个即兴演讲，其实我是不拒绝的——可惜上课时间已至，只好等下一次喽。
+After Teacher Lan returned to manage her class, we asked around and discovered that Teacher Zhang was teaching nearby. Immediate deployment. I still carried guilt toward her. She had been enormously important to me—the only period when I entered the top five in our grade was under her teaching—yet the glance we exchanged during the graduation photo became our last meeting, without a single word between us. I vaguely remember wjy asking, “Do you hate Teacher Zhang that much?” Only then did I realize that my careless language at the time—copied from certain students in Class 2; why was Class 2 so evil?—might have created a misunderstanding. By then she no longer taught us, and I never found an opportunity to explain.
 
-坐在曾经我们排练各种班会节目的小教室，我们在新增的小台球桌上开始切磋。期间我把其余的贺卡写好姓名，临走前拜托小天天给蓝老师由她转交其他今年没能见到的恩师。然后，我们就随便走到了工联CC（真随便吗），决定来一顿烤肉！吃完来一场唱K！
+But when I saw Teacher Zhang again, saw her smile, and heard her call my name immediately—partly because my two sturdy supports had unanimously chosen me to lead the charge—I knew no extra words were needed.
 
-是的，我们又唱了Lemon。不过这次是摇骰子点数最大者直接来时代少年团版，只能说副歌段的大合唱节目效果拉满了。别的不说，这个广告的宣传效果确实有了，就是不知道宣传了些啥（什么饮料牌子来着忘了）
+Teacher Zhang walked with a cane, so we talked outside the classroom. xjy encouraged me to go in and give the younger students an impromptu speech. I would not have refused—but class began, so it must wait until next time.
 
-唱完后时间也差不多了。我准备再回一趟小学看看，另外两位表示乐意奉陪。美院附小，我们来辣！
+In the small room where we once rehearsed class-meeting performances, we competed at a newly installed miniature pool table. I finished addressing the remaining cards and, before leaving, asked Little Tiantian to give them to Teacher Lan for the teachers we could not meet this year. Then we somehow wandered casually into Gonglian CC. (Casually?) Barbecue! Followed by karaoke!
 
-在校门口停好共享单车，我们顺利入校。我对着母校的种种侃侃而谈，恍惚回到了小时候向外国友人介绍学校的时候（现在想来当时我的语速确实是有点快了……）。我们走过熟悉的生存训练基地，却发觉当时的游泳池已变成大礼堂（后来知道是亚运期间对游泳池水质等各方面要求提升，无奈之下只能填了）；走过音乐教室，似乎郑老师正在教课，我识趣地没有再次顺从另外两位的怂恿进行一个打扰，结果就是后来跟余老师聊太久了过了放学时间，没能再次见到）
+Yes, we sang *Lemon* again. This time the highest dice roll had to perform the Teens in Times version. The full chorus singing together achieved maximum entertainment value. If nothing else, the advertisement certainly worked. What it advertised, none of us could remember. (Which drink brand was that?)
 
-转了一圈之后仍没等到余老师的回复，一看另外两位已经热得不成人形，我于是硬着头皮直接进办公室开问。兜兜转转找到教室发现余老师还在忙，于是在她的指引下找到了陈老师和张老师的办公室。一聊才知道，这边已经是同学们回校时默认的接头地点了（你自己好好想想多久没回来了zzt）。我讲起毕业这几年来的经历，相信着一切都是神美好的安排。
+When karaoke ended, I planned to visit my elementary school too. The other two willingly came along. Primary School Affiliated with the China Academy of Art, here we come!
 
-感觉上才聊了一会会，她们就要离开了。我下楼找余老师时刚好碰见她迎面上来，于是我们坐进她的教室，我开始了今天第n轮的介绍。和余老师能聊的可就多了，像是报菜名一样基本过了一遍所有同学们的去向，我也尴尬地发现貌似我回来的频率已经是垫底的水平了。余老师感慨道，当时她刚接手时我们全部男生都似乎没有使上劲，一整个被女生盖过的趋势（没办法啊hyh、lrr等大佬那个版本不削能玩？）。是sxj的加入让整个班的男生“活”了过来，自此鼎足分立之势才逐渐建立。我则在心里高喊这次为什么没把小苏也拉过来！你能看到吗小苏！快回我微信消息！
+We parked our shared bikes and entered without trouble. I spoke fluently about every corner of my old school, briefly becoming the child who once introduced the campus to foreign visitors. (Looking back, I really did speak too quickly...) We passed the familiar survival-training base and discovered that its swimming pool had become an auditorium. Later I learned that the Asian Games raised water-quality and other requirements beyond what the school could meet, so the pool had to be filled in. We passed the music room; Teacher Zheng appeared to be teaching, and for once I resisted the other two urging me to interrupt. The result was that I later talked with Teacher Yu beyond dismissal and never saw Teacher Zheng again.
 
-我才了解到，余老师心中一直有个遗憾，就是没能让我们几个诗词爱好者在艺术欣赏课上做一次诗词的分享。我惊讶：可是我们已经做过了啊？为什么我记得那么清楚呢？嗯，因为当时我做好PPT后信誓旦旦地表示：没有彩排直接上吧没问题！我看过了没有生僻字！然后在讲的时候只能对着屏幕上的符号干瞪眼。啊总而言之，是解开了余老师的一个心结哈哈哈（尴尬而不失礼貌地笑）
+After a full circuit with no reply from Teacher Yu, I looked at my companions, who had nearly melted in the heat, and forced myself into the office to ask directly. Several turns later, I found Teacher Yu still occupied; following her directions, I located the office shared by Teachers Chen and Zhang. Conversation revealed that this had become the default rendezvous whenever former students returned. (Think carefully about how long you have been away, zzt.) I told them about the years since graduation, trusting that all of it had been beautifully arranged by God.
 
-还有就是，那扇联通美院的铁门居然已经有几年没开过了。回想起当时左脑右脑摄影社三天两头往那边跑看展子的时光，只能感叹当时的自己不知珍惜。说来也奇怪，从“娃小”变成“美院附小”后，和美院之间反而疏远了，我们甚至是目前唯一一届在美院办毕业典礼的学生……算了还是不去想这种东西了吧。
+It felt as though we had spoken only briefly when they had to leave. Going downstairs to find Teacher Yu, I met her coming up. We sat in her classroom, and I began the nth introduction of the day. With Teacher Yu, there was far more to discuss. We went through almost every classmate's destination like reciting a menu, and I awkwardly discovered that my return frequency ranked somewhere near the bottom.
 
-哦对了，可能是因为小学的教室有一种“熟悉”的感觉，这期间另外两位同学睡的很好（非常感谢他们愿意陪我回一趟小学！）
+Teacher Yu remembered that when she first took over our class, none of the boys seemed to apply themselves; the girls were threatening to dominate completely. (What could we do? In the patch containing top-tier players like hyh and lrr, the game was unplayable without a nerf.) sxj's arrival brought the boys “alive,” and only then did a three-way balance of power emerge. Inside, I screamed: why didn't we bring Little Su this time?! Can you see this, Little Su? Answer my WeChat messages!
 
-回家路上，我们回忆着在各自家中聚集的时光，同时抑制住了原地开一把MC的冲动。哦还有个小插曲，在彼此分别时我惊觉自己的充电宝不翼而飞，回想了一下大概是落在共享单车的车框里了。于是果断撤退进行搜寻，但它意料之中的已经不在原地。联系帮我借车的xjy查询一下单车现在的位置，虽然希望渺茫我还是向高银巷赶去。所幸是充电宝还好端端地躺在车框里，经此一别我和它之间也有了羁绊（确信）
+I also learned that Teacher Yu had always regretted failing to let a few of us poetry lovers give a presentation during art appreciation. I stared: but we *did* present one. Why did I remember so clearly? Because after finishing the slides, I had declared with total confidence: “No rehearsal needed. We can go straight in! I checked—there are no obscure characters!” Then during the presentation, I could only stare helplessly at symbols on the screen. Anyway, we resolved one of Teacher Yu's lifelong regrets, hahaha. (Polite but profoundly awkward smile.)
 
-于是，这一天也将近结尾了。而在贺卡上的结尾处，我如此写道：“各位老师言传身教的学习能力与人生态度，我不曾忘记。”就在我写这篇日记的时间，我已经离开了中国。虽说不是不会回来，但下次见面估计少说也是1年后了。时间足以改变很多东西，但好在，我有一个锚点可以追寻。
+The iron gate connecting the school to the art academy had not opened in years either. I remembered when our Left Brain Right Brain Photography Club ran through it every few days for exhibitions and could only lament that I had not treasured the opportunity. Strangely, after “Wawa Primary” became the “Primary School Affiliated with the China Academy of Art,” it grew more distant from the academy. We remain the only class to have held graduation there... Never mind. Better not to think about it.
+
+Perhaps elementary-school classrooms carry a special feeling of familiarity. During all this, my two classmates slept very well. (Thank you sincerely for accompanying me back!)
+
+On the way home, we recalled gatherings at one another's houses while resisting the urge to launch Minecraft on the spot. One final incident: as we parted, I discovered my power bank had vanished. Thinking back, I had probably left it in a shared-bike basket. I immediately withdrew to search, but predictably it was gone. xjy checked the bike's current location through the account he had used to rent it for me. With little hope, I hurried toward Gaoyin Lane. Fortunately, the power bank still lay peacefully in the basket. After this separation and reunion, a bond now exists between us. Confirmed.
+
+And so the day drew toward its end. At the bottom of the cards, I had written: “I have not forgotten the ability to learn and the attitude toward life that every teacher taught through word and example.” By the time I wrote this diary entry, I had already left China. I will return, but our next meeting will probably be at least a year away. Time can change a great many things.
+
+Fortunately, I have an anchor to follow.

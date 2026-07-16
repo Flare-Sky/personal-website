@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-90"
+title = "Sojourner's Diary - 90"
 date = 2025-04-28T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Stargazing","Geocaching"]
 +++
 
-诸葛天曜一鸽不起，全剧终。
+Zhuge Tianyao skipped one update and never rose again. The End.
 
-好吧其实就是懒，现在自己一个人住觉得无聊想写点啥，故恢复更新。
+Alright, I was simply lazy. Now I am living alone, feeling bored, and want something to write—so the updates return.
 
-……
+...
 
-天文馆，它就得够天文！（鼓掌）
+A planetarium must contain a sufficient quantity of astronomy! (Applause.)
 
-顾名思义，就是得硬核到让小朋友看了觉得都是天外文字（？）的程度才能在我这达标，咳咳，有点扯了。但今天天文馆的球幕观感真的比科技馆高了不知道多少个量级，而我也确实听到有父母以“太专业了”为由安慰看睡着的孩子。
+As the name implies, it must be hardcore enough that every child thinks the displays were written in an alien language (?) before it earns my approval. Ahem. Perhaps that goes too far. But the dome theater at the planetarium truly was orders of magnitude better than the one at the science museum. I even heard parents consoling children who had fallen asleep by telling them the show was “too technical.”
 
-要不我以后辅修航天工程吧？
+Should I minor in aerospace engineering someday?
 
-从天文馆离开后我毅然决然地投奔向Geocaching的不归路，最终于22:30离开奥森。对此，我的感想只有一句话：
+After leaving the planetarium, I marched resolutely down the road of no return called Geocaching and finally emerged from Olympic Forest Park at 22:30. I have only one sentence to offer:
 
-我低估了奥森，也高估了自己。
+I underestimated the park and overestimated myself.
 
-但至少没留下遗憾。
+At least I left with no regrets.

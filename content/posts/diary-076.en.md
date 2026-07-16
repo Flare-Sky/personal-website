@@ -1,28 +1,26 @@
 +++
-title = "寄居者的日记-76"
+title = "Sojourner's Diary - 76"
 date = 2025-04-02T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Puzzle"]
 +++
 
 | | |
 |---|---|
-|0:00-1:00|打Hunt|
-|1:00-9:00|买肉，睡觉|
-|9:00-10:00|起床，洗漱，泡咖啡，早读（约一3），打Hunt|
-|11:00-12:00|打Hunt，解冻牛肉块，烤牛肉串|
-|12:00-13:00|吃午饭，打包牛肉串，叫同学起床，赶去地铁站|
-|13:00-14:00|赶去NT，听书，写日记|
-|14:00-15:00|NT，讲自己故事|
+|0:00-1:00|Puzzle hunt|
+|1:00-9:00|Buying meat, sleeping|
+|9:00-10:00|Getting up, washing up, making coffee, morning reading (1 John 3), puzzle hunt|
+|11:00-12:00|Puzzle hunt, thawing beef cubes, grilling beef skewers|
+|12:00-13:00|Eating lunch, packing beef skewers, calling a classmate to wake him up, rushing to the metro|
+|13:00-14:00|Heading to NT, listening to an audiobook, writing my diary|
+|14:00-15:00|NT, telling my story|
 |15:00-16:00|NT|
 |16:00-17:00|NT|
-|17:00-18:00|吃晚饭（吉野家），赶地铁回家|
-|18:00-19:00|赶地铁回家，跟老妈聊天|
-|19:00-20:00|跟老妈聊天，茶话会（雅2:8-13）|
-|20:00-21:00|茶话会，演情景剧|
-|21:00-22:00|茶话会，解咚谜，蹲坑|
-|22:00-23:00|洗澡，熄灯，睡觉|
-|23:00-24:00|睡觉|
-
-
+|17:00-18:00|Eating dinner (Yoshinoya), catching the metro home|
+|18:00-19:00|Riding the metro home, talking with Mom|
+|19:00-20:00|Talking with Mom, tea gathering (James 2:8–13)|
+|20:00-21:00|Tea gathering, performing a skit|
+|21:00-22:00|Tea gathering, solving Dong's puzzles, bathroom break|
+|22:00-23:00|Showering, lights out, sleeping|
+|23:00-24:00|Sleeping|

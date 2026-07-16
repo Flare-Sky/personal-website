@@ -3,7 +3,7 @@ title = "Sojourner's Diary - 46"
 date = 2025-03-01T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Beijing"]
+tags = ["Beijing","Puzzle"]
 +++
 
 Just you wait, I am definitely going to write over a thousand words today!

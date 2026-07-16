@@ -1,61 +1,93 @@
 +++
-title = "寄居者的日记-131"
-date = 2026-04-22T12:00:00-05:00
+title = "Sojourner's Diary - 131"
+date = 2026-05-05T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-今天收拾东西的时候，翻到了小时候写的一个小本本
+While packing today, I found a little notebook I had written in as a child.
 
-稚嫩的字迹写就的姓名，封面上是荧光笔打底的”403“，铅笔涂成的”503“以及圆珠笔最后刻下的”603“。里面的内容则大多是草稿和一些写着玩的东西，也不乏MC群系列表，房屋设计图（对当时我一个一个方块画出来的），甚至还有小时候画到一半的漫画。其中更有一些内容颇具后来《无聊的笔记》之雏形，可谓老资历
+My name appears in an immature hand. On the cover, “403” sits over a fluorescent-highlighter background, “503” is shaded in pencil, and “603” was finally carved in ballpoint pen. Most of the pages contain drafts and bits of writing made for fun. There is also no shortage of Minecraft group rosters, house designs—yes, I drew them one block at a time—and even a comic abandoned halfway through. Some passages distinctly foreshadow the later *Boring Notes*, making this notebook a true veteran.
 
-这其中，有一些内容尤其吸引我：
+A few pages caught my attention in particular:
 
-![第一页](131-0.webp)
+![First page](131-0.webp)
 
-![第二页](131-1.webp)
+![Second page](131-1.webp)
 
-![第三页](131-2.webp)
+![Third page](131-2.webp)
 
-这个“调皮的弟弟”是谁呢？好难猜啊（
+Who could this “mischievous younger brother” possibly be? What a difficult mystery. (
 
-我老家的弟弟——因为属虎我们都叫他“大猫”，下文就这么叫吧——是个比我小4岁的孩子。小时候，每次回老家都能和他打成一片（物理）。用我妈在已经看不到的某篇发在“恩典之路”公众号上的文章的话来讲，俩“人嫌狗不待见”的娃散是满天星，聚则魔丸降世。当然也可能是小时候我天资聪颖，干出的缺德事包括但不限于出门大街上找陌生人借钱，把晾衣服的夹子夹在猫尾巴上看它幻影旋转，在亲戚拜访高高兴兴带我们出门买玩具时哭着回到家，发掘出不止一条翻越封锁校园大门的路径致使校方对其一再加高（这么说来，当时我好像还有个外号，叫什么“张三疯”来着？哎我当时怎么就没看过《倚天屠龙记》呢）。当然这些事你从不会听人提起，因为它们大多都被尘封在了老家的那个角落，随着在那度过的童年一并消逝
+My younger brother back in our hometown—because he was born in the Year of the Tiger, we all call him “Big Cat,” and I will do the same below—is four years younger than I am. Whenever I returned home as a child, the two of us immediately became inseparable. Sometimes physically, in the fighting sense.
 
-做哥哥的都如此身先士卒了，那弟弟必将不遑多让。在我的记忆里，长辈对我们的要求一度妥协至：你们只要一周不吵架我就带你们去买玩具，可见当时我俩有多不让人省心。但也正是在这样的欢乐之中，我们度过了那段无忧无虑的童年时期。
+To borrow Mom's words from an article once published on the now-inaccessible *Path of Grace* account, the two little monsters “unwelcome even by dogs” became stars scattered across the sky when separated and the incarnation of a demon when brought together. Of course, perhaps I was simply a gifted child. My brilliant deeds included, but were not limited to, asking strangers on the street to lend me money; clipping a clothespin to a cat's tail to watch it spin like a phantom; returning home in tears after relatives happily took us out to buy toys; and discovering more than one route over the locked school gate, forcing the school to raise it again and again.
 
-小时候我就特别喜欢看奥特曼，尤其是16年在电视上追完欧布的那段时间，被这田口超人搞出来的奥棚50周年纪念作迷得不要不要的（什么今年60周年吗？我祝他好运吧）。主角红凯那股子浪人的属性尤其令我向往，于是那段时间我们角色扮演的主题自然而然就变成了奥特曼打怪兽，基地那必然是我们睡的上下铺。然而，主角始终只有一个而我们有两个人，怎么办呢？
+Come to think of it, I had a nickname then. Something like “Zhang Sanfeng the Mad”? Why had I not even watched *The Heaven Sword and Dragon Saber* at the time?
 
-搞OC不就行了！
+Naturally, nobody ever tells these stories now. Most were sealed away in that corner of our hometown and faded together with the childhood I spent there.
 
-没想到，当时小小的老子就已经有此见识，深得“同人的尽头是OC“这一至高定理。主角的名字我其实都没花心思，在一看到”红凯“时我就想好了他的3个队友的名字：蓝杰、黑寇和白赞（笑点解析：乐高史上最耐活的IP幻影忍者和他花花绿绿的主角团）。可是奥的名字这块着实令我犯了难，在此，请允许我犯个二，谨以还原历史真相为由在此心怀敬畏地写下那闪耀的，新创华这辈子无法企及的名字：欧布（这是原版）、欧迪、基罗、戴斯
+With the older brother charging so heroically ahead, the younger one could hardly fall behind. At one point, the adults lowered their expectations to: “If you can go one week without fighting, I will take you to buy toys.” That should indicate how impossible the two of us were. Yet amid all that joy, we passed through a carefree childhood together.
 
-这不就是缝合怪嘛！
+I especially loved Ultraman as a child. In 2016, I followed *Ultraman Orb* on television all the way to the end and became utterly enchanted by Taguchi's fiftieth-anniversary production. What, this year is already the sixtieth anniversary? I wish it luck. I particularly admired the wandering quality of the protagonist, Gai Kurenai. Naturally, our roleplaying soon became Ultraman fighting monsters, with the bunk beds where we slept serving as our base.
 
-在见识过了这位小小的同人创作者堪忧的起名能力之后，想必各位也能理解开头这一串战绩可查确实是他做得出来的事。那接下来，让我们以红凯的视角继续这段童年
+There was one problem: a story has only one protagonist, while there were two of us. What could we do?
 
-尽管黑寇和白赞（你能别念叨你那奇葩名字了不）并没有实体，红凯（我弟饰）和蓝杰（自然是我饰）踏上了他们惊心动魄的宇宙之旅。他们一路披荆斩棘，击败了许多邪恶的怪兽，不止一次地拯救了世界（尽管剧情似乎与他们当时看的影视作品多有雷同，但这不重要）。可不知是哪一天，蓝杰突然变了，他变得不再热衷于拉着战友踏上旅途，而是一到基地便倒头就睡，徒留红凯一人继续这冒险。再后来，他开始花更多的时间对着一块小小的屏幕点来点去，里面的世界却看起来大得多，虽然都是马赛克。凯不知道为什么哥哥变了，但不希望他这样变。于是，他想尽办法吸引哥哥的注意，哪怕那些模仿看似笨拙与讨厌
+Create original characters, obviously!
 
-比如，哥哥在玩我的世界，那弟弟就照着开始玩……迷你世界？这发展不对吧？我记得这似乎是百度上吵的最火的一段，被后人称为“一战”的时期啊。好吧你赢了，你的品味独特又小众。在忍受了很长一段时间电视被抢整天放迷你实况的时间，某人终于良心发现金盆洗手，我们快乐地在MC中继续着我们的冒险，搭起了大房子和农田，虽然没有前往宇宙与怪兽搏斗也没有拯救世界，但那确实是很快乐的一段联机时间
+Who could have imagined that tiny me already understood the supreme law that “all fan creation ends in OCs”? I did not spend much thought on the protagonists' human names. The moment I saw Gai Kurenai's name, I invented three teammates: Blue Jay, Black Cole, and White Zane. The joke, for those requiring an explanation, is *Ninjago*, LEGO's most indestructible franchise, and its brightly colored cast.
 
-疫情爆发之后，我回去的时间，也越来越少了。
+Naming the Ultramen themselves proved considerably harder. At this point, please allow me to be stupid in the name of historical accuracy. With reverence, I record the radiant names that Tsuburaya's New Generation Heroes could never hope to match in this lifetime: Orb—that one is the original—Odi, Giro, and Des.
 
-当然故事没有在这里结束，只是换了一种形式。我除了打游戏之外，也是会在每天睡前给弟弟讲上一段故事的。每到那个时候，长辈手机里播放的”世界名曲+经典故事 慧慧阿姨讲故事“频道就会暂停。我们会短暂地进入Jason的MC世界，看着他如何一步一步成长，最终再一次替我们拯救世界
+Those are just stitched-together monstrosities!
 
-这样的睡前故事时间似乎成了二人之间约定俗成的习惯。当然，这位稍微长大了一点的创作者的作品依旧有着极高的查重率，和另一部小说——《斗罗大陆》的相似之处尤为明显。可谓缝得不知天高地厚了
+Having witnessed this tiny fan creator's alarming gift for names, I trust everyone now believes that the long record of misdeeds above was entirely within his abilities. Let us continue this childhood from Gai Kurenai's point of view.
 
-对了，当时我偶尔不讲故事的晚上，就会在被窝里的kindle上看《绝世唐门》和《龙王传说》的小说，这样的习惯延续到了初中，但《终极斗罗》的后半段真看不下去了，故弃坑
+Although Black Cole and White Zane—could you stop repeating those bizarre names?—never possessed physical bodies, Gai Kurenai, played by my brother, and Blue Jay, naturally played by me, set off on their thrilling journey through space. They fought through every obstacle, defeated countless evil monsters, and saved the world more than once. The plots may have resembled whatever films and television shows they were watching at the time, but that is unimportant.
 
-他最终当然还是发现了这一“原作”的存在，于是果断二创转一创，和我一起看起了斗罗的漫画。有一段时间，我每次回去都能看到满屋的实体漫。尽管我的习惯是线上看漫画，看见这一床花花绿绿也会为之动容。小时候买玩具的钱，长大后变成了买漫画的钱，原来你一直与我同在！
+Then, on some unknown day, Blue Jay changed. He no longer eagerly dragged his comrade out on another journey. Whenever he reached the base, he simply collapsed into sleep, leaving Gai Kurenai to continue the adventure alone. Later still, he spent more and more time tapping a tiny screen. The world inside it looked much larger, though everything was made of pixels.
 
-事到如今，早已长大的两人早已很难再吵起架来。但奇怪的是，他们之间的交流也逐渐少了起来。我偶尔听说弟弟一直盼着我回去，每次回去的时候他又总是躲着我，为此没有少被长辈说过。而我，每次回去总是窝在自己的房间里，灯是亮到半夜的，人是第二天中饭才见到的。再加上二人放假的时间总是错开，我们似乎渐行渐远
+Gai did not understand why his older brother had changed, but he did not want him to change this way. So he tried everything he could to attract his brother's attention, even when his imitations seemed clumsy and annoying.
 
-我有时也会去想，有没有可能，是我在不自觉地躲着他？虽然在文章里写道不要比较，我却总是将他与另一个比我小7岁的家伙对比。早期二人平分秋色，一般是和红玫瑰在一起时就觉得白玫瑰好，反之亦然。但大概是他开始有意识地和我对着干的时候开始，也可能是那个更年轻的还没进青春期的缘故，天平往某一边猛然倾斜了。我似乎也不再向往着假期回老家的时间
+For example, when the older brother played Minecraft, the younger brother copied him by playing... *Mini World*? Wait, that is not how this plot is supposed to develop. If memory serves, this was the fiercest phase of the argument on Baidu, later known to historians as “the First World War.” Fine, you win. Your taste was distinctive and niche.
 
-但其实，我是知道的，我是明白的。我是他唯一的哥哥啊，他怎么可能会讨厌我呢？大猫的家庭是复杂的，在此不应过多涉及，但这个从小失去亲生母亲的孩子身上确实背负了一些难以想象的东西。我一向不认可心理学上指责原生家庭的做法，但不可否认，后者在人的一生中的确会起到举足轻重的作用。我是幸运的，但并不是所有人都像我
+After enduring a long period in which he monopolized the television to play *Mini World* videos all day, a certain person finally rediscovered his conscience and abandoned the habit. We happily continued our adventures together in Minecraft, building a large house and farmland. We did not travel into space, fight monsters, or save the world, but it was still a genuinely happy period of playing together.
 
-于是我在最后一次不足一周归乡的时光里，终于迈出了一步。我们加上了微信和QQ，并约定不管谁先发消息都要尽可能第一时间回复。“如果遇到什么难处，就来找哥哥吧。”我说完这句话，就踏上了漫长的旅途
+After the pandemic began, I returned home less and less often.
 
-如果一部小说的情节里出现了枪，那必然有一幕它会开火。说到这，相信你也能想到，我们如今仍然通过微信保持着联系。实际上，这篇文章就是在我疯狂星期四V他50后才得到授权得以写就的。前几天的聊天里，不知怎的就聊到了《绝世唐门》。我们默契地“只想大声的宣言”、“唐门永远流传”，仿佛能看到屏幕对面熟悉的笑容。没想到每次回去说不上几句话的我和他如今在微信上已经开始互相推视频了。网络，很神奇吧
+The story did not end there, of course. It only changed form. In addition to playing games, I told my brother a story every night before bed. When the time came, the “World-Famous Music and Classic Stories: Aunt Huihui Tells Stories” channel playing from an adult's phone would pause. For a little while, we entered Jason's Minecraft world and watched him grow step by step, until he once again saved the world for us.
 
-这时再回看17年小小的老子写的《如何和调皮的弟弟相处》，也终于释怀地笑了。原来，我们同样笨拙
+These bedtime stories became an unspoken ritual between us. Naturally, the works of this slightly older creator still had an extraordinarily high similarity score. Their resemblance to another novel, *Soul Land*, was particularly striking. Truly, I stitched with no respect for heaven or earth.
+
+On nights when I occasionally did not tell a story, I would hide under the blankets reading *The Unrivaled Tang Sect* and *The Legend of the Dragon King* on my Kindle. The habit continued into middle school, though I genuinely could not endure the second half of *Ultimate Douluo*, so I abandoned it.
+
+My brother eventually discovered the existence of this “source material.” He promptly converted my fan work back into the original and began reading the *Soul Land* comics with me. For a while, every visit home revealed physical comic books spread throughout the room. I usually read comics online, but even I was moved by that bed full of bright colors. The money we spent on toys as children had become money for comics as we grew older. So you had been with me all along!
+
+By now, the two of us have long since grown up and rarely argue anymore. Strangely, however, we also began communicating less and less. I would occasionally hear that my brother was constantly looking forward to my return, yet whenever I arrived, he always hid from me and received no shortage of lectures from the adults for it.
+
+As for me, every time I returned, I shut myself in my own room. The light remained on until late at night, and nobody saw me until lunch the next day. Our school vacations also seemed perpetually misaligned. We appeared to be drifting farther apart.
+
+Sometimes I wonder whether I was unconsciously hiding from him too. Although I wrote in that childhood notebook that one should not compare people, I constantly compared him with another boy seven years younger than I am. Early on, the two were evenly matched. It was the usual red-rose, white-rose problem: when I was with one, the other seemed better, and vice versa. But perhaps when Big Cat began deliberately opposing everything I did—or perhaps simply because the younger child had not yet reached adolescence—the scales suddenly tipped hard to one side. I no longer seemed to look forward to holidays in our hometown.
+
+But in truth, I know. I understand.
+
+I am his only older brother. How could he possibly hate me?
+
+Big Cat's family circumstances are complicated and do not belong in detail here, but a child who lost his biological mother at a young age truly carries burdens difficult to imagine. I have never agreed with the tendency in psychology to blame everything on one's family of origin. Yet it cannot be denied that family plays an enormous role throughout a person's life. I am fortunate. Not everyone is as fortunate as I am.
+
+And so, during my final visit home, which lasted less than a week, I finally took a step forward. We added each other on WeChat and QQ and agreed that, no matter who sent a message first, the other would reply as soon as possible.
+
+“If anything becomes difficult, come to your brother,” I said.
+
+Then I set out on my long journey.
+
+If a gun appears in a novel, it must fire in some later scene. By this point, you can probably guess that we still keep in touch through WeChat. In fact, this article received authorization only after I sent him fifty yuan for Crazy Thursday at KFC.
+
+A few days ago, our conversation somehow turned to *The Unrivaled Tang Sect*. In perfect agreement, we proclaimed, “I only want to declare it aloud,” and “The Tang Sect shall endure forever,” as though I could see that familiar smile on the other side of the screen. The two of us who could barely exchange a few sentences whenever I returned home now recommend videos to each other on WeChat.
+
+The internet is miraculous, is it not?
+
+When I look back now at *How to Get Along with a Mischievous Younger Brother*, written by tiny me in 2017, I can finally smile in relief.
+
+It turns out we were equally clumsy.

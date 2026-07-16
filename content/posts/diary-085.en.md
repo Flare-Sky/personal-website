@@ -1,23 +1,23 @@
 +++
-title = "寄居者的日记-85"
+title = "Sojourner's Diary - 85"
 date = 2025-04-11T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing","Geocaching","Sport"]
 +++
 
-今天的篮球之后，我和这群孩子们有了个约定。
+After basketball today, the kids and I made a promise.
 
-如果你一直关注我之前的日记，会发现Geocaching的含量疑似有些超标了，而事实也是我对这个2000年起源的游戏特别热衷。而在找过那么多宝藏之后，是时候藏一个了！
+If you have followed the previous entries, you may have noticed that the geocaching content is reaching suspiciously high levels. The truth is that I have become thoroughly obsessed with this game, born in the year 2000. After finding so many caches, it was time to hide one of my own!
 
-恰逢我们需要在打完篮球后做专题分享，我索性就讲了自己与Geocaching的故事。虽然在我看来寻宝这种对未知的探索有一种莫名的吸引力，但从孩子们似懂非懂的表情来看，他们可能并没有那么的热情。
+We happened to need someone to give a short talk after basketball, so I told the story of me and geocaching. To me, searching for hidden things carries the strange pull of exploring the unknown. Judging by the children's half-understanding expressions, they may not have shared my enthusiasm.
 
-不过我还是继续说了下去，并且拿出了用午饭时间准备的一个小试管，里面装着一张折好的记录纸：
+I continued anyway and produced a tiny test tube prepared over lunch, with a folded logsheet inside:
 
-> 掐指一算，这也是我们在这里的倒数第二次打篮球了。在之后你们可能还会见到David哥哥，但大概率有一段时间见不到我啦。因此我想给各位，给这一座见证我的篮球技术从菜鸟到厉害一点的菜鸟的公园，留下一份礼物。我会把这个小试管藏在教练现在坐的长椅下面，而相关的坐标等信息我已经发布到Geocaching的官方网站上了。我在网站上还留了一句话：“如果你在Cache附近看到一位特别和蔼可亲的老人带着一群孩子在上篮球课，请代我向他们问好！”而你们如果恰巧看到有人来这边的长椅下要摸些什么的话，也可以报上Flare的大名。毕竟我目前还没有遇到一个找宝藏的活人呢（一起笑）
+> By my calculations, this is our second-to-last basketball session here. You may still see Brother David afterward, but you probably will not see me for a while. So I wanted to leave a gift for all of you—and for this park, which witnessed my basketball skills grow from complete beginner to slightly more impressive beginner. I will hide this little tube beneath the bench where Coach is sitting, and I have already published the coordinates and other information on the official Geocaching website. I left a message there too: “If you see a particularly kind old gentleman teaching basketball to a crowd of children near the cache, please say hello to them for me!” And if you happen to see somebody feeling around under this bench, you can always drop the great name of Flare. After all, I still haven't met a single living geocacher in the wild. (Everyone laughs.)
 
-> 孩子们：“那你以后还来北京不？”
+> The kids: “Will you come back to Beijing?”
 
-那当然会回来啦，到时候我一定会回来看看你们，也顺便看看这个小东西还在不在！
+Of course I will. When I do, I will come back to see you—and check whether this little thing is still here!
 
-离别若能伴随着欢声笑语，倒也不失为一段美好的回忆。
+If a farewell can be accompanied by laughter, it may become a beautiful memory after all.

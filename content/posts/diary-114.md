@@ -3,7 +3,7 @@ title = "寄居者的日记-114"
 date = 2025-09-25T12:00:00-05:00
 draft = false
 categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+tags = ["朗维尤","学习"]
 +++
 
 **《Career Fair，但是自动拾取忘关了》**

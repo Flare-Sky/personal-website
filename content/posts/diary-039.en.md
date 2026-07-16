@@ -3,15 +3,15 @@ title = "Sojourner's Diary - 39"
 date = 2025-02-20T12:00:00-05:00
 draft = false
 categories = ["Sojourner's Diary"]
-tags = ["Beijing"]
+tags = ["Beijing","Study","Sport"]
 +++
 
 Drifting stardust has finally settled.
 
-Getting out of bed in the freezing winter is a challenge, but the most difficult part is undoubtedly the period from heading out for a run until the body finally warms up. The biting wind hits your not-so-thick clothes (surely nobody runs wearing a down jacket... right?), and you still have to force yourself not to curl up but rather maintain a correct running posture. But once you actually get into the zone, it is all completely worth it.
+Getting out of bed in winter is a challenge. Hardest of all, though, is the stretch between stepping outside for a run and finally warming up. A knife-cold headwind cuts through clothing that is not nearly thick enough. (Nobody runs in a down jacket... right?) You have to force your body not to curl inward and hold the proper form. But once the rhythm takes over, it is all worth it.
 
 Of course, my earphones and watch, which drained their battery rapidly in the low temperature, clearly didn't get into the zone (
 
-The rest of the time was spent in the library efficiently catching up on the basic knowledge of biology, and using the note-taking skills forged under my middle school science teacher, I successfully filled up quite a few sheets of paper. Ah, what goes around comes around; the boomerang of not choosing biology in VCE eventually hit me right on target. Fortunately, my teammate is a "beneficiary" of high school public education, and I also tried to reinforce the knowledge for both of us by "asking him to teach me"—though the effectiveness remains to be seen.
+I spent the rest of the day efficiently catching up on basic biology at the library, using note-taking techniques forged under my middle-school science teacher to fill sheet after sheet. Sigh. Every debt comes due eventually: the boomerang of not choosing VCE Biology has struck me squarely in the face. Fortunately, my teammate is a “beneficiary” of public high-school education. I tried to reinforce the material for both of us by asking him to teach me, though whether that worked is open to interpretation.
 
 But at least in my view, tonight's presentation was a success.

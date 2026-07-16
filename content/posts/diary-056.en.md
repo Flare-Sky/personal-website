@@ -6,4 +6,4 @@ categories = ["Sojourner's Diary"]
 tags = ["Beijing"]
 +++
 
-Took a trip to the Science and Technology Museum, took many photos, too lazy to write.
+Went to the Science and Technology Museum. Took lots of photos. Can't be bothered to write.

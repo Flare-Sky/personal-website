@@ -26,6 +26,6 @@ tags = ["Beijing"]
 |22:00-23:00|Playing MC for a bit|
 |23:00-24:00|Playing MC for a bit, washing up, sleeping|
 
-Rushing to the airport to retrieve my earphones after receiving the notification—this is way simpler than solving puzzles...
+The moment the message arrived, I raced to the airport for my earphones. Much easier than solving a puzzle...
 
-Wait, I solved the puzzles too!
+Wait—I solved the puzzle too!

@@ -1,28 +1,31 @@
 +++
-title = "寄居者的日记-109"
+title = "Sojourner's Diary - 109"
 date = 2025-09-09T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-嘻嘻，我一定要活下去口牙
+Hehehe. I must survive, I tell you.
 
-谁在设计这些蚂蚁！
+Who designed these ants?!
 
-你说得对，但这就是猎人小径。作为前期大概率第三个进入的地图，全图都是难度逆天的跳跳乐不说，各种怪物更是技惊四座，隐藏boss更是给你意外的惊喜口牙！
-请允许我隆重介绍一下这里的小怪：
+You are correct, but this is Hunter's March. It is probably only the third area most players enter, yet the entire map is crammed with brutally difficult platforming. Its ordinary enemies are feats of game design in their own right, and the hidden boss has an extra surprise prepared just for you!
 
-首先是随处可见的走地蚂蚁，锐角转弯加速，是水滴；然后是它的飞天变种，精确预判封路，猝不及防；然后是蚂蚁忍者，超绝远程小飞镖，常常结伴出现，打你措手不及；还有飞天大蚂蚁，除开超绝自机狙，它甚至还有下砸和近战三种攻击模组；最绝的要属蚂蚁前辈了，他真的直接就是前辈的攻击模组，冲刺斩、三连斩、飞天斩，甚至有格挡。
+Allow me to introduce the local wildlife.
 
-前面的怪甚至都只有一伤，那在这种宝地的两伤怪又是什么情况呢？
+First, there are the common walking ants. They accelerate through sharp turns and are basically free. Then comes the flying variant, which predicts your movement precisely, seals off your route, and catches you utterly unprepared. Then there are ninja ants, firing exquisite little ranged shuriken and often appearing in groups to ambush you. Next come the enormous flying ants. Besides their magnificent player-tracking shots, they also have a ground slam and a melee strike: three attack patterns in all. Best of all are the senior ants. They straight-up use the senior warrior's moveset: dash slash, triple slash, aerial slash, and even a block.
 
-在入口，你会看见经历了逆天加强的龙牙哥，攻击范围巨广，二见甚至有个飞天大蚂蚁助阵，组成两面包夹芝士；然后就是空洞骑士史上最粪的boss：残暴的 兽蝇，你说他技能复杂吗？其实不然，一阶段两种攻击模式随机切换，二阶段之后化身收藏家，召的小怪不多，3种，都在图里了。虽说兽蝇的下砸能砸死小怪，但那是理想情况，现实往往是小怪打完兽蝇打，兽蝇打完小怪打。它甚至有5个阶段，如果你（和我一样）是1级针的话，每个阶段就要打足足11下，你能想象这11下有多艰难吗！！！
+Every enemy so far only deals one mask of damage. So what does a two-mask enemy look like in a paradise such as this?
 
-写了这么多，突然想到以上内容通通可以偷懒算进日记里，故续写之。
+At the entrance you meet a catastrophically buffed Brother Longya, with an absurd attack range. On your second encounter, a giant flying ant even joins him, creating a pincer-attack sandwich. And then comes the foulest boss in Hollow Knight history: the Savage Beastfly.
 
-几天前总算是把GPH完赛了，休整几天后可以恢复日记更新，并且着手写作面向新人的LETU生存指北了。
+Does it have complicated attacks? Not at all. Phase one randomly alternates between two patterns. After phase two, it transforms into the Collector. It only summons three kinds of minions—not many at all—and all three are right there in the arena. Yes, the Beastfly's ground slam can kill the minions, but that is the ideal scenario. Reality is usually: finish fighting the minions, fight the Beastfly; finish fighting the Beastfly, fight the minions. It even has five phases. If, like me, you have a Level 1 needle, every phase requires a full eleven hits. Can you imagine how hard it is to land those eleven hits?!!!
 
-哦对了，今天还是不碰丝之歌的第二天，除开顺利完成作业之外，还顺便看了一场球赛！
+After writing all that, I suddenly realized I could lazily count it as part of today's diary. So here we are.
 
-所以话又说回来了，丝之歌还是带给了我不小的收获的。比如，让我能够珍惜平时美好的生活（
+I finally finished GPH a few days ago. After taking several days to recover, I can resume updating the diary and start writing a LETU survival guide for newcomers.
+
+Oh, right. Today was also Day Two of Not Touching Silksong. Besides completing my homework without incident, I even watched a ball game!
+
+So when you think about it, *Silksong* has given me quite a lot. It has taught me, for example, to treasure the beautiful peace of ordinary life. (

@@ -1,151 +1,171 @@
 +++
-title = "寄居者的日记-105"
+title = "Sojourner's Diary - 105"
 date = 2025-08-06T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["达拉斯"]
+categories = ["Sojourner's Diary"]
+tags = ["Dallas"]
 +++
 
-通过翻找到的三连记录，我确认了自己看过并留下过记号的第一份周榜。
+By digging through my old like-favorite-coin records, I finally confirmed the first Weekly Chinese Vocal Synth Chart I had watched and left a mark on.
 
-也许那并不能在真正意义上称为“第一”，毕竟在我一年前的记忆里，当时的自己似乎是个为了升到lv6而开始攒硬币的白嫖怪，看着上上周“一年回顾”的内容，我也隐约感到自己当时看的应该是625期，但这有什么重要的吗？
+Maybe it does not count as my actual “first,” strictly speaking. From what I remember of myself a year ago, I was some freeloading gremlin who had only just begun hoarding coins to reach "Sixfold Jealousy". Watching the “one year ago” retrospective from two weeks back also gave me the vague feeling that I must have started with Issue 625. But does that really matter?
 
-更重要的问题似乎是我好像不论如何都错过了一整年这个时间点吧（
+The more important problem is that, one way or another, I seem to have missed the exact one-year anniversary by an entire issue. (
 
-没办法，最近要忙碌的事情还是太多了。好不容易到了一个能稳定IP的地方，终于能兑现在678期评论区提到的“写点什么”的承诺了。这篇碎碎念大概会在679期更新时蹲点发在评论区，迟到一期实际上也没啥吧我看评论区的小作文基本都是写上期的（但你这似乎是写的上上期啊喂！）
+It cannot be helped. There has simply been too much going on lately. Now that I have finally reached somewhere my IP address will stay put, I can at last fulfill the promise I made under Issue 678 to “write something.” I will probably camp out in the comments and post this ramble when Issue 679 goes up. Being one issue late should be fine, right? Most of the mini-essays in the comments are about the previous issue anyway. (Except yours is about the one before *that*, hello?)
 
-嗯，确实挺奇怪的，我的入门刊居然不是殿堂刊（播放10w+）的623期，而是在此之后“六重不忠”的624期（指播评弹藏币赞6项指标全部较上期下降，为此我还甚至回去625期瞅了一眼）。感觉上和我刚因为喵赛克有五维官方授权联动而果断购入小伙伴曲包后联动曲就被“回收”，刚借着2050的概念宣传片拉新人入坑五维就“新专辑有最后一张”；和刚看完妄想症原版小说一抬头全平台下架一样，刚好错过了一个辉煌的时期呢。
+It is rather strange, though. My gateway issue was not the Hall-of-Fame Issue 623, with over a hundred thousand views, but Issue 624 immediately afterward—the one that achieved “sixfold disloyalty,” meaning all six figures, views, comments, danmaku, favorites, coins, and likes, fell from the week before. I even went back to Issue 625 to check. It feels much like how I bought the Muse Dash Just as Planned music pack the moment I learned it had an officially licensed Medium⁵ collaboration, only for those songs to be “recalled”; how I used the *2050* concept trailer to recruit a friend into Medium⁵, only to hear “there will be a new album—the last one”; or how I finished the original *Paranoia* novel, looked up, and found it pulled from every platform. I do seem to have a gift for arriving just after the glory days.
 
-一句话概括我波澜壮阔的中V历程：**我推星尘**
+My entire turbulent journey through Chinese vocal synth music, in one sentence:
 
-和我喜欢的曲师（貌似是音游圈叫法但不管那么多了）……之一的忘忘姐一样，我的入坑曲也是《万神纪》，不过时间可就晚了不少了。仔细想想，果然在那之前我是听过中V的曲子的，而且仔细一想还确实都是教主的。当时我还主要在用酷狗听歌，喜欢各种收藏歌单，但应该是在一个古风歌单里听过第一遍《万神纪》之后，我的“喜欢”里从此只有虚拟歌姬的歌了。哎，中V害人不浅。
+**I stan Stardust.**
 
-当时酷狗有几个背景图片的选项，歌手图片、歌曲或专辑封面、还有什么忘了（太久没用了哈哈，上次下载下来看时我建的一个歌单居然好像小火了一把，那是至今在你b私信没见过的点赞99+）。当我切到星尘的歌手图时，我……并没有什么感觉。嗯，就像我一直向身边的人强调的，我实在不应该算是个原教旨主义的二次元。虽然会存一堆图买一堆谷看一堆番（这明明就是吧喂，还是加个“原教旨主义”消歧义吧），但我的确没有其他同好那样的热情。可是就是这个钴蓝色头发的小姑娘，给我接下来的人生带来了改变。
+Like Wangwang, one of my favorite producers (I think “producer” in this sense came from rhythm-game circles, but never mind), my gateway song was *Deities of Cathaysia*. I arrived quite a bit later than she did, though. Thinking back, I had definitely heard Chinese vocal synth songs before that, and, now that I think even harder, they really were all by the Master, ilem. I still used Kugou for most of my music then and loved collecting all sorts of playlists. But after I first heard *Deities of Cathaysia* in what was probably an ancient-style playlist, my Likes became virtual-singer songs and nothing else. Sigh. Chinese vocal synth music: not even once.
 
-我开始去有意无意地找虚拟歌姬听，但因为听不懂歌词而果断放弃了品鉴日V（逸一时误一世啊小子，少遛了不少的冰呢）。我开始见到了洛天依、乐正绫、言和、乐正龙牙、墨清弦、徵羽摩柯、海伊、赤羽、诗岸、苍穹、Minus（排名不分先后……不会有人在意这种地方吧）等等的名字。不过，我还是忘不掉那天听到的声音，似乎从遥远光年外的以太之海传来的声音。即使后来有了AI声库，V4尘还是我永远的白月光。
+Kugou offered several choices for the background image: artist photo, song or album cover, and something else I have forgotten. (I have not used it in ages, haha. The last time I reinstalled it for a look, I discovered that one of my old playlists had apparently become modestly popular. It still has more than 99 likes, a number I have never seen in my Bilibili inbox.) When I switched to Stardust's artist image, I... felt nothing in particular.
 
-我是幸运的，一开始就喜欢听古风歌曲，在“游九州音乐企划”似乎在背完郦道元的《三峡》后不再推出虚拟歌手版的翻唱（或者说是双原唱？不想纠结这些）之后，我果断入股忘川。结果就是现在我仍然戴着的6级“忘川鸽”铭牌（也是我唯二拥有的粉丝铭牌）。说起这个，当初我还在酷狗天天冲榜试图得到那边的永久粉丝牌，和另一位头像不记得是哪个角色只记得是黄黄的网友竞争榜一大哥的位置，结果最后还是在学习压力面前妥协而不了了之了（我甚至为此充了几个月的会员啊啊啊）
+As I keep insisting to everyone around me, I really should not count as a fundamentalist otaku. Sure, I save piles of pictures, buy piles of merch, and watch piles of anime. (That is literally an otaku, hello? Fine, let “fundamentalist” do the disambiguating.) But I truly do not have the same blazing enthusiasm as many fellow fans. And yet this cobalt-haired girl changed the course of the life that followed.
 
-在中考那段时间，我喜欢边刷试卷边听歌，听久了自然而然背下了歌词，偶有不需要动脑的作业甚至可以做到三线并行（写作业+听歌+背词跟唱）。初中毕业前，我偶然得知班里似乎有个也听中V的同学（当时他的微信头像甚至是龙牙哥），可惜没来得及深入交流一下就再也没见过了。抄歌词这种经典节目当然也是有的，不过就要等到高中了。在那之前的暑假，我买下了人生第一张砖——《平行四界Quadmension X-1（以下简称X-1，后同）》……的并非豪华版。然后与五小只的挂件的失之交臂就成为了我永远的痛（该说不说《X-1》公式服的设计真香吧）。那天我激动的心颤抖的手发了一个仅自己可见的朋友圈。
+I began deliberately—or absentmindedly—looking for more virtual singers. Since I could not understand the lyrics, I promptly gave up on sampling Japanese Vocaloid. (A moment's laziness, a lifetime's loss, kid. Think of all the bangers you missed.) I began encountering names like Luo Tianyi, Yuezheng Ling, Yanhe, Yuezheng Longya, Mo Qingxian, Zhiyu Moke, Haiyi, Chiyu, Shian, Cangqiong, and Minus, in no particular order—not that anyone is policing this list. Still, I could not forget the voice I heard that day, as though it had traveled through a sea of ether from light-years away. Even after the AI voicebank arrived, Stardust V4 remained my eternal moonlight.
 
-对，虚拟歌姬自然不是广为人知的存在，当时的我也不知道具体是抱着怎么样的想法，但总而言之就是不想让太多人知道这件事。但父母自然是一直知道的，在那之前还拜托老爸分期买下了五小只的公式服挂件（然后意识到一起买似乎能省钱）。在那之后的高中期间，我陆续在某鱼上补票了《吉光片羽》、《海纳百川》和《星愿》三张老专，以及萌域的若干尘周边（哇塞我当时这么有钱哦）。就这样终于等到了《X-2》的发布。
+I was lucky that I already liked ancient-style music. After the *Journey Across the Nine Provinces* project apparently stopped releasing virtual-singer versions once it had finished setting Li Daoyuan's *The Three Gorges* to music—covers, or dual originals, whatever, I refuse to litigate this—I invested decisively in the Wangchuan project. The result is the Level 6 “Wangchuan Pigeon” fan badge I still wear today, one of only two fan badges I own. Speaking of which, I used to grind the Kugou charts every day for a permanent badge there. I competed for the number-one-fan spot against someone whose yellow profile picture featured a character I can no longer identify. In the end, academic pressure won, and the whole campaign fizzled out. (I paid for several months of membership for this. Aaaaaah.)
 
-但就是在这个时间点，我和父母的意见产生了分歧。
+While preparing for the high-school entrance exam, I liked doing practice papers with music on. After enough repeats, I naturally memorized the lyrics. If the homework required no brainpower, I could even run three threads at once: write the answers, listen to the song, and recall the lyrics while singing along. Just before middle school ended, I happened to discover a classmate who also seemed to listen to Chinese vocal synth music—his WeChat avatar was even Longya—but we never had the chance to talk properly before I never saw him again.
 
-他们的本意是好的，二次元这种文化不可避免的会带有软色情的内容，作为青春期的男生确实会有一些冲动。因此，他们看到了我在某宝上的预定，并且和我协商后退掉了X-2。其实这也没什么，长大了补票也行，但当时我就是做出了错误的选择——从我妈的账户里转了一部分钱出来，然后在奶奶的账户上再次购买了专辑。
+Of course I also performed that time-honored ritual of copying lyrics by hand, though that would have to wait until high school. Before then, in the summer after graduation, I bought the first physical album of my life: *Quadimension X-1*—hereafter X-1, and the same convention applies to the sequels. It was... not the deluxe edition. Missing out on the five girls' charms became an eternal wound. (The official X-1 outfits really were gorgeous, to be fair.) That day, hands trembling with excitement, I posted a WeChat Moment visible only to myself.
 
-收到专辑的那天我很开心，但心里总有些不对劲。
+Virtual singers were hardly common knowledge, of course. I do not know exactly what I was thinking, but I simply did not want too many people to know about this part of me. My parents had always known, though. Before that, I had even asked Dad to buy the five official-outfit charms in installments, only to realize later that ordering them together would probably have been cheaper. During high school, I gradually bought secondhand copies of three older albums—*Queendom*, *Storybook*, and *Star Wish*—plus a handful of Stardust goods from Moeyu. (Good grief, was I rich back then?) And at last, X-2 was announced.
 
-晚上在洗手间打扫卫生时，母亲见我干起活来特别勤快，龙颜大悦说可以稍微奖励一下我。我脑子一热：买专辑行不行？她思考半晌说行吧，我脑子又一热：那太好了刚好奶奶给我买了就算您送的吧
+That was precisely when my parents and I came into conflict.
 
-嗯，结果可想而知。
+Their intentions were good. Anime culture inevitably contains a certain amount of softcore sexual material, and a teenage boy does, admittedly, have impulses. They saw my preorder on Taobao, talked it over with me, and canceled X-2. That alone would not have been a tragedy; I could always buy it when I grew up. But I made the wrong choice. I transferred some money out of Mom's account, then bought the album again through Grandma's account.
 
-晚上，因为这事撕破脸的父母与儿子决定好好聊聊。我还记得，那天父亲把专辑的歌词本拿了出来，翻到的分别是：《X-1》的《热伤风》、《吉光片羽》的《优雅的罪恶之源》、《海纳百川》的《蜜药》（等会似乎是封面页）、还有《星愿》的《徒劳的爱之美少女》（这个只露了个背吧喂）。父子长谈许久，期间分析了《X-2》中我最喜欢的《Whispering Snowflakes》，批判了其中的恋爱观。谈起我的入坑曲《万神纪》，父亲表示他在我的推荐下已经听过了，但对其中的过度自信持保留态度。
+I was delighted on the day it arrived, yet something inside me felt wrong.
 
-但总归是买了，他们看着面前一桌的花花绿绿也在发愁。最终决定，由我将这些零碎整理起来，然后锁进家里的保险箱。那天晚上，写完检讨的我不舍地将专辑以及其他物件一个一个小心地放入了本来用于收同学手机的保险箱，颇有“风萧萧兮易水寒”之感。
+That evening, while I was cleaning the bathroom, Mom saw how unusually industrious I was and, in her imperial pleasure, offered me a small reward. My brain short-circuited. “Can I buy an album?”
 
-当然，我似乎忘了有几张纸片没锁进去嘿嘿（你真的是忘了吗喂）。
+After thinking for a while, she said yes. My brain short-circuited again. “Great! Grandma has already bought it for me, so we can just count it as your present.”
 
-停止消费，但听歌是仍然在继续着的。我进入高中后不久就想方设法搞到一个有蓝牙有歌词能放视频能看小说的MP4。具体方法请看VCR：
+Yes. You can imagine what happened next.
 
-> 我：爸我想买个MP4听歌
+That night, parents and son, relations thoroughly ruptured over the matter, sat down for a serious talk. I still remember Dad taking out the lyric booklets and opening, in succession, to *Summer Cold* from X-1, *The Elegant Origin of Sin* from *Glimmers*, *Honeyed Poison* from *All Rivers Run into the Sea*—wait, that may only have been the cover page—and *The Futile Love of a Beautiful Girl* from *Star Wish*. (She was only showing her back, hello?)
 
-> 父：不行
+Father and son talked for a long time. We analyzed *Whispering Snowflakes*, my favorite song on X-2, and criticized its idea of romance. When we reached my gateway song, *Deities of Cathaysia*, Dad said he had already listened to it at my recommendation, though he remained skeptical of its excessive self-confidence.
 
-> 我：妈我想买个听歌的设备
+The purchases had been made, however, and my parents were at a loss as they stared at a table covered in colorful little objects. The final decision was that I would organize the albums and assorted goods, then lock them in the safe at home. That night, after writing my self-criticism, I reluctantly placed each album and trinket into the safe one by one, with all the solemnity of a warrior crossing the River Yi.
 
-> 母：不行
+Of course, I seem to have forgotten a few paper items, hehe. (Did you really forget, though?)
 
-> 在经历了一番长（磨）久（妈）斗（耳）争（根）后
+The spending stopped, but the listening did not. Not long after starting high school, I maneuvered my way into owning an MP4 player with Bluetooth, synchronized lyrics, video playback, and an ebook reader. For the exact procedure, please consult the replay:
 
-> 我：妈～～我就是想平时也能听歌
+> Me: Dad, I want an MP4 player for music.
+>
+> Dad: No.
+>
+> Me: Mom, I want a device for listening to music.
+>
+> Mom: No.
+>
+> After a protracted campaign of grinding down Mom's resistance...
+>
+> Me: Moooom, I just want to listen to music during the day too.
+>
+> Mom: Fine, fine, go buy it.
+>
+> Me: (Places the order before Her Majesty can reconsider.)
 
-> 母：啊行行行你买吧
+And so my roommate and I acquired a device on which we could even watch *Ultraman Tiga* together after lights-out. The screen was tiny, and we only made it through two episodes. Joking aside, I naturally used it mostly for music. On HiFiNi—do not bother searching; the site is dead now—I found a kind stranger's download containing all six Medium⁵ albums. Together with the songs from my own copies of X-1 and *Star Wish*, they formed my offline playlist. That “tradition” continues to this day.
 
-> 我（趁母上大人反应过来之前迅速下单）
+I do not know whether other people experience memory this way, but, for me, what I see and what I hear become connected. Whenever I hear one of the songs I liked less from those first six albums—the ones that failed to survive as my playlist kept evolving—I return to the days when I fell asleep to music in the top bunk of the dorm. I did not even know how to set a sleep timer then, so every morning the MP4 player was dead.
 
-就这样，我和室友有了一部甚至能在宿舍熄灯后一起看迪迦的设备（虽然屏幕超级小而且才看了两集）。开玩笑的，我当然还是主要用它来听歌。从HiFiNi网站（别搜了这个网站现在挂了）上找到了好心人分享的五维介质6专辑合集，加上当时手头的《X-1》和《星愿》曲，共同构成了我的离线歌单，这个“传统”延续至今。
+*Stranded Siren*, the song at Number 2 on the first chart I watched—yes, we have finally returned to the subject—was certainly not among those eliminated tracks. By coincidence, I was reading *The Odyssey* at the time. I rewrote a set of lyrics around the story and fantasized about producing the entire song myself, only for the idea to die in the womb. Odysseus and that song thus became a single anchor in my memory. When the song, released for Haiyi's 2024 birthday, appeared at Number 2 on the chart, it shocked me back into that period even though I had already heard it before.
 
-哦对了，不知道别人如何，但在我的记忆里，眼前的事和耳旁的歌是相连的。这也就使得我一听到前六首专辑里不那么受我喜欢的曲子（没能在日渐更新的歌单中存活下来的那批），就能想到那段在宿舍上铺听歌入睡的时间。当时我甚至不会定时关闭，每次早上起来MP4都是没电的。而我第一次听周榜时位2的那首《搁浅的塞壬》（终于说回正题了）自然……不属于被淘汰的此列，但巧合的是当时我正在读《奥德赛》，顺手为这个故事重填了一篇词并幻想自己能够一体机做出歌来，可惜胎死腹中。结果就是，奥德修斯的故事和这首歌一起成为了一个记忆锚点，在2024海伊诞生日放出的这首歌在周榜第2出现时（即使我已经听过）还是令我震惊地把我带回了那段时间。
+It was a time when everything seemed to thrive. The official team interacted with fans. The five Medium⁵ sisters' roleplay accounts bantered on Weibo. Birthdays and holidays were both likely to bring new songs, and a new album came year after year. No one else in my class listened to virtual singers, but I happily wandered through my little world alone. Occasionally opening my mouth to sing and getting roasted for it was part of the fun.
 
-那是一段万物欣欣向荣的时间。官方会下场与粉丝互动，微博里有着五维五姐妹的语C互动，不管是生日还是节日都大概率有新曲，专辑也是一年一年地出。虽然班里并没有其他听虚拟歌姬的同学，但我仍然乐此不疲地徜徉在我一个人的小世界，偶尔开开腔被吐槽一下也算是一件乐事吧。
+Then we were forced to scatter, and the uncertainty of the future had never stood so plainly before me. If you asked the me of that time, perhaps I was not thinking very deeply. I simply followed the beat. Music became a seasoning I always carried with me: secretly playing rhythm games on a tablet that did not yet belong to me during a school trip to Moganshan; racing a deadline and finishing an essay on a bench beside Xianghu Lake; opening Bilibili on the family computer at my desk whenever my parents went out; and at Tianyuan Mountain... well, I did rather a lot there, haha.
 
-然后，我们被迫分散，未来的不确定性从未如此清晰地展现在了我的眼前。你要问的话，当时的我或许也没想那么多，随着节奏走呗。此时音乐就成了一种常伴于身的调味剂：去莫干山游学偷偷用当时还不属于我的pad打打音游，在湘湖畔的长椅上听着歌赶着ddl写完文章，在家里的书桌上趁我爸妈出门打开公用机刷刷b站，在田园山……干过的事情就多了哈哈。和同学疯狂安利五维和忘川，最后成功用2050的噱头拉到人（然后就胎死腹中了，那位对此念念不忘一直要写点故事补完缺憾，可惜目前都是大纲）；直播看到新曲激动地当场打开Phigros，然后被老师逮了个正着留下“三角构图”的绝唱；度过了尘6激动地单曲循环《群星与夜之公主》，全然没看评论区（怀念听歌不混圈的自己）。那时我已经开始自己做lrc补足专辑曲之外的单曲没有歌词的遗憾，这个传统延续至今。
+I aggressively recommended Medium⁵ and Wangchuan to my classmates, finally recruiting one with the promise of *2050*—only for the project to die unborn. That friend still cannot let it go and has always wanted to write a story to complete what was left behind, though so far it remains an outline. Once, I grew so excited by a new song during a livestream that I opened Phigros on the spot, only for the teacher to catch me and leave behind the immortal verdict: “triangular composition.” For Stardust's sixth birthday I looped *The Stars and the Princess of Night* in ecstasy and ignored the comments entirely. I miss the version of me who listened without joining the fandom.
 
-哎怎么就说到22年了。被跳过的21年尘5是我经历的第一个星尘诞生日，《光》和《星辰Star Light》这两首歌常听常新，并且歌词也被我抄到了歌词本上。那年还在老家掐着点抢了阿b的个性装扮，编号是2769，没什么引申意义，但我就是记住了这个数字。后来的新年祝福装扮我就没氪了，毕竟当时也觉得一套就行（看了一眼自己现在的b站收藏馆……嗯没忍住）
+By then, I had already begun making my own LRC files for singles that lacked lyrics outside the album releases. That tradition, too, continues to this day.
 
-现在要对那几年的中V之旅做一个总结，那就是嘛也不懂。互联网i人的性格让我没有加任何同好群或者认识任何创作者，以至于在那之后没能加入“五维介质官方脑补群”成为了我念念不忘的遗憾。但管那么多呢，歌好听就完了呗！毕竟，除了音乐之外，现实里还有一大堆麻烦事呢。
+Wait, how did I jump all the way to 2022? Stardust's fifth birthday in 2021 was the first of hers I experienced. *Light* and *Star Light* have stayed fresh no matter how often I replay them, and I copied both sets of lyrics into my notebook. That year, back in my hometown, I also waited for the exact second to grab her Bilibili profile theme. Mine was Number 2769. The number has no hidden significance; I simply remember it. I did not pay for the later Lunar New Year theme, since I thought one set was enough. (Glances at my Bilibili collection today... right, I failed to resist.)
 
-22年的降临日，星尘Infinity发布。在那之前的试听曲我已经反复遛过了，虽然的确很像亲妈，但对我来说这并不是坏事。之前已经提过我仍然最喜欢V4，但AI声库大大降低了调声的门槛，又拔高了声库的上限，于创作者于听众都无疑是个好消息。偶尔，在弹幕划过几条“茶树AI”，在评论区瞥见几句质疑，我也没放在心上。
+If I had to summarize those years of Chinese vocal synth fandom, the answer would be: I understood absolutely nothing. My internet-introvert nature kept me from joining a single fan group or meeting a single creator. Missing the chance to join the “Official Medium⁵ Wild Speculation Group” later became one of my enduring regrets. But who cared? The songs sounded good, and that was enough. Real life already had plenty of trouble beyond the music.
 
-后来，《X-3》发布了。我没有第一时间买，但后来也补票了最基础的砖+明信片的set。至此，我终于填满了自己当初卖来收藏明信片的小册子（嗯，这就是我偷偷留下没收进保险箱的东西）。只记得当时的自己很兴奋，很满足。
+On Advent Day in 2022, Stardust Infinity was released. I had replayed the demo tracks countless times beforehand. Her voice did resemble her voice provider, but I did not consider that a bad thing. As I have said, I still love V4 best, yet the AI voicebank dramatically lowered the barrier to tuning while raising the upper limit of what the voice could do. For creators and listeners alike, that was undoubtedly good news. Occasionally a danmaku would glide by calling her “Tea Tree AI,” or I would glimpse a skeptical comment. I paid them no mind.
 
-有官曲，有忘川，有拜年纪，这对当时的我来说已经够了，直到2023年3月。
+Later, X-3 came out. I did not buy it immediately, but eventually made up for that with the most basic album-and-postcards set. At last I filled the little booklet I had bought to hold postcards—the very thing I had secretly kept out of the safe. All I remember is how excited and content I felt.
 
-**“五维介质死了”**
+Official songs, Wangchuan, and the Bilibili New Year Gala were enough for me then. Until March 2023.
 
-我看着李哥的动态（视频评论区的截图，原动态似乎存活时间不到一天没能去圣地巡礼），有点不敢相信。虽然语C的号已经好久没发过东西了，虽然出歌、转曲的频率肉眼可见地降低（比如当时迟迟不发的《美术馆》V4），虽然评论区质疑的声音越来越大，虽然……但一切就是毫无预料地来了。
+**“Medium⁵ is dead.”**
 
-我恍然惊觉，自己对于五维知之甚少。于是我开始尝试找组织（哎49年入国军）。在知乎看到平四史略和“凤凰新生”这篇文章，在QQ某个群里成功找到了《李迪克选集》，终于对整个平四-五维的时间线有了一点认识。然后就走上了混圈子的不归路（虽然大多时候也只是看着而已哈哈）
+I stared at Li's post—or rather, a screenshot in a video's comments, since the original apparently survived for less than a day and I never made the pilgrimage to see it myself—and could scarcely believe it. Yes, the roleplay accounts had been silent for a long time. Yes, the rate of new songs and reuploads had visibly slowed; the V4 version of *The Art Museum*, for example, had still not appeared. Yes, the doubts in the comments were multiplying. Yes... and still, it arrived without warning.
 
-同年的拜年纪里中V燃曲缺席了，不过这块倒是被《到深空更深处去》补上了。从这时起，我开始掌握了从b站扒歌的技能。当时第一首自己下载下来并且手打好lrc的应该是KB的《蕉窗志异》。虽然效率低了点，但终归是找到了听新曲的方法。当时的我正准备出国学习，也进入了高中的关键阶段。有时候我会想，这是不是一种为了让我专心于学习的安排呢？
+It dawned on me that I knew very little about Medium⁵. So I began looking for an organization to join. (Ah, joining the Nationalists in 1949.) I read a brief history of Quadimension and an essay called *Phoenix Reborn, Long Road Ahead* on Zhihu. In some QQ group, I successfully located *The Collected Works of Ddickky*. At last I gained a rough understanding of the Quadimension-to-Medium⁵ timeline. And then I stepped onto the one-way road of joining the fandom, although most of the time I still only watched from the sidelines, haha.
 
-哦对了，在搬家出国之前我成功从保险箱里拿出了尘封已久的砖和周边，并把它们收到了老家。同样趁乱顺走的还有之前打音游的pad，什么圣遗物。
+The high-energy Chinese vocal synth number was absent from that year's New Year Gala, though *Deeper into Deep Space* filled the gap. Around then, I learned how to rip music from Bilibili. The first song I downloaded and hand-timed into an LRC file was probably KB's *Strange Tales by the Banana Window*. It was not efficient, but I had finally found a way to listen to new releases. I was preparing to study abroad and had also entered a crucial stage of high school. Sometimes I wondered whether this was all arranged so that I would concentrate on my studies.
 
-到了马来西亚的国际学校，我成功地在现实世界也变成了i人（英语水平太差了太差了）。此时，在课间扒歌做歌词就变成了我的消遣。偶尔，我会有把做好的lrc分享出去的念头。刚开始只敢在评论区发发，后来找到了更好的、保留原格式的方法——阿b的笔记功能。顺着我的动态翻翻，你能找到许多我做的lrc。其中大部分其实网易云就有，但我当时还不知道所以就做重了（
+Oh, right. Before we moved overseas, I successfully recovered the long-sealed albums and merch from the safe and sent them back to my hometown. Amid the chaos I also spirited away the tablet I used for rhythm games. What a sacred relic.
 
-到了23年的尘诞，官方不语只是放出老曲。但同时，让我惊艳的那首《碎镜》也在那天发布了。我第一次意识到，除了官方与他们经常合作的创作者之外，还有一群创作者们也在为这个圈子添砖加瓦发光发热。遗忘老师还在做忘川歌曲扒谱的时候我就关注了，虽然一直没啥互动，但也算老粉吧（）
+At an international school in Malaysia, I managed to become an introvert offline as well. My English was awful. Truly awful. Ripping songs and making lyric files between classes became my pastime. Occasionally, I wanted to share the LRCs I had made. At first I only dared paste them in the comments. Later I found a better way that preserved the original formatting: Bilibili Notes. Scroll back through my posts and you can find plenty of my LRCs. NetEase Music already had most of them, but I did not know that then, so I duplicated a lot of work. (
 
-24年初，我终于开始看“虚拟歌手贺岁纪”。《极星流浪夜》至今仍是我最喜欢的忘曲（截至文章写完《九光年宇宙》还没发，所以保持原结论不变）。与此同时，我也终于开始听其他的歌了（哇居然这么晚才开始哦）。歌单里多出了不少洛曲的同时，我也开始思考怎么能找到更多这样的高质量曲子。而给出答案则要等到半年之后了。
+For Stardust's 2023 birthday, the official account said nothing and merely reposted old songs. Yet *Shattered Mirror*, which astonished me, was also released that day. For the first time, I realized that beyond the official team and its regular collaborators, a whole group of creators was also building and brightening this community. I had followed Yiwang back when they were still transcribing Wangchuan songs. We have barely interacted, but I suppose that makes me an old fan. ()
 
-在Minus改名“永夜”的风波过后，在24年情人节那天，爆的来了。一首《零和》的评论区一度达到3000+。如今已经看过周榜的我终于能够理解这个数字的“含金量”。当时我在自习课一点一点地翻着聊天记录，看着我认识的不认识的人发表着言论。而我唯一做的，是在弹幕（甚至不是评论区）里弱弱地问了一句：官群群号是多少？
+At the beginning of 2024, I finally started watching the *Virtual Singer New Year Gala*. *Polar Night of Wandering* remains my favorite Wangchuan song to this day. (*Nine-Light-Year Universe* had not been released when I finished this entry, so the original verdict stands.) At the same time, I finally began listening to other songs. Wow, only now? As more Luo Tianyi tracks appeared in my playlist, I began wondering where I could find more songs of this quality. The answer would arrive half a year later.
 
-理所当然地，没人回应。
+After the controversy over Minus changing her name to Yongye, the bomb dropped on Valentine's Day 2024. The comments under *Zero-Sum* once exceeded three thousand. Having watched the weekly chart by now, I can finally appreciate what that number meant. Back then, I sat in self-study and slowly scrolled through chat logs, watching people I knew and people I did not voice their opinions. The only thing I did was timidly ask in a danmaku—not even the comments—“What is the official group number?”
 
-此后的官方进入大装死时代（？），除了每次诞生日发点老曲之外就没动静了。在24年的712，看着洛12的辉煌，我有感而发发了一条朋友圈，大意是：外面好热闹啊……听说是隔壁的女娃过十二岁生日了……还是看看远处的五维介质吧，下个月能有这百分之一热闹就行，让我的尸体暖一下（2024年7月20日，我开始看周榜了。
+Naturally, no one answered.
 
-“哇，居然有这么多优秀的创作者在闪耀。”我跟着周榜的副榜重温了当年的入坑曲以及入坑中V不可不尝的经典。教主（ilem）的歌不用说了，8月甚至有个i年纪；条姐（COPY）的《尘降》我老早就听过，当得知《世末歌者》的作者居然也是她时，我直接“对不起长官刚才没认出你；校长（阿良良木健）的歌我从贺岁纪就开始听了，至今没有一首不在我的歌单里；《妄想症》系列被我补上了，然后它们就变成了纯色背景；《中华少女remeet》专辑发布后补上了白子哥（纯白）的《中华少女》系列，惊喜地发现喵赛克里既有《妄想症》又有《中华少女》。啊再报菜名这边就写不下了，说几个印象深的然后就此打住吧。
+After that, the official team entered its Great Playing-Dead Era (?), doing nothing except posting old songs on each singer's birthday. On July 12, 2024, as I watched the splendor of Luo Tianyi's twelfth birthday, I posted an emotional WeChat Moment. The gist was: “It is lively outside... apparently the girl next door is turning twelve... let us look at Medium⁵ in the distance instead. If next month can be one percent this lively, perhaps my corpse will feel warm again.”
 
-感谢影歌和鱼丸君制作的科普向视频，让我了解了五维之外的中V。
+On July 20, 2024, I began watching the weekly chart.
 
-此后的周榜我是期期不落。在周日的车上，我一般会接上耳机然后听一路，一般听完了周榜目的地也就到了。我那之后的歌单曲目主要来源就变成了周榜，同时也学会了从网易云扒歌的技能（手机从来没下载过wyy，却已经使用过n次了）。
+“Wow. So many brilliant creators are shining.”
 
-然后，时间线终于走到了今年。我离开学校，有了更多自由时间。于是在北京我就变成了同学口中的“二次元”。同时，我也开始写一些东西，试图将自己的情感记录下来，并且分享出去。
+Through the chart's secondary rankings, I revisited my gateway song and the classics no journey through Chinese vocal synth music is complete without. The Master's songs need no introduction; that August even brought an entire ilem anniversary celebration. I had heard COPY's *Stardust Descends* ages ago, but when I learned she had also written *Singer at the End of the World*, my reaction was basically, “My apologies, officer, I did not recognize you just now.” I had listened to Araragi Ken's songs since the New Year Gala, and not one has failed to enter my playlist. I caught up on the *Paranoia* series, after which all its videos became solid-color screens. When the album *Chinese Girl: Remeet* appeared, I filled in Pure White's *Chinese Girl* series and was delighted to discover that Muse Dash contained both *Paranoia* and *Chinese Girl*. If I keep reciting this menu, there will be no room left, so I will stop with the few names that left the strongest impression.
 
-在今年高考的时间，回归星空社发布过一份五维的“高考”试卷。一看到有奖品，还在新疆旅游的我头脑一热就连蒙带猜（还带搜索）地做了。最后的一道大题我简单写过一点东西，不知道为什么总感觉写得很尬，算了别看直接粘贴出来吧，以下：
+Thank you as well to Yingge and Yuwanjun for their explainer videos, which introduced me to the Chinese vocal synth world beyond Medium⁵.
+
+I have not missed a single weekly chart since. On Sunday car rides, I usually plug in my earphones and listen the whole way. By the time the chart ends, I have generally reached my destination. From then on, the weekly chart became my playlist's main source of new songs. I also learned how to rip music from NetEase. I have never installed its app on my phone, yet somehow I have used the service countless times.
+
+And now the timeline finally reaches this year. I left school and gained more freedom. In Beijing, I became “the otaku” in my classmates' eyes. I also began writing things, trying to preserve my feelings and share them with others.
+
+During this year's gaokao season, the Return to the Stars Club published a Medium⁵ “college entrance exam.” When I saw that there were prizes, I lost my head and completed it while traveling in Xinjiang, guessing wildly—with some searching mixed in. I wrote a short answer for the final essay question. For some reason it feels painfully awkward to me. Whatever. Do not look too closely; I am pasting it below:
 
 ---
 
-涅槃的凤凰
+### The Phoenix in Nirvana
 
-在知乎上曾经看过一篇名为《凤凰新生，征途漫漫》的平四历史文，当时就对这个意象留下了深刻印象（好绕嘴啊），故化用之。
+I once read a history of Quadimension on Zhihu titled *Phoenix Reborn, Long Road Ahead*. Its central image stayed with me—what a tangled sentence—so I borrowed it here.
 
-2023年初，李哥发布了“新专辑有，最后一部”动态，接着，一部名为“五维介质死了”的视频获得了诸多流量，同样的话也光速在这个小圈子里传播开来。当时的我正面对人生中重要的转变阶段，听到这个消息，一方面是“啊我刚拉同学入坑你就跟我说这？”的难以置信，另一方面也有“唉以后就专心于学习吧”的聊以自慰。但我打心底里不相信这种话，五维介质不会死。
+At the beginning of 2023, Li posted, “There will be a new album. The last one.” Soon afterward, a video titled *Medium⁵ Is Dead* gained considerable traffic, and the same words spread through this tiny community at light speed. I was facing an important transition in my own life. Part of me responded with disbelief: “I just recruited a classmate, and now you tell me *this*?” Another part consoled itself: “Well, I can concentrate on studying from now on.” But deep down I never believed those words. Medium⁵ would not die.
 
-事实证明，官方的隐退似乎促成了“一鲸落，万物生”的景象。许多同人社团如雨后春笋般涌现（也有老牌走红的，比如秘宝旅人），使得更多有才华的创作者被粉丝发掘。
+What followed suggests that the official team's retreat helped create the sight of “one whale falls, ten thousand creatures flourish.” Fan circles sprang up like mushrooms after rain, while some older ones, such as Secret Treasure Traveler, found new popularity. More gifted creators were discovered by fans.
 
-星尘inf的高性能使得b站一直有源源不绝的新曲出现（每顿都有饭好耶）。而2024年初我开始看周刊，见证了当年尘诞三曲聚首和今年多次歌手榜上尘的反超洛佬（感谢乌托邦🙏），从侧面印证了不仅数量上，质量上这些“同人曲”也一直在线。
+Stardust Infinity's power has kept Bilibili supplied with an endless stream of new songs. Food at every meal—hooray. I began watching the weekly chart in early 2024 and witnessed three Stardust birthday songs gathering on the chart that year, then Stardust overtaking Boss Luo on the singer rankings several times this year. Thank you, *Utopia*. This proves from another angle that these “fan songs” have remained strong not only in number, but in quality.
 
-其实，在这期间我们能常常从各种渠道看到那些熟悉的身影。虚拟歌手贺岁纪和夏浪派对作为v家节目是少不了的；游戏同人曲的数量也一直很多，拜二游流量所赐，相关曲目出圈的同时也带来了新鲜血液（重要的事有歌听，好耶）；拜年纪上，虽然古风燃曲中似乎排不上咱们五维了，但每年在角落里都会有那熟识的歌声，似乎从未缺席；也感谢忘川始终没有放弃使用五维的声库，古风爱好者真的不能缺这口（游戏内的版本基本都是sv声库，一般也能延迟传到站上，接着就是收藏听歌一条龙，嗯b站果然是听歌软件）
+In truth, we often saw those familiar figures through many different channels during this period. Naturally the *Virtual Singer New Year Gala* and *Summer Wave Party*, both vocal-synth programs, featured them. Fan songs for games were plentiful as well. Thanks to the traffic around gacha games, some broke beyond the circle and brought fresh blood back with them. More importantly, we got songs to hear. Hooray. Even if Medium⁵ no longer seems to have a place among the ancient-style anthems in Bilibili's New Year Gala, those familiar voices appear in some corner every year, as though they have never been absent. I am also grateful that Wangchuan never stopped using the Medium⁵ voicebanks. Ancient-style music lovers genuinely cannot live without this flavor. The in-game versions mostly use Synthesizer V voicebanks, but they usually reach Bilibili after a delay. Then it is favorite, listen, done. Yes, Bilibili is clearly a music app.
 
-我虽然不怎么参与圈内活动，但作为观众确实见证了许多。
+I rarely participate in fandom activities, but as an audience member I have witnessed a great deal.
 
-2024的尘诞，我想现在写作时一样坐在出游的大巴上，b站微博多地辗转，激动地看着同人作者们源源不绝的新作品。当时我深切地感受到了那股欣欣向荣，这是无数创作者聚集在一起造就的奇迹。
+For Stardust's birthday in 2024, I sat on a tour bus much as I am doing while writing this now, jumping between Bilibili and Weibo and excitedly watching fan creators release work after work. I felt that flourishing vitality with unusual force. It was a miracle made by countless creators gathering together.
 
-4月乌丸屋的联动我也去了，可惜学生党财力不足只单抽了拍立得。但幸运的是，在当天去现场时遇见了群友！（他直接抱盒了立牌组，强如怪物），在合照时，我们默契地喊出了“世界属于五维介质”，笑得灿烂。
+I also went to the Wuwanwu collaboration in April. Sadly, as a student with limited funds, I could afford only a single blind Polaroid pull. But I was lucky enough to meet a friend from the group at the venue. (He bought the entire acrylic-stand set in one shot. An absolute monster.) When we took a picture together, we cried “The world belongs to Medium⁵!” in perfect unspoken agreement, grinning brilliantly.
 
-我觉得那是一种新生，而五维介质本身就是在不断地新生。《李选》中提到，有粉丝总结了平四遇见的3大奇迹。但纵观这几年，奇迹又何止是3个呢！我始终相信，生命中的每次相遇都是奇迹，而我在人生低谷时与星尘的相遇，在向往歌声时与五维的相遇，在无数瞬间与创作者们的相遇，都是新的奇迹。
+I think that was a rebirth. Medium⁵ itself has always been reborn, again and again. *The Collected Works of Li Dike* mentions that fans once summarized the three great miracles encountered by Quadimension. But looking back over these years, how could there have been only three? I have always believed that every meeting in life is a miracle. Meeting Stardust at a low point in mine, meeting Medium⁵ when I longed for song, and meeting creators in countless fleeting moments—each was a new miracle.
 
-所以我非常喜欢新专re: birth的标题，史诗中的英雄都有这种“死里复活”的意象，五维为什么不能有呢？纵然矛盾与冲突是无可避免的，新生的道路上也会充满反对的声音，但奇迹一直都在，总会出现，凤凰的涅槃必然会带来更灿烂的未来。
+That is why I love the title of the new album, *re: birth*. Epic heroes return from death; why should Medium⁵ not do the same? Contradictions and conflict may be unavoidable, and the road to rebirth may be crowded with opposing voices, but miracles have always been here and will always appear. The phoenix's rebirth is bound to bring a brighter future.
 
 ---
 
-嗯，我可能比较乐观吧，这就是我的性格。
+Yes, I may be rather optimistic. That is simply my personality.
 
-今年的尘9也落下了帷幕。虽然美国这里还是8月12日（试图争辩自己没有咕咕），但中国那已经是13日了。说到这有个巧合，我父亲的生日刚好在8.13，这下不知道是哪个生日帮我记住了哪个生日了（
+Stardust's ninth birthday has now drawn to a close. It is still August 12 here in America—I am trying to argue that I did not procrastinate—but in China it is already the thirteenth. There is a coincidence here: my father's birthday is August 13. At this point, I no longer know which birthday helps me remember the other. (
 
-尘9第一次有了生日会直播。虽然因为我早上有事错失了前半场，但后半还是全程参与了。与此同时，我终于有勇气在b、在q等多处发言（发电），同时清空了自己攒了许久的硬币库存，顺便塞爆了收藏夹和相册。
+This was the first Stardust birthday with a livestream celebration. I had something to do in the morning and missed the first half, but I stayed for the entire second half. At last, I also found the courage to speak—or gush—in several places, on Bilibili and QQ alike. I emptied the stockpile of coins I had saved for ages and stuffed both my favorites and my photo album to bursting.
 
-有着一群有活力的创作者，真好啊。
+It is wonderful to have such a lively group of creators.
 
-说到这里，我还想提一嘴：在“高考”前，我不务正业地用网上找的资源调出了一首《心上秋》。那是我拉入坑的朋友最喜欢的一首歌，难度不大，我也没花太多时间。这样一想，作为听众和作为创作者之间的距离仿佛也没那么遥远了。
+One last thing while I am here: before that “gaokao,” I procrastinated on everything useful and tuned a cover of *Autumn upon One's Heart* using resources I found online. It is the favorite song of the friend I recruited. The work was not difficult, and it did not take me long. When I think of it that way, perhaps the distance between being a listener and being a creator is not so vast after all.

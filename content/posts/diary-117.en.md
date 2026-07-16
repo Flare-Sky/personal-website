@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-117"
+title = "Sojourner's Diary - 117"
 date = 2025-09-30T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-就像我跟特地发信息安慰我的同学说的那样，“我其实也没多大事”
+Like I told the classmate who messaged me especially to offer comfort, “I'm really doing all right.”
 
-只是不想在人前表现得悲伤，只能打起精神装出没事人的样子
+I just don't want to look sad in front of other people, so I pull myself together and pretend nothing is wrong.
 
-只是不想打开微信，不敢看到置顶聊天里那三个换成了蘑菇的头像
+I just don't want to open WeChat. I'm afraid of seeing the three pinned profile pictures that have all changed to mushrooms.
 
-只是不想去想“我从此再也没有爷爷了”，但偶尔想起，心里便会空落落的
+I just don't want to think, “From now on, I don't have a grandpa anymore.” But every so often the thought returns, and something inside me feels hollow.
 
-之前和最后一次回承德时，爷爷郑重其事地找我聊了很久。末了，他说道：“将来要是我或者你奶奶出了什么事，你千万别回来。好好在外头学习，别让我们这岁数的人耽误了你们。”
+The last time I went back to Chengde—and the time before that—Grandpa solemnly sat me down for a long talk. At the end, he said, “If anything ever happens to me or your grandma, don't come back. Study hard out there. Don't let people our age hold you young ones back.”
 
-爷爷，我听了你的话哦
+Grandpa, I did what you told me.

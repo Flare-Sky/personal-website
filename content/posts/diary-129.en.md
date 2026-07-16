@@ -1,47 +1,71 @@
 +++
-title = "寄居者的日记-129"
+title = "Sojourner's Diary - 129"
 date = 2026-03-12T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["达拉斯"]
+categories = ["Sojourner's Diary"]
+tags = ["Dallas","Study"]
 +++
 
-你想活出怎样的人生？
+How do you want to live your life?
 
-每当我们这一代人谈起未来，总是免不了叹气。在昨天今天或短或长的聊天里，我就不知道叹了多少回气。虽然我实际非常不喜欢这种不能解决任何实际问题的，类似抱怨的做法，但还是不能自己。在和老友的聊天里，我称之为一种“什么都想抓住的感觉”。
+Whenever our generation talks about the future, sighing seems unavoidable. Over the shorter and longer conversations I had yesterday and today, I have lost count of how many times I sighed. I actually dislike this sort of behavior—complaining that solves no practical problem—but I cannot help myself. While talking with an old friend, I described it as “the feeling of wanting to hold on to everything.”
 
-我相信这应该不是我的杞人忧天，而是这一代人所共有的焦虑：在现今这一个科技飞速发展的大环境下，各行各业都被AI之类逐渐颠覆的大背景下，不论国内国外就业环境实在不容乐观的大前提下，我们该往何处去？
+I do not think this is merely my own groundless anxiety. It is shared by our generation. In an age of technology advancing at tremendous speed, with AI and its relatives gradually overturning every industry, and with the employment picture looking grim both inside and outside China, where are we supposed to go?
 
-昨天，作为同样学习CS的人，朋友问我：你为什么要转专业呢？我觉得现在计算机越来越能被AI代替啦，反而你之前选的机器人工程更像是未来方向嘛。他没说的内容我也能猜到大概，现在国内的人形机器人如火如荼，各种diy的环境框架也被搭建得新手友好。嘉立创pcb的价格已经不能用“亲民”来形容了，3d打印的耗材我前几周甚至买到了1千克20出头的优质材料；网上浩如烟海的各类教程给爱好者铺好了平坦大道，而AI提供的帮助更是将最繁重的部分都省下来了。就像我之前公众号粉丝破千那时的灵机一动一样，一个项目从有想法到拿到成果甚至都不需要一天。
+Yesterday, a friend who also studies computer science asked me, “Why are you switching majors? I feel as though AI can replace more and more of computer science. Robotics engineering, which you chose before, seems much more like the future.”
 
-但话又说回来，我当时选择robotic engineering的原因，很大一部分是自己听CS听多了想搞点不一样的。当时LETU甚至不是我的首选（嗯非常异想天开地将NUS的CS定为目标），所以实际上是“随便选选”。实际上，这一年了解下来，不管是career fair还是日常交流中，对这个专业的需求似乎不算高。我也开始思考：这个专业是否真的是值得我负上4年去学习，并且支持我后半生的呼召呢？
+I could guess the rest even though he did not say it. Humanoid robotics is flourishing in China. Frameworks for every kind of DIY project have been made friendly to beginners. JLCPCB's prices can no longer be described merely as “affordable,” and a few weeks ago I bought a full kilogram of good 3D-printing filament for barely more than RMB 20. The ocean of tutorials online has paved a smooth road for hobbyists, while AI assistance removes the heaviest work of all. Like the sudden idea I had when that WeChat account reached one thousand followers, a project can go from inspiration to finished result in less than a day.
 
-我确实喜欢动手，小时候买的乐高虽说大多都是国产的盗版，但那股兴奋劲儿不是假的。初中时期花费大量课余时间搞机器人竞赛也是心甘情愿，完全不顾当时老师的忠言逆耳。但到了美国，这种“handyman”的特性似乎就成为人所共有的了。锯个木头做点什么好像是简单到不能再简单的家常便饭，修个电器也是信手拈来。第一学期的IEP课程，我在几乎保姆式的指导下手搓了一辆遥控汽车，过程自然是十分享受且乐在其中的，但我真的学到什么了吗？
+Then again, a large part of why I chose robotics engineering was simply that I had heard too much about CS and wanted to try something different. LETU was not even my first choice at the time. I had, with magnificent lack of realism, set my sights on NUS Computer Science. So in practice, I chose the major rather casually.
 
-对比身边学习机械工程的一位美籍华裔，这一点就尤为明显。在他身上我就感受到了那种骨子里不愿意被课程大纲束缚的自由。他会课余跑到教授那里要到车架的3d模型，在不改变关键结构的情况下做出魔改；会在平时吃饭时非常兴奋地描述今天又在maker lab做了什么什么；会不满学校教的solidworks太落后主动用曾经学过的其他建模软件优化工作流。每每听到他的分享，我就会发自内心地觉得，这样的学习真好。
+After learning more over this past year, whether at Career Fair or in ordinary conversations, demand for this major has not seemed particularly high. I began to ask myself: is this truly something worth spending four years studying, and a calling that can sustain the latter half of my life?
 
-但我发现，自己似乎没有在这方面深入研究下去的兴趣。
+I genuinely enjoy making things with my hands. Most of the LEGO sets I bought as a child were domestic knockoffs, but the excitement was real. In middle school, I willingly poured huge amounts of free time into robotics competitions, completely disregarding my teachers' bitter but well-meant advice. Yet in America, this “handyman” quality seems common to everyone. Sawing wood to build something is the most ordinary thing imaginable; repairing an appliance comes naturally.
 
-从工程系转计算机系的决定是已经做了，但要说将来不会后悔也不能就这么确定。为什么不是engineering但原因上述备矣，现在是时候来说说这个为什么是CS了。
+In my first-semester IEP class, I assembled a remote-controlled car by hand under guidance so thorough it was almost babysitting. I naturally enjoyed every part of the process. But did I actually learn anything?
 
-这一年学习下来，感觉大学教育的模式与我曾经经历的不管是公立学校还是家庭教育亦或是集中学习，都不相同。这种感觉在上Dr. Gowing的课时尤为明显：如果你提前读过课本，课上才能勉强跟上节奏。我一向是不喜欢预习的，总觉得靠课上的时间就能够理解并且掌握这些知识。也许在数学物理这类我有老本可啃的方面如此，但计算机与网安的课程就不同了。和父亲同学的聊天里，都提到了如今的互联网信息爆炸使得想学习什么新知识都是轻而易举的，尤其是AI的兴起大大降低了所有知识的门槛，对于CS来说尤其如此。
+The contrast becomes especially sharp beside a Chinese American friend studying mechanical engineering. In him, I see a freedom that refuses, at the level of instinct, to be confined by a syllabus. Outside class, he asks professors for the 3D model of a vehicle frame, then modifies it wildly without changing any crucial structure. Over meals, he excitedly describes whatever he built in the maker lab that day. Dissatisfied that the school's SolidWorks curriculum is outdated, he proactively uses other modeling software he learned before to optimize his workflow. Whenever I hear him talk, I sincerely think: *this* is what learning should feel like.
 
-比如，我最近才了解到网安方面有种叫CTF的赛事，感觉下来和puzzle hunt差不了太多。最近在阿b关注这方面的事，刷到了一个double E带着自己训练的AI单人夺冠的新闻。于是兴起尝试了一下最近的一个赛事，在Gemini的帮助下几道题做下来竟也没有遇到什么坎。不由得感叹AI之超模，大概相当于重锤之于MC，天顶剑之于泰拉瑞亚，漫游者之于丝之歌，fll之于鸣潮大世界吧（私货有点多了）。实际上，在之前打PH时，我就有过和这位double E老哥相似的思考：既然AI都这么先进了，这样的赛事还有什么必要呢？当然我没有带AI单刷夺冠的能力，但未来的某一天，有没有可能真的有人带自己训练的AI登顶了MITMH呢？
+But I have discovered that I do not seem interested in digging deeper into that field.
 
-我不知道。我知道的，是未来必然超乎我们的想象。
+The decision to transfer from engineering to computer science has already been made. I still cannot claim with certainty that I will never regret it. I have explained why not engineering. Now it is time to explain why CS.
 
-最近看了《超时空辉夜姬》，抛开二次元的那些元素不谈，我想说说其中特有的“复古未来主义”。之前读到一篇杂谈，将之类比为我们这一代人的《银翼杀手》，第一反应是补兑，之后又觉得对的对的。复古未来主义，顾名思义就是上个世纪个人计算机刚刚普及时的人们对未来的美好幻想。如今看来，对比现在的阿b贴吧小红书（为什么我都在美国了刷的还是简中互联网啊），那种幻想中的“互联网”的确有些不切实际了。但这并不能否定历史上的那些大佬对于互联网的努力（计算机史没好好学就不瞎举例了），如今的互联网也有他们留下的美好特质，即“透明”与“开源”。
+After a year here, university education feels unlike anything I previously experienced, whether public school, homeschooling, or intensive study programs. The difference is especially obvious in Dr. Gowing's classes: unless you read the textbook in advance, you can barely keep pace during the lecture. I have never liked previewing material. I always felt that class time alone should be enough to understand and master the knowledge.
 
-今天早上与父亲交流，这位曾经的互联网从业者分享道：在这个领域，没有人会把自己的新发现藏着掖着，没有那种“传男不传女，传子不传嫡”的现象。一切的资源，一切最前沿的研究，都在那些触手可及的论文与产品里。不像金融之类的行业，有些商业机密你不知道就是不知道，互联网的知识是完全透明的。只要你有兴趣，没有什么能阻挡你。
+Perhaps that works in mathematics and physics, where I have an old foundation to rely on. Computer science and cybersecurity are different. In conversations with my father and classmates, all of us have mentioned how the modern explosion of online information makes learning new knowledge extraordinarily easy. The rise of AI has lowered the threshold to every subject, especially CS.
 
-那么，我对这个领域有兴趣吗？
+For example, I only recently learned about cybersecurity competitions called CTFs. From what I have seen, they are not terribly different from Puzzle Hunts. I began following the subject on Bilibili and encountered a story about someone from electrical engineering who trained an AI and used it to win a competition single-handedly. Inspired, I tried a recent event myself. With Gemini's help, I worked through several challenges without encountering any serious obstacle.
 
-兴趣这个东西，说来奇怪。我这篇文章本来应该昨天写的，因为毕竟刚跟朋友交流完，记忆是最清晰的。但我偏不，而是花了半天时间搞好了学校方面的各类事件发了几封邮件。究其原因，我想是父亲的“你今天必须写好”引发的逆反心理。当兴趣变成任务，被加上ddl与评估标准时，似乎其吸引力便风光不再。毕竟就连游戏都有长草期，朋友来找我推探索度时我也是一拖再拖的。
+I could not help marveling at how overpowered AI is—roughly the equivalent of the mace in Minecraft, Zenith in *Terraria*, the Drifter in *Silksong*, or FLL in the open world of *Wuthering Waves*. (That may have been too much personal agenda in one sentence.)
 
-当然这可能只是我个人比较欠，有着这种幼稚的“你说什么我偏不做”的心理。那么，对于我来说，真正能称为“工作”的，能在其中付诸100%努力的东西，真的存在吗？
+In fact, during previous Puzzle Hunts, I had wondered something similar to that electrical-engineering competitor: if AI is already this advanced, what purpose do competitions like these still serve? I certainly cannot train an AI and ride it to a solo championship. But someday in the future, could someone genuinely take an AI they trained themselves all the way to the top of MIT Mystery Hunt?
 
-如今的时代，人们大多做着他们不喜欢的工作。被上司压力被公司压榨，美国这边的政策还越来越不利好国际学生，似乎人们只能接受这样的现状，只有少数站在金字塔顶端的人能够左右这一切。马云可以简单地想象把庞大的商业帝国搬到网上，用一个个数字代替实质的钞票；马斯克可以简单地想象汽车能不能被电池驱动，能不能像人眼感知一样观察四周，火箭能不能被想筷子夹菜一样回收……而那些籍籍无名的牛马们只是在他们手下工作，把这些异想天开的想法付诸实践罢了。真的是这样吗？人真的甘于仅仅这样吗？
+I do not know.
 
-问了许多问题，但这些归根结底都不是现在的我能够去回答的。毕竟，我只是一个展望半生，归来还是喜欢打游戏刷视频的普通学生。不管嘴上说得多么冠冕堂皇，回到没人监管的情况下还是会来一把紧张刺激的（略）的普通人罢了。那问这些还有什么用呢？总不能是因为有个人要求我今天晚上必须交稿吧？
+What I do know is that the future will inevitably exceed our imagination.
 
-那么这些问题，就留给未来的我吧。
+I recently watched *Cosmic Princess Kaguya!*. Setting aside its anime elements, I want to talk about its distinctive retrofuturism. I read an essay comparing it to our generation's *Blade Runner*. My first reaction was “not really,” followed shortly by “yes, exactly.”
+
+Retrofuturism, as the name suggests, is the beautiful future imagined by people in the last century, when personal computers had only just become widespread. Looking at Bilibili, Tieba, and Xiaohongshu today—why am I still scrolling through the Chinese-language internet when I live in America?—that imagined “internet” does seem unrealistic. Yet this does not negate the work of the great figures who built the internet throughout history. I did not pay enough attention in computer-history class to start throwing out examples, but today's internet retains beautiful qualities they left behind: transparency and open source.
+
+While we talked this morning, my father, who once worked in the internet industry, put it this way: in this field, nobody hides every new discovery away. There are no secret techniques passed down only to sons, never daughters, only within the clan, never outside it. All the resources and all the latest research are there in papers and products within easy reach. Unlike industries such as finance, where a trade secret you do not know simply remains unknowable, knowledge on the internet is completely transparent. If you are interested, nothing can stop you.
+
+So am I interested in this field?
+
+Interest is a strange thing. I should have written this article yesterday, while my conversation with my friend was still fresh. Instead, I stubbornly spent half the day sorting out various university matters and sending emails. I suspect the reason was that Dad said, “You must finish it today,” triggering my instinct to rebel.
+
+When an interest becomes an assignment and acquires a deadline and assessment criteria, its charm seems to vanish. Even games have dry spells. When a friend asks me to help push their exploration percentage, I postpone it again and again.
+
+Of course, perhaps I am simply a contrarian brat with the childish instinct to do the opposite of whatever I am told. If so, does something that I could genuinely call “work”—something into which I could pour one hundred percent of my effort—actually exist for me?
+
+In the present age, most people do work they do not like. Their supervisors pressure them. Their companies squeeze them. American policy is becoming increasingly unfriendly to international students. It seems that people can only accept the situation, while the handful standing at the top of the pyramid get to shape everything.
+
+Jack Ma could simply imagine moving a vast commercial empire online and replacing physical banknotes with rows of numbers. Elon Musk could simply imagine whether a car might run on batteries, whether it might perceive its surroundings as the human eye does, whether a returning rocket might be caught as easily as chopsticks pick up food... Meanwhile, the nameless workhorses beneath them merely labor to turn those wild ideas into reality.
+
+Is that truly how it is? Are people genuinely content with nothing more?
+
+I have asked many questions, but in the end, none can be answered by the person I am now. After all, I am only an ordinary student who surveys half a lifetime ahead and then returns to playing games and scrolling through videos. No matter how grandly I speak, once nobody is supervising me, I remain an ordinary person who launches another tense and thrilling round of... well, you know.
+
+What use is there in asking these questions, then? Surely it cannot be merely because someone demanded that I submit this piece tonight?
+
+I will leave them for my future self.

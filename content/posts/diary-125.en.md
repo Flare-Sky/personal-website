@@ -1,61 +1,63 @@
 +++
-title = "寄居者的日记-125"
+title = "Sojourner's Diary - 125"
 date = 2026-01-03T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["达拉斯"]
+categories = ["Sojourner's Diary"]
+tags = ["Dallas","Puzzle"]
 +++
 
-125是一个立方数，所以今天的文章也干脆写了三篇，分别发在了我经常出没的3个平台上。欢迎来找彩蛋！
+125 is a cube, so naturally I wrote three articles today and published one on each of the three platforms where I regularly appear. Feel free to hunt for the Easter egg!
 
 ---
 
-## **B站**
+## **Bilibili**
 
-啊对的，今天是我的生日。过的是美国时间所以似乎发得晚了些，转念想想，两个CST之间时差14h，如果我两个时区都算上那不爽爽38h超长生日！不愧是我
+Ah, yes. Today is my birthday. I am celebrating in American time, so this post may appear a little late. But wait: China Standard Time and Central Standard Time are fourteen hours apart. If I count both time zones, I get a glorious thirty-eight-hour birthday! Brilliant as always.
 
-B站这篇在我这里的发布时间是凌晨，在三篇1.3文章中是第一篇（其实是这里熟人没那么多不会有人吐槽我熬夜）。对于小破站，想回顾的其实在几天前的年度总结文章里写了，也就是粉丝破百了这样朴实无华的进步。引用当时的原话：明年再接再厉，争取在整活这方面把所有观众创似（
+This Bilibili piece is being published at midnight where I am, making it the first of my three January 3 articles. (The real reason is that fewer people here know me personally, so no one will complain that I stayed up late.) Most of what I might want to review about Bilibili already appeared in my annual retrospective a few days ago. The progress was plain and unadorned: I passed one hundred followers. To quote myself from then: next year I will keep working hard and strive to kill every viewer with increasingly deranged projects. (
 
-要说些什么呢，想来想去不过一句“又活一年”。生日与跨年的时间差不过短短两天，你希望我在这期间能憋出什么新活那是不可能的。许多想说的其实都在前段时间发的解谜年度总结视频里了，没看的快去看！
+What else is there to say? After thinking it over, all I have is: “I survived another year.” My birthday comes only two days after New Year's Day. You cannot seriously expect me to invent brand-new material in that interval. Much of what I wanted to say also appeared in the annual Puzzle Hunt video I released recently. If you have not watched it, go now!
 
-但总归要留下个愿景，希望在长大一岁的这一年能够继续自己的视频制作，来让更多的人看到吧！
+Still, a birthday should leave behind a wish. In this new year of being one year older, I hope I can keep making videos and let more people see them!
 
-（话说阿B，你今年的生日祝福是不是和去年用的是同一个视频啊）
-
----
-
-## **微信**
-
-一转眼，自己也来到了20岁的人生节点。用我前几天生日的一位挚友的说法，就是奔三了。小时候，每每在生日当天醒来，都会觉得自己身上仿佛发生了什么剧变似的，这样的感觉也随着年龄的增长越来越模糊了
-
-在美国的时间跨过凌晨12点时，我还没睡。自己的生日到底应该算是中国时间呢还是美国时间呢，想了想决定两个都算，这样就能爽爽享受38h超长生日时间了哈哈
-
-去年的生日我是在哪过的呢？好像是承德吧，当时和弟弟一起做的蛋糕好像还在嘴里留有余味呢。今年仍然是弟弟加两位grandparents辈的组合，有两个缺席了两年我不说是谁（）
-
-好吧老妈我收到你买的蛋糕了，爽吃😋
-
-看着手机上来自大家的祝福，真切地感受到那跨越太平洋的祝福（也可以是欧洲+大西洋）仿佛就在身边。
-
-还好不在LETU校园，不然指不定哪群人会开辆车过来把我丢水塘里（
-
-最后，总归要留下个愿景，希望在长大一岁的这一年能够把之前想做但没做的事完成吧！
+(By the way, Bilibili, did you reuse the exact same birthday greeting video as last year?)
 
 ---
 
-## **网站**
+## **WeChat**
 
-近来无Hunt，我也没在生日当天准备一个谜题来庆祝。那就在完成了2025所有PH任务并且做完年度总结之后，享受一个放空大脑的生日吧！
+In the blink of an eye, I have reached that milestone called twenty. As one close friend whose birthday was a few days ago put it, I am now heading toward thirty. When I was little, I would wake on my birthday feeling as though some tremendous transformation had occurred within me. That sensation has faded as I have grown older.
 
-什么你还没看我的年度总结？扔个链接在这里立马去看！[一年！在Puzzle Hunt里都学到了什么！！【TPAPWRAPA单品】](https://www.bilibili.com/video/BV1E1vrBiErV)
+I was still awake when the clock in America passed midnight. Should my birthday follow Chinese time or American time? After some thought, I decided both should count, allowing me to enjoy a glorious thirty-eight-hour birthday, haha.
 
-当时录了但视频中没剪进去的，是一大段我回忆自己小时候接触所谓“解谜”的朦胧记忆。我也不知道当时自己为啥要说这些，后面一看时间太长了就“不是我喜欢的片段直接不要”了。如今回看，正是从那时就有的热情支持着我走到今天，并且也将继续支持我走下去
+Where did I spend last year's birthday? Chengde, I think. I can almost still taste the cake my brother and I made. This year, the lineup is once again my brother plus two people from the grandparent generation. Two people have been absent for two years, but I will not name names. ()
 
-**这篇文章其实是在网站搭建好之后才写完的，希望不会有看到“3篇”这个具体的数字找遍全平台一无所获的朋友（有……有吗），毕竟现在实际上都到三月份了（咕咕咕）**
+All right, Mom, I received the cake you bought. Delicious 😋
 
-但总归要留下个愿景，希望在长大一岁的这一年能回归自己入坑解谜时的初心，享受人生中各样的谜题！
+Looking at all the greetings on my phone, I could genuinely feel those wishes crossing the Pacific—or Europe and the Atlantic—as though everyone were right beside me.
 
-哎你怎么知道我的朋友在生日给我送了一直想要的动物井，另有一位送了14种扫雷变体。
+It is probably fortunate that I am not on the LETU campus. Who knows which group would drive over, grab me, and throw me into a pond? (
+
+Still, a birthday should leave behind a wish. In this new year of being one year older, I hope I can finally complete the things I once wanted to do but never did!
 
 ---
 
-瞎传诸葛天曜在生日当天捡到了一盏提灯（嗯像黎那汐塔数据坞那样的就很好），里面自然是有着能实现三个愿望的灯神。听完来自微信、Bilibili、个人网站的三个诸葛天曜许下的不同愿望之后，灯神决定三个愿望一次满足，最后，我们的天曜同学得到的是……
+## **Website**
+
+There have been no Hunts lately, and I did not prepare a puzzle to celebrate my birthday. Having completed every Puzzle Hunt task of 2025 and finished the annual retrospective, I may as well enjoy a birthday with my brain switched off!
+
+What, you still have not watched my annual retrospective? Here is the link. Go immediately! [*One Year! What Did I Learn from Puzzle Hunts?!! — TPAPWRAPA Special*](https://www.bilibili.com/video/BV1E1vrBiErV)
+
+I recorded a long section recalling my hazy childhood encounters with things that might be called “puzzles,” but it never made the final cut. I do not know why I began talking about them at the time. Later, I saw how long the video had become and applied the principle “this is not a segment I like, therefore it goes.” Looking back now, I realize that the enthusiasm I had even then carried me all the way here—and will continue carrying me forward.
+
+**This article was not finished until after the website itself was built. I hope nobody saw the very specific number “three,” searched every platform, and found nothing. Did... did anyone? It is actually March already. (Procrastination noises.)**
+
+Still, a birthday should leave behind a wish. In this new year of being one year older, I hope I can return to the reason I first fell in love with puzzles and simply enjoy all the puzzles life has to offer!
+
+Oh, how did you know that one friend gave me *Animal Well*, which I had wanted for ages, while another gave me *14 Minesweeper Variants* for my birthday?
+
+---
+
+According to a completely unreliable rumor, Zhuge Tianyao found a lantern on his birthday. Something like the Rinascita Data Bank would do nicely. Inside was, naturally, a genie capable of granting three wishes. After hearing the different wishes made by the three Zhuge Tianyaos of WeChat, Bilibili, and the personal website, the genie decided to grant all three at once.
+
+And in the end, our classmate Tianyao received...

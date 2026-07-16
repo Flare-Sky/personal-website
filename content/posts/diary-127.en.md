@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-127"
+title = "Sojourner's Diary - 127"
 date = 2026-02-12T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["朗维尤"]
+categories = ["Sojourner's Diary"]
+tags = ["Longview"]
 +++
 
-这里是上次发完[寄-126](https://flaresky.me/posts/diary-126/)后花了近三周时间写完“为什么人们应该开始写日记”的天曜。而讽刺的是，这期间他一篇日记也没写（
+This is Tianyao, who spent nearly three weeks after publishing [Diary 126](https://flaresky.me/posts/diary-126/) writing an essay titled “Why People Should Start Keeping a Diary.” Ironically, he did not write a single diary entry during that period. (
 
-如今面对新的写作课Proposal，他终于是想起了角落里还有一个嗷嗷待哺的，只有127篇的系列随笔。哎！（生硬转折）这时细心的同学就要问了，似乎怎么找也没找到34-91期间的将近60篇日记啊？难道是什么神秘大手或者计数法发力了？
+Now, faced with a new proposal for Composition class, he has finally remembered the starving little essay series abandoned in a corner, with only 127 entries to its name. Ah! (Seamless transition.) At this point, attentive readers may ask: no matter how hard we search, why can we not find the nearly sixty entries between 34 and 91? Was some mysterious power at work? An exotic numeral system, perhaps?
 
-啊并非如此，去年的那段时间我的写作欲可以说比现在高涨很多，如果详细统计一下应该是更新频率最快的一段时间，几乎是日更。与此同时，本系列的主题也得到了前所未有的深化，所以我一直在想着必须在哪留档记录一下。因为目前这些文字，很遗憾，从开始就只能在神秘通讯软件t上，被一小部分朋友看到
+Nothing of the sort. During that stretch last year, my urge to write was considerably stronger than it is now. If we counted carefully, it was probably the most frequently updated period of the entire series, nearly one entry per day. At the same time, the series reached an unprecedented depth of theme, so I have always wanted to archive it somewhere. Unfortunately, ever since they were written, those words have only been visible to a small circle of friends on the mysterious messaging app T.
 
-于是我掐指一算，似乎最近要到“北漂”一周年的时间点了。按着本系列优秀的隔年补档传统，我可以光明正大地（水一段时间）给《寄居者的日记》完整的一生（？）了
+I consulted the heavens with my fingers and realized that the first anniversary of my time as a “Beijing drifter” is approaching. In keeping with this series' fine tradition of restoring its archives a year late, I can now openly and honorably pad my updates for a while—and give *Sojourner's Diary* a complete life story (?).
 
-当然，祖宗之法不可变的是，虽然补档的内容必定会有让我尴尬到不想看第二遍的，但一定如实发出。原因嘛……很快，在2月17日那篇文章里就能揭晓了
+Naturally, the ancestral law must not change: some of these restored entries will undoubtedly embarrass me so badly that I refuse to read them twice, but I will publish them faithfully and unaltered. As for why... the answer will soon be revealed in the February 17 entry.
 
-我们，什么时候能再回到北京呢？
+When will we be able to return to Beijing?
 
-（补档中不会出现具体人名地名）
+(The restored entries will not include specific personal names or place names.)

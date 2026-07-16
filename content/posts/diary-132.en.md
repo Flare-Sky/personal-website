@@ -1,13 +1,13 @@
 +++
-title = "寄居者的日记-132"
+title = "Sojourner's Diary - 132"
 date = 2026-05-19T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["达拉斯"]
+categories = ["Sojourner's Diary"]
+tags = ["Dallas"]
 +++
 
-恭喜5月20日寄网访问量突破520！
+Congratulations to the *Sojourner's Diary* website on passing 520 visits on May 20!
 
-假期刚开始说着产能爆发的诸葛天曜最终还是活成了懒狗的模样。最近终于是在某些神秘力量的鞭策下被迫自律，于是又掏出了许久未动的网站一番捣鼓……
+Zhuge Tianyao began the vacation promising an explosion of creative output, only to complete his evolution into a lazy dog. Recently, certain mysterious forces finally whipped him into practicing some reluctant self-discipline. So he dug out the long-neglected website and began tinkering again...
 
-悄咪咪的给网站加上了评论功能，~欢迎来评论区分享黑料~！
+I quietly added a comment section. ~Come share my embarrassing secrets!~
