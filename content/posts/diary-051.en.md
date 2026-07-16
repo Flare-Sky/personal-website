@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-51"
+title = "Sojourner's Diary - 51"
 date = 2025-03-06T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-补写了一篇Write-up并发在了b站上！来看！
+Wrote another Write-up and posted it on Bilibili! Come check it out!
 
-中午吃完羊排，突发奇想决定早点出发，到目的地附近寻寻宝。在地铁上一查，好家伙，这附近居然有一个公园里面有7个Cache！简直可以说是低配版奥森公园了！重点是这个所谓的“中关村公园”并不知名，属于“小众露营圣地”不仅可以直接在里面骑车，甚至停车都免费！
+After eating lamb chops at noon, I had a sudden whim to set off early and do some treasure hunting near my destination. Checking on the subway, holy cow, there was actually a park nearby with 7 caches inside! It could easily be called a budget version of the Olympic Forest Park! The key point is that this so-called "Zhongguancun Park" is not well-known, qualifying as a "niche camping holy land" where you can not only ride bikes directly inside, but even park for free!
 
-我的自行车速度极快。根据之前寻宝积累的经验，在GPS指引+spoiler图透的帮助下，我在这个小公园里顺利速通了3个Cache。就当我洋洋得意准备一口气解完时，下一个地点给了我个下马威。苦寻无果后，只能留下一句“改日再战”跑去活动了。
+My bicycle speed was extremely fast. Drawing on the experience accumulated from previous treasure hunts, and with the help of GPS guidance and spoiler photos, I successfully speedran 3 caches in this little park. Just as I was smugly preparing to clear them all in one go, the next location gave me a reality check. After searching in vain, I could only leave a comment of "I'll be back another day" and rushed off to my activity.
 
-啊，我一天能写的东西果然是守恒的（昨天写了谜协招新的wu，今天写了圣诞hunt的wu，我的身体已经菠萝菠萝哒！）睡觉！
+Ah, it seems the amount of things I can write in a day is indeed conserved (yesterday I wrote the Write-up for the Puzzle Association's recruitment, and today I wrote the Write-up for the Christmas Hunt; my body is already in tatters [boro-boro]!). Time for bed!

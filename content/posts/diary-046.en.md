@@ -1,29 +1,29 @@
 +++
-title = "寄居者的日记-46"
+title = "Sojourner's Diary - 46"
 date = 2025-03-01T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-等着，我今天一定写他个上千字！
+Just you wait, I am definitely going to write over a thousand words today!
 
-简直难以形容这一整天的经历，感觉就像做梦一样。早起挤地铁到了北大之后我好像还没醒过来，于是在百团大战（社团招新）开始前决定先四处逛逛。未名湖畔的鸳鸯和喜鹊欢呼着，黑白天鹅也随着晃动脑袋，让我更加怀疑我是不是专程来打鸟的。拿出手机想做做北大的Geocaching，然后悲催地发现自己居然忘带充电宝了。急中生智拿出电脑给手机供电，才算是苟住了一条命。在这样的压力下，也是遗憾地没找到任何藏起来的宝藏，以后再来！
+It is simply hard to describe the experience of this entire day; it feels just like a dream. After waking up early and squeezing onto the subway to get to Peking University (PKU), I felt like I hadn't quite woken up yet, so I decided to wander around first before the "Hundred Clubs War" (club recruitment) started. The mandarin ducks and magpies by the Weiming Lake were cheering, and the black and white swans bobbed their heads along, making me doubt even more whether I had come all this way just to shoot birds. I took out my phone wanting to do some Geocaching at PKU, only to tragically discover that I had forgotten to bring my power bank. In a flash of wit, I pulled out my laptop to charge my phone, which barely saved my life. Under such pressure, I regretfully failed to find any hidden treasures. I'll come back next time!
 
-在10点开摊后见到了谜协的工作人员，惊讶地得知校外人员也能入会！于是，我，诸葛天曜，成为了谜协光荣的非本校编制外人员！（鼓掌）（欢呼）（到处乱跳）
+After the booths opened at 10:00, I met the staff of the Puzzle Association and was surprised to learn that off-campus people could also join! Thus, I, Zhuge Tianyao, became a proud off-campus, non-enrolled member of the Puzzle Association! (Applause) (Cheers) (Jumping all over the place)
 
-紧接着就拿到了周游（明明是“社团巡游”为什么大家都念成“周游”啊）谜题，开始了一场~~惊心动魄~~到处乱窜的的解谜。但在那之前，摊位上先是准时放出了每小时的题目。在面面相觑卡了20分钟后，工作人员表示这题不会是出孬了吧，“连轶辰老师都做不出来。”我：？！然后看向身边的人：您是轶辰老师？我是您的粉丝啊！紧接着就收到了无料明信片与印章！（给各位科普一下：这是公众号“Lilac丁香谜”的运营者，圈内著名活动组织者）我当即拿出身上的鱼谜扑克（解谜周边，一套在扑克牌排面里藏的题），并且决定在集章的同时集圈内大佬签名（虽然最后也没几个但之后肯定还能见到，话说这算不算集邮）。
+Right after that, I got the "Zhouyou" puzzles (it's clearly "Shetuan Xunyou" [Club Cruise], but why does everyone pronounce it as "Zhouyou" [Tour]?). I started a ~~thrilling~~ puzzle-solving run, rushing all over the place. But before that, the hourly puzzle was released on time at the booth. After staring at each other blankly and being stuck for 20 minutes, the staff remarked that this puzzle might be flawed, saying, "Even Teacher Yichen couldn't solve it." Me: "?!" Then I looked at the person next to me: "Are you Teacher Yichen? I'm your fan!" Immediately, I received free postcards and stamps! (To give everyone some background: he is the operator of the official WeChat account "Lilac Puzzle" and a famous event organizer in the community.) I immediately took out my "Fish Puzzle Poker" (a puzzle merchandise, a deck of cards with puzzles hidden on them) and decided to collect signatures from big shots in the community while collecting stamps (although I didn't get many in the end, I'll definitely see them again later. By the way, does this count as philately/collecting?).
 
-不过在那之前，还得先解完周游谜。
+But before that, I had to finish the "Zhouyou" puzzles first.
 
-详细的解谜过程我会额外再写一篇Write-up，总之就是在队友站完岗回到摊位之前搞定了全部题目，在最后抽奖有幸抽到红桃K（跟其他人比对了一下，貌似我拿到的是头奖嘿嘿）。随后见到了曾经一起打Hunt的队友！居然是北大物理系高材生（最后是我猜的），还是谜协元老（虽然谜协也去年才建立）。他和现场的大部分人大致都认识，我也成功认识了Winfrid老师、五月老师和Fivero老师，都是只在qq群里风闻过的圈内大佬，其中Winfrid更是国内大型解谜活动P&KU的组织者，谜协身后灵（？）。以后多和他们交流会变得更聪明吗？
+I'll write a separate Write-up for the detailed solving process, but in short, I solved all the puzzles before my teammate finished their shift and returned to the booth. In the final lucky draw, I was fortunate enough to draw the King of Hearts (comparing with others, it seemed like I got the grand prize, hehe). Later, I met my teammate with whom I used to play Hunt! He turned out to be a top student in the PKU Physics Department (at least that's my guess) and a veteran of the Puzzle Association (although the association was only established last year). He knew almost everyone on-site, and I successfully got to know Teacher Winfrid, Teacher Wuyue, and Teacher Fivero, who are all community big shots I had only heard of in QQ groups. Among them, Winfrid is the organizer of P&KU, a large-scale domestic puzzle event, and the guardian angel (?) of the Puzzle Association. Will communicating more with them in the future make me smarter?
 
-当我四下“举目无亲（指全是北大校友而我格格不入）”时，却恰巧遇到了刚解完数独谜（摊位另一个活动）的一位同样来自校外的学生。我在帮忙传了几句话后成功和他熟络了起来，并主动带着他继续到处乱窜（其实是我想到各个摊位集章但没勇气，等有两个人了胆子也就大了）。在他卡题的时候我也成功集到了36个摊位的印章，~~召唤神龙！~~可以去服务台换一个北大的小周边，我选了理线器（乱糟糟的宿舍需要这个小废物！）
+When I was looking around feeling "friendless and out of place" (meaning everyone was a PKU alumnus while I was an outsider), I happened to meet another off-campus student who had just finished a Sudoku puzzle (another activity at the booth). After helping him pass a few words, we successfully hit it off, and I proactively took him with me to keep running around (actually, it was because I wanted to collect stamps from various booths but lacked the courage; once there were two of us, I became much bolder). While he was stuck on a puzzle, I successfully collected stamps from 36 booths, ~~summoning the divine dragon!~~ I was able to go to the service desk to exchange them for a small PKU souvenir, and I chose a cable organizer (my messy dorm room really needs this little gadget!).
 
-随后我们俩谜协编外人士跑去北大食堂破费吃了顿火锅，中途他解完了周游谜，我爆完了数独（利用了一些网站的bug轻松爆破，对面靠苦力推的有苦说不出）。下午去摊位兑换了奖品之后便急匆匆离开的北大。
+Afterwards, the two of us off-campus Puzzle Association members splurged on hotpot at the PKU canteen. Midway through, he finished the "Zhouyou" puzzles, and I broke the Sudoku (using some website bugs to easily crack it, leaving the people on the other side who relied on brute-force with nothing to say). In the afternoon, after exchanging our prizes at the booth, we hurriedly left PKU.
 
-北大真是个好地方，而且太大了一上午根本逛不完。晚上收拾照片时才发现光顾着解谜了，居然摊位的照片都没拍（赶紧去问Winfrid，他说有照片第一时间发给我）！这一个上午感受下来真是深深体会到了大学的活力与解谜的乐趣，希望以后还有这样的线下活动！趁我在北京狠狠参加！
+PKU is really a great place, and it's so huge that one morning is not enough to explore it all. It wasn't until I was sorting through photos in the evening that I realized I was so focused on solving puzzles that I hadn't taken any photos of the booth (I quickly asked Winfrid, and he said he would send me photos as soon as he got them)! Experiencing this morning really made me deeply appreciate the vitality of university life and the joy of puzzle-solving. I hope there will be more offline activities like this in the future! I'll participate in them as much as I can while I'm in Beijing!
 
-下午，和同学们好好讲了上午的经历然后发现宣传单还藏了题！截至文章写成我还没解出来，但写Write-up的时候应该能做好（确信）。晚上在家里烤了羊肉，美美吃一顿顺便看其他群友线上解今天现场的小时谜，然后发现群里看戏的比解题的多（
+In the afternoon, I told my classmates all about my morning experience, only to discover that the promotional flyer also had hidden puzzles! As of writing this post, I haven't solved it yet, but I should have it figured out by the time I write the Write-up (sure of it). In the evening, we roasted some mutton at home, had a wonderful meal, and watched other group members solve today's on-site hourly puzzles online, only to find that there were more onlookers than active solvers in the group (
 
-真的收到了好多好多无料，虽然还没去过漫展，但感觉也差不多了（？）现场的热烈气氛真的没办法描述。如果真要形容的话，我会说我大概永远不会忘了这一天吧！
+I really received a ton of freebies. Although I've never been to an anime convention, this felt pretty similar (?). The lively atmosphere on-site is truly indescribable. If I had to describe it, I'd say I'll probably never forget this day!

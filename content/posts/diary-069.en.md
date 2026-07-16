@@ -1,29 +1,29 @@
 +++
-title = "寄居者的日记-69"
+title = "Sojourner's Diary - 69"
 date = 2025-03-26T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
 | | |
 |---|---|
-|0:00-8:00|睡觉|
-|8:00-9:00|起床，约北大入校，写日记，洗漱，泡咖啡，打电话叫同学|
-|9:00-10:00|早读（彼后1），烤羊肉，准备书包|
-|10:00-11:00|吃午饭，赶去书店，录书|
-|11:00-12:00|录书|
-|12:00-13:00|录书|
-|13:00-14:00|休息，赶去打篮球|
-|14:00-15:00|打篮球|
-|15:00-16:00|打篮球|
-|16:00-17:00|打篮球，听同学5min分享|
-|17:00-18:00|赶回书店，买晚饭，买柠檬水，录书|
-|18:00-19:00|录书|
-|19:00-20:00|茶话会（雅2:1-9），吃水果，演情景剧，看同学喝豆汁|
-|20:00-21:00|小组讨论（jh内的以貌待人？）|
-|21:00-22:00|小组讨论（差别对待？），分享代祷事项|
-|22:00-23:00|解纪谜，回家，洗漱，洗脚（今天打球磨出泡了啊啊啊），上床|
-|23:00-24:00|熄灯，看视频（不是瓶子君忏悔电台怎么那么多神人啊）|
+|0:00-8:00|Sleeping|
+|8:00-9:00|Waking up, reserving PKU campus entry, writing diaries, washing up, making coffee, calling classmate|
+|9:00-10:00|Morning reading (2 Peter 1), roasting mutton, preparing backpack|
+|10:00-11:00|Eating lunch, heading to bookstore, cataloging books|
+|11:00-12:00|Cataloging books|
+|12:00-13:00|Cataloging books|
+|13:00-14:00|Resting, rushing to play basketball|
+|14:00-15:00|Playing basketball|
+|15:00-16:00|Playing basketball|
+|16:00-17:00|Playing basketball, listening to classmate's 5-minute share|
+|17:00-18:00|Rushing back to bookstore, buying dinner, buying lemonade, cataloging books|
+|18:00-19:00|Cataloging books|
+|19:00-20:00|Tea party (James 2:1-9), eating fruit, performing in a skit, watching classmate drink Douzhi|
+|20:00-21:00|Group discussion (showing favoritism in the church?)|
+|21:00-22:00|Group discussion (treating people differently?), sharing prayer requests|
+|22:00-23:00|Solving Ji's puzzles, going home, washing up, washing feet (got blisters from playing basketball today, ahhh), getting into bed|
+|23:00-24:00|Lights out, watching videos (seriously, why are there so many eccentrics in Pingzi-kun's Confession Radio)|
 
-录书累到怀疑人生……明明还有好多好多要做的事情但根本没时间……
+Cataloging books is so exhausting that I'm questioning my life... There are clearly so many, many things to do, but there is absolutely no time...

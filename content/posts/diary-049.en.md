@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-49"
+title = "Sojourner's Diary - 49"
 date = 2025-03-04T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-昨晚一回家，发现家门钥匙找不到了。想着干脆把昨天走过的地方都找一圈，但早上直接在咖啡店失而复得了！突然的放松让我在咖啡馆又坐了一上午（
+When I got home last night, I realized I couldn't find my house key. I was thinking of retracing my steps from yesterday to search everywhere, but this morning, I found it safe and sound right at the coffee shop! The sudden relief made me sit in the cafe for another whole morning (
 
-所以今天其实没啥好写的，无非做做生物写写Write-up（反正写出来也没人看得懂，悲）。如果非要说些什么的话，就是今晚被单独拎出来做了展示，分享了一下使用AI的经验，像是怎么写Prompt之类的。这些技能如今想来应该是在Omnibus的翻译过程中练出来的，像是什么对AI礼貌些，把要求说清楚，上下文联想记忆的极限之类。朋友对我的作业有不错的评价，不过大概率是因为其他人都在吐槽难而我拿出了真东西的缘故（即使那是一篇有很多内容需要改进的草之又草的稿）
+So there really isn't much to write about today, other than working on biology and writing a Write-up (anyway, even if I write it out, no one will understand it, sad). If I must say something, it would be that I was singled out tonight to give a presentation, sharing my experience using AI, like how to write prompts. Thinking back, these skills were probably honed during the translation process of the Omnibus—things like being polite to the AI, stating requirements clearly, knowing the limits of contextual memory, and so on. My friend had a good opinion of my assignment, though it is highly likely because everyone else was complaining about how hard it was, while I actually came up with some real stuff (even though it was a very, very rough draft with many areas needing improvement).
 
-当然，早上即使起晚了还是坚持出去转了一圈，顺便测试了骨传导的性能。结果十分令我满意，即使在大幅运动时好像是音响没装稳一样会发出“嗒嗒”的声音，但这并不影响它逆天的性价比啊！在跑步的公园里居然隐藏了一个级别较高的宝藏（APP打开找不到的那种），今早也找出来了，特别说说这个藏的地方，居然是地铁的轨道下方！听着由远及近又远去的轰鸣声，不由得感到一种压迫感。由于是11年的远古（？）Cache，容器早已锈迹斑斑，记录纸也破碎不堪。之后跑步的时候得带卷胶带。
+Of course, even though I woke up late in the morning, I still insisted on going out for a run, testing the performance of the bone conduction headphones along the way. The result satisfied me deeply. Although they make a "clacking" sound during intense exercise, almost as if a speaker isn't securely installed, this doesn't diminish their insane cost-effectiveness at all! In the park where I run, there was actually a high-level treasure hidden (the kind you can't find just by opening the app), which I also found this morning. I must talk about where it was hidden—it was actually right under the subway tracks! Hearing the roar getting closer and then fading away, I couldn't help but feel a sense of oppression. Since it was an ancient (?) cache from 2011, the container was already heavily rusted, and the log sheet was completely torn and battered. I'll have to bring a roll of tape with me when I go running next time.
 
-写到现在才发现这篇好像不是时间顺序，算了不想改了，我百团大战的Write-up还没写完呢……
+Only now as I write have I realized that this entry doesn't seem to be in chronological order. Oh well, I don't want to change it; I haven't even finished my Write-up for the Hundred Clubs War yet...

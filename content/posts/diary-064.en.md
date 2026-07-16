@@ -1,44 +1,47 @@
 +++
-title = "寄居者的日记-64"
+title = "Sojourner's Diary - 64"
 date = 2025-03-21T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-恭喜达成一组日记！
+Congratulations on completing a set of diary entries!
 
-现在正在跑去北展剧场看刘谦的路上，心情那是非常的激动。我也曾想过花自己工资的几乎一半去看这样一场表演究竟值不值，但一方面我已经买了（不能退呜呜呜），另一方面我也相信刘谦老师不会让观众失望。
-小时候第一次看见魔术是在河坊街的一家小店。放学和小伙伴跑去疯跑时余光瞥见一个陈列花里胡哨的铺子，便好奇地上前。老板是个奶奶，她见到我们几个孩子时神秘地笑了笑，说愿意给我们表演一个魔术。记得她应该是拿了一张纸币（当时我们小孩子身上会有钱吗？那大概是她自己的？）和一支笔，然后一下子用笔穿过了纸币！
+Right now, I am on my way to the Beijing Exhibition Center Theater to watch Lu Chen's magic show, and my heart is incredibly thrilled. I once wondered if it was really worth spending nearly half of my salary to watch such a show. But on one hand, I've already bought the ticket (no refunds, woo woo woo), and on the other hand, I also believe Mr. Lu Chen won't let the audience down.
 
-> 我：破坏纸币要罚多少来着？（天哪那时候我这么没情商吗）
+The first time I saw magic as a child was in a small shop on Hefang Street. After school, while running wildly with my friends, I caught a glimpse of a flashy shop from the corner of my eye and approached curiously. The owner was an old grandma. When she saw us kids, she smiled mysteriously and said she was willing to perform a magic trick for us. I remember she took a banknote (did we kids even have money back then? It was probably hers?) and a pen, and then suddenly pierced the banknote with the pen!
 
-> 她：再给你们变回来
+> Me: How much is the fine for damaging currency? (Heavens, was my EQ that low back then?)
 
-说罢就把笔抽了回来，纸币完好无损。
+> Her: I'll turn it back for you.
 
-听到这里，聪明的你肯定知道笔是特殊处理过的道具，可以用磁铁吸住。但魔术这种东西就是这样，你现场看和听别人讲完全是两种感觉。所以这次表演自然是给我幼小的心灵留下了极大震撼。
+With that, she pulled the pen back, and the banknote was completely intact.
 
-后来，在春晚看到了刘谦老师，知道了真正的大师是什么样子；也曾经执着于揭秘魔术，虽然屡屡碰壁但也学会了不被misdirection影响；最后，我开始学起了魔术。
+Hearing this, the clever you must know that the pen is a specially treated prop held together by magnets. But that's the thing with magic—watching it live versus hearing someone explain it are two completely different feelings. So, naturally, this performance left an enormous shock on my young mind.
 
-契机也和刘谦老师有关，那就是他入驻b站了。“魔术课”这一节目感觉起来像是揭秘，但实际上他是真想教会我们（比如misdirection这个词就搁这学的）。看了几个视频的天曜跃跃欲试，但仍然需要一个机会。
-高中，一个全新的环境，有不认识的人和没学过的知识。在这里用魔术来给大家留下印象似乎是个不错的选择。
+Later, I saw Mr. Lu Chen on the Spring Festival Gala and learned what a true master looks like. I was once obsessed with debunking magic; though I hit walls repeatedly, I also learned not to be affected by misdirection. Finally, I started learning magic myself.
 
-一个下午的自习课，我从书架里抽出两本书，学着那个看店的老奶奶对着身边的同学说：你知道吗？最近FBI有一项科学研究发现人眼睛看过的东西会在视网膜上留一段时间……怎么，不信？来我给你展示一下……
-想知道我怎么变的？b站关注刘谦上课去！
+The trigger was also related to Mr. Lu Chen: he joined Bilibili. His "Magic Class" videos felt like debunking, but in reality, he genuinely wanted to teach us (for instance, I learned the word 'misdirection' right here). After watching a few videos, Tianyao was eager to try, but still needed an opportunity.
 
-效果不错，旁边的同学都被惊到了，情绪价值直接拉满好吧。
+High school was a brand new environment with unfamiliar people and unlearned knowledge. Using magic to leave an impression on everyone seemed like a good choice here.
 
-嗯，虽然当时同学们都要我揭秘，但等到我真正教他们的时候貌似没啥兴致（
+One afternoon during self-study class, I pulled two books from the bookshelf, mimicking that shopkeeping grandma, and said to the classmate next to me: "Did you know? Recently, an FBI scientific study found that things seen by human eyes stay on the retina for a while... What, you don't believe me? Come, let me show you..."
 
-不管这些了，总之就是后来我秉承着变+教的模式又有过几次魔术表演，大部分是在晚会之类需要表演节目的场所。
+Want to know how I did it? Go subscribe to Lu Chen's class on Bilibili!
 
-比起唱歌跳舞，魔术有个先天的优势，那就是观众一定会看，而且看得进去；但与此相伴而来的，就是对于魔术师表演素质的考验了。刘谦老师时常强调魔术的原理往往非常简单，真正难的部分是上手后的表演，为此你需要持久的练习。而我基本没有练习，好在目前是没出过太大的岔子。
+The effect was great, the classmates around me were all amazed, and the emotional value was completely maximized.
 
-那么，我为什么会喜欢魔术呢？仔细想想，魔术的内核是加密，是把简单的东西通过各种方式变复杂，最后展示给观众看。如果观众被骗过去了，那么魔术师就成功了，因此这种加密必须要十分高明，不容易被察觉（特别是你面对魔术师变魔术的时候）。而解密的部分……这不就是我最喜欢干的嘛！理解魔术原理的那个Eureka Moment，带给我的冲击是非常大的。所以我仍然喜欢揭秘，但不会拆台了。（比如之前百团大战路过北大魔术协会当捧哏，当然表演者变牌的手法确实没得说，绝对练了好久）而与此同时，我也希望能像刘谦老师一样，把自己对于魔术的喜爱传递给更多的人。
+Well, although my classmates kept asking me to reveal the secret at that time, when I actually offered to teach them, they didn't seem very interested (
 
-（哦对了，说到这个，刘谦老师曾说过他也是小时候看到店里的魔术表演开始喜欢上魔术的，巧了不是吗）
+Forget about that. Anyway, later on, adhering to the perform-and-teach model, I had a few more magic performances, mostly at venues like evening galas that required talent shows.
 
-这就是我写下这些文字的理由。
+Compared to singing and dancing, magic has an inherent advantage: the audience will definitely watch and stay engaged. However, accompanying this is the test of the magician's performing skills. Mr. Lu Chen often emphasizes that the principles of magic are usually very simple, and the truly difficult part is the performance once you get the hang of it, for which you need persistent practice. And I barely practice, though fortunately, no major slip-ups have occurred so far.
 
-不对，我怎么地铁坐过站了！
+So, why do I like magic? If I think about it carefully, the core of magic is encryption—taking something simple and making it complex through various methods, and finally presenting it to the audience. If the audience is fooled, the magician succeeds. Therefore, this encryption must be extremely clever and not easily noticed (especially when you are watching a magician perform live). As for the decryption part... isn't that exactly what I love doing most! The Eureka Moment of understanding a magic trick's principle brings me a massive impact. So, I still love debunking, but I won't spoil the show anymore. (For example, previously during the hundred-clubs recruitment fair, I passed by the PKU Magic Association and acted as a straight man/hype-man; of course, the performer's card manipulation was indeed impeccable, they must have practiced for a long time). At the same time, I also hope that, like Mr. Lu Chen, I can pass on my love for magic to more people.
+
+(Oh, by the way, speaking of which, Mr. Lu Chen once mentioned that he also started loving magic after seeing a magic trick in a shop when he was a kid. What a coincidence, isn't it?)
+
+That is the reason why I wrote down these words.
+
+Wait, how did I miss my subway stop!

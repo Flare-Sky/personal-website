@@ -1,35 +1,35 @@
 +++
-title = "寄居者的日记-53"
+title = "Sojourner's Diary - 53"
 date = 2025-03-10T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-早上2点爬起来解Hunt的Meta元谜题，然后做到6点半。期间用各种苦力无果，最后发现是开始的年份提取出了错（因为当时直接问AI了）。不得不感叹AI还是取代不了人类啊（
+Woke up at 2:00 AM to solve the Hunt's Meta puzzle and worked on it until 6:30 AM. Used all kinds of brute-force methods during that time to no avail, only to discover in the end that the error lay in the starting year I extracted (because I had asked an AI directly at the time). Can't help but sigh that AI still can't replace humans (
 
-当时的我并不知道出错的原因，但太阳已经出来了，是时候出去“换换脑子”了。跟着资深京爷——老爸，出去逛吃！
+At the time, I didn't know the reason for the error, but the sun was already up, and it was time to go out and "refresh my mind." Following the veteran Beijinger—my dad—we headed out to explore and eat!
 
-从天安门西下地铁，刚出地铁口就被要求查身份证（毕竟在开会）。路上除了制服警察还能看到不少便衣，由此我不由得突发奇想如果我当场开跑会不会直接被按在地上（当然最后也没尝试）。路上遇到大概是升旗班的兵哥哥，拿出相机的第一时间就被叫“不要拍照！”吓得我相机镜头都缩回去了（对，它自己缩的）。然后基本一个上午它都在“能用”与“废了”的状态反复横跳，之后得去专门修相机的店一趟了。
+Taking the subway to Tian'anmen West, we were asked for our ID cards as soon as we stepped out of the exit (after all, the NPC is in session). Along the way, besides uniformed police, quite a few plainclothes officers could be seen, which made my mind wander: if I suddenly started sprinting right now, would I be immediately pinned to the ground? (Of course, I didn't try in the end). On the street, we encountered soldiers who seemed to belong to the flag-raising squad. The moment I took out my camera, I was told, "No photos!" It scared me so much that the camera lens retracted on its own (yes, it retracted by itself). After that, for basically the whole morning, it kept toggling between "usable" and "broken." I'll need to visit a dedicated camera repair shop later.
 
-我和老爸绕着故宫转了一圈，途中买票进了中山公园（我是半价票！）走完一段路手机就会莫名其妙多好几张照片，对此我毫无头绪（结束后一查，发现相册里多了108张照片，好奇怪啊）
+My dad and I walked a full circle around the Forbidden City, buying tickets to enter Zhongshan Park along the way (I got a half-price ticket!). After walking a stretch, my phone would mysteriously have several extra photos taken, and I had absolutely no idea why (checking after we finished, I found 108 extra photos in my album—so strange).
 
-在完成了西提沃克之后，我颤颤巍巍地跟着老爸走进了豆汁店。虽然上次来北京旅游时应该试过豆汁，但一方面我那时尚且年幼没留下啥印象，另一方面网上相关的吐槽也让我望而生畏。在上桌之后，老爸还拍了张照评价道：为他代祷，他很勇敢。我：……（尝了一口）
+After finishing our Citywalk, I tremblingly followed my dad into a Douzhi (mung bean milk) shop. Although I should have tried Douzhi when I visited Beijing last time, on one hand, I was too young then and didn't remember much, and on the other hand, the online complaints about it made me quite apprehensive. Once it was served, my dad even took a photo and commented: "Pray for him, he is very brave." Me: ... (took a sip)
 
-怎么说呢？就跟豆腐放馊了的味道相差不远，虽没到那种喝了就想吐的程度，但也足够让我疑惑：你们京爷为啥会喜欢这种东西？？？
+How should I describe it? It tastes pretty close to spoiled tofu. While it wasn't to the point of making me want to throw up immediately, it was enough to leave me puzzled: why on earth do you Beijingers like this stuff???
 
-不过另一碗面糊味道还挺不错的，还成功找店员阿姨加了一勺麻酱，可惜我忘了它的名字……
+But the other bowl of flour mush tasted quite good, and I successfully asked the shop lady for an extra scoop of sesame paste. Too bad I forgot its name...
 
-哦对了，老爸还教了我怎么完整地剥出一个栗子，成功几次后可开心了，绝定要教教同学们秀一把！
+Oh right, my dad also taught me how to peel a chestnut fully intact. I succeeded a few times and felt so happy, deciding that I must teach my classmates and show off!
 
-然后去吃其他小吃！在护国寺小吃吃到的门钉烧饼真香，梨汤也好喝（哇好有情感但没文化的表达）。还去了南锣鼓巷边上的卤煮店吃卤煮，然后意识到我好像仍然适应清淡些的食物，吃不了北方的重口……
+Then off to eat other snacks! The Pan-fried Meat Pie (Mending Shaobing) I had at Huguosi Snacks was incredibly fragrant, and the pear soup was delicious too (wow, such an emotional but uncultured expression). We also went to a Luzhu (stewed pork intestines and lung) shop near Nanluoguxiang to have Luzhu, and then I realized I still prefer lighter foods and can't handle the heavy flavors of the North...
 
-吃饱喝足修完脚，我们去鼓楼周边转了一圈。听老爸说他小时候这里是多么的“繁华”（指满街游戏店）后，我直接冲进为数不多的残余店面看到了满墙的PS和Switch卡带。不知道为什么，明知我不会买游戏机，但看着这些卡带就是很爽（
+After eating and drinking our fill and getting a foot massage, we walked around the Drum Tower area. After hearing my dad talk about how "bustling" (referring to streets full of game shops) this place was when he was a kid, I ran straight into one of the few remaining shops and saw a wall full of PS and Switch cartridges. For some reason, even though I knew I wouldn't buy a console, just looking at these cartridges felt great (
 
-穿过烟袋斜街来到什刹海旁，我们终于开始吃午饭了（没错前面的都是小吃）。一路上看到了好几家“南门涮肉”，但真正正宗的那一家才是我们的去处。肉饱就是我和老爸的原则！
+Crossing Yandaixiejie Street to the bank of Shichahai, we finally started eating lunch (yes, everything before that was just snacks). Along the way, we saw several "Nanmen Shuanrou" (Southern Gate Hotpot) places, but the truly authentic one was our destination. Getting stuffed with meat is the code for my dad and me!
 
-在荷花市场的星巴克小憩片刻，老爸就动身去找朋友了。我则打开了Geocaching，开寻！其实早上在故宫边上的街道已经开找了，但是鬼鬼祟祟的天曜被当场问话：找啥呢？我：呃……有人藏在这的东西但好像已经没了，说完就溜（太像什么贩子了吧喂！）
+After a short break at the Starbucks in Lotus Market, my dad set off to meet his friends. I opened Geocaching and started hunting! Actually, I had already started looking on the streets beside the Forbidden City in the morning, but sneakily searching there led to me being questioned on the spot: "What are you looking for?" Me: "Uh... something someone hid here, but it seems to be gone." I slipped away right after saying that (too much like some shady dealer, hey!).
 
-之后在什刹海边上的一个前寺庙（现幼儿园）旁边的胡同里，在管道内侧摸到一个试管，打开一看居然正反两面都写满了！最后只找到一个角落把名字塞了进去，并提醒下个来的人一定要记得带张新纸。之后在路边徘徊了10分钟发现原提示作废的信息，顺利找到路边的试管并收获了不少路人疑惑的眼神。在一处铁路桥上，逆着放学小学生的人流我在钢架上摸出了今天最后一个宝，确认四下无人迅速拿出来签名放回去，大功告成！
+Later, in an alley next to a former temple (now a kindergarten) by Shichahai, I felt a test tube on the inside of a pipe. When I opened it, it was completely filled with signatures on both sides! In the end, I could only find a tiny corner to squeeze my name in, and noted to remind the next person to bring a new piece of paper. After that, wandering by the roadside for 10 minutes, I found information that the original hint was outdated, successfully located a test tube by the road, and harvested quite a few puzzled looks from passersby. On a railway bridge, walking against the flow of elementary school students leaving school, I felt out today's last treasure from the steel frame. Making sure no one was looking, I quickly took it out, signed, and put it back. Mission accomplished!
 
-嗯，刚刚看了一下，我的微信步数目前仍然以24070霸榜第一，距第二的老爸差了110步（不对吧我下午明明做了那么多事，难道是因为骑车所以没算上？）由此可见今天咱们走了多远。战斗爽了一整天之后也是毫无悬念地早睡了，此时对于明天发生的意外我还一无所知……
+Well, looking at it just now, my WeChat steps are still dominating first place with 24,070, 110 steps ahead of my dad in second place (wait, I did so many things this afternoon, maybe it didn't count because I rode a bike?). This shows just how far we walked today. After a day of fighting hard, I fell asleep early without suspense, completely unaware of the accident that would happen tomorrow...

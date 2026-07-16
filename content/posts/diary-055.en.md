@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-55"
+title = "Sojourner's Diary - 55"
 date = 2025-03-12T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-今天上午帮同学完成了他的大学申请（实际上就是填了个表），忘了下午干了些啥，懒得写了。
+This morning I helped my classmate complete his university application (actually just filled out a form). Forgot what I did in the afternoon, too lazy to write.

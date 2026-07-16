@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-52"
+title = "Sojourner's Diary - 52"
 date = 2025-03-09T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-昨天和前天都熬夜打洋Hunt了，故断更。非常抱歉！以后再有类似情况会提前告知的！
+I stayed up late both yesterday and the day before to participate in a foreign puzzle Hunt (洋Hunt), hence the skipped posts. I'm very sorry! If something similar happens in the future, I'll let you know in advance!
 
-但是你怎么知道我们队第12个完成了12道小题？明天凌晨2点放Meta，故今天必须早睡！就早发了（
+But how did you know that our team was the 12th to complete all 12 sub-puzzles? The Meta will be released at 2:00 AM tomorrow morning, so I must go to bed early today! That's why I'm posting early (
 
-最近几天运动量有所下降，但与此同时与同学的交流增多了。我有时也在想整天往图书馆跑到底是不是正确的选择（毕竟在图书馆我也会摸鱼，咳咳），和同学们的活动也应该生活中重要的一部分。
+Over the past few days, my exercise volume has decreased slightly, but at the same time, my interactions with my classmates have increased. Sometimes I wonder if running to the library all day is really the right choice (after all, I also slack off in the library, cough cough), and activities with my classmates should also be an important part of life.
 
-前天在打篮球说被小朋友薄纱了，我这个身高摆在那里却挡不住他们的远投，有种自己是废物的感觉。哎，凡是学习新事物，必然经历从自我感觉良好到发现自己菜的一批然后跌入谷底的过程。如果此时没有放弃，那才能慢慢爬上开悟之坡（当然我估计还会往下掉一阵呢）
+The day before yesterday, when playing basketball, I was totally destroyed by the little kids. Despite my height advantage, I couldn't block their long shots, which made me feel kind of useless. Sigh, whenever you learn something new, you are bound to experience a process of going from feeling good about yourself to discovering you're incredibly bad and then falling to rock bottom. If you don't give up at this point, only then can you slowly climb up the "Slope of Enlightenment" (though I estimate I'll probably slide down a bit further first).
 
-昨天在附近听了Art History讲座，讲员的讲课水平是真的高，讲这种“枯燥”的东西却完全没有让我产生困意。他问我小时候有没有接触艺术，我于是回忆起了小学的熏陶与历练——书法钢琴葫芦丝，摄影绘画艺术节。最后得出结论：我大抵是白学了（其实并不，你所学的最终都会成为你的一部分）。对了，课间还打了把台球，结果狗运爆棚被怒斥“拿阳寿打球”。那我能咋办啊？~~菜就多练……~~
+Yesterday, I listened to an Art History lecture nearby. The speaker's teaching level was truly superb; despite talking about such "dry" topics, it didn't make me feel sleepy at all. He asked me if I had been exposed to art as a child, which made me reminisce about the exposure and training I had in elementary school—calligraphy, piano, cucurbit flute (hulusi), photography, painting, and art festivals. In the end, I concluded: I basically learned it all in vain (actually not, whatever you learn eventually becomes a part of you). By the way, I also played a game of pool during the break, and with insane beginner's luck, I was scolded for "playing at the expense of my lifespan." What can I do about that? ~~If you're bad, practice more...~~
 
-嗯，总算把前两天说完了。然后就是今天见到了来北京的老爸，约好明天去中轴线暴走逛吃，狠狠地期待了！
+Well, I've finally caught up on the past two days. Then there's today—I met my dad who came to Beijing, and we agreed to go on a crazy walking and eating tour along the Central Axis tomorrow. Really looking forward to it!

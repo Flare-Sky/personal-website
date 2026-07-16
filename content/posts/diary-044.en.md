@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-44"
+title = "Sojourner's Diary - 44"
 date = 2025-02-27T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-在昨晚的小组意识到自己的作息好像不太规律，故早睡（这就是你拖更的借口～）。今日补之。
+Realizing in last night's small group that my sleep schedule seemed a bit irregular, I went to bed early (what a perfect excuse for delaying your post~). Making up for it today.
 
-其实说到底昨天也没做啥，上午在家注册大学账号被垃圾网络气晕，于是下午出门去上打篮球了（其实是我问教练加了周一三，猛猛练体力，明天带晨跑的同学们开开眼界嘿嘿）。晚上去小组，想要用共享空间的打印机打个Cheat Sheet表如何鼓捣半天也没结果。晚上吃上了恰逢室友放毒，打开手机想转移注意力就看到里面赫然发来“空气炸锅必做美食20道”。泪，从嘴角流了下来。
+To be honest, I didn't do much yesterday. In the morning, I was extremely frustrated by the garbage internet while trying to register my university account at home, so in the afternoon, I went out to play basketball (actually, I asked the coach to add Mondays and Wednesdays so I can work hard on my stamina and show off to the morning run classmates tomorrow, hehe). In the evening, I went to the small group and tried to print a Cheat Sheet using the printer in the shared space, but failed after messing around with it for ages. Right when I was having dinner, my roommate posted some mouth-watering food photos; trying to distract myself by opening my phone, I saw a notification that read "20 Must-Try Air Fryer Delicacies." Tears of drool streamed from the corners of my mouth.
 
-于是今天决心不窝家里了。骑车跑到奥林匹克森林公园打算寻寻宝（在杭州Puzzler's Day后就入了Geocaching的圈子，故一发不可自拔，望周知）。一打开地图全是问号，有一种在玩RPG的感觉。
+So today, I decided not to stay cooped up at home. I rode my bike to the Olympic Forest Park, planning to do some treasure hunting (after Hangzhou Puzzler's Day, I entered the world of Geocaching, and I've been hooked ever since, just so you know). Opening the map, it was full of question marks, giving me the feeling of playing an RPG.
 
-先是循着定位发现此路不通，而后在绕路的过程中恰巧瞥见了路边的三界碑（朝阳区、海淀区与昌平区），兴奋地绕了一圈后一无所获，结果一低头就在栅栏的空心管里看到了装有记录纸的小试管。记录下自己的名字后，我评论道：非常好Cache，使我在三界碑旋转。
+First, following the GPS, I found a dead end. While taking a detour, I happened to catch sight of a boundary monument of three districts (Chaoyang, Haidian, and Changping) by the roadside. After excitedly circling around it, I found nothing at first, but when I looked down, I saw a small test tube containing a log sheet inside the hollow pipe of the fence. After logging my name, I commented: "Excellent cache, made me spin at the three-district boundary monument."
 
-不得不说，奥森公园是真的大，而且其设施之完善完全不是奥北公园之流能碰瓷的（要不是离得远我早上就搁这跑步了）。满图问号也展示了这里一直是寻宝者的圣地，而我在奔波之余，毅然拿出了尘封的索尼——来打鸟！
+I have to say, the Olympic Forest Park is massive, and its facilities are so complete that places like Aobei Park can't even compare (if it weren't so far away, I would run here every morning). The map full of question marks also proves that this has always been a holy land for treasure hunters. In the midst of all the running around, I resolutely took out my dusty Sony camera—to shoot birds!
 
-常说摄影的尽头是打鸟，但真当你看到在草地上一蹦一跳的小家伙时，你也会不由自主地抄起家伙就是一顿狂拍的。幸运的是，在我对着湖中的鸳鸯举起相机是，恰逢“惊起一滩鸥鹭”，而我将飞鸟掠过水面的瞬间定格了下来，得到了“金色传说”！第一次打鸟就得此成就，我已经不知道飘到哪去啦！
+It is often said that the ultimate end of photography is birding, but when you actually see a little creature hopping around on the grass, you can't help but grab your gear and start snapping away. Fortunately, just as I raised my camera towards the mandarin ducks in the lake, it happened to "startle a flock of herons and gulls into flight," and I captured the split second of the bird skimming across the water's surface, getting a "legendary gold" shot! Achieving this on my very first try at birding, I'm already floating on cloud nine!
 
-总结一下就是，除了正事我是啥都干了（
+To sum up, I did everything except my actual proper business (

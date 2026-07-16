@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-60"
+title = "Sojourner's Diary - 60"
 date = 2025-03-17T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-今早寒风萧瑟，世界随之东摇西晃，独我在风中凌乱。
+This morning the cold wind rustled, the world swayed back and forth along with it, and I alone was left in a mess in the wind.
 
-翻译成大白话就是：跑步的时候风好大啊啊啊明天不来了（
+Translated into plain words: The wind was so strong while running, aaaaaah I'm not coming back tomorrow (
 
-在书店泡到闭馆，感觉没做成什么事，故出去疯狂骑车以求心理平衡（这算什么发泄方式啊喂）。一抬头发现居然来到了奥森公园，哇好神奇呢（棒读）
+Stayed at the bookstore until it closed. Felt like I didn't get much done, so I went out for a wild bike ride to find some psychological balance (what kind of venting method is this, hey). Looked up only to find that I had arrived at Olympic Forest Park. Wow, how magical (monotone)
 
-然后就是暴走（为什么园内不能骑车啊）没什么好说的，借用一下朋友圈文案：
+Then it was a brisk walk (why aren't bikes allowed inside the park?), nothing much to say. Borrowing my WeChat Moments caption:
 
-> 闭馆踏春游
+> Closing time, heading out for spring strolls
+> 
+> Gathering six treasures at Olympic Forest Park
+> 
+> Resting at Burger King as dusk falls
 
-> 奥森觅宝六样收
+*(Don't ask why there are differences! Haiku must have season words to feel right, otherwise it's just Senryu!)*
 
-> 堡王倚暮休
-
-*（别问为啥有不同！俳句就是要有季语才对劲，不然只能算川柳！）*
-
-是的我找到了6个Cache！刚好这是第60篇日记哈哈挺巧的不是吗？
+Yes, I found 6 Caches! And this just happens to be the 60th diary entry. Haha, quite a coincidence, isn't it?

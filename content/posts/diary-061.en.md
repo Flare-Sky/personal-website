@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-61"
+title = "Sojourner's Diary - 61"
 date = 2025-03-18T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-出门在外不可避免地会需要每天消费，我越来越觉得自己需要记账了。一方面自己总是冲动消费，另一方面却又总是缺东西。只能说得给每天的开销定个标准吧，不然没过多久又要伸手要钱了（笑）。
+Being away from home, daily expenses are inevitable, and I increasingly feel the need to keep accounts. On one hand, I always buy things on impulse; on the other hand, I always find myself short of things. I guess I need to set a standard for my daily expenses, otherwise it won't be long before I have to hold out my hand for money again (laugh).
 
-啊？没get到吗？笑点解析：每天出门必带的身份证、手机、钥匙、钱包的第一个字（谁问你了）
+Ah? Didn't get it? Humorous analysis: the first character of the items you must bring every day when going out: ID card (Shenfenzheng), Phone (Shouji), Keys (Yaoshi), Wallet (Qianbao)—*Shou-Ji-Yao-Qian* (literally sounds like "actively asking for money") (who asked you anyway).
 
-这几天来，如果要我做个总结，我只会说自己是个擅长立Flag的人，但总是缺少行动力。比如说，我到现在还没有写完那篇wu（不过资料都收集完了）。虽然没人催我但时效性没了不就没意义了嘛（不过真的有人在乎这些吗）。好，明天写！
+Reflecting on the past few days, if I were to summarize, I'd say I'm someone who is very good at setting up "flags" (resolutions) but always lacks the drive to act. For example, I still haven't finished that writeup (although the reference materials are all collected). Even though no one is rushing me, if the timeliness is gone, doesn't it lose its meaning? (But does anyone actually care about this?) Okay, writing it tomorrow!
 
-话说今晚的讲座是第一次共学模式，但整体感受下来就是没效率。无备课不代表不需要准备，下次还是需要有分量的预习作为共学的底子才行。
+By the way, tonight's lecture was the first time using the co-learning model, but the overall feeling was that it was inefficient. No preparation during class doesn't mean you don't need prep beforehand; next time, substantial pre-reading is still needed as a foundation for co-learning to work.
 
-最近也在尝试教同学做兼职，但我总是担心，自己这种三脚猫功夫教出来算不算误人子弟啊（
+Lately, I've also been trying to teach a classmate how to do part-time work, but I always worry: with my half-baked skills, would teaching them count as leading them astray? (
 
-感觉这几天都挺忙，但不知道忙了些啥。旧事未过新的已来，若是没有及时记下大概率又会被淡忘，然后快进到面对质问时的支支吾吾。总在别人的要求与自我成就中迷失的我，可能就是需要常常出去走走吧。
+It feels like I've been quite busy these days, yet I don't know what I've been busy with. Before the old things have passed, new things have already arrived. If they aren't recorded in time, they will likely be forgotten again, leading to a quick forward to stammering when faced with questions. Constantly lost between the demands of others and self-actualization, maybe what I need is to go out for walks more often.
 
-至少这样不会没有方向，也不会怀疑踏出的每一步会不会被他人注意。
+At least this way, I won't lose my direction, nor will I doubt if every step I take is being watched by others.
 
-希望能如耳机里正在放的歌一样，“回头看是一片春意已经悄然生发”。
+I hope that just like the song currently playing in my headphones, "looking back, a sense of spring has already quietly sprouted."
 
-或者，应该抬头看？
+Or, should I look up?

@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-56"
+title = "Sojourner's Diary - 56"
 date = 2025-03-13T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-跑了一趟科技馆，拍了很多照片，懒得写了。
+Took a trip to the Science and Technology Museum, took many photos, too lazy to write.

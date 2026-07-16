@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-43"
+title = "Sojourner's Diary - 43"
 date = 2025-02-25T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-几乎在图书馆泡了一整天，然后认识到闭馆时间是6点。
+I spent almost the whole day soaking in the library, only to realize that the closing time is 6:00 PM.
 
-正如当天朋友圈所发的，我在摸鱼做歌词lrc。发现b站的笔记功能特别合适，可惜一天有上限且会自动发到动态，不符合我互联网i人的人设（
+Just as I posted on WeChat Moments that day, I was slacking off making lyrics LRC files. I found Bilibili's note-taking feature particularly suitable, but unfortunately, there's a daily limit and it automatically posts to the dynamic feed, which doesn't fit my internet "I" (introvert) persona (
 
-还有必须提一嘴的就是，我终于买到了能给相机电池充电的底座（前几天博物馆逛到一半索尼没电真的会破大防）。连夜充好三个电池之后晚上立刻出门库库拍，然后才意识到北京的温度会平等地审判每一个不抗造的电池。airpods如此，索尼黑卡亦如此……
+Another thing I must mention is that I finally bought a charging dock for my camera batteries (a few days ago, my Sony camera ran out of juice halfway through a museum visit, which really broke me). After charging three batteries overnight, I immediately went out in the evening to shoot endlessly, only to realize that Beijing's low temperature equally judges every fragile battery. AirPods are like this, and my Sony RX100 is no exception...
 
-幸运的是，我仍然拍下了北京郊区的夜空，看到了割据半片天空的猎户与御夫。同时，我还拍下了一直觉得很有感觉但手机拍不出来那味的城市夜景。人造的霓虹固然绚丽，甚至能掩盖群星璀璨；但早在钢铁森林拔地而起之前，那些天体就静静地守着黑夜，亘古如此。
+Fortunately, I still managed to capture the night sky over the suburbs of Beijing, seeing Orion and Auriga dominating half of the sky. Meanwhile, I also photographed city night views that I've always found very atmospheric but could never capture properly with a phone. Artificial neon lights are indeed brilliant, even obscuring the starry night, but long before the concrete jungle rose from the ground, those celestial bodies had been quietly guarding the dark night, just as they have for eternity.
 
-还有就是，i-20什么的真的在办了！请继续催我不然容易不干正事私密马赛！
+Also, the I-20 and other stuff are actually being processed! Please keep pushing me, otherwise, I easily slack off from doing proper business, Sumimasen!

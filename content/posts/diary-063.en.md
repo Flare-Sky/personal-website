@@ -1,17 +1,17 @@
 +++
-title = "寄居者的日记-63"
+title = "Sojourner's Diary - 63"
 date = 2025-03-20T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-所以我卡着睡觉前的timing完成了这两篇日记。
+So I managed to finish these two diary entries right before bedtime.
 
-今天去找了朋友吃烤串，吃完回到家和老爸见了面，发现自己的耳机落烤串店了又搭车回去取，取完跑附近的公园直接找宝，然后被手机电量逼着回了家，最后红色电池上的数字精确地在我还完共享单车之后归了零（指关机）
+Today, I went to grab skewers with a friend. After eating, I returned home and met up with my dad. Then I realized I had left my earphones at the skewer shop, so I took a cab back to retrieve them. After that, I ran to a nearby park to look for geocaches. Then, forced by my low phone battery, I had to head home. In the end, the number on the red battery icon dropped to zero (meaning my phone shut down) precisely right after I returned the shared bike.
 
-明天打完篮球要跑去看刘谦老师的巡演；后天上午去奥森公园和弟兄姐妹玩飞盘，下午跑北大谜协例会。事挺多的，而我之前的Flag仍然遥遥无期。这种时候还是需要点外部环境的刺激才行吧……
+Tomorrow, after playing basketball, I'll run to watch Mr. Lu Chen's magic tour. The morning after tomorrow, I'll go to Olympic Forest Park to play Frisbee with brothers and sisters, and in the afternoon, run to the Peking University Mystery Association routine meeting. There are quite a lot of things to do, yet my previous flags are still nowhere in sight. At times like this, maybe I still need some stimulation from the external environment...
 
-不管了，母鸡卡，启动！
+Whatever, Mujica, start!
 
-好吧我被垃圾寝室网络卡回来了，果然还是早点睡吧。
+Well, I was lagged back by the crappy dorm network, I'd better go to bed early after all.

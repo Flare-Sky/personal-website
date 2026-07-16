@@ -1,9 +1,9 @@
 +++
-title = "寄居者的日记-58"
+title = "Sojourner's Diary - 58"
 date = 2025-03-15T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-不行，诸葛天，你怎么能这么对待你的日记呢？啊？23点了？懒得写了。
+No way, Tian Zhuge, how could you treat your diary like this? Ah? It's already 23:00? Too lazy to write.

@@ -1,15 +1,15 @@
 +++
-title = "寄居者的日记-50"
+title = "Sojourner's Diary - 50"
 date = 2025-03-05T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-你知道吗？在北京有一个叫做“杭州公园”的地方，而且只有一个出入口。
+Did you know? There is a place in Beijing called "Hangzhou Park," and it has only one entrance/exit.
 
-打完篮球，我在Geocaching的指引下来到了这个公园。从你走进去的地方，你只能看见某某酒店的招牌。在提示要右拐的路口左拐，这个隐秘的小公园就出现在了你的面前。
+After playing basketball, guided by Geocaching, I arrived at this park. From the spot where you walk in, you can only see the sign of some hotel. Turning left at the intersection where you are prompted to turn right, this hidden little park appears right before your eyes.
 
-真的，要不是有Geocaching+高德，我打死也不会走进这里。看了前人们的记录，有人甚至住在附近都不知道有这么个地方。所以虽然今天的寻宝以两手空空告终（还陪了一个摔坏的相机www），但解锁新地点的喜悦还是盖过了失落（我的相机啊啊啊啊啊）
+Honestly, if it weren't for Geocaching and Amap (Gaode), there's no way in hell I would have ever walked in here. Looking at the logs of past visitors, some people didn't even know this place existed despite living nearby. So, although today's treasure hunt ended empty-handed (and cost me a broken camera, lol), the joy of unlocking a new location still outweighed the disappointment (my camera, ahhhhh!).
 
-真盖过了吗？
+Did it really?

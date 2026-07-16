@@ -1,13 +1,13 @@
 +++
-title = "寄居者的日记-57"
+title = "Sojourner's Diary - 57"
 date = 2025-03-14T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-圆宵节快乐！
+Happy Lantern Festival!
 
-今天跑去拿了美签护照，再次体验了大使馆的排队感受，等到我了也就1分钟的事，文件一交一取，立即快马加鞭赶去打篮球。我是timing侠（
+Today I ran over to pick up my US visa passport, experiencing the embassy queuing vibe once again. When it was my turn, it was over in just a minute—submitting and receiving the documents, and immediately rushing off to play basketball. I am a timing expert (
 
-还有金蛋解谜的解析视频发布了，然而我的wu还没写……得赶紧提上日程啦！日记什么的，懒得写了。
+Also, the explanation video for the Golden Egg puzzle was released, but my writeup hasn't been written yet... need to put it on the schedule quickly! As for the diary, too lazy to write.

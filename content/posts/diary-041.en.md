@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-41"
+title = "Sojourner's Diary - 41"
 date = 2025-02-23T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-昨天晚上打hunt打到凌晨，故断更一天（
+I played Hunt: Showdown until the early morning last night, so I skipped a day of writing (
 
-今晚跟爸妈聊天，说到最近的“性情大变”（当然是往好的方向啦），变得更外向也更积极了。我觉得这是挺好的啦……
+Chatting with my parents tonight, we talked about my recent "drastic change in personality" (in a good way, of course), as I have become more extroverted and proactive. I think that's a pretty good thing...
 
-外向可以理解为在国外憋太久了。我骨子里果然还是个e人，在国外因为不敢（？）跟别人交流一直处于一个被动的状态，这次回来算是竭尽所能地去抢占了先机。通过交流其实能得到很多意料之外的收获，比如班长居然是特摄厨、室友居然是胶佬等等。而且，在不断了解对方的过程中其实也能重新审视自己的爱好，也许还能有意外收获！
+The extroversion can be understood as having been cooped up abroad for too long. In my bones, I am indeed an "E" (extrovert). Abroad, because I was hesitant (?) to communicate with others, I was always in a passive state. This time back, I've done everything I can to take the initiative. Through communication, I've actually gained many unexpected rewards, like finding out that the class monitor is a Tokusatsu fan, my roommate is a model kit enthusiast, and so on. Moreover, in the process of continuously getting to know others, I can also re-examine my own hobbies, and perhaps even find unexpected gains!
 
-而更加容易感到快乐，~~（总不能是因为没有爸妈管着了吧）~~，今天读到苏轼的词，觉得这应该就是一种“人在旅途，无论顺境还是逆境，都会随遇而安”吧？当然，正如这周的《加布》台词说的一样，我的身边也有很多支持我的人，特别是在church这个大家庭里。你可以和第一次见面的人无话不聊，从英语学习到水肺潜水（有位姐姐听说我爸妈是潜水教练喜出望外，表示有空一定要去拜访）；也可以围坐在圆桌前觥筹交错，品尝北京烤鸭的同时痛饮梨汤（
+As for finding it easier to feel happy, ~~(it can't be just because my parents aren't around to manage me, right?)~~, reading Su Shi's poetry today, I feel this must be a kind of "being on a journey, making oneself at home whether in prosperity or adversity." Of course, just like the line in this week's "Jiabu" says, my side also has many people who support me, especially in the big family of church. You can chat about anything with someone you meet for the first time, from English learning to scuba diving (one sister was overjoyed to hear that my parents are diving instructors and said she must visit when she has time); you can also sit around a round table, clinking glasses, drinking pear soup while enjoying Beijing roast duck (
 
-而这一切，都是神美好的预备。
+And all of this is God's beautiful preparation.
 
-昨天跑去了一趟航博，看到昔日为夺去生命而被建造的钢铁巨兽如今支撑起了无数生命，也不觉停下脚步细细端详每一片桨叶与机翼（拜托哪个男生能拒绝碰得到的大飞机呢）。虽然免不了红色宣传教育，但细细以道观之也并非毫无收获。离开之前留意了一眼小红薯，发现居然有免费集章点，便拿出小本本盖了几个——让收集癖成为我继续在北京游历下去的推动力。
+Yesterday, I ran over to the Aviation Museum. Seeing the steel giants once built to take lives now supporting countless lives, I couldn't help but stop and closely examine every propeller blade and wing (come on, what guy can resist a giant airplane that you can actually touch?). Although the patriotic red education was inevitable, viewing it through a deeper perspective was not entirely fruitless. Before leaving, I noticed a post on RED (Xiaohongshu) about free stamp collection spots, so I took out my notebook and got a few stamps—letting my collector's hobby become the driving force for me to continue exploring Beijing.
 
-对了，昨天吃的烧饼加了个肠，今天还做了人生中第二次十一！（话说第一次应该是我b站做视频得到的10块钱哈哈）
+Oh, by the way, the sesame flatbread I had yesterday had a sausage added, and today I did my second tithe in life! (Though the first time was probably the 10 RMB I earned from making videos on Bilibili, haha).

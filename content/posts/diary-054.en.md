@@ -1,19 +1,19 @@
 +++
-title = "寄居者的日记-54"
+title = "Sojourner's Diary - 54"
 date = 2025-03-11T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-早上我是被下铺的同学叫醒的，一看时间已经7点多了。我约的大使馆面签时间是9点！一下子困意全无，来不及想自己手表闹钟的失灵（现在也不知道为啥）究竟打破了多少人清晨的美梦，我急忙抓起文件往外赶。
+In the morning, I was woken up by my roommate from the lower bunk. Checking the time, it was already past 7:00 AM. My scheduled visa interview at the embassy was at 9:00 AM! All sleepiness vanished instantly. No time to think about how many people's sweet morning dreams had been shattered by my watch alarm failing to go off (still don't know why), I quickly grabbed my documents and rushed out.
 
-路上和老爸练习了一下可能的问答环节，和司机三人一致达成：“面签的工作人员也是混口饭吃没啥学问一切从简”的原则。到了地方才意识到最大的挑战可能并非对话——现场的人疑似有点多了。
+On the way, I practiced potential Q&A with my dad. Along with the driver, the three of us agreed on the principle: "The visa officers are just doing a job for a living, they aren't looking for complexity, so keep everything as simple as possible." It was only when I arrived that I realized the biggest challenge might not be the conversation—there were suspiciously too many people on site.
 
-在人群偶有听到“这么多人都是去美国的吗”的吐槽，我也在想是为什么呢。排队最煎熬的不是等待，而是等待的时候没有手机！查身份证的时候就被要求把手机手表什么的全都存起来，而我自然不需要跑到对面而是直接给了老爸。两手空空（好吧除了文件袋）的我在队伍里哼着小调，全然不知前面究竟有多少人，而我又得等多久。
+In the crowd, I occasionally heard complaints like "Are all these people going to the US?" and I wondered why too. The most agonizing part of queuing is not the waiting, but the fact that you don't have a phone while waiting! When they checked my ID, I was required to store my phone, watch, and everything else. Naturally, I didn't need to run to the storage booths opposite, but just handed them directly to my dad. Empty-handed (well, except for my document folder), I hummed a tune in the line, completely clueless about how many people were ahead of me and how long I'd have to wait.
 
-一个拐弯，前面豁然开朗——又是一堆人。刚刚在使馆外排了那么久，里面居然还有这么多人！粗略推断，使馆外我从8点半站到了9点半，等安检半小时同时损失没拿出兜的数据线一条，等录指纹半小时，等面谈一小时。在大使馆内七进七出（其实没有那么离谱，但为啥录完指纹还要出去等啊！）之后，我坐到了工作人员面前。递上i-20之后，他抬头看了一眼我然后就在键盘上敲敲打打：你为啥选择这个学校？我：爸妈的朋友在那里工作。他：你爸妈做什么的？我：老师。他“你的Major是什么？我：（背诵i-20）上的内容。他：好恭喜你过了。我：？？？
+Turning a corner, the view ahead suddenly opened up—to another massive crowd. After standing outside the embassy for so long, there were actually this many people inside! By rough estimation, I stood outside the embassy from 8:30 to 9:30, spent half an hour waiting for security (and lost a data cable in my pocket in the process), waited half an hour to record fingerprints, and waited an hour for the interview. After navigating back and forth inside the embassy (well, not that exaggerated, but why did we have to go back outside to wait after fingerprinting?), I finally sat down in front of the visa officer. After I handed over my I-20, he looked up at me and started typing away on his keyboard: "Why did you choose this school?" Me: "My parents' friend works there." He: "What do your parents do?" Me: "Teachers." He: "What is your major?" Me: (recited the contents of the I-20). He: "Okay, congratulations, you've passed." Me: ???
 
-排队3小时，问话1分钟。
+Queued for 3 hours, questioned for 1 minute.
 
-哦对了，离开前还问了下能不能回去翻垃圾桶捡数据线，被无情拒绝。
+Oh right, before leaving, I asked if I could go back and rummage through the trash can to retrieve my data cable, and was ruthlessly rejected.

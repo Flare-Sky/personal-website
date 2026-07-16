@@ -1,21 +1,21 @@
 +++
-title = "寄居者的日记-48"
+title = "Sojourner's Diary - 48"
 date = 2025-03-03T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-由于昨晚睡得实在有点晚（真是昨晚吗），今天早上没能爬起来晨跑真是太可惜了。
+Because I slept really late last night (was it actually last night?), it was a great pity that I couldn't drag myself up for the morning run today.
 
-原因是我在闲鱼上低价捡漏到一款韶音的骨传导耳机，据描述所说是右耳有杂音当配件包出，结果我收到一看感觉99新，于是窃喜。明早一定要测测它的续航能力，如果能在零上几度撑下来那真是赚大了！
+The reason is that I scored a bargain on Xianyu (a secondhand marketplace) for a pair of Shokz bone conduction headphones at a very low price. According to the description, there was noise in the right ear and it was sold as-is for spare parts, but when I received it, it looked practically brand new (99% new), so I was secretly delighted. I must test its battery life tomorrow morning; if it can survive in temperatures just a few degrees above freezing, I will have made an absolute steal!
 
-今天最大的成就是把美签的预约搞定了，3月11日我在大使馆等你（误）真的要好好吐槽D160的那个破网站，几分钟Timed Out一次真给我整红温了。好在上午在那个无限续杯咖啡厅猛猛喝摩卡拿铁才稳住了我的情绪，没有在又一次忘记保存然后Timed Out后在图书馆骂出声来（
+My biggest achievement today was securing my US visa appointment. "I'll wait for you at the embassy on March 11" (not really). I really have to complain about the crappy DS-160 website; timing out every few minutes truly got me heated up. Luckily, chugging mocha lattes at that free-refill cafe in the morning kept my temper in check, preventing me from shouting out loud in the library after yet another timeout where I forgot to save (
 
-最后在交完费后约好美签了，但我的支付宝也是光荣地没钱了。雪上加霜的是当我查账单是居然发现莫名其妙被扣了保险的钱，急忙联系客服被得知是“免费体验”后的自动缴费。我：？？？
+In the end, after paying the fee, I scheduled the visa appointment, but my Alipay account was gloriously out of funds. To make matters worse, when I checked my bill, I discovered I had been mysteriously charged for some insurance. I quickly contacted customer service and was told it was an automatic renewal after a "free trial." Me: ???
 
-虽然最后在我孜孜不倦（死缠烂打）的交涉下索要回了款项，甚至包括了1月续的保险费（？我到底啥时候投的保），但我的心情还是不可避免地高烧3000度。偏偏我的D160填出来又犯了许多啼笑皆非的错误，我的脸色可想而知的差。得亏当时和同学走散了我才没有让他们发现我的OOC（真没有吗）。哎，本来以为北漂一趟能让我更多感恩的，结果还是不可避免地抱怨起来了……
+Although I eventually got the refund after my tireless (relentless) negotiations, which even included the insurance fee renewed in January (? when on earth did I even enroll in this insurance?), my mood was inevitably running a fever of 3,000 degrees. On top of that, I made many ridiculous mistakes while filling out the DS-160, so you can imagine how terrible my expression was. Luckily, I had lost track of my classmates at the time, so they didn't catch me going OOC (out of character) (or did they?). Sighed, I originally thought this stint as a Beijing drifter would help me feel more grateful, but I still ended up inevitably complaining...
 
-那就看看晚上的Art History讲座吧！从“美”的起源开始讲起，以“艺术”的定义为基点带我们纵览了整个人类的历史长河上璀璨的艺术珍宝。特别的，朋友提及他自己的人生经历，实在是令我叹为观止（出于隐私考虑略过）；当然，从他给我们搬来的一大堆书也能看出是一个非常有力（双关）的人。
+Then let's focus on the Art History lecture in the evening! Starting from the origin of "beauty" and using the definition of "art" as a base, it took us on a panoramic tour through the history of humanity, showcasing the brilliant artistic treasures along the way. In particular, a friend mentioned his own life experiences, which left me utterly amazed (omitted out of privacy considerations). Of course, judging by the massive pile of books he hauled over for us, he is also a very powerful (pun intended, as in knowledgeable/physically strong) person.
 
-路上我跟同学提到过“快乐守恒定律”，指出是因为我周六太乐了今天才遇到这么多烦心事，并以此解释“乐极生悲”背后其实有科学原理（说得我自己都信了）。但其实仔细想想，既然守恒的能量都能互相转化，那生活中的喜怒哀乐，好像也未必不行？
+On the way back, I mentioned the "Law of Conservation of Happiness" to my classmate, pointing out that because I had too much fun on Saturday, I encountered so many annoying things today, using this to explain that there is actually a scientific principle behind the saying "extreme joy begets sorrow" (I almost convinced myself). But actually, on second thought, since conserved energy can be converted into different forms, isn't it also possible for the joys, angers, sorrows, and delights of life to do the same?

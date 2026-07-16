@@ -1,25 +1,25 @@
 +++
-title = "寄居者的日记-42"
+title = "Sojourner's Diary - 42"
 date = 2025-02-24T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-今天发现有方法能把之前写的日记都汇总在一张图里。之前的动态，我已经编辑过啦，欢迎去考古！（不过朋友圈本来就有图所以不用去考古了）
+Today, I found a way to aggregate all my previous diary entries into a single image. I've already edited my previous posts, so feel free to go dig them up! (Though since there was already an image on WeChat Moments, there is no need to dig it up).
 
-除此之外，所有大学的申请对我来说都算告一段落了，突然很轻松！不过接下来还要搞美国签证啊什么的，有干不完的事……
+Besides that, all my university applications have finally come to a temporary close, and I suddenly feel so relieved! However, I still have to handle things like the US visa next, so there is an endless list of things to do...
 
-当然，我们的小天会自己忙里偷闲。看到解密群官宣这周五六有活动，果断选择了报名参加。同时还发现了一起打Hunt的队友居然是北大高材生！还有意外收获！
+Of course, yours truly (Xiao Tian) knows how to snatch a moment of leisure from a busy life. Seeing that the puzzle-solving group announced activities for this Friday and Saturday, I decisively signed up. At the same time, I discovered that my teammate who plays Hunt with me is actually a top student from Peking University! Another unexpected pleasant surprise!
 
-上周五打完了篮球，觉得自己果然还是需要多练练。因此我今天加练并表示愿意当助教。教练：你先把篮球打好吧
+After playing basketball last Friday, I felt that I indeed need to practice more. Therefore, I did some extra training today and expressed my willingness to be an assistant coach. Coach: "Get good at basketball first."
 
-我：……没问题！
+Me: "...No problem!"
 
-然后就拍球绕了体育场10圈。
+Then I dribbled the ball around the sports field for 10 laps.
 
-后续的篮球比赛，我也是靠着身高优势防下来了好几个球。感觉水平比上周五是进步了，也可能是因为之前对面最强的那个现在在我们队（
+In the subsequent basketball game, I also relied on my height advantage to block quite a few shots. I feel like my skills have improved compared to last Friday, or maybe it's just because the opponent's strongest player is now on our team (
 
-在和孩子们相处的时候，我仿佛找回了小时候当孩子王的感觉。那是我以为已经随着童年一起远逝了的，曾经无比骄傲之物。
+When spending time with the kids, I felt as if I had regained the feeling of being the "king of the kids" back in my childhood. That was something I once took immense pride in, which I thought had drifted far away along with my childhood.
 
-所以，我会继续努力下去。
+So, I will keep working hard.

@@ -1,27 +1,27 @@
 +++
-title = "寄居者的日记-47"
+title = "Sojourner's Diary - 47"
 date = 2025-03-02T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-在一天临结束时补一下，今天一天几乎都在外面，回来解完了蛇蛇Hunt的Meta然后猪脑过载，硬是拖到现在才开始写日记。
+Writing this to make up for it at the very end of the day. I was out almost the entire day, and after returning, I spent time solving the Meta of Snake Hunt (She-She Hunt) which overloaded my brain, delaying my diary writing until now.
 
-今天的会议以及之后的公开课程都特别有领受。讲师讲到“群星璀璨的见证”，而我本来就喜欢看星星，因而特别有共鸣。Paul虽没去过Rome，但却认识那边如此多的同工，我因此开始反思自己不擅长记名字+脸盲的问题是否需要改善……
+Today's meeting and the subsequent public lectures were exceptionally inspiring. The lecturer spoke about "a testimony as bright as a host of stars," and since I've always loved stargazing, this resonated deeply with me. Even though Paul had never been to Rome, he knew so many co-workers there; this made me reflect on my weakness in remembering names and face-blindness and whether I need to improve...
 
-中午又一次和朋友吃了午饭，在之后坐了一位哥哥的摩托车去旁听了父母养育儿女的课程，同学评价：这都要卷？玩笑归玩笑，课程的内容非常的高质量，讲师也都是大咖级人物。其中的一位明天还会有Art History讲座！狠狠期待！
+At noon, I had lunch with a friend again, and afterwards, I rode on the back of an older brother's motorcycle to audit a parenting course. A classmate commented: "You're even trying to compete ('juan') in this?" Jokes aside, the course content was of extremely high quality, and the lecturers were all big shots. One of them will even have an Art History lecture tomorrow! Really looking forward to it!
 
-晚上回家路上跑了半截塔村，在那里成功找到了来自17年的宝藏。路上，我和村民进行了如下对话：
+On my way home in the evening, I stopped by Banjiaota Village, where I successfully found a treasure dating back to 2017. Along the way, I had the following conversation with a villager:
 
-> 我：请问半截塔在哪？
+> Me: "Excuse me, where is the Half-Section Pagoda (Banjiaota)?"
 
-> 本地人：塔啊，我们在这住了几十年都没去过那里，你要干啥？
+> Local: "The pagoda? We've lived here for decades and have never been there. What are you planning to do?"
 
-> 我：……没事你们告诉我怎么走就行
+> Me: "...It's fine, just tell me how to get there."
 
-此外，这张纸因为饱经沧桑而变得极其脆弱，我展开的时候小心翼翼，生怕撕坏了后人无法找到。这下终于理解为什么其他Cache都是装在塑料试管里的了（
+Additionally, because this sheet of paper had been through so many vicissitudes, it had become extremely fragile. I unfolded it with absolute care, fearing I might tear it and make it impossible for future seekers to find. Now I finally understand why other caches are packed in plastic test tubes (
 
-回到家被主催提醒了今晚是蛇蛇Hunt（我之前写过wu总结的那个）Meta截止的日子，于是开始奋笔疾书。解到最后发现还要重复“夜观星车”的逆天纸笔，然而正赛里那道题是队友纪录片（纸笔领域大蛇）负责的，于是现学之。最后卡了更逆天的7进制提取，在截止时间10分钟后得到了最终答案。
+Upon returning home, I was reminded by the organizer that tonight was the deadline for the Snake Hunt (the one I wrote a Write-up summary for before) Meta, so I started writing and solving furiously. Solving to the very end, I found out I had to repeat the crazy pen-and-paper puzzle "Stargazing at Night," but during the main competition, that puzzle was handled by my teammate Jilupian (a giant in the pen-and-paper puzzle field), so I had to learn it on the fly. In the end, I got stuck on an even crazier base-7 extraction, and finally got the ultimate answer 10 minutes after the deadline.
 
-写着写着就3月3日了，那这究竟算哪天的日记呢？
+While writing, it has already become March 3rd. So, which day's diary does this actually count as?

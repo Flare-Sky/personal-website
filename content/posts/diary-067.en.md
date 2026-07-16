@@ -1,29 +1,29 @@
 +++
-title = "寄居者的日记-67"
+title = "Sojourner's Diary - 67"
 date = 2025-03-24T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
 | | |
 |---|---|
-|0:00-8:00|买吐司，睡觉|
-|8:00-9:00|起床，洗漱，泡咖啡，整理父母课堂笔记|
-|9:00-10:00|早读（彼前4），蹲坑，参加姐妹会|
-|10:00-11:00|参加姐妹会，玩会MC|
-|11:00-12:00|参加姐妹会，回答问题，玩会MC|
-|12:00-13:00|玩会MC|
-|13:00-14:00|玩会MC|
-|14:00-15:00|玩会MC|
-|15:00-16:00|玩会MC|
-|16:00-17:00|（啊怎么玩了那么久，干活！）吃熏鸡，看视频|
-|17:00-18:00|看视频，交流剪辑任务，登录有会员的度盘|
-|18:00-19:00|去星巴克，写作日记，写作wu，听书，下剪辑素材|
-|19:00-20:00|看加布，看视频，剪辑|
-|20:00-21:00|看视频，回家|
-|21:00-22:00|看视频，吃夜宵，剪辑|
-|22:00-23:00|解纪谜（做不出来……），熄灯，睡觉|
-|23:00-24:00|睡觉|
+|0:00-8:00|Buying toast, sleeping|
+|8:00-9:00|Waking up, washing up, making coffee, organizing parenting class notes|
+|9:00-10:00|Morning reading (1 Peter 4), pooping, attending Sisters' Meeting|
+|10:00-11:00|Attending Sisters' Meeting, playing MC for a bit|
+|11:00-12:00|Attending Sisters' Meeting, answering questions, playing MC for a bit|
+|12:00-13:00|Playing MC for a bit|
+|13:00-14:00|Playing MC for a bit|
+|14:00-15:00|Playing MC for a bit|
+|15:00-16:00|Playing MC for a bit|
+|16:00-17:00|(Ah, why did I play for so long, get to work!) eating smoked chicken, watching videos|
+|17:00-18:00|Watching videos, communicating editing tasks, logging into Baidu Netdisk with premium subscription|
+|18:00-19:00|Going to Starbucks, writing diaries, writing "wu", listening to an audiobook, downloading editing assets|
+|19:00-20:00|Watching Gabu, watching videos, editing|
+|20:00-21:00|Watching videos, going home|
+|21:00-22:00|Watching videos, eating midnight snack, editing|
+|22:00-23:00|Solving Ji's puzzles (couldn't solve them...), lights out, sleeping|
+|23:00-24:00|Sleeping|
 
-为什么我玩了那么久MC？？？为什么我看了那么久视频？？？
+Why did I play MC for so long??? Why did I watch videos for so long???

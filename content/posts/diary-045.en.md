@@ -1,13 +1,13 @@
 +++
-title = "寄居者的日记-45"
+title = "Sojourner's Diary - 45"
 date = 2025-02-28T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
-那么今天就是干正事的一天！
+Well, today is a day for proper business!
 
-上午在图书馆捣鼓了半天自己的美签，然后发现学校已经帮忙搞好了i-20（那我前几天在忙什么……）。在看到照片需求时非常有行动力地跑到照相馆花了33大洋拍摄了证件照并且打印出了原件。晚上和朋友线上交流了一下，然后填表填到12点（这破网站几分钟time out一次，血压上来了）
+In the morning, I messed around with my US visa application in the library for a long time, only to find out that the school had already prepared the I-20 for me (so what was I busy with over the past few days...). Seeing the photo requirements, I took immediate action, running to a photo studio to spend 33 RMB on passport photos and printed out the originals. In the evening, I chatted with a friend online, and then filled out the form until midnight (this crappy website times out every few minutes, making my blood pressure skyrocket).
 
-那就早睡了（真的早吗），明天还要去北大参加线下~~真人快打~~解谜活动呢，真不知道我是怎么有熬到现在的勇气的（
+Time for early sleep (is it really early though?). Tomorrow I have to go to Peking University for an offline ~~Mortal Kombat~~ puzzle-solving event, and I really don't know where I got the courage to stay up until now (

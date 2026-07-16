@@ -1,28 +1,29 @@
 +++
-title = "寄居者的日记-66"
+title = "Sojourner's Diary - 66"
 date = 2025-03-23T12:00:00-05:00
 draft = false
-categories = ["寄居者的日记"]
-tags = ["北京"]
+categories = ["Sojourner's Diary"]
+tags = ["Beijing"]
 +++
 
 | | |
 |---|---|
-|0:00-8:00|买牛奶（嗯，凌晨买的），催同学睡觉，睡觉|
-|8:00-9:00|起床，洗漱，泡咖啡，收拾书包，骑车赶到书店|
-|9:00-10:00|开会|
-|10:00-11:00|开会|
-|11:00-12:00|开会，小组讨论|
-|13:00-14:00|小组讨论，跟朋友聊天（时间管理，建议记录一天时间），吃炸酱面，听书，骑车赶到PBD|
-|14:00-15:00|父母课堂：教孩子，记笔记（安全感、自主性、责任感；想让孩子如何你就如何；人际关系少介入多讨论）|
-|15:00-16:00|父母课堂：做父亲，记笔记（精神保护者、情绪发泄处、生活供应者；朋友、属灵支持、榜样）|
-|16:00-17:00|父母课堂（我说这句话想要实现的目标是什么？我这句话说出来对方的感受如何？这句话怎么说对方能听得进去？）|
-|17:00-18:00|回家，拿快递，收拾房间，听书|
-|18:00-19:00|烤羊肉，和同学吃拼好饭（他提供面我提供肉）|
-|20:00-21:00|洗碗，玩会MC（启动！）|
-|21:00-22:00|玩会MC|
-|22:00-23:00|解纪谜（双首杀好耶！），洗漱，剃胡子（我胡子怎么这么长了），打扫厕所，打电话叫同学回家|
-|23:00-24:00|写日记，编辑日记动态，熄灯，睡觉|
+|0:00-8:00|Buying milk (yep, bought in the early morning), urging classmate to sleep, sleeping|
+|8:00-9:00|Waking up, washing up, making coffee, packing backpack, cycling to bookstore|
+|9:00-10:00|Meeting|
+|10:00-11:00|Meeting|
+|11:00-12:00|Meeting, group discussion|
+|13:00-14:00|Group discussion, chatting with a friend (time management, recommended recording the day's time), eating Zha Jiang Mian (noodles with soybean paste), listening to an audiobook, cycling to PBD|
+|14:00-15:00|Parenting Class: teaching children, taking notes (sense of security, autonomy, responsibility; act the way you want your children to be; intervene less in interpersonal relationships, discuss more)|
+|15:00-16:00|Parenting Class: being a father, taking notes (spiritual protector, emotional outlet, provider; friend, spiritual support, role model)|
+|16:00-17:00|Parenting Class (What goal do I want to achieve by saying this? How will the other person feel when I say this? How should I say this so they can listen to it?)|
+|17:00-18:00|Going home, picking up packages, cleaning the room, listening to an audiobook|
+|18:00-19:00|Roasting mutton, eating "Pin Hao Fan" (group-buying food delivery) with classmate (he provided noodles, I provided meat)|
+|20:00-21:00|Washing dishes, playing MC for a bit (start!)|
+|21:00-22:00|Playing MC for a bit|
+|22:00-23:00|Solving Ji's puzzles (Double first-blood, hooray!), washing up, shaving (how did my beard get so long), cleaning the toilet, calling classmate to go home|
+|23:00-24:00|Writing diaries, editing diary status/posts, lights out, sleeping|
 
-听从朋友的建议，将一天的时间表后知后觉地记录了下来。准确地说这是记录而非计划，但总之都是timeline就对了。
-那日记就顺理成章地免了吧（
+Following a friend's advice, I recorded the day's schedule in hindsight. To be precise, this is a log rather than a plan, but anyway, it's a timeline nonetheless.
+
+So, naturally, I can skip writing a diary entry (
